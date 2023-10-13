@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>01. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué regula la presente Ley Orgánica? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">01. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué regula la presente Ley Orgánica? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto y ámbito de aplicación.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los derechos y deberes de las fuerzas armadas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto y ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los derechos que corresponden y los deberes que son exigibles a los miembros de la guardia civil en desarrollo del régimen de los derechos y libertades públicas establecidos por la Constitución. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto y ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los derechos que corresponden y los deberes que son exigibles a los miembros de las fuerzas y cuerpos de seguridad en desarrollo del régimen de los derechos y libertades públicas establecidos por la Constitución. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto y ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna es correcta. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto y ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>02. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué derechos tienen garantizados los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">02. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué derechos tienen garantizados los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Artículo 5. Derecho a la intimidad y a la vida privada.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la intimidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Artículo 5. Derecho a la intimidad y a la vida privada.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la inviolabilidad del domicilio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Artículo 5. Derecho a la intimidad y a la vida privada.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al secreto de Comunicaciones. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Artículo 5. Derecho a la intimidad y a la vida privada.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Artículo 5. Derecho a la intimidad y a la vida privada.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>03. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Según el artículo 6, ¿Qué deben comunicar a sus superiores los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">03. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Según el artículo 6, ¿Qué deben comunicar a sus superiores los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 6. Libertad de desplazamiento y circulación.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los desplazamientos por territorio nacional. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 6. Libertad de desplazamiento y circulación.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los desplazamientos al extranjero. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 6. Libertad de desplazamiento y circulación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los desplazamientos fuera de la Unión Europeas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 6. Libertad de desplazamiento y circulación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">y son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 6. Libertad de desplazamiento y circulación.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>04. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué limites establece el régimen disciplinario de los guardias civiles en referencia a la libertad de expresión? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">04. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué limites establece el régimen disciplinario de los guardias civiles en referencia a la libertad de expresión? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 7. Libertad de expresión y de información.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El secreto profesional </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 7. Libertad de expresión y de información.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El respeto a la dignidad de las personas, instituciones y poderes públicos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 7. Libertad de expresión y de información.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">y son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 7. Libertad de expresión y de información.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El régimen disciplinario no establece límites en referencia a la libertad de expresión. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 7. Libertad de expresión y de información.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>05. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Los guardias civiles tienen derecho a asociarse libremente y a constituir asociaciones para la defensa de sus derechos e intereses… </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">05. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Los guardias civiles tienen derecho a asociarse libremente y a constituir asociaciones para la defensa de sus derechos e intereses… </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 9. Derecho de asociación.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Profesionales. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 9. Derecho de asociación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Económicos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 9. Derecho de asociación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Sociales. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 9. Derecho de asociación.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 9. Derecho de asociación.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>06. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cuáles de los siguientes derechos no podrán ejercer los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">06. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cuáles de los siguientes derechos no podrán ejercer los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 11, 12, 13.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Derecho de sindicación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 11, 12, 13.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Derecho de huelga. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 11, 12, 13.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">y son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 11, 12, 13.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Derecho de petición. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 11, 12, 13.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>07. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿De qué derechos no podrán disfrutar los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">07. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿De qué derechos no podrán disfrutar los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 10. Derecho de sufragio.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Del derecho de voto. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 10. Derecho de sufragio.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Del derecho de sufragio pasivo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 10. Derecho de sufragio.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Del derecho de petición. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 10. Derecho de sufragio.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las anteriores son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 10. Derecho de sufragio.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>08. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿De qué manera podrán ejercer el derecho de petición los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">08. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿De qué manera podrán ejercer el derecho de petición los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 13. Derecho de petición.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De forma individual. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 13. Derecho de petición.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De forma colectiva. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 13. Derecho de petición.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De forma directa. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 13. Derecho de petición.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores es correcta. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 13. Derecho de petición.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>09. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cuál es el deber de los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">09. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cuál es el deber de los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 15. Acatamiento a la Constitución y al Ordenamiento jurídico.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Respetar la Constitución y el resto del ordenamiento jurídico. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 15. Acatamiento a la Constitución y al Ordenamiento jurídico.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Proteger el libre ejercicio de los derechos y libertades. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 15. Acatamiento a la Constitución y al Ordenamiento jurídico.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Garantizar la seguridad ciudadana. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 15. Acatamiento a la Constitución y al Ordenamiento jurídico.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las anteriores son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 15. Acatamiento a la Constitución y al Ordenamiento jurídico.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>10. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué principios deberán adecuar en sus actuaciones profesionales los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué principios deberán adecuar en sus actuaciones profesionales los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 16. Jerarquía, disciplina y subordinación.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Jerarquía y subordinación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 16. Jerarquía, disciplina y subordinación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Jerarquía y obediencia. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 16. Jerarquía, disciplina y subordinación.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Jerarquía, disciplina y subordinación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 16. Jerarquía, disciplina y subordinación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Jerarquía, obediencia y subordinación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 16. Jerarquía, disciplina y subordinación.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>11. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cómo deberán actuar los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">11. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cómo deberán actuar los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 18. Neutralidad e imparcialidad.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con absoluta naturalidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 18. Neutralidad e imparcialidad.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con absoluta neutralidad política y sindical. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 18. Neutralidad e imparcialidad.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con absoluta imparcialidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 18. Neutralidad e imparcialidad.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con absoluta neutralidad social y sindical. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 18. Neutralidad e imparcialidad.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>12. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿En qué casos los guardias civiles se presentarán en su dependencia de destino o en la más próxima y se pondrán a disposición inmediata de las autoridades correspondientes? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">12. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿En qué casos los guardias civiles se presentarán en su dependencia de destino o en la más próxima y se pondrán a disposición inmediata de las autoridades correspondientes? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Deber de cooperación en caso de catástrofe.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el estado de alarma. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Deber de cooperación en caso de catástrofe.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el estado de sitio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Deber de cooperación en caso de catástrofe.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el estado de excepción. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Deber de cooperación en caso de catástrofe.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las anteriores son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Deber de cooperación en caso de catástrofe.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>13. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué derechos y deberes tendrá todo guardia civil? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">13. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué derechos y deberes tendrá todo guardia civil? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 24. Defensa de España, Artículo 25. Uso del uniforme y de armas.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Derecho y deber de defender España. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 24. Defensa de España, Artículo 25. Uso del uniforme y de armas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Derecho y deber de utilizar el uniforme reglamentario. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 24. Defensa de España, Artículo 25. Uso del uniforme y de armas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Deber de portar armas para la prestación del servicio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 24. Defensa de España, Artículo 25. Uso del uniforme y de armas.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las anteriores son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 24. Defensa de España, Artículo 25. Uso del uniforme y de armas.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>14. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué principios entra en juego en cuanto al desarrollo de su carrera profesional especialmente en régimen de ascensos, destinos, condecoraciones y recompensas? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">14. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Qué principios entra en juego en cuanto al desarrollo de su carrera profesional especialmente en régimen de ascensos, destinos, condecoraciones y recompensas? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 27. Carrera profesional.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principio de igualdad y mérito. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 27. Carrera profesional.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principio de mérito y capacidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 27. Carrera profesional.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principio de igualdad, mérito y capacidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 27. Carrera profesional.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principio de igualdad y capacidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 27. Carrera profesional.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>15. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A que tendrán derecho de disfrutar los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">15. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A que tendrán derecho de disfrutar los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 29. Vacaciones, permisos y licencias.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Vacaciones. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 29. Vacaciones, permisos y licencias.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Permisos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 29. Vacaciones, permisos y licencias.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Licencias. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 29. Vacaciones, permisos y licencias.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las anteriores son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 29. Vacaciones, permisos y licencias.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>16. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Quién promoverá las medidas necesarias para garantizar la seguridad y salud del personal de la Institución al utilizar los medios y equipos puestos a su disposición? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">16. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Quién promoverá las medidas necesarias para garantizar la seguridad y salud del personal de la Institución al utilizar los medios y equipos puestos a su disposición? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 31. Prevención de riesgos laborales y protección de la salud.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La AGE. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 31. Prevención de riesgos laborales y protección de la salud.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La administración. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 31. Prevención de riesgos laborales y protección de la salud.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La comandancia. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 31. Prevención de riesgos laborales y protección de la salud.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El jefe de Estado. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 31. Prevención de riesgos laborales y protección de la salud.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>17. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué régimen tienen derecho de disfrutar todos los guardias civiles en cuanto a la asistencia sanitaria y prestaciones en caso de enfermedad e incapacidad? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">17. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué régimen tienen derecho de disfrutar todos los guardias civiles en cuanto a la asistencia sanitaria y prestaciones en caso de enfermedad e incapacidad? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 32. Protección social
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Régimen de clases pasivas del Estado. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 32. Protección social
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Régimen de protección social. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 32. Protección social
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Régimen de protección civil </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 32. Protección social
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Régimen de personal. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 32. Protección social
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>18. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿En qué ámbito podrá presentar quejas relativas al régimen de personal, condiciones y calidad de vida en las unidades, siempre que no hubiese presentado recurso sobre el mismo asunto? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">18. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿En qué ámbito podrá presentar quejas relativas al régimen de personal, condiciones y calidad de vida en las unidades, siempre que no hubiese presentado recurso sobre el mismo asunto? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 33. Presentación de quejas.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De su unidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 33. Presentación de quejas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De su centro. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 33. Presentación de quejas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De su organismo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 33. Presentación de quejas.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 33. Presentación de quejas.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>19. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Por quién serán informados los guardias civiles al incorporarse a su destino de los fines, organización y funcionamiento de la unidad además de las funciones, deberes y responsabilidades que les incumben? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">19. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Por quién serán informados los guardias civiles al incorporarse a su destino de los fines, organización y funcionamiento de la unidad además de las funciones, deberes y responsabilidades que les incumben? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 34. Derecho a ser informado de sus funciones, deberes y responsabilidades.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por el Sargento. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 34. Derecho a ser informado de sus funciones, deberes y responsabilidades.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por los compañeros. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 34. Derecho a ser informado de sus funciones, deberes y responsabilidades.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por sus jefes inmediatos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 34. Derecho a ser informado de sus funciones, deberes y responsabilidades.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por el Cabo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 34. Derecho a ser informado de sus funciones, deberes y responsabilidades.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>20. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué irá acorde la remuneración a la que tienen derecho los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">20. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué irá acorde la remuneración a la que tienen derecho los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 35. Retribuciones.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con su empleo y destino. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 35. Retribuciones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con su puesto de trabajo y su formación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 35. Retribuciones.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con su empleo, destino y puesto de trabajo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 35. Retribuciones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con su dedicación y destino. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 35. Retribuciones.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>21. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿En qué casos podrán tener carácter lucrativo las asociaciones profesionales? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">21. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿En qué casos podrán tener carácter lucrativo las asociaciones profesionales? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 36. Ámbito, duración y finalidad de la asociación.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En cualquier caso. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 36. Ámbito, duración y finalidad de la asociación.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En ningún caso. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 36. Ámbito, duración y finalidad de la asociación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cuando así venga reflejado en sus estatutos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 36. Ámbito, duración y finalidad de la asociación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cuando así sea autorizado por la Dirección General de la Guardia Civil. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 36. Ámbito, duración y finalidad de la asociación.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>22. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cómo podrán financiarse las asociaciones profesionales? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">22. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cómo podrán financiarse las asociaciones profesionales? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A través de las cuotas de sus afiliados. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A través de recursos económicos previstos en sus estatutos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A través de donaciones privadas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">'a)' y 'b)' son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>23. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué principios estará sometido el régimen económico de las asociaciones profesionales? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">23. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué principios estará sometido el régimen económico de las asociaciones profesionales? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principios de transparencia y publicidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principios de transparencia y solidaridad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principios de honestidad y publicidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Principio de transparencia. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 37. Régimen económico.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>24. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué asociaciones podrán afiliarse los guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">24. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿A qué asociaciones podrán afiliarse los guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 39. Composición.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A asociaciones profesionales diversas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 39. Composición.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A asociaciones profesionales formadas exclusivamente por miembros del propio cuerpo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 39. Composición.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A ningún tipo de asociación profesional. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 39. Composición.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores es correcta. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 39. Composición.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>25. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cuándo se realizaran las reuniones de las asociaciones profesionales de guardias civiles? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">25. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Cuándo se realizaran las reuniones de las asociaciones profesionales de guardias civiles? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fuera de horas de trabajo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Sin perturbar la marcha de los servicios. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">y son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En horario laboral, sin perturbar la marcha de los servicios. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>26. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. La autorización convocar la reunión deberá solicitarse por escrito y con antelación. ¿Cuál es la antelación mínima? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">26. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. La autorización convocar la reunión deberá solicitarse por escrito y con antelación. ¿Cuál es la antelación mínima? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 24h. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 48h. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 72h. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 96h. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>27. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Cuando la autoridad competente no formule objeciones se podrá celebrar la reunión. ¿Con qué antelación tiene que avisar dicha autoridad? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">27. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Cuando la autoridad competente no formule objeciones se podrá celebrar la reunión. ¿Con qué antelación tiene que avisar dicha autoridad? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Antes de las 12h anteriores a la reunión. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Antes de las 24h anteriores a la reunión. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Antes de las 36h anteriores a la reunión. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores es correcta. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 47. Otros derechos.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>28. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Quién ostenta la presidencia del Consejo de la Guardia Civil? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">28. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿Quién ostenta la presidencia del Consejo de la Guardia Civil? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 52. Consejo de la Guardia Civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Director General de la Guardia Civil. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 52. Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministro del Interior. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 52. Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministro de Exterior. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 52. Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministro de Defensa. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 52. Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>29. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿La duración del mandato de los representantes del Consejo, de cuánto será? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">29. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. ¿La duración del mandato de los representantes del Consejo, de cuánto será? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Elección a miembros del Consejo.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 3 años pudiendo ser reelegidos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Elección a miembros del Consejo.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 4 años sin poder ser reelegidos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Elección a miembros del Consejo.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 4 años pudiendo ser reelegidos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Elección a miembros del Consejo.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 5 años pudiendo ser reelegidos.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Elección a miembros del Consejo.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>30. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Derechos de los miembros del Consejo de la Guardia Civil. Señale la opción incorrecta.</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">30. Fuerzas y Cuerpos de Seguridad. Ley Orgánica 11/2007. Derechos de los miembros del Consejo de la Guardia Civil. Señale la opción incorrecta.</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 57. Derechos de los miembros del Consejo de la Guardia Civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Libre circulación por las dependencias de su unidad electoral, sin que entorpezca el normal funcionamiento de las correspondientes unidades</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 57. Derechos de los miembros del Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Libre distribución de publicaciones referidas a cuestiones profesionales o asociativas</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 57. Derechos de los miembros del Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Acumulación en uno de los miembros de la candidatura de los créditos de tiempo, horas mensuales y permisos, previa comunicación al Ministerio del Interior.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 57. Derechos de los miembros del Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No discriminación en su promoción profesional en razón del desempeño de su representación</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 57. Derechos de los miembros del Consejo de la Guardia Civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question></quiz>

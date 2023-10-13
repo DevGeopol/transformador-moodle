@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>1. Ley de Enjuiciamiento Criminal. Conforme al artículo 8 de la LECrim, la jurisdicción criminal es siempre_____________ (Señale la CORRECTA):</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1. Ley de Enjuiciamiento Criminal. Conforme al artículo 8 de la LECrim, la jurisdicción criminal es siempre_____________ (Señale la CORRECTA):</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Imprescriptible</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Improrrogable.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Inviolable.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Inalienable.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>2. Ley de Enjuiciamiento Criminal. ¿A quién corresponde el conocimiento de las causas y juicios criminales, con excepción de los casos reservados por las leyes al Senado, a los Tribunales de Guerra y Marina y a las autoridades administrativas o de policía?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">2. Ley de Enjuiciamiento Criminal. ¿A quién corresponde el conocimiento de las causas y juicios criminales, con excepción de los casos reservados por las leyes al Senado, a los Tribunales de Guerra y Marina y a las autoridades administrativas o de policía?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción ordinaria.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción aforada.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción especial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción militar.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>3. Ley de Enjuiciamiento Criminal. El conocimiento de las causas por delitos en que aparezcan a la vez culpables personas sujetas a la jurisdicción ordinaria y otras aforadas corresponderá…: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">3. Ley de Enjuiciamiento Criminal. El conocimiento de las causas por delitos en que aparezcan a la vez culpables personas sujetas a la jurisdicción ordinaria y otras aforadas corresponderá…: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción ordinaria en todo caso.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción ordinaria salvo las excepciones consignadas expresamente en las leyes respecto a la competencia de otra jurisdicción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción ordinaria salvo las excepciones consignadas expresamente en las leyes o reglamentos respecto a la competencia de otra jurisdicción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la jurisdicción ordinaria o a la jurisdicción, conforme a lo establecido en las leyes.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>4. Ley de Enjuiciamiento Criminal. La jurisdicción ordinaria será siempre competente para prevenir las causas por delitos que cometan los aforados. Esta competencia se limitará a:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">4. Ley de Enjuiciamiento Criminal. La jurisdicción ordinaria será siempre competente para prevenir las causas por delitos que cometan los aforados. Esta competencia se limitará a:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Enjuiciamiento y fallo de la causa criminal.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al enjuiciamiento y fallo de la causa criminal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Instruir las primeras diligencias, concluidas las cuales la jurisdicción ordinaria remitirá las actuaciones al Juez o Tribunal que deba conocer de la causa con arreglo a las Leyes.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las respuestas es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>5. Ley de Enjuiciamiento Criminal. En la instrucción de delitos cometidos a través de internet, del teléfono o de cualquier otra tecnología de la información o de la comunicación, el juzgado podrá acordar, como primeras diligencias, de oficio o a instancia de parte, las medidas cautelares consistentes en:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">5. Ley de Enjuiciamiento Criminal. En la instrucción de delitos cometidos a través de internet, del teléfono o de cualquier otra tecnología de la información o de la comunicación, el juzgado podrá acordar, como primeras diligencias, de oficio o a instancia de parte, las medidas cautelares consistentes en:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La retirada provisional de contenidos lícitos.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La interrupción provisional o definitiva de los servicios que ofrezcan contenidos ilícitos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al bloqueo provisional de los servicios que ofrezcan contenidos ilícitos cuando radiquen en el extranjero.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las respuestas y son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>6. Ley de Enjuiciamiento Criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes para el conocimiento y fallo de los juicios por delito leve:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">6. Ley de Enjuiciamiento Criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes para el conocimiento y fallo de los juicios por delito leve:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez de Instrucción, salvo que la competencia corresponda al Juez de Violencia sobre la Mujer.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez de Instrucción, para todas las causas por delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez de Instrucción instruye el delito, quedando el conocimiento y fallo del delito al Juez de lo Penal o a la Audiencia Provincial, dependiendo de la gravedad de la pena asociada al delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez Central de Instrucción.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>7. Ley de Enjuiciamiento Criminal. ¿Quién será competente para conocer de la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">7. Ley de Enjuiciamiento Criminal. ¿Quién será competente para conocer de la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juzgado de Violencia de la Mujer.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juzgado de lo Penal.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>8. Ley de Enjuiciamiento Criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso: (señale la CORRECTA):</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">8. Ley de Enjuiciamiento Criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso: (señale la CORRECTA):</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para la instrucción y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para el conocimiento y fallo de las causas por delitos a los que la Ley señale cualquiera otra pena de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de éstas exceda de diez años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración superior a cinco años.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>9. Ley de Enjuiciamiento Criminal. Cuando no conste el lugar en que se ha cometido el delito, ni se han encontrado pruebas materiales de su comisión, pero sí se ha producido detención del presunto reo, con arreglo a la prioridad establecida por la Ley, ¿de qué término municipal, partido o circunscripción serán los Jueces competentes para conocer de la causa en primer lugar?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">9. Ley de Enjuiciamiento Criminal. Cuando no conste el lugar en que se ha cometido el delito, ni se han encontrado pruebas materiales de su comisión, pero sí se ha producido detención del presunto reo, con arreglo a la prioridad establecida por la Ley, ¿de qué término municipal, partido o circunscripción serán los Jueces competentes para conocer de la causa en primer lugar?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Del de cualquiera que hubiese tenido noticia del delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Del de la residencia del reo presunto.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De aquel en que el presunto reo haya sido aprehendido.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El del término municipal, partido o circunscripción en que se hayan descubierto pruebas materiales del delito.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>10. Ley de Enjuiciamiento Criminal. Son jueces y tribunales competentes, por su orden, para conocer de las causas por delitos conexos…:  (Señale el orden CORRECTO): </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10. Ley de Enjuiciamiento Criminal. Son jueces y tribunales competentes, por su orden, para conocer de las causas por delitos conexos…:  (Señale el orden CORRECTO): </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Primero, el del territorio en que se haya cometido el delito a que esté señalada pena menor.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Segundo, el del territorio en que se haya cometido el delito a que esté señalada pena mayor.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Segundo, el que primero comenzare la causa en el caso de que a los delitos esté señalada igual pena.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tercero, el que la audiencia de lo criminal o el tribunal supremo en sus casos respectivos designen, cuando conste cual causa comenzó primero.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>11. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">11. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los cónyuges pueden ejercitar la acción penal entre sí, salvo por delito hacia la persona del uno cometido por el otro o la de sus hijos, y por el delito de bigamia, que no podrá hacerlo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las respuestas es correcta.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El que hubiera sido condenado una vez por sentencia firme como reo del delito de denuncia o querella calumniosas podrá ejercitar la acción penal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez no puede ejercitar la acción penal en ningún caso.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>12. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta INCORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">12. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta INCORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En los delitos perseguibles a instancias de la persona agraviada también podrá denunciar el Ministerio Fiscal si aquélla fuere menor de edad, persona con discapacidad necesitada de especial protección o desvalida.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el caso de muerte o desaparición de la víctima a consecuencia del delito, la acción penal podrá ser ejercida por sus parientes en línea recta o colateral dentro del segundo grado que se encontraren bajo su guarda, personas sujetas a su tutela o curatela o que se encontraren bajo su acogimiento familiar.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Promovido juicio criminal en averiguación de un delito no podrá seguirse pleito sobre el mismo hecho; suspendiéndole si le hubiese, en el estado en que se hallare, hasta que recaiga sentencia firme en la causa criminal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La acción penal por delito que dé lugar al procedimiento de oficio no se extingue por la renuncia de la persona ofendida.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>13. Ley de Enjuiciamiento Criminal. Del derecho a la traducción e interpretación. Deberán ser traducidos, en todo caso:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">13. Ley de Enjuiciamiento Criminal. Del derecho a la traducción e interpretación. Deberán ser traducidos, en todo caso:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las resoluciones que acuerden la prisión del imputado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El escrito de acusación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La sentencia.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las respuestas son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>14. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta INCORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">14. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta INCORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La renuncia de la acción civil o de la penal renunciable no perjudicará más que al renunciante; pudiendo continuar el ejercicio de la penal en el estado en que se halle la causa, o ejercitarla nuevamente los demás a quienes también correspondiere.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las víctimas del delito que no hubieran renunciado a su derecho podrán ejercer la acción penal en cualquier momento, si bien ello no permitirá retrotraer ni reiterar las actuaciones ya practicadas antes de su personación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La acción penal también podrá ser ejercitada por las asociaciones de víctimas y por las personas jurídicas a las que la ley reconoce legitimación para defender los derechos de las víctimas, siempre que ello fuera autorizado por la víctima del delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La sentencia firme absolutoria dictada en el pleito promovido por el ejercicio de la acción civil, no será obstáculo para el ejercicio de la acción penal correspondiente.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>15. Ley de Enjuiciamiento Criminal. Del derecho a la defensa y a la asistencia jurídica gratuita. Las comunicaciones entre el investigado o encausado y su abogado:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">15. Ley de Enjuiciamiento Criminal. Del derecho a la defensa y a la asistencia jurídica gratuita. Las comunicaciones entre el investigado o encausado y su abogado:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tendrán carácter reservado.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Si estas conversaciones hubieran sido captadas durante la ejecución de alguna de las diligencias, el juez ordenará la eliminación de la grabación, dejando constancia de estas circunstancias en las actuaciones</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tienen carácter confidencial en todo caso y nunca se podrá revelar el contenido de las mismas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las respuestas b)y c)son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>16. Ley de Enjuiciamiento Criminal. Del derecho a la traducción e interpretación. La renuncia a los derechos a que se refiere el artículo 123: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">16. Ley de Enjuiciamiento Criminal. Del derecho a la traducción e interpretación. La renuncia a los derechos a que se refiere el artículo 123: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Deberá ser expresa y libre.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Solamente será válida si se produce antes de que el imputado o acusado haya recibido un asesoramiento jurídico suficiente y accesible que le permita tener conocimiento de las consecuencias de su renuncia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No se puede renunciar al derecho a la interpretación de todas las actuaciones del juicio oral.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las respuestas a)y c) son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>17. Ley de Enjuiciamiento Criminal. De la denuncia. Los que por razón de sus cargos, profesiones u oficios tuvieren noticia de algún delito público, estarán obligados a denunciarlo inmediatamente al (señale la opción INCORRECTA): </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">17. Ley de Enjuiciamiento Criminal. De la denuncia. Los que por razón de sus cargos, profesiones u oficios tuvieren noticia de algún delito público, estarán obligados a denunciarlo inmediatamente al (señale la opción INCORRECTA): </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ministerio Fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Juez de Instrucción.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Funcionario fiscal más próximo al sitio en que se hallare.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Funcionario de policía más próximo al sitio si se tratare de un delito flagrante.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>18. Ley de Enjuiciamiento Criminal. De la denuncia. ¿Quién no puede autorizar la entrega o circulación vigilada de drogas tóxicas?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">18. Ley de Enjuiciamiento Criminal. De la denuncia. ¿Quién no puede autorizar la entrega o circulación vigilada de drogas tóxicas?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio Fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez de Instrucción competente.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Secretario de Estado de Seguridad.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Jefes de las Unidades Orgánicas de Policía Judicial, centrales o de ámbito provincial.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>19. Ley de Enjuiciamiento Criminal. De la denuncia. Señale la INCORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">19. Ley de Enjuiciamiento Criminal. De la denuncia. Señale la INCORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El denunciador no contraerá en ningún caso otra responsabilidad que la correspondiente a los delitos que hubiese cometido por medio de la denuncia, o con su ocasión.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se le entregará resguardo de haber formalizado la denuncia al denunciador en todo caso.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez, Tribunal, autoridad o funcionario que recibieren una denuncia verbal o escrita harán constar por la cédula personal o por otros medios que reputen suficientes, la identidad de la persona del denunciador.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La denuncia que se hiciere por escrito deberá estar firmada por el denunciador; y si no pudiere hacerlo, por otra persona a su ruego.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>20. Ley de Enjuiciamiento Criminal. De la querella. Señale la CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">20. Ley de Enjuiciamiento Criminal. De la querella. Señale la CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todos los ciudadanos españoles pueden querellarse, ejercitando la acción popular, siempre que hayan sido ofendidos por el delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los extranjeros pueden querellarse en cualquier caso.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El particular que intentare querellarse por cualquier delito podrá acudir al Juez de instrucción que estuviere más próximo o a cualquier funcionario de policía, a fin de que se practiquen las primeras diligencias necesarias para hacer constar la verdad de los hechos y para detener al delincuente.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se extenderá en papel de oficio, y en ella se expresará, entre otras cosas, la firma del querellante o la de otra persona a su ruego si no supiere o no pudiere firmar cuando el Procurador no tuviese poder especial para formular la querella.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>21. Ley de Enjuiciamiento Criminal. La identidad supuesta del agente encubierto será otorgada por: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">21. Ley de Enjuiciamiento Criminal. La identidad supuesta del agente encubierto será otorgada por: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio Fiscal, por plazo de 6 meses prorrogables por periodos de igual duración.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Justicia, por plazo de 3 meses prorrogables por periodos de igual o inferior duración.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior, por plazo de 6 meses prorrogables por periodos de igual o inferior duración.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las respuestas es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>22. Ley de Enjuiciamiento Criminal. Constituirán la Policía judicial y serán auxiliares de los Jueces y Tribunales competentes en materia penal y del Ministerio fiscal, quedando obligados a seguir las instrucciones que de aquellas autoridades reciban a efectos de la investigación de los delitos y persecución de los delincuentes (señale la opción INCORRECTA): </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">22. Ley de Enjuiciamiento Criminal. Constituirán la Policía judicial y serán auxiliares de los Jueces y Tribunales competentes en materia penal y del Ministerio fiscal, quedando obligados a seguir las instrucciones que de aquellas autoridades reciban a efectos de la investigación de los delitos y persecución de los delincuentes (señale la opción INCORRECTA): </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El personal colaborador y auxiliar de la Administración de Justicia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los funcionarios del Cuerpo especial de Prisiones.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Serenos, Celadores y cualesquiera otros Agentes municipales de policía urbana o rural.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Alcaldes, Tenientes de Alcalde y Alcaldes de barrio.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>23. Ley de Enjuiciamiento Criminal. Cuando no exista autor conocido del delito, la Policía Judicial conservará el atestado a disposición del Ministerio Fiscal y de la autoridad judicial, sin enviárselo, salvo que concurra alguna de las siguientes circunstancias:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">23. Ley de Enjuiciamiento Criminal. Cuando no exista autor conocido del delito, la Policía Judicial conservará el atestado a disposición del Ministerio Fiscal y de la autoridad judicial, sin enviárselo, salvo que concurra alguna de las siguientes circunstancias:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Que se trate de un delito contra el patrimonio.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Que se practique cualquier diligencia después de transcurridas setenta y dos horas desde la detención y éstas hayan tenido algún resultado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Que el Ministerio Fiscal o el secretario judicial soliciten la remisión.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las respuestas anteriores es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>24. Ley de Enjuiciamiento Criminal. Del sumario. Señale la opción CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">24. Ley de Enjuiciamiento Criminal. Del sumario. Señale la opción CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las diligencias del sumario serán secretas y no tendrán carácter público hasta que se abra el juicio oral.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En cualquier delito, podrá el Juez de Instrucción, a propuesta del Ministerio Fiscal, de la acusación o de oficio, declararlo, mediante sentencia, total o parcialmente secreto para todas las partes personadas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El secreto del sumario deberá alzarse necesariamente con al menos un mes de antelación a la conclusión del sumario.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Jueces de instrucción formarán los sumarios de los delitos públicos bajo la inspección directa del Fiscal del Tribunal competente.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>25. Ley de Enjuiciamiento Criminal. ¿Quién ordenará recoger en los primeros momentos las armas, instrumentos o efectos de cualquiera clase que puedan tener relación con el delito y se hallen en el lugar en que éste se cometió, o en sus inmediaciones, o en poder del reo, o en otra parte conocida?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">25. Ley de Enjuiciamiento Criminal. ¿Quién ordenará recoger en los primeros momentos las armas, instrumentos o efectos de cualquiera clase que puedan tener relación con el delito y se hallen en el lugar en que éste se cometió, o en sus inmediaciones, o en poder del reo, o en otra parte conocida?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez o Tribunal que conozca la causa.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez instructor.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio Fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El secretario judicial.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>26. Ley de Enjuiciamiento Criminal. De la destrucción y la realización anticipada de los efectos judiciales. La realización de los efectos judiciales podrá consistir en (señale la opción CORRECTA):</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">26. Ley de Enjuiciamiento Criminal. De la destrucción y la realización anticipada de los efectos judiciales. La realización de los efectos judiciales podrá consistir en (señale la opción CORRECTA):</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La entrega a empresas, asociaciones o a las Administraciones públicas.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La realización por medio de persona o entidad especializada.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La subasta pública o privada.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las opciones anteriores son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>27. Ley de Enjuiciamiento Criminal. De la identidad del delincuente y de sus circunstancias personales. Cuando fueren varios los que hubieren de reconocer a una persona:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">27. Ley de Enjuiciamiento Criminal. De la identidad del delincuente y de sus circunstancias personales. Cuando fueren varios los que hubieren de reconocer a una persona:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Deberá practicarse separadamente con cada uno de ellos, sin que puedan comunicarse entre sí hasta que se haya efectuado el último reconocimiento.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Podrá hacerse el reconocimiento de todos en un solo acto.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Podrá practicarse conjuntamente con cada uno de ellos, sin que puedan comunicarse entre sí hasta que se haya efectuado el último reconocimiento.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Deberá practicarse separadamente con cada uno de ellos, pudiendo comunicarse entre sí durante el reconocimiento.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>28. Ley de Enjuiciamiento Criminal. Firme un auto de procesamiento por delito cometido por persona integrada o relacionada con bandas armadas o individuos terroristas o rebeldes, el procesado que estuviere ostentando función o cargo público:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">28. Ley de Enjuiciamiento Criminal. Firme un auto de procesamiento por delito cometido por persona integrada o relacionada con bandas armadas o individuos terroristas o rebeldes, el procesado que estuviere ostentando función o cargo público:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Quedará automáticamente inhabilitado en el ejercicio del mismo, siempre que se haya decretado la prisión provisional, mientras dure la situación de prisión.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Quedará automáticamente separado del servicio.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Quedará automáticamente considerado en situación de servicios especiales mientras, siempre que se haya decretado la prisión provisional, mientras dure la situación de prisión.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Quedará automáticamente suspendido en el ejercicio del mismo mientras, siempre que se haya decretado la prisión provisional, mientras dure la situación de prisión.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>29. Ley de Enjuiciamiento Criminal. De las declaraciones de los procesados. Si el procesado estuviere detenido (señale la opción CORRECTA): </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">29. Ley de Enjuiciamiento Criminal. De las declaraciones de los procesados. Si el procesado estuviere detenido (señale la opción CORRECTA): </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se le recibirá la primera declaración dentro del término de 72 horas.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se le recibirá la primera declaración dentro del término de 24 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se le recibirá la primera declaración dentro del término de 24 horas, no pudiendo ser prorrogado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se le recibirá la primera declaración dentro del término de 24 horas, pudiendo prorrogarse por otras 24 horas, si mediare causa grave, la cual se expresará en la providencia en que se acordase la prórroga.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>30. Ley de Enjuiciamiento Criminal. De la declaración de los testigos (señale la opción CORRECTA): </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">30. Ley de Enjuiciamiento Criminal. De la declaración de los testigos (señale la opción CORRECTA): </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Presidente del Consejo General del Poder Judicial está exento de concurrir al llamamiento del Juez, pero no de declarar, pudiendo informar por escrito sobre los hechos de que tengan conocimiento por razón de su cargo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Estarán exentas de declarar, pudiendo hacerlo por escrito, el Rey, la Reina, sus respectivos consortes, el Príncipe heredero y los Regentes del Reino.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Fiscal General del Estado está exento de concurrir al llamamiento del Juez, pero no de declarar, pudiendo hacerlo en su despacho oficial o en la sede del órgano del que sean miembros</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las respuestas anteriores son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>31. Ley de Enjuiciamiento Criminal. El particular que detuviere a una persona, deberá ponerla en libertad o entregarla al juez más próximo al lugar en que hubiere hecho la detención dentro de las ______________horas siguientes al acto de la misma.</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">31. Ley de Enjuiciamiento Criminal. El particular que detuviere a una persona, deberá ponerla en libertad o entregarla al juez más próximo al lugar en que hubiere hecho la detención dentro de las ______________horas siguientes al acto de la misma.</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">24 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">48 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">72 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">12 horas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>32. Ley de Enjuiciamiento Criminal. Se reputarán edificios o lugares públicos: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">32. Ley de Enjuiciamiento Criminal. Se reputarán edificios o lugares públicos: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cualesquiera otros edificios o lugares cerrados que constituyan domicilio de un particular.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los buques nacionales mercantes.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Palacios Reales, estén o no habitados por el Monarca al tiempo de la entrada o registro.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los que estuvieren destinados a cualquier establecimiento de reunión o recreo, fueren o no lícitos.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>33. Ley Reguladora del Habeas Corpus. ¿A qué principio recogido en la exposición de motivos de esta ley hace referencia esta frase 'evitar dilaciones indebidas y permitir el acceso de todos los ciudadanos'</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">33. Ley Reguladora del Habeas Corpus. ¿A qué principio recogido en la exposición de motivos de esta ley hace referencia esta frase 'evitar dilaciones indebidas y permitir el acceso de todos los ciudadanos'</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Sencillez.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Agilidad.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Universalidad.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Generalidad.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>34. Ley Reguladora del Habeas Corpus. Es competente para conocer la solicitud de «Habeas Corpus» el Juez de Instrucción:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">34. Ley Reguladora del Habeas Corpus. Es competente para conocer la solicitud de «Habeas Corpus» el Juez de Instrucción:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Del lugar en que se encuentre la persona privada de libertad; si no constare, el del lugar en que se produzca la detención, y, en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias sobre el paradero del detenido.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el caso de bandas armadas o elementos terroristas, el procedimiento deberá seguirse ante el Juez Central de Instrucción correspondiente.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el ámbito de la Jurisdicción Militar será competente el Juez Togado Militar de Instrucción constituido en la cabecera de la circunscripción jurisdiccional en la que se efectuó la detención</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las respuestas anteriores son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>35. Ley Reguladora del Habeas Corpus. Señale la respuesta CORRECTA en: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">35. Ley Reguladora del Habeas Corpus. Señale la respuesta CORRECTA en: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Conforme a la Ley Orgánica 6/84, podrá instar el procedimiento el abogado del detenido.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El procedimiento se iniciará, salvo cuando se incoe por comparecencia, mediante escrito, no siendo preceptiva la intervención de Abogado ni de Procurador.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Si, finalizadas las actuaciones, el juez estima que concurren alguna de las circunstancias que determinan que la detención es ilegal podrá acordar que la persona privada de libertad sea puesta inmediatamente a disposición judicial, si ya hubiese transcurrido el plazo legalmente establecido para su detención.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La autoridad gubernativa estará obligada a poner en conocimiento del Juez competente la solicitud de «Habeas Corpus» en el plazo máximo de 24 horas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>36. Ley Reguladora del Habeas Corpus. ¿En qué plazo los Jueces practicarán todas las actuaciones a que se refiere la ley y dictarán la resolución que proceda?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">36. Ley Reguladora del Habeas Corpus. ¿En qué plazo los Jueces practicarán todas las actuaciones a que se refiere la ley y dictarán la resolución que proceda?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Inmediatamente.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el plazo de 24 horas desde la detención.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el plazo de 72 horas desde la detención.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las opciones es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>37. Ley Orgánica del Poder Judicial. De los mencionados a continuación, ¿Quién NO tendrá competencia alguna en la fase de instrucción? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">37. Ley Orgánica del Poder Judicial. De los mencionados a continuación, ¿Quién NO tendrá competencia alguna en la fase de instrucción? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Juzgado de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Juzgado de Violencia sobre la Mujer.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Juzgado Central de Instrucción.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Juzgado de lo Penal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>38. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. Con relación a los Juzgados de Paz, señale la respuesta CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">38. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. Con relación a los Juzgados de Paz, señale la respuesta CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En cada municipio donde exista Juzgado de Primera Instancia e Instrucción, y con jurisdicción en el término correspondiente, habrá un Juzgado de Paz.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Jueces de Paz y sus sustitutos serán nombrados por el alcalde del Ayuntamiento.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Jueces de Paz serán nombrados por un periodo de cinco años.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Jueces de Paz prestarán juramento ante el Juez de Primera Instancia e Instrucción y tomarán posesión ante quien se hallara ejerciendo la jurisdicción.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>39. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los delitos atribuidos a la Fiscalía Europea en los artículos 22 y 25 del Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, cuando aquella hubiera decidido ejercer su competencia?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">39. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los delitos atribuidos a la Fiscalía Europea en los artículos 22 y 25 del Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, cuando aquella hubiera decidido ejercer su competencia?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juzgado Central de lo Penal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juzgado Central de Instrucción.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal de la Audiencia Nacional.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal del Tribunal Supremo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>40. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. De las citadas a continuación, señale cuál NO es una competencia de la Sala de lo Penal del Tribunal Supremo:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">40. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. De las citadas a continuación, señale cuál NO es una competencia de la Sala de lo Penal del Tribunal Supremo:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De los recursos de casación.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Delitos cometidos fuera del territorio nacional, cuando conforme a las leyes o a los tratados corresponda su enjuiciamiento a los Tribunales españoles.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las respuestas son competencias del Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>41. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los recursos de apelación que establezca la ley contra las resoluciones del Juzgado Central de lo Penal?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">41. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los recursos de apelación que establezca la ley contra las resoluciones del Juzgado Central de lo Penal?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal del Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de Apelación del Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal de la Audiencia Nacional.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de Apelación de la Audiencia Nacional.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>42. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. Señale la respuesta CORRECTA:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">42. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. Señale la respuesta CORRECTA:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Presidente del Tribunal Superior de Justicia tiene la consideración de Magistrado del Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Presidente de la Audiencia Nacional, que tendrá la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas sus Salas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Presidente del Tribunal Superior de Justicia preside la Sala de lo Civil y Penal de dicho tribunal.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las respuestas son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>43. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los incidentes de recusación del Presidente del Tribunal Supremo, o de los Presidentes de Sala, o de más de dos Magistrados de una Sala?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">43. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los incidentes de recusación del Presidente del Tribunal Supremo, o de los Presidentes de Sala, o de más de dos Magistrados de una Sala?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal de la Audiencia Nacional.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal del Tribunal Supremo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>44. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de la instrucción y enjuiciamiento de las causas contra el presidente del Consejo de Estado?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">44. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de la instrucción y enjuiciamiento de las causas contra el presidente del Consejo de Estado?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala Penal del Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala Civil y Penal del Tribunal Superior de Justicia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal de la Audiencia Nacional.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juzgado de lo Penal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>45. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de las peticiones de la Fiscalía Europea, relativas a la adopción de medidas cautelares personales, la autorización de los actos que supongan limitación de los derechos fundamentales cuya adopción esté reservada a la autoridad judicial y demás supuestos que expresamente determine la ley?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">45. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de las peticiones de la Fiscalía Europea, relativas a la adopción de medidas cautelares personales, la autorización de los actos que supongan limitación de los derechos fundamentales cuya adopción esté reservada a la autoridad judicial y demás supuestos que expresamente determine la ley?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio Fiscal.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez Central de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Juez de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal de la Audiencia Nacional.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>46. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de la tramitación y enjuiciamiento de las acciones penales dirigidas contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, así como contra el Rey o Reina que hubiere abdicado y su consorte?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">46. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de la tramitación y enjuiciamiento de las acciones penales dirigidas contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, así como contra el Rey o Reina que hubiere abdicado y su consorte?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal de la Audiencia Nacional.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de lo Penal del Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No se les puede exigir responsabilidad penal a los miembros de la Corona.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Sala de Apelación de la Audiencia Nacional.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>47. Ley Orgánica del Poder Judicial. Del Ministerio Fiscal y demás personas e instituciones que cooperan con la administración de justicia. Señale la opción CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">47. Ley Orgánica del Poder Judicial. Del Ministerio Fiscal y demás personas e instituciones que cooperan con la administración de justicia. Señale la opción CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Corresponde en exclusiva la denominación y función de procurador al licenciado en Derecho que ejerza profesionalmente la dirección y defensa de las partes en toda clase de procesos, o el asesoramiento y consejo jurídico.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En su actuación ante los juzgados y tribunales, los abogados son libres e independientes, se sujetarán al principio de buena fe, gozarán de los derechos inherentes a la dignidad de su función y serán amparados por aquéllos en su libertad de expresión y defensa</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los abogados podrán realizar los actos de comunicación a las partes del proceso que la ley les autorice</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En los procedimientos penales, laborales y de Seguridad Social la representación técnica podrá ser ostentada por un Graduado Social.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>48. Real Decreto de la Policía Judicial. Las unidades orgánicas de la policía judicial se estructurarán con arreglo a criterios de distribución ______________ sobre una base ______________:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">48. Real Decreto de la Policía Judicial. Las unidades orgánicas de la policía judicial se estructurarán con arreglo a criterios de distribución ______________ sobre una base ______________:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Funcional / provincial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Judicial / nacional.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Territorial / provincial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Competencial / autonómica.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>49. Real Decreto de la Policía Judicial. Señale la CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">49. Real Decreto de la Policía Judicial. Señale la CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los funcionarios policiales comisionados por la Autoridad Judicial para la práctica de alguna investigación se atendrán a las órdenes y directrices que hubieren recibido, pudiendo las instrucciones de carácter técnico que obtuvieren de sus superiores policiales inmediatos contradecir las de la autoridad judicial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Fiscal competente, podrá sancionar mediante el ejercicio de la potestad disciplinaria respecto de los funcionarios de Policía Judicial cuando fundadamente entiendan que su conducta ha sido merecedora de sanción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No se puede remover de la investigación a los funcionarios de Policía Judicial en ningún caso.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las respuestas son incorrectas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>50. Real Decreto de la Policía Judicial. Constituyen la Policía Judicial en sentido estricto las Unidades Orgánicas previstas en el artículo 30.1 de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad integradas por: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">50. Real Decreto de la Policía Judicial. Constituyen la Policía Judicial en sentido estricto las Unidades Orgánicas previstas en el artículo 30.1 de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad integradas por: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Miembros del Cuerpo Nacional de Policía y de la Guardia Civil, policía autonómica y local, las cuales se estructurarán con arreglo a criterios de distribución territorial sobre una base provincial.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Miembros del Cuerpo Nacional de Policía y de la Guardia Civil, las cuales se estructurarán con arreglo a criterios de distribución territorial sobre una base provincial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Miembros del Cuerpo Nacional de Policía y de la Guardia Civil, se estructurarán con arreglo a criterios de distribución territorial sobre una base autonómica.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las respuestas es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>51. Estatuto de la Víctima. Señale la opción CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">51. Estatuto de la Víctima. Señale la opción CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cuando se trate de actuaciones policiales, la decisión de no facilitar interpretación o traducción a la víctima no podrá ser recurrida.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La decisión judicial de no facilitar interpretación o traducción a la víctima no podrá ser recurrida.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cuando se trate de actuaciones policiales, la decisión de no facilitar interpretación o traducción a la víctima podrá ser recurrida ante el Juzgado de lo Penal.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La decisión judicial de no facilitar interpretación o traducción a la víctima podrá ser recurrida en apelación.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>52. Estatuto de la Víctima. Los Abogados y Procuradores no podrán dirigirse a las víctimas directas o indirectas de catástrofes, calamidades públicas u otros sucesos que hubieran producido un número elevado de víctimas que cumplan los requisitos que se determinen reglamentariamente y que puedan constituir delito, para ofrecerles sus servicios profesionales hasta transcurridos:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">52. Estatuto de la Víctima. Los Abogados y Procuradores no podrán dirigirse a las víctimas directas o indirectas de catástrofes, calamidades públicas u otros sucesos que hubieran producido un número elevado de víctimas que cumplan los requisitos que se determinen reglamentariamente y que puedan constituir delito, para ofrecerles sus servicios profesionales hasta transcurridos:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">30 días desde el hecho.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">45 días desde el hecho.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">60 días desde el hecho.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las respuestas anteriores es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>53. Estatuto de la Víctima. Las disposiciones de esta Ley serán aplicables a:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">53. Estatuto de la Víctima. Las disposiciones de esta Ley serán aplicables a:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, siempre que la víctima sea española.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, con independencia de su nacionalidad, siempre que disfruten de residencia legal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, con independencia de su nacionalidad, de si son mayores o menores de edad o de si disfrutan o no de residencia legal, siempre que la denuncia se presente en España.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las respuestas anteriores es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>54. Estatuto de la Víctima. Toda víctima tiene derecho a (señale la opción INCORRECTA): </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">54. Estatuto de la Víctima. Toda víctima tiene derecho a (señale la opción INCORRECTA): </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la asistencia lingüística gratuita y a la traducción escrita de la copia de la denuncia presentada, cuando no entienda o no hable ninguna de las lenguas que tengan carácter oficial en el lugar en el que se presenta la denuncia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Estar acompañada de una persona de su elección desde el primer contacto con las autoridades y funcionarios.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A obtener una copia de la denuncia, solo si el denunciante la reclamase.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ser informada de manera inmediata de la fecha, hora y lugar del juicio, así como del contenido de la acusación dirigida contra el infractor.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>55. Estatuto de la Víctima. Según se establece en el art. 2 del Estatuto de víctima del Delito, se entiende por víctima:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">55. Estatuto de la Víctima. Según se establece en el art. 2 del Estatuto de víctima del Delito, se entiende por víctima:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al representante legal del fallecido como víctima directa del delito.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tanto a la víctima directa del delito como a la víctima indirecta, esta última en los casos de muerte o desaparición de una persona que haya sido causada por un delito, salvo que se trate de los responsables del hecho.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Toda persona física o jurídica que ha sufrido daños o perjuicios sobre su persona o patrimonio.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los terceros que hubieran sufrido perjuicios derivados del delito.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>56. Estatuto de la Víctima. La determinación de qué medidas de protección deben ser adoptadas para evitar a la víctima perjuicios relevantes que, de otro modo, pudieran derivar del proceso, se realizará tras una valoración de sus circunstancias particulares. Esta valoración tendrá especialmente en consideración (señale la respuesta INCORRECTA):</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">56. Estatuto de la Víctima. La determinación de qué medidas de protección deben ser adoptadas para evitar a la víctima perjuicios relevantes que, de otro modo, pudieran derivar del proceso, se realizará tras una valoración de sus circunstancias particulares. Esta valoración tendrá especialmente en consideración (señale la respuesta INCORRECTA):</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las características y circunstancias personales de la víctima.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La naturaleza del delito y la gravedad de los perjuicios causados a la víctima.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las circunstancias del delito, en particular si se trata de delitos imprudentes.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El riesgo de reiteración del delito.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>57. Estatuto de la víctima. La valoración de las necesidades de la víctima y la determinación de las medidas de protección corresponden:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">57. Estatuto de la víctima. La valoración de las necesidades de la víctima y la determinación de las medidas de protección corresponden:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Durante la fase de investigación del delito, al Juez de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Durante la fase de investigación del delito, al Juez de Violencia sobre la Mujer.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Durante la fase de enjuiciamiento, al Juez o Tribunal a los que correspondiera el conocimiento de la causa.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las respuestas son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>58. Estatuto de la Víctima. La persona que se hubiera beneficiado de subvenciones o ayudas percibidas por su condición de víctima, que hubiera sido objeto de alguna de las medidas de protección reguladas en el Estatuto de la Víctima y haya sido condenada por denuncia falsa, ¿vendrá obligada a reembolsar las cantidades recibidas?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">58. Estatuto de la Víctima. La persona que se hubiera beneficiado de subvenciones o ayudas percibidas por su condición de víctima, que hubiera sido objeto de alguna de las medidas de protección reguladas en el Estatuto de la Víctima y haya sido condenada por denuncia falsa, ¿vendrá obligada a reembolsar las cantidades recibidas?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No, en ningún caso.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Sí junto con el abono de los gastos causados a la Administración por sus actuaciones de reconocimiento, información, protección y apoyo, así como por los servicios prestados.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Sí, con un incremento del interés legal del dinero aumentado en un treinta por ciento.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las respuestas y son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>59. Estatuto de la Víctima. ¿Cuál de las siguientes medidas de protección podrá ser adoptada tanto en la fase de investigación como en la fase de enjuiciamiento?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">59. Estatuto de la Víctima. ¿Cuál de las siguientes medidas de protección podrá ser adoptada tanto en la fase de investigación como en la fase de enjuiciamiento?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Medidas que eviten el contacto visual entre la víctima y el supuesto autor de los hechos, incluso durante la práctica de la prueba, para lo cual podrá hacerse uso de tecnologías de la comunicación</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Medidas para garantizar que la víctima pueda ser oída sin estar presente en la sala de vistas, mediante la utilización de tecnologías de la comunicación adecuadas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Medidas para evitar que se formulen preguntas relativas a la vida privada de la víctima que no tengan relevancia con el hecho delictivo enjuiciado, salvo que el Juez o Tribunal consideren excepcionalmente que deben ser contestadas para valorar adecuadamente los hechos o la credibilidad de la declaración de la víctima.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las respuestas y son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>60. Estatuto de la Víctima. El Estatuto de la Víctima establece que la evaluación periódica del sistema de atención a las víctimas del delito en España.</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">60. Estatuto de la Víctima. El Estatuto de la Víctima establece que la evaluación periódica del sistema de atención a las víctimas del delito en España.</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se llevará a cabo anualmente por el Ministerio de Interior.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se llevará a cabo anualmente por el Ministerio de Justicia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se llevará a cabo semestralmente por el Ministerio de Interior.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se llevará a cabo trimestralmente por el Ministerio de Justicia.</p>]]></text></answer>
+<tags></tags></question></quiz>

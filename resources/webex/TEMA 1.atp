@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="01. Derechos Humanos. Cooperación con la Corte Penal Internacional. ¿El objeto de ésta Ley Orgánica es regular las relaciones de cooperación entre??">
+<ANSWER ISCORRECT="true">Estado Español y Corte Penal Internacional</ANSWER>
+<ANSWER ISCORRECT="false">Los Países de la UE</ANSWER>
+<ANSWER ISCORRECT="false">Los Estados Parte.</ANSWER>
+<ANSWER ISCORRECT="false">Los ministros del Estado Español</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="02. Derechos Humanos. Cooperación con la Corte Penal Internacional. ¿Qué prestará España a la Corte Penal Internacional?">
+<ANSWER ISCORRECT="false">Contribuciones voluntarias</ANSWER>
+<ANSWER ISCORRECT="false">Rendición de cuentas</ANSWER>
+<ANSWER ISCORRECT="true">Plena cooperación</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="03. Derechos Humanos. Cooperación con la Corte Penal Internacional. Autoridades competentes para aplicar esta ley:">
+<ANSWER ISCORRECT="false">El Gobierno</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Justicia</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio Fiscal</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="04. Derechos Humanos. Cooperación con la Corte Penal Internacional. Autoridades competentes para aplicar esta ley: (señale la opción incorrecta)">
+<ANSWER ISCORRECT="false">El Ministro de Asuntos Exteriores</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Defensa</ANSWER>
+<ANSWER ISCORRECT="true">La Audiencia Provincial</ANSWER>
+<ANSWER ISCORRECT="false">El Tribunal Militar Central</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="05. Derechos Humanos. Cooperación con la Corte Penal Internacional. ¿A quién corresponderá la representación y defensa en juicio ante los órganos de la Corte?">
+<ANSWER ISCORRECT="false">Al Ministro de Justica</ANSWER>
+<ANSWER ISCORRECT="true">A los abogados del Estado</ANSWER>
+<ANSWER ISCORRECT="false">Al ministro de Asuntos Exteriores</ANSWER>
+<ANSWER ISCORRECT="false">Al Presidente del Estado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="06. Derechos Humanos. Cooperación con la Corte Penal Internacional. El Ministro de Justicia es?">
+<ANSWER ISCORRECT="false">Órgano de relación con la Corte</ANSWER>
+<ANSWER ISCORRECT="false">Órgano de consulta con la Corte</ANSWER>
+<ANSWER ISCORRECT="true">a) y b) son correctas</ANSWER>
+<ANSWER ISCORRECT="false">a) y b) son incorrectas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="07. Derechos Humanos. Cooperación con la Corte Penal Internacional. ¿A quién corresponde decidir la presentación de la denuncia ante el Fiscal de la Corte?">
+<ANSWER ISCORRECT="false">Al Ministerio del Interior</ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio de Defensa</ANSWER>
+<ANSWER ISCORRECT="true">Al Gobierno</ANSWER>
+<ANSWER ISCORRECT="false">Cualquiera de las opciones anteriores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="08. Derechos Humanos. Cooperación con la Corte Penal Internacional. ¿A quién corresponde formular una petición de inhibición?">
+<ANSWER ISCORRECT="false">Al Gobierno</ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio del Interior</ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio de Defensa</ANSWER>
+<ANSWER ISCORRECT="true">Al Ministerio de Justicia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="09. Derechos Humanos. Cooperación con la Corte Penal Internacional. Cuando se practique una detención cumpliendo una orden de la Corte, la autoridad que practique la detención lo comunicará inmediatamente a?.">
+<ANSWER ISCORRECT="true">Al Ministerio de Justicia</ANSWER>
+<ANSWER ISCORRECT="false">Al Ministro de Interior</ANSWER>
+<ANSWER ISCORRECT="false">Al Juez Central de Instrucción de la Audiencia Provincial</ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio de Asuntos Exteriores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. Derechos Humanos. Cooperación con la Corte Penal Internacional. ¿Quién responderá con carácter urgente a cualquier petición de información del Fiscal de la Corte referida al estado de los procedimientos penales? ">
+<ANSWER ISCORRECT="false">El Ministerio de Asuntos Exteriores. </ANSWER>
+<ANSWER ISCORRECT="true">El Ministerio de Justicia. </ANSWER>
+<ANSWER ISCORRECT="false">El Consejo de Ministros. </ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal General del Estado.</ANSWER>
+</QUESTION>
+</POLL>

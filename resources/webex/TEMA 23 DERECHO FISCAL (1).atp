@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="1. REPRESIÓN DEL CONTRABANDO 12/1995. La entrada de mercancías no comunitarias en el territorio español comprendido en el territorio aduanero de la Unión Europea, así como en ámbito territorial de Ceuta y Melilla se denomina:">
+<ANSWER ISCORRECT="false">Declaración sumaria de entrada</ANSWER>
+<ANSWER ISCORRECT="true">Importación</ANSWER>
+<ANSWER ISCORRECT="false">Levante</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Introducción">
+<ANSWER ISCORRECT="false">2. REPRESIÓN DEL CONTRABANDO 12/1995. Todo bien corporal susceptible de ser objeto de comercio. Se denomina: </ANSWER>
+<ANSWER ISCORRECT="false">Géneros o efectos estancados</ANSWER>
+<ANSWER ISCORRECT="false">Material de defensa</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Géneros prohibidos">
+<ANSWER ISCORRECT="true">Ninguna es correcta</ANSWER>
+<ANSWER ISCORRECT="false">3. REPRESIÓN DEL CONTRABANDO 12/1995. Recinto aduanero, todo lugar habilitado por los órganos competentes de, señale la CORRECTA. </ANSWER>
+<ANSWER ISCORRECT="false">El Gobierno</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-El Ministerio de Economía y Hacienda">
+<ANSWER ISCORRECT="false">Autoridad Aduanera</ANSWER>
+<ANSWER ISCORRECT="false">Administrador de Aduanas</ANSWER>
+<ANSWER ISCORRECT="false">4. REPRESIÓN DEL CONTRABANDO 12/1995. Comenten delito de contrabando, los que importen o exporten mercancías de lícito comercio sin presentarlas para su despacho en las oficinas de aduanas o en los lugares habilitados por la administración aduanera. Por valor de:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 2. Tipificación del delito.
+1. Cometen delito de contrabando, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 150.000 euros, los que realicen alguno de los siguientes hechos?
+">
+<ANSWER ISCORRECT="false">De 150.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">De 150.001 euros</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="De 180.000 euros">
+<ANSWER ISCORRECT="false">5. REPRESIÓN DEL CONTRABANDO 12/1995. Cometen delito de contrabando cuando se trate de labores de tabaco cuyo valor sea: </ANSWER>
+<ANSWER ISCORRECT="true">Superior a 15.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Superior a 50.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ninguna es correcta">
+<ANSWER ISCORRECT="false">Igual o superior a 50.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">6. REPRESIÓN DEL CONTRABANDO 12/1995. Cometen delito de contrabando los que realicen operaciones de importación, exportación, comercio, tenencia, circulación de especímenes de fauna y flora silvestres y sus partes y productos, de especies recogidas en el Convenio de Washington, sin cumplir los requisitos legalmente establecidos por valor de:</ANSWER>
+<ANSWER ISCORRECT="false">Superior a 150.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Igual a 50.000 euros">
+<ANSWER ISCORRECT="false">Superior 15.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Igual a 25.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">7. REPRESIÓN DEL CONTRABANDO 12/1995. Las conductas referidas en la ley de contrabando serán igualmente punibles cuando se cometan por:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 2. Tipificación del delito.
+5. Las anteriores conductas serán igualmente punibles cuando se cometan por imprudencia grave.
+">
+<ANSWER ISCORRECT="false">Imprudencia</ANSWER>
+<ANSWER ISCORRECT="false">Imprudencia muy grave</ANSWER>
+<ANSWER ISCORRECT="false">Imprudencia leve</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Todas son incorrectas">
+<ANSWER ISCORRECT="false">8. REPRESIÓN DEL CONTRABANDO 12/1995. La entrada en el territorio español de mercancías comunitarias procedentes de otros Estados miembros de la Unión Europea. Se denomina:</ANSWER>
+<ANSWER ISCORRECT="false">Importación</ANSWER>
+<ANSWER ISCORRECT="false">Levante</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Ninguna es correcta">
+<ANSWER ISCORRECT="false">Expedición</ANSWER>
+<ANSWER ISCORRECT="false">9. REPRESIÓN DEL CONTRABANDO 12/1995. La salida de mercancías del territorio español fuera del territorio aduanero de la UE. Se denomina:</ANSWER>
+<ANSWER ISCORRECT="false">Entrega </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Exportación">
+<ANSWER ISCORRECT="false">Declaración sumaria de salida</ANSWER>
+<ANSWER ISCORRECT="false">Levante</ANSWER>
+<ANSWER ISCORRECT="false">10. REPRESIÓN DEL CONTRABANDO 12/1995. La salida de mercancías del territorio español con destino final a otros Estados miembros de la Unión Europea. Se denomina:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 1. Definiciones. A los efectos de la presente Ley se entenderá por:
+9. ?Expedición?: la salida de mercancías del territorio español con destino final a otros Estados miembros de la Unión Europea.
+">
+<ANSWER ISCORRECT="true">Expedición </ANSWER>
+<ANSWER ISCORRECT="false">Exportación</ANSWER>
+<ANSWER ISCORRECT="false">Declaración sumaria de salida</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Levante">
+<ANSWER ISCORRECT="false">11. REPRESIÓN DEL CONTRABANDO 12/1995. Los que cometieren un delito de contrabando serán castigados con las penas de prisión de:</ANSWER>
+<ANSWER ISCORRECT="false">Uno a tres años y multa del tanto al séxtuplo del valor de los bienes, mercancías, géneros o efectos</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Dos a cinco años y multa del tanto al séptuplo del valor de los bienes, mercancías, géneros o efectos">
+<ANSWER ISCORRECT="false">Uno a cinco años y multa del tanto al quíntuplo del valor de los bienes, mercancías, géneros o efectos</ANSWER>
+<ANSWER ISCORRECT="false">12. REPRESIÓN DEL CONTRABANDO 12/1995. En los casos de comisión imprudente se aplicará:</ANSWER>
+<ANSWER ISCORRECT="false">La pena superior en un grado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La pena en su mitad superior">
+<ANSWER ISCORRECT="true">Ninguna es correcta</ANSWER>
+<ANSWER ISCORRECT="false">La pena en su mitad inferior</ANSWER>
+<ANSWER ISCORRECT="false">13. REPRESIÓN DEL CONTRABANDO 12/1995. Cuando proceda la exigencia de responsabilidad penal de una persona jurídica se impondrá en todos los casos la pena siguiente:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 3. Penalidad.
+3. Cuando proceda la exigencia de responsabilidad penal de una persona jurídica de acuerdo con lo establecido en el artículo 2.6, y tras aplicar los criterios establecidos en los apartados 1 y 2 de este artículo, se impondrá la pena siguiente:
+a) En todos los casos, multa proporcional del duplo al cuádruplo del valor de los bienes, mercancías, géneros o efectos objeto del contrabando, y prohibición de obtener subvenciones y ayudas públicas para contratar con las Administraciones públicas y para gozar de beneficios e incentivos fiscales o de la Seguridad Social por un plazo de entre uno y tres años.
+">
+<ANSWER ISCORRECT="false">Multa proporcional del tanto al cuádruplo del valor de los bienes mercancías, géneros o efectos objeto del contrabando</ANSWER>
+<ANSWER ISCORRECT="false">Multa proporcional del duplo al séxtuplo del valor de los bienes mercancías, géneros o efectos objeto del contrabando</ANSWER>
+<ANSWER ISCORRECT="false">Multa proporcional del tanto al quíntuplo del valor de los bienes mercancías, géneros o efectos objeto del contrabando</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Ninguna es correcta">
+<ANSWER ISCORRECT="false">14. REPRESIÓN DEL CONTRABANDO 12/1995. Cuando proceda la exigencia de responsabilidad penal de una persona jurídica se impondrá en todos los casos la pena siguiente ? o efectos objeto del contrabando y prohibición de obtener subvenciones y ayudas públicas para contratar con las Administraciones públicas y para gozar de beneficios e incentivos fiscales o de la Seguridad Social por un plazo de:</ANSWER>
+<ANSWER ISCORRECT="false">Entre seis meses y un año</ANSWER>
+<ANSWER ISCORRECT="true">Entre uno y tres años </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Entre dos y tres años">
+<ANSWER ISCORRECT="false">Entre dos y cinco años</ANSWER>
+<ANSWER ISCORRECT="false">15. REPRESIÓN DEL CONTRABANDO 12/1995. La conspiración y la proposición para cometer un delito de contrabando de material de defensa, o de material o productos y tecnologías de doble uso serán castigadas con la pena, señale la CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="false">Inferior en grado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Superior en grado">
+<ANSWER ISCORRECT="true">Inferior en uno dos grados</ANSWER>
+<ANSWER ISCORRECT="false">En su mitad inferior</ANSWER>
+<ANSWER ISCORRECT="false">16. REPRESIÓN DEL CONTRABANDO 12/1995. En los procedimientos por delito de contrabando, la responsabilidad civil comprenderá:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 4. Responsabilidad civil.
+En los procedimientos por delito de contrabando la responsabilidad civil comprenderá la totalidad de la deuda tributaria no ingresada que la Administración Tributaria no haya podido liquidar por prescripción o por alguna de las causas previstas en el artículo 251.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, incluidos sus intereses de demora.
+">
+<ANSWER ISCORRECT="false">Parte de la deuda tributaria no ingresada que la Administración Tributaria que no haya podido liquidar por prescripción o alguna causa prevista, incluida sus intereses de demora</ANSWER>
+<ANSWER ISCORRECT="false">La totalidad de la deuda tributaria ingresada que la Administración Tributaria que no haya podido liquidar por prescripción o alguna causa prevista, incluida sus intereses de demora.</ANSWER>
+<ANSWER ISCORRECT="false">La totalidad de la deuda tributaria no ingresada que la Administración Tributaria que no haya podido liquidar por prescripción o alguna causa prevista, excluida sus intereses de demora</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Ninguna es correcta">
+<ANSWER ISCORRECT="false">17. REPRESIÓN DEL CONTRABANDO 12/1995. Para la ejecución de la pena de multa y de la responsabilidad civil, los jueces y tribunales recabarán el auxilio de:</ANSWER>
+<ANSWER ISCORRECT="false">La Guardia Civil, que las exigirá por el procedimiento administrativo de apremio en los términos establecidos en la Ley General Tributaria</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La Administración Tributaria, que las exigirá por el procedimiento administrativo de apremio en los términos establecidos en la Ley de represión de contrabando">
+<ANSWER ISCORRECT="false">La Administración Tributaria, que las exigirá por el procedimiento administrativo de apremio en los términos establecidos en la Ley General Hipotecaria</ANSWER>
+<ANSWER ISCORRECT="false">18. REPRESIÓN DEL CONTRABANDO 12/1995. Toda pena que se impusiere por un delito de contrabando llevará consigo ........... de los siguientes bienes, efectos e instrumentos. Rellene la línea de puntos:</ANSWER>
+<ANSWER ISCORRECT="false">La intervención</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La aprehensión">
+<ANSWER ISCORRECT="false">La venta </ANSWER>
+<ANSWER ISCORRECT="true">El comiso </ANSWER>
+<ANSWER ISCORRECT="false">19. REPRESIÓN DEL CONTRABANDO 12/1995. Los bienes de licito comercio en general serán enajenados por: </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 5. Comiso.
+6. Los bienes, efectos e instrumentos definitivamente decomisados por sentencia se adjudicarán al Estado. Los bienes de lícito comercio serán enajenados por la Agencia Estatal de Administración Tributaria, con excepción de los bienes de lícito comercio decomisados por delito de contrabando de drogas tóxicas, estupefacientes y sustancias psicotrópicas, o de precursores de las mismas, tipificados en el artículo 2.3 a) de esta Ley Orgánica, en cuyo caso, la enajenación o la determinación de cualquier otro destino de los mismos corresponderá a la Mesa de Coordinación de Adjudicaciones, conforme a lo dispuesto en el artículo 6.2 a) y c) de la Ley 17/2003, de 29 de mayo, por la que se regula el Fondo de bienes decomisados por tráfico ilícito de drogas y otros delitos relacionados, y en su normativa reglamentaria de desarrollo.
+">
+<ANSWER ISCORRECT="false">Mesa de Coordinación de Adjudicaciones</ANSWER>
+<ANSWER ISCORRECT="true">Agencia Estatal de Administración Tributaria</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio del Interior</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ministerio de Economía y Hacienda">
+<ANSWER ISCORRECT="false">20. REPRESIÓN DEL CONTRABANDO 12/1995. Los bienes de lícito comercio decomisados por delito de contrabando de drogas tóxicas, estupefacientes y sustancias psicotrópicas, o precursores de la mismas, serán enajenados por:</ANSWER>
+<ANSWER ISCORRECT="true">La Mesa de Coordinación de Adjudicaciones</ANSWER>
+<ANSWER ISCORRECT="false">La Agencia Estatal de Administración Tributaria</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El Ministerio del Interior">
+<ANSWER ISCORRECT="false">El Ministerio de Economía y Hacienda </ANSWER>
+<ANSWER ISCORRECT="false">21. REPRESIÓN DEL CONTRABANDO 12/1995. A efectos de esta ley, ¿cómo se denominan los artículos, productos o sustancias cuya producción, adquisición, distribución o cualquiera otra actividad concerniente a los mismos sea atribuida por ley al Estado con carácter de monopolio, así como las labores del tabaco y todos aquellos a los que por ley se otorgue dicha condición?</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías sujetas a medidas de política comercial</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Mercancías comunitarias">
+<ANSWER ISCORRECT="true">Géneros o efectos estancados</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías a libre práctica</ANSWER>
+<ANSWER ISCORRECT="false">22. REPRESIÓN DEL CONTRABANDO 12/1995. A efectos de esta ley, las sustancias y productos susceptibles de ser utilizados en el cultivo, la producción o la fabricación de drogas tóxicas, estupefacientes o sustancias psicotrópicas enumeradas en los cuadros I y II de la Convención de Naciones Unidas, sobre el tráfico ilícito de estupefacientes y sustancias psicotrópicas y cualesquiera otros productos adicionados al mismo Convenio, o en cualesquiera tratados o convenios internacionales sobre el mismo objeto suscritos por España, reciben la denominación de:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 1. Definiciones. A los efectos de la presente Ley se entenderá por:
+15. ?Precursores de drogas?: las sustancias y productos susceptibles de ser utilizados en el cultivo, la producción o la fabricación de drogas tóxicas, estupefacientes o sustancias psicotrópicas enumeradas en los cuadros I y II de la Convención de Naciones Unidas, hecha en Viena el 20 de diciembre de 1988, sobre el tráfico ilícito de estupefacientes y sustancias psicotrópicas y cualesquiera otros productos adicionados al mismo Convenio, o en cualesquiera tratados o convenios internacionales sobre el mismo objeto suscritos por España.
+">
+<ANSWER ISCORRECT="true">Precursores de drogas</ANSWER>
+<ANSWER ISCORRECT="false">Material de doble uso</ANSWER>
+<ANSWER ISCORRECT="false">Géneros estancados</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ninguna es correcta">
+<ANSWER ISCORRECT="false">23. REPRESIÓN DEL CONTRABANDO 12/1995. Toda pena que se impusiere por un delito de contrabando llevará consigo el comiso de los siguientes bienes, efectos e instrumentos. Señale la proposición CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="true">Los materiales, instrumentos o maquinaria empleados en la fabricación, elaboración, transformación o comercio de los géneros estancados o prohibidos</ANSWER>
+<ANSWER ISCORRECT="false">Las ganancias obtenidas del delito, sino hubieren sufrido transformación alguna</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Cuantos bienes y efectos, de la naturaleza que fueren, que no hayan servido de instrumento para la comisión del delito">
+<ANSWER ISCORRECT="false">Los bienes, efectos e instrumentos del contrabando cuando éstos sean de lícito comercio y sean propiedad o hayan sido adquiridos por un tercero de buena fe</ANSWER>
+<ANSWER ISCORRECT="false">24. REPRESIÓN DEL CONTRABANDO 12/1995. Para la ejecución de la pena de multa y de la responsabilidad civil, los jueces y tribunales recabarán el auxilio de los servicios de la Administración Tributaria, que las exigirá por el procedimiento administrativo de _________ en los términos establecidos en la Ley General Tributaria. Rellene el espacio.</ANSWER>
+<ANSWER ISCORRECT="false">Ejecución forzosa</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Apremio">
+<ANSWER ISCORRECT="false">Embargo</ANSWER>
+<ANSWER ISCORRECT="false">Comiso</ANSWER>
+<ANSWER ISCORRECT="false">25. REPRESIÓN DEL CONTRABANDO 12/1995. ¿Cuál de las siguientes proposiciones NO ES CORRECTA?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 2. Tipificación del delito.
+1. Cometen delito de contrabando, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 150.000 euros, los que realicen alguno de los siguientes hechos:
+f) Conduzcan en buque de porte menor que el permitido por los reglamentos, salvo autorización para ello, mercancías no comunitarias en cualquier puerto o lugar de las costas no habilitado a efectos aduaneros, o en cualquier punto de las aguas interiores o del mar territorial español o zona contigua.
+¡¡¡OJO!!! En la opción c, el delito YA SE COMETE a partir de 50.000 o más euros.
+">
+<ANSWER ISCORRECT="false">Cometen delito de contrabando los que importen o exporten mercancías de lícito comercio sin presentarlas para su despacho en las oficinas de aduanas o en los lugares habilitados por la Administración aduanera, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 150.000 euros</ANSWER>
+<ANSWER ISCORRECT="true">Cometen delito de contrabando los que conduzcan en buque de porte mayor que el permitido por los reglamentos, salvo autorización para ello, mercancías no comunitarias en cualquier puerto o lugar de las costas no habilitado a efectos aduaneros, o en cualquier punto de las aguas interiores o del mar territorial español o zona contigua</ANSWER>
+<ANSWER ISCORRECT="false">Cometen delito de contrabando, los que exporten o expidan bienes que integren el Patrimonio Histórico Español sin la autorización de la Administración competente cuando ésta sea necesaria, o habiéndola obtenido bien mediante su solicitud con datos o documentos falsos en relación con la naturaleza o el destino último de tales productos o bien de cualquier otro modo ilícito, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 150.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Cometen delito de contrabando, los que realicen operaciones de importación, exportación, comercio, tenencia, circulación de géneros estancados o prohibidos, incluyendo su producción o rehabilitación, sin cumplir los requisitos establecidos en las leyes, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 50.000 euros">
+<ANSWER ISCORRECT="false">26. REPRESIÓN DEL CONTRABANDO 12/1995. En los procedimientos por delito de contrabando la responsabilidad civil comprenderá la totalidad de la deuda tributaria no ingresada que la Administración Tributaria no haya podido liquidar por prescripción o por alguna de las causas previstas en la Ley General Tributaria, incluidos sus intereses de demora. ¿Cuál es esta Ley?</ANSWER>
+<ANSWER ISCORRECT="false">La Ley 58/2005</ANSWER>
+<ANSWER ISCORRECT="true">La Ley 58/2003</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La Ley 56/2003">
+<ANSWER ISCORRECT="false">La Ley 56/2005</ANSWER>
+<ANSWER ISCORRECT="false">27. REPRESIÓN DEL CONTRABANDO 12/1995. ¿Cómo se clasifican las infracciones administrativas de contrabando según el valor de los bienes, mercancías, géneros o efectos objeto de las mismas?</ANSWER>
+<ANSWER ISCORRECT="false">En leves, menos graves y muy graves</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="En leves, menos graves y graves">
+<ANSWER ISCORRECT="true">En leves, graves y muy graves</ANSWER>
+<ANSWER ISCORRECT="false">En menos graves, graves y muy graves</ANSWER>
+<ANSWER ISCORRECT="false">28. REPRESIÓN DEL CONTRABANDO 12/1995. Los responsables de las infracciones administrativas de contrabando serán sancionados con multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas. Los porcentajes aplicables a cada clase de infracción estarán comprendidos entre unos límites. ¿Cuál de los siguientes es INCORRECTO respecto de las mercancías en general?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 12. Sanciones.
+1. Los responsables de las infracciones administrativas de contrabando serán sancionados con multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas, sin perjuicio de lo establecido en los demás apartados del presente artículo.
+Los porcentajes aplicables a cada clase de infracción estarán comprendidos entre los límites que se indican a continuación:
+a) Leves: el 100 y el 150 %.
+b) Graves: el 150 y el 250 %.
+c) Muy graves: el 250 y el 350 %.
+">
+<ANSWER ISCORRECT="false">Leves: el 100 y el 150 %</ANSWER>
+<ANSWER ISCORRECT="false">Graves: el 150 y el 250 %</ANSWER>
+<ANSWER ISCORRECT="true">Muy graves: el 250 y el 300 %</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Todas son incorrectas">
+<ANSWER ISCORRECT="false">29. REPRESIÓN DEL CONTRABANDO 12/1995. Los responsables de las infracciones administrativas de contrabando serán sancionados con multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas. Los porcentajes aplicables a cada clase de infracción estarán comprendidos entre unos límites. ¿Cuál de los siguientes es INCORRECTO respecto de las mercancías incluidas en el artículo 2?2 de la ley?</ANSWER>
+<ANSWER ISCORRECT="false">Leves: el 200 y el 225 %</ANSWER>
+<ANSWER ISCORRECT="false">Graves: el 225 y el 275 %</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Muy graves: el 275 y el 350 %">
+<ANSWER ISCORRECT="true">No hay ninguna incorrecta</ANSWER>
+<ANSWER ISCORRECT="false">30. REPRESIÓN DEL CONTRABANDO 12/1995. Los responsables de las infracciones administrativas de contrabando serán sancionados con multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas. Los porcentajes aplicables a cada clase de infracción estarán comprendidos entre unos límites. ¿Cuál de los siguientes es CORRECTO respecto de las labores del tabaco?</ANSWER>
+<ANSWER ISCORRECT="false">Leves: el 200 y el 300 %</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Graves: el 300 y el 450 %">
+<ANSWER ISCORRECT="false">Muy graves: el 450 y el 600 %</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">31. REPRESIÓN DEL CONTRABANDO 12/1995. El importe mínimo de las multas en caso de infracciones con mercancías en general será, señale la CORRECTA.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 12. Sanciones.
+1. Los responsables de las infracciones administrativas de contrabando serán sancionados con multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas, sin perjuicio de lo establecido en los demás apartados del presente artículo.
+Los porcentajes aplicables a cada clase de infracción estarán comprendidos entre los límites que se indican a continuación:
+a) Leves: el 100 y el 150 %.
+b) Graves: el 150 y el 250 %.
+c) Muy graves: el 250 y el 350 %.
+El importe mínimo de la multa será, en todo caso, de 500 euros.
+">
+<ANSWER ISCORRECT="false">100 euros</ANSWER>
+<ANSWER ISCORRECT="true">500 euros</ANSWER>
+<ANSWER ISCORRECT="false">1000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="2000 euros">
+<ANSWER ISCORRECT="false">32. REPRESIÓN DEL CONTRABANDO 12/1995. El importe mínimo de las multas en caso de infracciones con mercancías del artículo 2.2 será, señale la CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="false">100 euros</ANSWER>
+<ANSWER ISCORRECT="false">500 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-1000 euros">
+<ANSWER ISCORRECT="false">2000 euros</ANSWER>
+<ANSWER ISCORRECT="false">33. REPRESIÓN DEL CONTRABANDO 12/1995. El importe mínimo de las multas en caso de infracciones con labores del tabaco será, señale la CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="false">100 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="500 euros">
+<ANSWER ISCORRECT="false">1000 euros</ANSWER>
+<ANSWER ISCORRECT="true">2000 euros</ANSWER>
+<ANSWER ISCORRECT="false">34. REPRESIÓN DEL CONTRABANDO 12/1995. Se considera ?importación? la entrada de mercancías:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 1. Definiciones. A los efectos de la presente Ley se entenderá por:
+6. ?Importación?: la entrada de mercancías no comunitarias en el territorio español comprendido en el territorio aduanero de la Unión Europea, así como en el ámbito territorial de Ceuta y Melilla. Se asimila a la importación la entrada de mercancías desde las áreas exentas.
+">
+<ANSWER ISCORRECT="false">En cualquier parte del territorio nacional, si estas no son comunitarias</ANSWER>
+<ANSWER ISCORRECT="false">En Ceuta o Melilla, aunque sean de origen comunitario</ANSWER>
+<ANSWER ISCORRECT="false">Procedentes de áreas exentas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Todas las anteriores son correctas">
+<ANSWER ISCORRECT="false">35. REPRESIÓN DEL CONTRABANDO 12/1995. Las sustancias y productos susceptibles de ser utilizados en el cultivo, la producción o la fabricación de drogas tóxicas, se consideran:</ANSWER>
+<ANSWER ISCORRECT="false">Efectos estancados</ANSWER>
+<ANSWER ISCORRECT="false">Géneros prohibidos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Precursores de drogas">
+<ANSWER ISCORRECT="false">Material de doble uso</ANSWER>
+<ANSWER ISCORRECT="false">36. REPRESIÓN DEL CONTRABANDO 12/1995. El valor de los géneros de contrabando, cuando se trate de labores de tabaco, para que éste constituya delito, ha de ser como mínimo igual o superior a, señale la CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="true">15.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="50.000 euros">
+<ANSWER ISCORRECT="false">150.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">37. REPRESIÓN DEL CONTRABANDO 12/1995. El valor de los géneros de contrabando, cuando se trate de precursores de sustancias químicas tóxicas, para que éste constituya delito, ha de ser igual o superior a:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 2. Tipificación del delito.
+3. Cometen, asimismo, delito de contrabando quienes realicen alguno de los hechos descritos en los apartados 1 y 2 de este artículo, si concurre alguna de las circunstancias siguientes:
+a) Cuando el objeto del contrabando sean drogas tóxicas, estupefacientes, sustancias psicotrópicas, armas, explosivos, agentes biológicos o toxinas, sustancias químicas tóxicas y sus precursores, o cualesquiera otros bienes cuya tenencia constituya delito, o cuando el contrabando se realice a través de una organización, con independencia del valor de los bienes, mercancías o géneros.
+">
+<ANSWER ISCORRECT="false">15.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">50.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">150.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Es delito cualquiera que sea el valor">
+<ANSWER ISCORRECT="false">38. REPRESIÓN DEL CONTRABANDO 12/1995. Si por cualquier circunstancia, no fuera posible el comiso de los bienes, efectos o instrumentos, se acordará:</ANSWER>
+<ANSWER ISCORRECT="false">No se puede realizar el comiso</ANSWER>
+<ANSWER ISCORRECT="false">El comiso por un valor equivalente de otros bienes que pertenezcan a los criminalmente cómplices o responsables del delito</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El comiso por un valor inferior de otros bienes que pertenezcan a los criminalmente responsables del delito">
+<ANSWER ISCORRECT="true">El comiso por un valor equivalente de otros bienes que pertenezcan a los criminalmente responsables del delito</ANSWER>
+<ANSWER ISCORRECT="false">39. REPRESIÓN DEL CONTRABANDO 12/1995. Los bienes, efectos e instrumentos definitivamente decomisados por sentencia se adjudicarán:</ANSWER>
+<ANSWER ISCORRECT="false">Al Gobierno</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Al Parlamento">
+<ANSWER ISCORRECT="false">A las Administraciones públicas</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna es correcta</ANSWER>
+<ANSWER ISCORRECT="false">40. REPRESIÓN DEL CONTRABANDO 12/1995. Los géneros estancados serán valorados aplicando:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 10. Valoración de los bienes.
+La fijación del valor de los bienes, mercancías, géneros o efectos objeto de contrabando se hará conforme a las siguientes reglas:
+1. Si se trata de géneros estancados, por el precio máximo de venta al público. De no estar señalado dicho precio, se adoptará la valoración establecida para la clase más similar. Si no fuera posible la asimilación, el juez fijará la valoración previa tasación pericial.
+">
+<ANSWER ISCORRECT="false">El valor medio del mercado</ANSWER>
+<ANSWER ISCORRECT="true">El precio máximo de venta al público</ANSWER>
+<ANSWER ISCORRECT="false">El precio medio de mercado para mayoristas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ninguna de las anteriores es correcta">
+<ANSWER ISCORRECT="false">41. REPRESIÓN DEL CONTRABANDO 12/1995. Las mercancías del artículo 2.2 serán valoradas aplicando:</ANSWER>
+<ANSWER ISCORRECT="false">El valor medio del mercado</ANSWER>
+<ANSWER ISCORRECT="false">El precio máximo de venta al público</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El precio medio de mercado para mayoristas">
+<ANSWER ISCORRECT="true">El juez recabará asesoramiento de las Administraciones competentes</ANSWER>
+<ANSWER ISCORRECT="false">42. REPRESIÓN DEL CONTRABANDO 12/1995. La valoración de mercancías que no sean géneros estancados ni las señaladas en el artículo 2.2 de la ley, en caso de importación o exportación se hará aplicando:</ANSWER>
+<ANSWER ISCORRECT="true">El precio medio declarado a las autoridades aduaneras de los productos semejantes</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El precio máximo de venta al público">
+<ANSWER ISCORRECT="false">El precio medio de mercado para mayoristas</ANSWER>
+<ANSWER ISCORRECT="false">El juez recabará asesoramiento de las Administraciones competentes</ANSWER>
+<ANSWER ISCORRECT="false">43. REPRESIÓN DEL CONTRABANDO 12/1995. Las infracciones administrativas de contrabando se considerarán muy graves, cuando el valor de los géneros sea superior a:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 11. Tipificación de las infracciones.
+2. Las infracciones administrativas de contrabando previstas en el apartado anterior de este artículo se clasifican en leves, graves y muy graves, según el valor de los bienes, mercancías, géneros o efectos objeto de las mismas, conforme a las cuantías siguientes:
+a) Leves: inferior a 37.500 euros; o, si se trata de supuestos previstos en el artículo 2.2 de la presente Ley, inferior a 6.000 euros, salvo cuando se trate de labores de tabaco que será inferior a 1.000 euros.
+b) Graves: entre los importes, ambos incluidos, de 37.500 euros a 112.500 euros; o, si se trata de supuestos previstos en el artículo 2.2 de la presente Ley, de 6.000 euros a 18.000 euros, salvo cuando se trate de labores de tabaco que será de 1.000 euros a 6.000 euros
+c) Muy graves: superior a 112.500 euros; o, si se trata de supuestos previstos en el artículo 2.2 de la presente Ley, superior a 18.000 euros, salvo que se trate de labores de tabaco que será superior a 6.000 euros.
+">
+<ANSWER ISCORRECT="false">6.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">18.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">112.500 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Todas son correctas dependiendo del caso">
+<ANSWER ISCORRECT="false">44. REPRESIÓN DEL CONTRABANDO 12/1995. Las infracciones administrativas de contrabando se considerarán graves, cuando el valor de las mercancías en general sea igual o superior a:</ANSWER>
+<ANSWER ISCORRECT="false">6.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">18.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-37.500 euros">
+<ANSWER ISCORRECT="false">Todas son correctas dependiendo del caso</ANSWER>
+<ANSWER ISCORRECT="false">45. REPRESIÓN DEL CONTRABANDO 12/1995. Podrán ser objeto de COMISO, señale la CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="false">Si, por cualquier circunstancia, no fuera posible el comiso de los bienes, efectos o instrumentos?, se acordará el comiso por un valor superior de otros bienes que pertenezcan a los criminalmente responsables del delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Se procederá al comiso de los bienes, efectos e instrumentos del contrabando cuando éstos sean de lícito comercio y sean propiedad o hayan sido adquiridos por un tercero de buena fe.">
+<ANSWER ISCORRECT="false">El Juez o Tribunal podrá acordar el comiso previsto en los apartados anteriores de este artículo cuando no se imponga pena a alguna persona por estar exenta de responsabilidad criminal o por haberse ésta extinguido, en este último caso, siempre que quede demostrada la situación patrimonial ilícita.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son incorrectas</ANSWER>
+<ANSWER ISCORRECT="false">46. REPRESIÓN DEL CONTRABANDO 12/1995. Se considera ?áreas exentas?:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 1. Definiciones. A los efectos de la presente Ley se entenderá por:
+10. ?Áreas exentas?: las zonas y depósitos francos y los depósitos aduaneros definidos en los artículos 148 y 153 del Reglamento (CE) n.º 450/2008, del Parlamento Europeo y del Consejo, de 23 de abril de 2008, por el que se establece el Código Aduanero Comunitario (Código Aduanero Modernizado), así como, en general, cualquier almacén, zona o ubicación en la que se depositen o almacenen mercancías no comunitarias en situación de depósito temporal a la espera de ser declaradas para un régimen aduanero.
+">
+<ANSWER ISCORRECT="false">El territorio aduanero de la UE</ANSWER>
+<ANSWER ISCORRECT="false">El territorio aduanero español</ANSWER>
+<ANSWER ISCORRECT="false">Ceuta, Melilla e Islas Canarias</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Las zonas francas">
+<ANSWER ISCORRECT="false">47. REPRESIÓN DEL CONTRABANDO 12/1995. La ocultación o sustracción de cualquier clase de mercancías a la acción de la Administración aduanera dentro de los recintos o lugares habilitados equivale a:</ANSWER>
+<ANSWER ISCORRECT="true">La no presentación</ANSWER>
+<ANSWER ISCORRECT="false">Delito siempre</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Infracción leve, grave o muy grave">
+<ANSWER ISCORRECT="false">Infracción tributaria muy grave</ANSWER>
+<ANSWER ISCORRECT="false">48. REPRESIÓN DEL CONTRABANDO 12/1995. Aquellos que realicen operaciones de comercio de mercancías no comunitarias de lícito comercio, sin cumplir los requisitos legalmente establecidos para acreditar su lícita importación, incurren en delito de contrabando:</ANSWER>
+<ANSWER ISCORRECT="false">Si el valor de los géneros o efectos es superior a 150.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Si el valor de los géneros o efectos es superior a 50.000 euros">
+<ANSWER ISCORRECT="true">Si el valor de los géneros o efectos es igual o superior a 150.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Siempre</ANSWER>
+<ANSWER ISCORRECT="false">49. REPRESIÓN DEL CONTRABANDO 12/1995. Los que exporten material de defensa sin autorización incurren en:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 2. Tipificación del delito.
+2. Cometen delito de contrabando, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 50.000 euros, los que realicen alguno de los siguientes hechos:
+c) Importen, exporten, introduzcan, expidan o realicen cualquier otra operación sujeta al control previsto en la normativa correspondiente referido a las mercancías sometidas al mismo por alguna de las disposiciones siguientes:
+1.º La normativa reguladora del comercio exterior de material de defensa, de otro material o de productos y tecnologías de doble uso sin la autorización a la que hace referencia el capítulo II de la Ley 53/2007, o habiéndola obtenido bien mediante su solicitud con datos o documentos falsos en relación con la naturaleza o el destino último de tales productos o bien de cualquier otro modo ilícito.
+">
+<ANSWER ISCORRECT="false">Delito contra la Defensa Nacional</ANSWER>
+<ANSWER ISCORRECT="false">Delito contra la Seguridad Exterior del Estado</ANSWER>
+<ANSWER ISCORRECT="true">Delito de contrabando si su valor es igual o superior a 50.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Delito de contrabando si su valor es igual o superior a 150.000 euros">
+<ANSWER ISCORRECT="false">50. REPRESIÓN DEL CONTRABANDO 12/1995. Los que realicen operaciones de importación, exportación, comercio, tenencia, circulación de los Especímenes de fauna y flora silvestres y sus partes y productos, de especies recogidas en el Convenio de Washington, o en el Reglamento (CE) n.º 338/1997 del Consejo, sin cumplir los requisitos legalmente establecidos, cometen delito de contrabando:</ANSWER>
+<ANSWER ISCORRECT="false">Delito de contrabando siempre</ANSWER>
+<ANSWER ISCORRECT="false">Delito leve contra la fauna y la flora</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Delito de contrabando si su valor es igual o superior a 50.000 euros">
+<ANSWER ISCORRECT="false">Delito de contrabando si su valor es igual o superior a 150.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">51. REPRESIÓN DEL CONTRABANDO 12/1995. El que importe drogas tóxicas o estupefacientes, incurre en delito de contrabando:</ANSWER>
+<ANSWER ISCORRECT="false">Si su valor es superior a 50.000 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Si su valor es igual o superior a 150.000 euros">
+<ANSWER ISCORRECT="true">Aunque el valor sea inferior a 15.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Si su valor es igual o superior a 50.000 euros</ANSWER>
+<ANSWER ISCORRECT="false">52. REPRESIÓN DEL CONTRABANDO 12/1995. A los efectos de esta Ley se entenderá por ?Autoridad aduanera?:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 1. Definiciones. A los efectos de la presente Ley se entenderá por:
+5. ?Autoridad aduanera?: el Departamento de Aduanas e Impuestos Especiales y los servicios de las Delegaciones Especiales y Delegaciones de la Agencia Estatal de Administración Tributaria encargados del control aduanero de conformidad con las normas de organización de la Agencia.
+">
+<ANSWER ISCORRECT="false">El Ministerio de Hacienda</ANSWER>
+<ANSWER ISCORRECT="true">El departamento de aduanas e impuestos especiales y los servicios de las delegaciones especiales y delegaciones de la agencia estatal de administración tributaria</ANSWER>
+<ANSWER ISCORRECT="false">El Servicio Fiscal y de Fronteras de la Guardia Civil</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La Autoridad Portuaria">
+<ANSWER ISCORRECT="false">53. REPRESIÓN DEL CONTRABANDO 12/1995. No se procederá al comiso de los bienes, efectos e instrumentos del contrabando cuando estos:</ANSWER>
+<ANSWER ISCORRECT="false">Sean de lícito comercio </ANSWER>
+<ANSWER ISCORRECT="false">Sean propiedad o hayan sido adquiridos por un tercero de buena fe</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Sean de ilícito comercio y sean propiedad o hayan sido adquiridos por un tercero de buena fe">
+<ANSWER ISCORRECT="true">A y B conjuntamente</ANSWER>
+<ANSWER ISCORRECT="false">54. REPRESIÓN DEL CONTRABANDO 12/1995. Comiso. ¿Quién podrá acordar el comiso de los bienes, efectos e instrumentos del contrabando cuando según la Ley, aun cuando no se imponga pena a alguna persona por estar exenta de responsabilidad criminal o por haberse ésta extinguido, en este último caso, siempre que quede demostrada la situación patrimonial ilícita?</ANSWER>
+<ANSWER ISCORRECT="false">Autoridad Aduanera</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Administrador de Aduanas">
+<ANSWER ISCORRECT="true">La autoridad judicial</ANSWER>
+<ANSWER ISCORRECT="false">Ministro de Economía y Hacienda</ANSWER>
+<ANSWER ISCORRECT="false">55. REPRESIÓN DEL CONTRABANDO 12/1995. Se apreciará reiteración en la graduación de las sanciones, cuando el sujeto infractor haya sido sancionado por:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 12 bis. Graduación de las sanciones.
+1. Las sanciones por infracciones administrativas de contrabando se graduarán atendiendo en cada caso concreto a los siguientes criterios:
+a) La reiteración. Se apreciará reiteración cuando el sujeto infractor haya sido sancionado por cualquier infracción administrativa de contrabando en resolución administrativa firme o condenado por delito de contrabando por sentencia judicial firme, en ambos casos, dentro de los cinco años anteriores a la fecha de la comisión de la infracción.
+">
+<ANSWER ISCORRECT="true">Cualquier infracción administrativa de contrabando en resolución administrativa firme dentro de los cinco años anteriores a la fecha de la comisión de la infracción</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier infracción administrativa de contrabando en resolución administrativa firme dentro de los seis años anteriores a la fecha de la comisión de la infracción</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier infracción administrativa de contrabando en resolución administrativa firme dentro de los cuatro años anteriores a la fecha de la comisión de la infracción</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Cualquier infracción administrativa de contrabando en resolución administrativa firme dentro de los tres años anteriores a la fecha de la comisión de la infracción">
+<ANSWER ISCORRECT="false">56. REPRESIÓN DEL CONTRABANDO 12/1995. Las infracciones administrativas de contrabando se clasifican en leves, graves y muy graves, según el valor de los bienes, mercancías, géneros o efectos objeto de las mismas, conforme a las cuantías siguientes:</ANSWER>
+<ANSWER ISCORRECT="false">Leves: inferior a 1.000 euros cuando se trate de labores del tabaco</ANSWER>
+<ANSWER ISCORRECT="false">Graves: entre 1.000 euros y 6.000 euros si se trata de labores del tabaco</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Muy graves: superior a 6.000 euros cuando se trate de labores del tabaco">
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">57. REPRESIÓN DEL CONTRABANDO 12/1995. A los efectos de esta Ley se entenderá por ?Géneros o efectos estancados?:</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías cuya importación, exportación, circulación, tenencia, comercio o producción estén prohibidos expresamente por tratado o convenio suscrito por España, por disposición con rango de ley o por reglamento de la Unión EuropeaPrincipio del formulario</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Los artículos, productos o sustancias cuya producción, adquisición, distribución o cualquiera otra actividad concerniente a los mismos sea atribuida por ley al Estado con carácter de monopolio, así como las labores del tabaco y todos aquellos a los que por ley se otorgue dicha condición">
+<ANSWER ISCORRECT="false">A y BPrincipio del formulario</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta</ANSWER>
+<ANSWER ISCORRECT="false">58. REPRESIÓN DEL CONTRABANDO 12/1995. A los efectos de esta Ley se entenderá por ?Géneros prohibidos?:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 1. Definiciones. A los efectos de la presente Ley se entenderá por:
+12. ?Géneros prohibidos?: todos aquellos cuya importación, exportación, circulación, tenencia, comercio o producción estén prohibidos expresamente por tratado o convenio suscrito por España, por disposición con rango de ley o por reglamento de la Unión Europea. El carácter de prohibido se limitará para cada género a la realización de la actividad o actividades que de modo expreso se determinen en la norma que establezca la prohibición y por el tiempo que la misma señale.
+">
+<ANSWER ISCORRECT="false">Todos aquellos cuya importación o exportación estén prohibidos expresamente por tratado o convenio suscrito por España, por disposición con rango de ley o por reglamento de la Unión EuropeaPrincipio del formulario</ANSWER>
+<ANSWER ISCORRECT="false">Todos aquellos cuya circulación o tenencia estén prohibidos expresamente por tratado o convenio suscrito por España, por disposición con rango de ley o por reglamento de la Unión EuropeaPrincipio del formulario</ANSWER>
+<ANSWER ISCORRECT="false">Todos aquellos cuyo comercio o producción estén prohibidos expresamente por tratado o convenio suscrito por España, por disposición con rango de ley o por reglamento de la Unión EuropeaPrincipio del formulario</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Todas son correctasPrincipio del formulario">
+<ANSWER ISCORRECT="false">59. REPRESIÓN DEL CONTRABANDO 12/1995. A los efectos de esta Ley se entenderá por ?precursores de drogas?, señale la INCORRECTA.</ANSWER>
+<ANSWER ISCORRECT="false">Las sustancias y productos susceptibles de ser utilizados en el cultivo o la producción de drogas tóxicas, estupefacientes o sustancias psicotrópicas enumeradas en la Convención de Naciones Unidas, hecha en Viena el 20 de diciembre de 1988</ANSWER>
+<ANSWER ISCORRECT="false">Las sustancias y productos susceptibles de ser utilizados en la fabricación de drogas tóxicas, estupefacientes o sustancias psicotrópicas enumeradas en los cuadros I y II de la Convención de Naciones Unidas, hecha en Viena el 20 de diciembre de 1988</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Las sustancias y productos susceptibles de ser utilizados en el comercio de drogas tóxicas, estupefacientes o sustancias psicotrópicas enumeradas en los cuadros I y II de la Convención de Naciones Unidas, hecha en Viena el 20 de diciembre de 1988">
+<ANSWER ISCORRECT="false">Todas son correctasPrincipio del formulario</ANSWER>
+<ANSWER ISCORRECT="false">60. REPRESIÓN DEL CONTRABANDO 12/1995. A los efectos de esta Ley se entenderá por ?recinto aduanero? todo lugar habilitado por los órganos competentes del Ministerio de Economía y Hacienda para:</ANSWER>
+<ANSWER ISCORRECT="false">La presentación en aduana de las mercancías no comunitarias que no hayan sido introducidas en el territorio español</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-La presentación en aduana de las mercancías comunitarias que hayan sido introducidas en el territorio de las Ciudades Autónomas de Ceuta y Melilla">
+<ANSWER ISCORRECT="false">El sometimiento a vigilancia aduanera de las mercancías no comunitarias declaradas para el régimen de exportación, de perfeccionamiento pasivo, de tránsito o de depósito aduanero, desde el momento de la admisión de la correspondiente declaración en aduanas</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctasPrincipio del formulario</ANSWER>
+<ANSWER ISCORRECT="false">61. REPRESIÓN DEL CONTRABANDO 12/1995. NO cometen delito de contrabando, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 50.000 euros, los que realicen alguno de los siguientes hechos:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 2. Tipificación del delito.
+2. Cometen delito de contrabando, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 50.000 euros, los que realicen alguno de los siguientes hechos:
+a) Exporten o expidan bienes que integren el Patrimonio Histórico Español sin la autorización de la Administración competente cuando ésta sea necesaria, o habiéndola obtenido bien mediante su solicitud con datos o documentos falsos en relación con la naturaleza o el destino último de tales productos o bien de cualquier otro modo ilícito.
+b) Realicen operaciones de importación, exportación, comercio, tenencia, circulación de:
+Géneros estancados o prohibidos, incluyendo su producción o rehabilitación, sin cumplir los requisitos establecidos en las leyes.
+Especímenes de fauna y flora silvestres y sus partes y productos, de especies recogidas en el Convenio de Washington, de 3 de marzo de 1973, o en el Reglamento (CE) n.º 338/1997 del Consejo, de 9 de diciembre de 1996, sin cumplir los requisitos legalmente establecidos.
+c) Importen, exporten, introduzcan, expidan o realicen cualquier otra operación sujeta al control previsto en la normativa correspondiente referido a las mercancías sometidas al mismo por alguna de las disposiciones siguientes?
+">
+<ANSWER ISCORRECT="false">Exporten o expidan bienes que integren el Patrimonio Histórico Español sin la autorización de la Administración competente cuando ésta sea necesaria, o habiéndola obtenido bien mediante su solicitud con datos o documentos falsos en relación con la naturaleza o el destino último de tales productos o bien de cualquier otro modo ilícito</ANSWER>
+<ANSWER ISCORRECT="true">Realicen operaciones de importación, exportación, comercio, tenencia, circulación de géneros estancados o prohibidos, incluyendo su producción o rehabilitación, cumpliendo los requisitos establecidos en las leyes</ANSWER>
+<ANSWER ISCORRECT="false">Importen, exporten, introduzcan, expidan o realicen cualquier otra operación sujeta al control previsto en la normativa correspondiente referido a las mercancías sometidas a la normativa reguladora del comercio exterior de material de defensa, de otro material o de productos y tecnologías de doble uso sin la autorización a la que hace referencia la Ley 53/2007</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Todas son correctasPrincipio del formulario">
+<ANSWER ISCORRECT="false">62. REPRESIÓN DEL CONTRABANDO 12/1995. El Juez o Tribunal acordará la intervención de los bienes, efectos e instrumentos que constituyan el objeto del delito de contrabando:</ANSWER>
+<ANSWER ISCORRECT="false">De forma definitiva</ANSWER>
+<ANSWER ISCORRECT="false">Sólo a petición del Abogado del Estado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Si el Ministerio Fiscal no se opone">
+<ANSWER ISCORRECT="true">A resultas de lo que se decida en la resolución que ponga término al proceso</ANSWER>
+<ANSWER ISCORRECT="false">63. REPRESIÓN DEL CONTRABANDO 12/1995. El uso de los bienes intervenidos por delito de contrabando, que no sean enajenables:</ANSWER>
+<ANSWER ISCORRECT="false">Está prohibido</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Podrá ser autorizado previa subasta pública">
+<ANSWER ISCORRECT="true">Quedará adscrito a las fuerzas o servicios encargados de la persecución del contrabando</ANSWER>
+<ANSWER ISCORRECT="false">Podrá ser autorizado al público a petición el Ministerio Fiscal</ANSWER>
+<ANSWER ISCORRECT="false">64. REPRESIÓN DEL CONTRABANDO 12/1995. Los bienes intervenidos podrán ser enajenados, si éste fuere su destino final procedente, sin esperar al pronunciamiento o firmeza del fallo:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 7. Enajenación anticipada.
+1. Los bienes, efectos e instrumentos intervenidos podrán ser enajenados, si éste fuere su destino final procedente, sin esperar al pronunciamiento o firmeza del fallo en los siguientes casos:
+a) Cuando su propietario haga expreso abandono de ellos.
+b) Cuando la autoridad judicial estime que su conservación pueda resultar peligrosa para la salud o seguridad pública o dar lugar a disminución importante de su valor. Se entenderán comprendidos en este apartado las mercancías, géneros o efectos que sin sufrir deterioro material se deprecian por el transcurso del tiempo.
+">
+<ANSWER ISCORRECT="false">Falso</ANSWER>
+<ANSWER ISCORRECT="false">Cuando su propietario haga expreso abandono de ellos</ANSWER>
+<ANSWER ISCORRECT="true">B y D</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Cuando la autoridad judicial estime que su conservación pueda resultar peligrosa para la salud o seguridad púbica o dar lugar a disminución importante de su valor ">
+<ANSWER ISCORRECT="false">65. REPRESIÓN DEL CONTRABANDO RD. Las diligencias por infracciones administrativas se extenderán:</ANSWER>
+<ANSWER ISCORRECT="false">En un único ejemplar</ANSWER>
+<ANSWER ISCORRECT="false">Por duplicado </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Por triplicado">
+<ANSWER ISCORRECT="false">Por cuadruplicado</ANSWER>
+<ANSWER ISCORRECT="false">66. REPRESIÓN DEL CONTRABANDO RD. Cuando el sujeto infractor haya sido sancionado, por infracción administrativa de contrabando, una vez en el periodo de cinco años en resolución administrativa firme, las sanciones se incrementarán en:</ANSWER>
+<ANSWER ISCORRECT="false">Sanciones pecuniarias por infracción leve: entre 15 y 20 puntos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Sanción pecuniaria por infracción grave entre 30 y 40 puntos">
+<ANSWER ISCORRECT="false">Sanciones pecuniarias por infracción muy grave: entre 15 y 20 puntos</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">67. REPRESIÓN DEL CONTRABANDO RD. ¿Cuándo prescriben las sanciones impuestas por infracciones administrativas de contrabando?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 4.?Prescripción de la infracción.
+1.?Las infracciones administrativas de contrabando prescriben a los cinco años a contar desde la fecha de su comisión.
+">
+<ANSWER ISCORRECT="true">A los cinco años, a contar desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción</ANSWER>
+<ANSWER ISCORRECT="false">A los tres años, a contar desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción</ANSWER>
+<ANSWER ISCORRECT="false">A los cuatro años, a contar desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="A los seis años, a contar desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción">
+<ANSWER ISCORRECT="false">68. REPRESIÓN DEL CONTRABANDO RD. ¿Cómo se aplicará la prescripción de una sanción?</ANSWER>
+<ANSWER ISCORRECT="false">De oficio</ANSWER>
+<ANSWER ISCORRECT="false">Sin necesidad de que se invoque por el sujeto infractor</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Sin necesidad de que se excepcione por el sujeto infractor">
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">69. REPRESIÓN DEL CONTRABANDO RD. Toda sanción que se imponga por una infracción administrativa de contrabando llevará consigo el comiso de los siguientes bienes, efectos e instrumentos, señale la CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="false">Las mercancías que no constituyan el objeto de la infracción</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Los materiales, instrumentos o maquinaria empleados en la fabricación, elaboración, transformación o comercio de los géneros estancados o prohibidos">
+<ANSWER ISCORRECT="false">Las ganancias obtenidas de la producción, cualesquiera que sean las transformaciones que hubieran podido experimentar</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">70. REPRESIÓN DEL CONTRABANDO RD. NO son órganos competentes para acordar e imponer las sanciones consistentes en multa, decretar el comiso de los bienes, efectos e instrumentos intervenidos y, en su caso, ordenar la enajenación anticipada de los mismos:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 16.?Órganos competentes.
+1.?Competencia para acordar e imponer sanciones consistentes en multa. Son órganos competentes para acordar e imponer las sanciones consistentes en multa, decretar el comiso de los bienes, efectos e instrumentos intervenidos y, en su caso, ordenar la enajenación anticipada de los mismos, los Administradores de Aduanas e Impuestos Especiales, los Interventores de Territorio Franco, los Jefes de Dependencia de Aduanas e Impuestos Especiales y el Director del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.
+">
+<ANSWER ISCORRECT="true">Los Administradores de Aduanas e Impuestos Excepcionales</ANSWER>
+<ANSWER ISCORRECT="false">Los Interventores de Territorio Español</ANSWER>
+<ANSWER ISCORRECT="false">Los Jefes de Dependencia de Aduanas e Impuestos Especiales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Todos son competentes">
+<ANSWER ISCORRECT="false">71. REPRESIÓN DEL CONTRABANDO RD. ¿Quién es competente para acordar el cierre de establecimientos por infracciones administrativas de contrabando relacionadas con las labores del tabaco?</ANSWER>
+<ANSWER ISCORRECT="false">Los Administradores de Aduanas e Impuestos Especiales</ANSWER>
+<ANSWER ISCORRECT="true">El Director del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Los Interventores de Territorio Español">
+<ANSWER ISCORRECT="false">Los Jefes de Dependencia de Aduanas e Impuestos Especiales</ANSWER>
+<ANSWER ISCORRECT="false">72. REPRESIÓN DEL CONTRABANDO RD. ¿Quién es competente para iniciar e instruir el procedimiento sancionador, por las infracciones administrativas de contrabando?</ANSWER>
+<ANSWER ISCORRECT="false">Las Secciones de contrabando de las Administraciones de Aduanas e Impuestos Especiales de la provincia en la que se haya descubierto la infracción</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="En su caso, las Intervenciones de Territorio Franco">
+<ANSWER ISCORRECT="false">La Sección de Aduanas e Impuestos Especiales de la Delegación de la Agencia Estatal de Administración Tributaria en las provincias en las que no exista Administración de Aduanas</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">73. REPRESIÓN DEL CONTRABANDO RD. ¿Qué plazo máximo habrá para resolver el procedimiento?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 35.?Resolución del procedimiento.
+5.?El plazo máximo para resolver el procedimiento será de seis meses desde la fecha del acuerdo de iniciación. 
+">
+<ANSWER ISCORRECT="false">Tres meses desde la fecha del acuerdo de iniciación</ANSWER>
+<ANSWER ISCORRECT="true">Seis meses desde la fecha del acuerdo de iniciación</ANSWER>
+<ANSWER ISCORRECT="false">Seis meses o un año dependiendo del tipo de mercancía, desde la fecha del acuerdo de iniciación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Un año desde la fecha del acuerdo de iniciación">
+<ANSWER ISCORRECT="false">74. REPRESIÓN DEL CONTRABANDO RD. Procedimiento sancionador. los interesados podrán formular alegaciones y aportar los documentos o elementos de juicio que estimen convenientes:</ANSWER>
+<ANSWER ISCORRECT="false">En cualquier momento del trámite de audiencia</ANSWER>
+<ANSWER ISCORRECT="true">Con anterioridad al trámite de audiencia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Antes de finalizar el trámite de audiencia">
+<ANSWER ISCORRECT="false">Cuando le sea notificado el procedimiento</ANSWER>
+<ANSWER ISCORRECT="false">75. REPRESIÓN DEL CONTRABANDO RD. Salvo prueba en contrario, si las mercancías se encuentran contenidas en dobles fondos, que racionalmente suponga un ánimo doloso se considerará:</ANSWER>
+<ANSWER ISCORRECT="false">Delito</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Infracción Administrativa">
+<ANSWER ISCORRECT="true">Ocultación</ANSWER>
+<ANSWER ISCORRECT="false">A o B</ANSWER>
+<ANSWER ISCORRECT="false">76. REPRESIÓN DEL CONTRABANDO RD. Para la aplicación de los criterios de graduación de las infracciones administrativas de contrabando se partirá:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 6.?Criterios de graduación de las sanciones.
+3.?Para la aplicación de los criterios de graduación se partirá de la sanción en su límite inferior. Los criterios de graduación son aplicables simultáneamente.
+">
+<ANSWER ISCORRECT="false">De la sanción en su límite superior</ANSWER>
+<ANSWER ISCORRECT="true">De la sanción en su límite inferior </ANSWER>
+<ANSWER ISCORRECT="false">De la sanción en su mitad superior</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="De la sanción en su mitad inferior">
+<ANSWER ISCORRECT="false">77. REPRESIÓN DEL CONTRABANDO RD. Las infracciones administrativas de contrabando relativas a las labores del tabaco pueden ser sancionadas con el cierre de los establecimientos de los que los infractores sean titulares durante un período de tiempo de 3 meses y un día a 9 meses, si la infracción es:</ANSWER>
+<ANSWER ISCORRECT="false">Leve</ANSWER>
+<ANSWER ISCORRECT="true">Grave</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Muy grave">
+<ANSWER ISCORRECT="false">Ninguna es correcta puesto que el período es de 6 meses y un día a 2 años</ANSWER>
+<ANSWER ISCORRECT="false">78. REPRESIÓN DEL CONTRABANDO RD. En el procedimiento por infracciones administrativas de contrabando, las actuaciones de las autoridades y fuerzas competentes para su descubrimiento y persecución, deberán formalizarse mediante diligencias que pueden ser:</ANSWER>
+<ANSWER ISCORRECT="false">Providencias o autos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-De aprehensión o descubrimiento">
+<ANSWER ISCORRECT="false">Intervención o incautación</ANSWER>
+<ANSWER ISCORRECT="false">Sanciones o prohibiciones</ANSWER>
+<ANSWER ISCORRECT="false">79. REPRESIÓN DEL CONTRABANDO RD. En el caso en el que no tenga lugar la aprehensión de los bienes objeto de la infracción, las diligencias se denominan:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 23.?Diligencias de aprehensión o descubrimiento.
+Serán de descubrimiento cuando no tenga lugar la aprehensión de los bienes, efectos e instrumentos.
+">
+<ANSWER ISCORRECT="false">De hallazgo</ANSWER>
+<ANSWER ISCORRECT="true">De descubrimiento</ANSWER>
+<ANSWER ISCORRECT="false">De intervención</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="De incautación">
+<ANSWER ISCORRECT="false">80. REPRESIÓN DEL CONTRABANDO RD. La prescripción de la sanción, señale la CORRECTA.</ANSWER>
+<ANSWER ISCORRECT="false">No se aplica de oficio</ANSWER>
+<ANSWER ISCORRECT="true">C y D</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Se aplica de oficio">
+<ANSWER ISCORRECT="false">No necesita ser invocada por el sujeto infractor</ANSWER>
+<ANSWER ISCORRECT="false">81. CÓDIGO ADUANERO DE LA UNIÓN. Forman parte del Territorio Aduanero de la Unión:</ANSWER>
+<ANSWER ISCORRECT="false">Ceuta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Melilla">
+<ANSWER ISCORRECT="true">Las Islas Canarias</ANSWER>
+<ANSWER ISCORRECT="false">Ninguno de los anteriores</ANSWER>
+<ANSWER ISCORRECT="false">82. CÓDIGO ADUANERO DE LA UNIÓN. Forman parte del Territorio Aduanero de la Unión:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 4. Territorio aduanero
+2. Habida cuenta de los convenios y tratados que les son aplicables, se considerarán parte integrante del territorio aduanero de la Unión los territorios situados fuera del territorio de los Estados miembros que se indican a continuación, incluidos su mar territorial, sus aguas interiores y su espacio aéreo:
+a) FRANCIA
+El territorio de Mónaco, tal y como se define en el Convenio aduanero firmado en París el 18 de mayo de 1963.
+">
+<ANSWER ISCORRECT="false">Ceuta</ANSWER>
+<ANSWER ISCORRECT="false">Melilla</ANSWER>
+<ANSWER ISCORRECT="true">Mónaco</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ninguno de los anteriores">
+<ANSWER ISCORRECT="false">83. CÓDIGO ADUANERO DE LA UNIÓN. La obligación que tiene una persona de pagar los derechos de importación aplicables a una determinada mercancía con arreglo a las disposiciones de la UE vigentes, recibe el nombre de:</ANSWER>
+<ANSWER ISCORRECT="false">Débito fiscal</ANSWER>
+<ANSWER ISCORRECT="false">Obligación tributaria</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Declaración tributaria">
+<ANSWER ISCORRECT="true">Deuda aduanera</ANSWER>
+<ANSWER ISCORRECT="false">84. CÓDIGO ADUANERO DE LA UNIÓN. Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales:</ANSWER>
+<ANSWER ISCORRECT="false">El tránsito, que excluirá el tránsito interno y el tránsito externo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El depósito, que excluirá el depósito aduanero y las zonas francas">
+<ANSWER ISCORRECT="false">Destinos especiales, que excluirá la importación temporal y el destino final</ANSWER>
+<ANSWER ISCORRECT="true">El perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo</ANSWER>
+<ANSWER ISCORRECT="false">85. CÓDIGO ADUANERO DE LA UNIÓN. Misión de las autoridades aduaneras. Las autoridades aduaneras serán responsables de supervisar el comercio internacional de la Unión, debiendo contribuir ?. Las autoridades aduaneras adoptarán medidas destinadas, en particular, a:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 3. Misión de las autoridades aduaneras
+Las autoridades aduaneras serán responsables de supervisar el comercio internacional de la Unión, debiendo contribuir a un comercio justo y abierto, a la aplicación de los aspectos externos del mercado interior y a la ejecución de la política comercial común y de las restantes políticas comunes de la Unión relacionadas con el comercio, así como a la seguridad global de la cadena de suministros. Las autoridades aduaneras adoptarán medidas destinadas, en particular, a:
+a) proteger los intereses financieros de la Unión y de sus Estados miembros;
+b) proteger a la Unión del comercio desleal e ilegal, apoyando al mismo tiempo las actividades comerciales legítimas;
+c) garantizar la seguridad y protección de la Unión y de sus residentes, y la protección del medio ambiente, actuando, cuando proceda, en estrecha cooperación con otras autoridades; y
+d) mantener un equilibrio adecuado entre los controles aduaneros y la facilitación del comercio legítimo.
+">
+<ANSWER ISCORRECT="false">Proteger los intereses financieros de la Unión y de sus Estados miembro</ANSWER>
+<ANSWER ISCORRECT="false">Proteger a la Unión del comercio desleal e ilegal, apoyando al mismo tiempo las actividades comerciales legítimas</ANSWER>
+<ANSWER ISCORRECT="false">Garantizar la seguridad y protección de la Unión y de sus residentes, y la protección del medio ambiente, actuando, cuando proceda, en estrecha cooperación con otras autoridades</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Todas son correctas">
+<ANSWER ISCORRECT="false">86. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «controles aduaneros» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">Los actos específicos efectuados por los sujetos obligados ante las autoridades aduaneras para garantizar el cumplimiento de la legislación aduanera y las demás disposiciones sobre entrada, salida, tránsito, circulación, depósito y destino final de las mercancías que circulen entre el territorio aduanero de la Unión</ANSWER>
+<ANSWER ISCORRECT="true">Los actos específicos efectuados por las autoridades aduaneras para garantizar el cumplimiento de la legislación aduanera y las demás disposiciones sobre entrada, salida, tránsito, circulación, depósito y destino final de las mercancías que circulen entre el territorio aduanero de la Unión</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Los actos realizados por toda persona física o jurídica, así como cualquier asociación de personas que no sea una persona jurídica pero cuya capacidad para realizar actos jurídicos esté reconocida por el Derecho de la Unión o el nacional">
+<ANSWER ISCORRECT="false">Los actos en el que una persona que, en el ejercicio de su actividad profesional, intervenga en actividades a las que se aplique la legislación aduanera</ANSWER>
+<ANSWER ISCORRECT="false">87. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «operador económico» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">Las administraciones de aduanas de los Estados miembros competentes para aplicar la legislación aduanera, así como cualquier otra autoridad que esté facultada con arreglo al Derecho nacional</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Toda persona física o jurídica, así como cualquier asociación de personas que no sea una persona jurídica pero cuya capacidad para realizar actos jurídicos esté reconocida por el Derecho Internacional">
+<ANSWER ISCORRECT="false">Toda persona física o jurídica, así como cualquier asociación de personas que no sea una persona jurídica pero cuya capacidad para realizar actos jurídicos esté reconocida por el Derecho de la Unión o el nacional</ANSWER>
+<ANSWER ISCORRECT="true">Una persona que, en el ejercicio de su actividad profesional, intervenga en actividades a las que se aplique la legislación aduanera</ANSWER>
+<ANSWER ISCORRECT="false">88. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «legislación aduanera» a los efectos del presente código?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 5. Definiciones
+A los efectos del presente código, se entenderá por:
+2) 'legislación aduanera': el cuerpo legal integrado por:
+a) el código y las disposiciones para completarlo o para su ejecución, adoptadas a nivel de la Unión o a nivel nacional;
+b) el arancel aduanero común;
+c) la legislación relativa al establecimiento de un régimen de la Unión de franquicias aduaneras; d) los acuerdos internacionales que contengan disposiciones aduaneras aplicables en la Unión;
+">
+<ANSWER ISCORRECT="false">El cuerpo legal integrado por el código y las disposiciones para completarlo o para su ejecución, adoptadas a nivel del Consejo de Europa o a nivel nacional</ANSWER>
+<ANSWER ISCORRECT="true">El cuerpo legal integrado por el arancel aduanero común</ANSWER>
+<ANSWER ISCORRECT="false">El cuerpo legal integrado por la legislación relativa al establecimiento de un régimen del territorio Schengen de franquicias aduaneras</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Todas son correctas">
+<ANSWER ISCORRECT="false">89. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «declaración sumaria de entrada» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de incluir las mercancías en un determinado régimen aduanero, con mención, en su caso, de las disposiciones particulares que deban aplicarse</ANSWER>
+<ANSWER ISCORRECT="false">Todas las declaraciones que tengan que ser efectuadas por las personas y por las autoridades aduaneras para cumplir con la legislación aduanera</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-El acto por el que una persona informa a las autoridades aduaneras, en la forma y modo establecidos, y dentro de un plazo concreto, de que determinadas mercancías van a entrar en territorio aduanero de la Unión">
+<ANSWER ISCORRECT="false">El acto por el que una persona informa a las autoridades aduaneras, en la forma y el modo establecidos, y dentro de un plazo concreto, de que determinadas mercancías van a salir del territorio aduanero de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">90. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «declaración sumaria de salida» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de incluir las mercancías en un determinado régimen aduanero, con mención, en su caso, de las disposiciones particulares que deban aplicarse</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Todas las declaraciones que tengan que ser efectuadas por las personas y por las autoridades aduaneras para cumplir con la legislación aduanera">
+<ANSWER ISCORRECT="false">El acto por el que una persona informa a las autoridades aduaneras, en la forma y el modo establecidos, y dentro de un plazo concreto, de que determinadas mercancías van a entrar en el territorio aduanero de la Unión</ANSWER>
+<ANSWER ISCORRECT="true">El acto por el que una persona informa a las autoridades aduaneras, en la forma y el modo establecidos, y dentro de un plazo concreto, de que determinadas mercancías van a salir del territorio aduanero de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">91. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «riesgo» a los efectos del presente código?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 5. Definiciones
+A los efectos del presente código, se entenderá por:
+7) 'riesgo': la probabilidad de que se produzca un hecho y su impacto en relación con la entrada, salida, tránsito, circulación o destino final de las mercancías que circulen entre el territorio aduanero de la Unión y otros países o territorios situados fuera de aquel, o con la presencia en el territorio aduanero de la Unión de mercancías no pertenecientes a la Unión, que:
+a) impida la correcta aplicación de disposiciones de la Unión o nacionales;
+b) comprometa los intereses financieros de la Unión y de sus Estados miembros; o
+c) constituya una amenaza para la seguridad y protección de la Unión y de sus residentes, para la salud pública, la sanidad animal o la Fito sanidad, para el medio ambiente o para los consumidores;
+">
+<ANSWER ISCORRECT="false">La probabilidad de que se produzca un hecho y su impacto en relación con la entrada, salida, tránsito, circulación o destino final de las mercancías que circulen entre el territorio aduanero de la Unión y otros países o territorios situados fuera de aquel, o con la presencia en el territorio aduanero de la Unión de mercancías no pertenecientes a la Unión, que impida la correcta aplicación de disposiciones de la Unión o nacionales</ANSWER>
+<ANSWER ISCORRECT="false">La probabilidad de que se produzca un hecho y su impacto en relación con la entrada, salida, tránsito, circulación o destino final de las mercancías que circulen entre el territorio aduanero de la Unión y otros países o territorios situados fuera de aquel, o con la presencia en el territorio aduanero de la Unión de mercancías no pertenecientes a la Unión, que comprometa los intereses financieros de la Unión y de sus Estados miembros</ANSWER>
+<ANSWER ISCORRECT="false">La probabilidad de que se produzca un hecho y su impacto en relación con la entrada, salida, tránsito, circulación o destino final de las mercancías que circulen entre el territorio aduanero de la Unión y otros países o territorios situados fuera de aquel, o con la presencia en el territorio aduanero de la Unión de mercancías no pertenecientes a la Unión, que constituya una amenaza para la seguridad y protección de la Unión y de sus residentes, para la salud pública, la sanidad animal o la Fito sanidad, para el medio ambiente o para los consumidores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Todas son correctas">
+<ANSWER ISCORRECT="false">92. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «declaración de depósito temporal» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="true">El acto por el que una persona expresa, en la forma y el modo establecidos, que las mercancías están en depósito temporal</ANSWER>
+<ANSWER ISCORRECT="false">El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de incluir las mercancías en un determinado régimen aduanero, con mención, en su caso, de las disposiciones particulares que deban aplicarse</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de sacar del territorio aduanero de la Unión mercancías no pertenecientes a la Unión, a excepción de las que se hallen en régimen de zona franca o en depósito temporal">
+<ANSWER ISCORRECT="false">El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de sacar del territorio aduanero de la Unión mercancías no pertenecientes a la Unión en régimen de zona franca o en depósito temporal</ANSWER>
+<ANSWER ISCORRECT="false">93. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «declaración en aduana» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">El acto por el que una persona expresa, en la forma y el modo establecidos, que las mercancías están en depósito temporal</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de sacar del territorio aduanero de la Unión mercancías no pertenecientes a la Unión, a excepción de las que se hallen en régimen de zona franca o en depósito temporal">
+<ANSWER ISCORRECT="false">El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de sacar del territorio aduanero de la Unión mercancías no pertenecientes a la Unión en régimen de zona franca o en depósito temporalPrincipio del formulario</ANSWER>
+<ANSWER ISCORRECT="true">El acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de incluir las mercancías en un determinado régimen aduanero, con mención, en su caso, de las disposiciones particulares que deban aplicarse</ANSWER>
+<ANSWER ISCORRECT="false">94. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «régimen aduanero» a los efectos del presente código?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 5. Definiciones
+A los efectos del presente código, se entenderá por:
+16) 'régimen aduanero': cualquiera de los regímenes en los que puedan incluirse las mercancías con arreglo al código, a saber:
+a) despacho a libre práctica;
+b) regímenes especiales;
+c) exportación;
+">
+<ANSWER ISCORRECT="false">Cualquiera de los regímenes en los que puedan incluirse las mercancías con arreglo al código, como el despacho de libre práctica</ANSWER>
+<ANSWER ISCORRECT="false">Cualquiera de los regímenes en los que puedan incluirse las mercancías con arreglo al código, como los regímenes especiales</ANSWER>
+<ANSWER ISCORRECT="false">Cualquiera de los regímenes en los que puedan incluirse las mercancías con arreglo al código, como la exportación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-Todas son correctas">
+<ANSWER ISCORRECT="false">95. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «estatuto aduanero» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">El estatuto de una mercancía como mercancía de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">El estatuto de una mercancía como mercancía no perteneciente a la Unión</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-El estatuto de una mercancía como mercancía de la Unión o como mercancía no perteneciente a la Unión">
+<ANSWER ISCORRECT="false">Ninguna es correcta</ANSWER>
+<ANSWER ISCORRECT="false">96. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «levante de las mercancías» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">El acto por el que el usuario ponga las mercancías a disposición de los fines concretos del régimen aduanero en el que se hayan incluido</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Las tareas desempeñadas generalmente por las autoridades aduaneras para garantizar el cumplimiento de la legislación aduanera y, en su caso, el de otras disposiciones aplicables a las mercancías sujetas a dichas tareas">
+<ANSWER ISCORRECT="false">El pago de las tasas aduaneras para la libre disposición de las mercancías</ANSWER>
+<ANSWER ISCORRECT="false">El acto por el que las autoridades aduaneras pongan las mercancías a disposición de los fines concretos del régimen aduanero en el que se hayan incluido</ANSWER>
+<ANSWER ISCORRECT="false">97. CÓDIGO ADUANERO DE LA UNIÓN. Principio del formulario</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Qué se entenderá por «presentación en aduana» a los efectos del presente código?">
+<ANSWER ISCORRECT="false">La notificación a las autoridades aduaneras de la libre disposición de las mercancías</ANSWER>
+<ANSWER ISCORRECT="false">La presentación de los productos resultantes de las operaciones de transformación en el marco de los regímenes de perfeccionamiento</ANSWER>
+<ANSWER ISCORRECT="false">La notificación a las autoridades aduaneras de la salida de las mercancías a la aduana, o a cualquier otro lugar designado o autorizado por aquellas, y de su disponibilidad para los controles aduaneros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-La notificación a las autoridades aduaneras de la llegada de las mercancías a la aduana, o a cualquier otro lugar designado o autorizado por aquellas, y de su disponibilidad para los controles aduaneros">
+<ANSWER ISCORRECT="false">98. CÓDIGO ADUANERO DE LA UNIÓN. ¿Qué se entenderá por «coeficiente de rendimiento» a los efectos del presente código?</ANSWER>
+<ANSWER ISCORRECT="false">La cantidad o el porcentaje de productos no transformados que se obtengan de la transformación de una determinada cantidad de mercancías incluidas en un régimen de perfeccionamiento</ANSWER>
+<ANSWER ISCORRECT="false">La cantidad o el porcentaje de productos transformados que se obtengan del depósito de una determinada cantidad de mercancías incluidas en un régimen de perfeccionamiento</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="-La cantidad o el porcentaje de productos transformados que se obtengan de la transformación de una determinada cantidad de mercancías incluidas en un régimen de perfeccionamiento">
+<ANSWER ISCORRECT="false">Todas son correctas</ANSWER>
+<ANSWER ISCORRECT="false">99. CÓDIGO ADUANERO DE LA UNIÓN. Despacho de libre práctica. Señala la opción INCORRECTA. El despacho a libre práctica implicará:</ANSWER>
+<ANSWER ISCORRECT="false">La percepción de los derechos de importación debidos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La percepción, según proceda, de otros gravámenes, con arreglo a las disposiciones pertinentes en vigor relativas a la percepción de dichos gravámenes">
+<ANSWER ISCORRECT="true">La aplicación de medidas de política económica y de prohibiciones y restricciones en la medida en que no se hayan aplicado en una fase anterior</ANSWER>
+<ANSWER ISCORRECT="false">El cumplimiento de las demás formalidades aduaneras previstas para la importación de las mercancías</ANSWER>
+<ANSWER ISCORRECT="false">100. CÓDIGO ADUANERO DE LA UNIÓN. Son regímenes aduaneros, señale la CORRECTA.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 5. Definiciones
+A los efectos del presente código, se entenderá por:
+16) 'régimen aduanero': cualquiera de los regímenes en los que puedan incluirse las mercancías con arreglo al código, a saber:
+a) despacho a libre práctica;
+b) regímenes especiales;
+c) exportación;
+">
+<ANSWER ISCORRECT="false">Exportación</ANSWER>
+<ANSWER ISCORRECT="false">Despacho a Libre Práctica</ANSWER>
+<ANSWER ISCORRECT="false">Regímenes aduaneros especiales</ANSWER>
+</QUESTION>
+</POLL>

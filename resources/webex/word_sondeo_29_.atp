@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="¿Quién es el padre de la Sociología? ">
+<ANSWER ISCORRECT="false">Durkheim</ANSWER>
+<ANSWER ISCORRECT="false">Tylor</ANSWER>
+<ANSWER ISCORRECT="true">Comte</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="?Maneras de ser, o de obrar que una persona o una colectividad juzgan ideales y que hace deseables o estimables a los seres o a las conductas a los que se atribuye dicho valor? ?es una definición de los valores hecha por:">
+<ANSWER ISCORRECT="false">Milton Rokeach</ANSWER>
+<ANSWER ISCORRECT="true">Guy Rocher</ANSWER>
+<ANSWER ISCORRECT="false">L. Festinger</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cuáles son los tres elementos de la actitud?">
+<ANSWER ISCORRECT="false">El individual, social y conductual.</ANSWER>
+<ANSWER ISCORRECT="true">El cognitivo, afectivo y tendencial.</ANSWER>
+<ANSWER ISCORRECT="false">El psicológico, sociológico y temperamental</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="En su libro Opinión Pública (1922) Walter Lippmann acuñó el término estereotipo, ¿a qué se refieres este término?">
+<ANSWER ISCORRECT="true">Se refiere a generalizaciones utilizadas para clasificar grupos de personas.</ANSWER>
+<ANSWER ISCORRECT="false">Se refiere a imágenes mentales de personas u objetos con un trasfondo negativo</ANSWER>
+<ANSWER ISCORRECT="false">Se refiere a las conductas negativas realizadas por grupos de personas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Según la imagen que se tenga de otro grupo los estereotipos pueden ser:">
+<ANSWER ISCORRECT="false">Positivos o negativos</ANSWER>
+<ANSWER ISCORRECT="false">Mixtos</ANSWER>
+<ANSWER ISCORRECT="true">Las dos repuestas anteriores son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Qué significa xenofobia?">
+<ANSWER ISCORRECT="false">Significa odio, repugnancia u hostilidad hacia los nacionales</ANSWER>
+<ANSWER ISCORRECT="true">Significa odio, repugnancia u hostilidad hacia los extranjeros</ANSWER>
+<ANSWER ISCORRECT="false">Significa odio, repugnancia u hostilidad hacia uno mismo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La tendencia a responder a una persona, objeto o situación en forma positiva o negativa es la definición que corresponde a: ">
+<ANSWER ISCORRECT="false">Los valores</ANSWER>
+<ANSWER ISCORRECT="true">Las actitudes</ANSWER>
+<ANSWER ISCORRECT="false">Las emociones</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Según Rokeach el Dogmatismo se caracteriza por:">
+<ANSWER ISCORRECT="false">Personalidades abiertas, flexibles y valientes</ANSWER>
+<ANSWER ISCORRECT="false">Personalidades cerradas, flexibles y temerosas</ANSWER>
+<ANSWER ISCORRECT="true">Personalidades cerradas, rígidas y temerosas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Los microgrupos son una clase de grupos sociales según su dimensión y tamaño. ¿Por cuántos individuos forman esta clase de grupo sociales?">
+<ANSWER ISCORRECT="false">Por más de 30 miembros</ANSWER>
+<ANSWER ISCORRECT="true">Por 30 individuos </ANSWER>
+<ANSWER ISCORRECT="false">A y b son incorrectas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Quién es el que acuña el concepto de DOGMATISMO?">
+<ANSWER ISCORRECT="false">Christie, y estudia los grupos conservadores de derechas e izquierdas</ANSWER>
+<ANSWER ISCORRECT="false">Stewart y Hoult, y estudia los grupos conservadores de derechas e izquierdas</ANSWER>
+<ANSWER ISCORRECT="true">M. Rokeach, y estudia los grupos conservadores de derechas e izquierdas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Las generalizaciones excesivas originan unas imágenes mentales que atribuyen a un grupo de personas:">
+<ANSWER ISCORRECT="false">Conductas favorables (prejuicios positivos) o desfavorables (prejuicios negativos)</ANSWER>
+<ANSWER ISCORRECT="true">Características favorables (estereotipos positivos) o desfavorables (estereotipos negativos).</ANSWER>
+<ANSWER ISCORRECT="false">Una imagen destructiva e irreal del mismo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Qué dos funciones tiene la xenofobia?">
+<ANSWER ISCORRECT="false">Proyección y adjudicación</ANSWER>
+<ANSWER ISCORRECT="true">Desplazamiento y proyección</ANSWER>
+<ANSWER ISCORRECT="false">Proyección y racionalización</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Cooley acuña los conceptos de:">
+<ANSWER ISCORRECT="true">Grupo primario y secundario</ANSWER>
+<ANSWER ISCORRECT="false">Grupo de pertenencia y referencia</ANSWER>
+<ANSWER ISCORRECT="false">Intragrupo y extra grupo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿A qué llamamos DOGMATISMO?">
+<ANSWER ISCORRECT="false">Es la presunción de los que quieren que sus doctrinas y sus aseveraciones sean tenidas en cuenta y que puedan ser discutidas.</ANSWER>
+<ANSWER ISCORRECT="true">Es la presunción de los que quieren que sus doctrinas y sus aseveraciones sean tenidas en cuenta por verdades inconclusas (indudables), dando lugar a la intolerancia y al sectarismo.</ANSWER>
+<ANSWER ISCORRECT="false">A y b no son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Allport distinguió entre prejuicios de endo grupo y exogrupo. El conjunto de personas con el que nos identificamos afectivamente sería el concepto de: ">
+<ANSWER ISCORRECT="true">Endrogrupo</ANSWER>
+<ANSWER ISCORRECT="false">Intergrupo</ANSWER>
+<ANSWER ISCORRECT="false">Exogrupo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cómo se denomina la escala que elabora Adorno sobre la personalidad autoritaria?">
+<ANSWER ISCORRECT="false">Escala F de fascismo</ANSWER>
+<ANSWER ISCORRECT="true">Escala F de evaluación</ANSWER>
+<ANSWER ISCORRECT="false">Escala A de antisemitismo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Quién o quiénes de los siguientes autores definen el concepto de 'Discriminación Institucional?">
+<ANSWER ISCORRECT="false">Merton</ANSWER>
+<ANSWER ISCORRECT="false">Heinz</ANSWER>
+<ANSWER ISCORRECT="true">Carmichael y Hamilton</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El prejuicio hacia el exogrupo genera:">
+<ANSWER ISCORRECT="false">Una actitud racista</ANSWER>
+<ANSWER ISCORRECT="false">Una actitud xenófoba</ANSWER>
+<ANSWER ISCORRECT="true">ambas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Para el miembro de una banda delictiva, ésta sería su:">
+<ANSWER ISCORRECT="true">Grupo de pertenencia o referencia</ANSWER>
+<ANSWER ISCORRECT="false">Exogrupo</ANSWER>
+<ANSWER ISCORRECT="false">Grupo ajeno</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El hecho de considerar la cultura propia como patrón para medir a otras culturas, es un fenómeno conocido como:">
+<ANSWER ISCORRECT="true">Etnocentrismo</ANSWER>
+<ANSWER ISCORRECT="false">Distancia social</ANSWER>
+<ANSWER ISCORRECT="false">Endogrupo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Milton Rokeach define:">
+<ANSWER ISCORRECT="true">Figura y fondo</ANSWER>
+<ANSWER ISCORRECT="false">Figura y forma</ANSWER>
+<ANSWER ISCORRECT="false">Distancia social</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Los principios básicos de actuación se denominan:">
+<ANSWER ISCORRECT="false">Actitudes</ANSWER>
+<ANSWER ISCORRECT="true">Estereotipos</ANSWER>
+<ANSWER ISCORRECT="false">Valores sociales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="En todo conflicto grupal se distinguen claramente tres fases:">
+<ANSWER ISCORRECT="false">Primaria, secundaria, terciaria.</ANSWER>
+<ANSWER ISCORRECT="false">Inicio, desarrollo y expresión.</ANSWER>
+<ANSWER ISCORRECT="true">Latencia, desarrollo y explosión.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Refiriéndonos a personas que poseen un atributo social semejante, gracias al cual pueden ser agrupadas lógicamente, este concepto se conoce como: 	">
+<ANSWER ISCORRECT="false">Categoría social</ANSWER>
+<ANSWER ISCORRECT="true">Agregado estadístico</ANSWER>
+<ANSWER ISCORRECT="false">Grupo de referencia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La técnica de resolución de conflictos entre dos grupos en la que una tercera parte, que se supone neutral, trata de sugerir propuestas de resolución, se conoce como:">
+<ANSWER ISCORRECT="false">Negociación</ANSWER>
+<ANSWER ISCORRECT="false">Arbitraje</ANSWER>
+<ANSWER ISCORRECT="true">Mediación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Si una predisposición no es aprendida, sino innata">
+<ANSWER ISCORRECT="false">Es un prejuicio</ANSWER>
+<ANSWER ISCORRECT="true">No es una actitud</ANSWER>
+<ANSWER ISCORRECT="false">Significa que no es importante</ANSWER>
+</QUESTION>
+</POLL>

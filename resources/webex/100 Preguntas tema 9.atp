@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="Pregunta 1: ¿Cuál es el órgano encargado de dirigir la investigación de un delito en el proceso penal español, una vez el procedimiento ha sido judicializado?">
+<ANSWER ISCORRECT="true">a) El juez de instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">b) El fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">c) El abogado defensor.</ANSWER>
+<ANSWER ISCORRECT="false">d) El acusado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 2: ¿Qué función principal tiene el Ministerio Fiscal en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Juzgara los acusados.</ANSWER>
+<ANSWER ISCORRECT="false">b) Defendera los acusados.</ANSWER>
+<ANSWER ISCORRECT="true">c) Promover la acción de la justicia en defensa de la legalidad</ANSWER>
+<ANSWER ISCORRECT="false">d) Representara la víctima en el juicio.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 3: ¿Cuál es el plazo máximo de detención preventiva?">
+<ANSWER ISCORRECT="false">a) 12 horas.</ANSWER>
+<ANSWER ISCORRECT="false">b) 24 horas.</ANSWER>
+<ANSWER ISCORRECT="false">c) 48 horas.</ANSWER>
+<ANSWER ISCORRECT="true">d) 72 horas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 4: ¿Qué tribunal tiene competencia para conocer de los delitos graves en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="true">b) Audiencia Provincial.</ANSWER>
+<ANSWER ISCORRECT="false">c) Juzgado de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">d) Tribunal Supremo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 5: ¿En qué fase del proceso penal español se celebra el juicio oral?">
+<ANSWER ISCORRECT="false">a) En la fase de instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">b) En la fase de apelación.</ANSWER>
+<ANSWER ISCORRECT="false">c) En la fase de ejecución.</ANSWER>
+<ANSWER ISCORRECT="true">d) En la fase de enjuiciamiento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 6: ¿Cuál es el principio fundamental en el proceso penal español que establece que nadie puede ser juzgado dos veces por los mismos hechos?">
+<ANSWER ISCORRECT="false">a) Principio de legalidad.</ANSWER>
+<ANSWER ISCORRECT="false">b) Principio de presunción de inocencia.</ANSWER>
+<ANSWER ISCORRECT="true">c) Principio de non bis in idem.</ANSWER>
+<ANSWER ISCORRECT="false">d) Principio de igualdad procesal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 7: ¿Qué es la prisión provisional en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Una pena de cárcel impuesta por un juez.</ANSWER>
+<ANSWER ISCORRECT="true">b) Una medida cautelar que priva de libertad al acusado durante la investigación.</ANSWER>
+<ANSWER ISCORRECT="false">c) Una condenaa cadena perpetua.</ANSWER>
+<ANSWER ISCORRECT="false">d) Una pena de arresto domiciliario.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 8: ¿Quién tiene la responsabilidad de presentar la acusación en un proceso penal español?">
+<ANSWER ISCORRECT="false">a) El juez.</ANSWER>
+<ANSWER ISCORRECT="true">b) El fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">c) El abogado defensor.</ANSWER>
+<ANSWER ISCORRECT="false">d) El testigo principal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 9: ¿Cuál es el plazo general para solicitar la prórroga de una detención en los casos de terrorismo o investigación de bandas armadas desde la detención?">
+<ANSWER ISCORRECT="false">a) 12 horas.</ANSWER>
+<ANSWER ISCORRECT="true">b) 48 horas.</ANSWER>
+<ANSWER ISCORRECT="false">c) 24 horas.</ANSWER>
+<ANSWER ISCORRECT="false">d) 72 horas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 10: ¿Qué tribunal es la última instancia en el sistema judicial español?">
+<ANSWER ISCORRECT="false">a) Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">b) Audiencia Provincial.</ANSWER>
+<ANSWER ISCORRECT="false">c) Juzgado de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">d) Tribunal Supremo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 11: ¿Qué es el 'habeas corpus' en el contexto del proceso penal español?">
+<ANSWER ISCORRECT="false">a) Un tipo de evidencia en un juicio.</ANSWER>
+<ANSWER ISCORRECT="false">b) Una orden de arresto.</ANSWER>
+<ANSWER ISCORRECT="true">c) Un recurso para proteger la libertad individual contra detenciones ilegales.</ANSWER>
+<ANSWER ISCORRECT="false">d) Un tipo de pena de cárcel.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 12: ¿Cuál es el plazo para presentar un recurso de apelación en un juicio penal?">
+<ANSWER ISCORRECT="true">a) 5 días.</ANSWER>
+<ANSWER ISCORRECT="false">b) 10 días.</ANSWER>
+<ANSWER ISCORRECT="false">c) 15 días.</ANSWER>
+<ANSWER ISCORRECT="false">d) 30 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 13: ¿Qué es la cadena de custodia en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Un sistema de video vigilancia en los tribunales.</ANSWER>
+<ANSWER ISCORRECT="true">b) El procedimiento para garantizar la integridad de las pruebas en un proceso penal.</ANSWER>
+<ANSWER ISCORRECT="false">c) El registro de las sentencias judiciales.</ANSWER>
+<ANSWER ISCORRECT="false">d) Un tipo de pena de cárcel.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 14: ¿Cuál es el propósito principal de la fase de instrucción en un proceso penal?">
+<ANSWER ISCORRECT="false">a) Celebrar el juicio oral.</ANSWER>
+<ANSWER ISCORRECT="true">b) Investigar y reunir pruebas.</ANSWER>
+<ANSWER ISCORRECT="false">c) Dictar sentencias.</ANSWER>
+<ANSWER ISCORRECT="false">d) Realizar apelaciones.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 15: ¿Qué significa el principio de 'presunción de inocencia' en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Que el acusado es siempre inocente.</ANSWER>
+<ANSWER ISCORRECT="false">b) Que el acusado debe demostrar su inocencia.</ANSWER>
+<ANSWER ISCORRECT="true">c) Que se presume que el acusado es inocente hasta que se demuestre su culpabilidad.</ANSWER>
+<ANSWER ISCORRECT="false">d) Que el acusado es culpable hasta que se demuestre su inocencia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 16: ¿Cuál es el tribunal competente para conocer de los delitos leves en el proceso penal español con carácter general?">
+<ANSWER ISCORRECT="false">a) Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">b) Audiencia Provincial.</ANSWER>
+<ANSWER ISCORRECT="false">c) Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="true">d) Juzgado de Instrucción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 17: ¿Qué es la 'prueba prohibida' en un procedimiento penal?">
+<ANSWER ISCORRECT="false">a) Pruebas de ADN.</ANSWER>
+<ANSWER ISCORRECT="false">b) Documentos escritos.</ANSWER>
+<ANSWER ISCORRECT="true">c) Prueba obtenida vulnerando derechos fundamentales.</ANSWER>
+<ANSWER ISCORRECT="false">d) Pruebas periciales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 18: ¿En qué fase del proceso penal español se emite la sentencia?">
+<ANSWER ISCORRECT="false">a) Fase de instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">b) Fase de juicio oral.</ANSWER>
+<ANSWER ISCORRECT="false">c) Fase de apelación.</ANSWER>
+<ANSWER ISCORRECT="false">d) Fase de ejecución.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 19: ¿A quién debe notificarse la entrada y registro en el Congreso de los Diputados' en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Al presidente del Senado</ANSWER>
+<ANSWER ISCORRECT="false">b) Al rey.</ANSWER>
+<ANSWER ISCORRECT="false">c) Al presidente del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="true">d) Ninguna respuesta es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 20: ¿Cuál es el recurso que se presenta contra una sentencia definitiva en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Recurso de apelación.</ANSWER>
+<ANSWER ISCORRECT="true">b) Recurso de revisión.</ANSWER>
+<ANSWER ISCORRECT="false">c) Recurso de casación.</ANSWER>
+<ANSWER ISCORRECT="false">d) Recurso de amparo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 21: ¿Qué es la 'prueba documental' en un juicio penal?">
+<ANSWER ISCORRECT="false">a) Pruebas de ADN.</ANSWER>
+<ANSWER ISCORRECT="false">b) Declaraciones de testigos.</ANSWER>
+<ANSWER ISCORRECT="true">c) Documentos escritos que se presentan como evidencia.</ANSWER>
+<ANSWER ISCORRECT="false">d) Pruebas periciales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 22: ¿Cuál es el principio que establece que un acusado no puede ser juzgado dos veces por el mismo delito?">
+<ANSWER ISCORRECT="false">a) Principio de legalidad.</ANSWER>
+<ANSWER ISCORRECT="true">b) Principio de doble incriminación.</ANSWER>
+<ANSWER ISCORRECT="false">c) Principio de no autoincriminación.</ANSWER>
+<ANSWER ISCORRECT="false">d) Principio de igualdad procesal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 23: ¿Qué es un 'homicidio doloso' en el contexto del proceso penal español?">
+<ANSWER ISCORRECT="false">a) Un homicidio accidental.</ANSWER>
+<ANSWER ISCORRECT="true">b) Un homicidio con intención de causar la muerte.</ANSWER>
+<ANSWER ISCORRECT="false">c) Un homicidio justificado.</ANSWER>
+<ANSWER ISCORRECT="false">d) Un homicidio culposo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 24: ¿Cuál es el plazo de la detención de un menor de edad en el proceso penal español?">
+<ANSWER ISCORRECT="true">a) El tiempo imprescindible para la práctica de las diligencias necesarias para la averiguación del delito..</ANSWER>
+<ANSWER ISCORRECT="false">b) 24 horas.</ANSWER>
+<ANSWER ISCORRECT="false">c) 72 horas.</ANSWER>
+<ANSWER ISCORRECT="false">d) Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 25: ¿Cuál es el propósito de la 'defensa técnica' en un proceso penal?">
+<ANSWER ISCORRECT="false">a) Definir las leyes.</ANSWER>
+<ANSWER ISCORRECT="false">b) Representara la víctima.</ANSWER>
+<ANSWER ISCORRECT="true">c) Proteger los derechos del acusado y proporcionar asesoramiento legal.</ANSWER>
+<ANSWER ISCORRECT="false">d) Tomar decisiones sobre la culpabilidad del acusado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 26: ¿Qué es un 'testigo experto' en un juicio penal?">
+<ANSWER ISCORRECT="false">a) Un testigo que tiene experiencia en dar testimonio.</ANSWER>
+<ANSWER ISCORRECT="true">b) Un testigo que es un experto en el tema relacionado con el caso.</ANSWER>
+<ANSWER ISCORRECT="false">c) Un testigo que ha sido acusado de un delito.</ANSWER>
+<ANSWER ISCORRECT="false">d) Un testigo que ha sido coaccionado para dar falso testimonio.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 27: ¿Qué es el 'derecho de defensa' en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) El derecho de los testigosa ser defendidos por un abogado.</ANSWER>
+<ANSWER ISCORRECT="false">b) El derecho de los juecesa tomar decisiones.</ANSWER>
+<ANSWER ISCORRECT="true">c) El derecho de los acusadosa presentar pruebas ya ejercer las acciones oportunas para defenderse de una acusación.</ANSWER>
+<ANSWER ISCORRECT="false">d) El derecho de los fiscalesa presentar cargos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 28: ¿Qué es la 'prueba pericial' en un juicio penal?">
+<ANSWER ISCORRECT="false">a) Pruebas de ADN.</ANSWER>
+<ANSWER ISCORRECT="false">b) Documentos escritos.</ANSWER>
+<ANSWER ISCORRECT="false">c) Declaraciones de testigos.</ANSWER>
+<ANSWER ISCORRECT="true">d) Pruebas presentadas por expertos en un campo específico.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 29: ¿Qué es un 'delito culposo' en el contexto del proceso penal español?">
+<ANSWER ISCORRECT="false">a) Un delito cometido con intención de causar daño.</ANSWER>
+<ANSWER ISCORRECT="true">b) Un delito cometido por accidente o negligencia.</ANSWER>
+<ANSWER ISCORRECT="false">c) Un delito cometido en defensa propia.</ANSWER>
+<ANSWER ISCORRECT="false">d) Un delito justificado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 30: ¿Cuál es la máxima instancia en el sistema judicial español que tiene la autoridad para revisar sentencias de tribunales inferiores?">
+<ANSWER ISCORRECT="false">a) Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">b) Audiencia Provincial.</ANSWER>
+<ANSWER ISCORRECT="true">c) Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">d) Tribunal Constitucional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 31: ¿Cuál es el órgano judicial competente para instruir un delito cometido en el ámbito de la violencia de género?">
+<ANSWER ISCORRECT="false">a) Juzgado de instrucción del lugar de los hechos investigados..</ANSWER>
+<ANSWER ISCORRECT="false">b) Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">c) Juzgado de Violencia sobre la mujer del domicilio de la víctima</ANSWER>
+<ANSWER ISCORRECT="true">d) Juzgado de Violencia sobre la mujer del lugar donde hayan ocurrido los hechos investigados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 32: ¿En qué artículo del la lecrim se recogen los derechos del investigado en un proceso penal">
+<ANSWER ISCORRECT="true">a) 520</ANSWER>
+<ANSWER ISCORRECT="false">b) 521</ANSWER>
+<ANSWER ISCORRECT="false">c) 519.</ANSWER>
+<ANSWER ISCORRECT="false">d) 420.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 33: ¿Qué es la 'prueba de cargo' en un juicio penal?">
+<ANSWER ISCORRECT="false">a) Pruebas presentadas por la defensa.</ANSWER>
+<ANSWER ISCORRECT="true">b) Pruebas que incriminan al acusado.</ANSWER>
+<ANSWER ISCORRECT="false">c) Pruebas de carácter personal.</ANSWER>
+<ANSWER ISCORRECT="false">d) Pruebas documentales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 34: ¿Cuál es el plazo para presentar un recurso de casación ante el Tribunal Supremo">
+<ANSWER ISCORRECT="false">a) 3 días.</ANSWER>
+<ANSWER ISCORRECT="false">b) 5 días.</ANSWER>
+<ANSWER ISCORRECT="false">c) 10 días.</ANSWER>
+<ANSWER ISCORRECT="true">d) 20 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 35: ¿Quién tiene la responsabilidad de probar la culpabilidad del acusado en un juicio penal?">
+<ANSWER ISCORRECT="false">a) El juez.</ANSWER>
+<ANSWER ISCORRECT="true">b) El fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">c) La defensa.</ANSWER>
+<ANSWER ISCORRECT="false">d) La víctima.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 36: ¿Qué es el 'derecho de contradicción' en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) El derecho de la defensaa presentar pruebas.</ANSWER>
+<ANSWER ISCORRECT="false">b) El derecho del fiscala interrogara los testigos.</ANSWER>
+<ANSWER ISCORRECT="false">c) El derecho de la víctimaa declarar en el juicio.</ANSWER>
+<ANSWER ISCORRECT="true">d) El derecho de la defensaa impugnar las pruebas presentadas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 37: ¿Cuál es el plazo para presentar un recurso de revisión ante el Tribunal Supremo en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) 5 días.</ANSWER>
+<ANSWER ISCORRECT="false">b) 10 días.</ANSWER>
+<ANSWER ISCORRECT="true">c) 15 días.</ANSWER>
+<ANSWER ISCORRECT="false">d) 30 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 38: ¿Qué es el 'jurado popular' en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) Un grupo de abogados defensores.</ANSWER>
+<ANSWER ISCORRECT="false">b) Un grupo de jueces.</ANSWER>
+<ANSWER ISCORRECT="true">c) Un grupo de ciudadanos seleccionados para emitir un veredicto en un juicio.</ANSWER>
+<ANSWER ISCORRECT="false">d) Un grupo de expertos en derecho penal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 39: ¿Cuál es el plazo para presentar una querella en el proceso penal español?">
+<ANSWER ISCORRECT="false">a) 3 meses.</ANSWER>
+<ANSWER ISCORRECT="true">b) 6 meses.</ANSWER>
+<ANSWER ISCORRECT="false">c) 1 año.</ANSWER>
+<ANSWER ISCORRECT="false">d) 2 años.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 40: ¿En qué consiste una denuncia en el procedimiento penal?">
+<ANSWER ISCORRECT="false">a) Declaración de voluntad.</ANSWER>
+<ANSWER ISCORRECT="false">b) Declaración de conocimiento.</ANSWER>
+<ANSWER ISCORRECT="false">c) Declaración de acciones.</ANSWER>
+<ANSWER ISCORRECT="true">d) Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 41: ¿Cuál es el propósito principal del Real Decreto 769/1987 de Policía Judicial?">
+<ANSWER ISCORRECT="false">a) Establecer las sanciones para los delitos.</ANSWER>
+<ANSWER ISCORRECT="true">b) Regular las competencias y funciones de la Policía Judicial en la investigación de los delitos.</ANSWER>
+<ANSWER ISCORRECT="false">c) Definir los derechos de los detenidos.</ANSWER>
+<ANSWER ISCORRECT="false">d) Establecer los procedimientos de juicio oral.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 42: ¿Quién tiene la responsabilidad de dirigir las investigaciones de la Policía Judicial de forma general?">
+<ANSWER ISCORRECT="false">a) El Ministro de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Director General de la Policía.</ANSWER>
+<ANSWER ISCORRECT="true">c) El Juez de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">d) El Fiscal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 43: ¿Cuál de las siguientes unidades policiales constituye Policía Judicial específica  en el ámbito nacional en España?">
+<ANSWER ISCORRECT="true">a) La Guardia Civil.</ANSWER>
+<ANSWER ISCORRECT="false">b) La Policía Local.</ANSWER>
+<ANSWER ISCORRECT="false">c) La Policía Autonómica.</ANSWER>
+<ANSWER ISCORRECT="false">d) La Policía Municipal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 44: ¿Cuál es de las siguientes es  función de la Policía Judicial en la investigación de un delito?">
+<ANSWER ISCORRECT="false">a) Defender al acusado.</ANSWER>
+<ANSWER ISCORRECT="false">b) Emitir veredictos.</ANSWER>
+<ANSWER ISCORRECT="true">c) Recoger pruebas y evidencias.</ANSWER>
+<ANSWER ISCORRECT="false">d) Juzgar al acusado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 45: ¿Qué autoridad judicial emite las órdenes de registro en el marco de un procedimiento judicial penal ?">
+<ANSWER ISCORRECT="true">a) El Juez de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Director General de la Policía.</ANSWER>
+<ANSWER ISCORRECT="false">c) El Ministro de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">d) El Fiscal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 46: ¿Cuál es el plazo máximo para comunicar unos hechos delictivos al juez?">
+<ANSWER ISCORRECT="false">a) 12 horas.</ANSWER>
+<ANSWER ISCORRECT="true">b) 24 horas.</ANSWER>
+<ANSWER ISCORRECT="false">c) 48 horas.</ANSWER>
+<ANSWER ISCORRECT="false">d) 72 horas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 47: ¿Quién tiene la responsabilidad de coordinar las actuaciones de la Policía Judicial en casos de delincuencia organizada?">
+<ANSWER ISCORRECT="false">a) El Ministro de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Director General de la Policía.</ANSWER>
+<ANSWER ISCORRECT="true">c) El CITCO</ANSWER>
+<ANSWER ISCORRECT="false">d) El Fiscal General del Estado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 48: ¿Qué tipo de autorización se requiere para la intervención de comunicaciones telefónicas en el marco de una investigación penal?">
+<ANSWER ISCORRECT="false">a) Autorización del Ministro de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">b) Autorización del Director General de la Policía.</ANSWER>
+<ANSWER ISCORRECT="true">c) Autorización del Juez de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">d) Autorización del Fiscal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 49: Los delitos contra la libertad sexual tienen la consideración de ">
+<ANSWER ISCORRECT="false">a) delitos públicos.</ANSWER>
+<ANSWER ISCORRECT="true">b) delitos semipúblicos</ANSWER>
+<ANSWER ISCORRECT="false">c) delitos privados</ANSWER>
+<ANSWER ISCORRECT="false">d) delitos semiprivados</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 50: Según lo dispuesto en la lecrim, NO se consideran primeras diligencias">
+<ANSWER ISCORRECT="false">a) recoger y poner en custodia cuanto conduzcaa la identificación del delincuente.</ANSWER>
+<ANSWER ISCORRECT="false">b) protegera los ofendidos o perjudicados por el delito,a sus familiares oa otras personas.</ANSWER>
+<ANSWER ISCORRECT="true">c) consignar todas las pruebas del delito.</ANSWER>
+<ANSWER ISCORRECT="false">d) todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 51. ¿Qué ley regula el Habeas Corpus en España?">
+<ANSWER ISCORRECT="false">a) Ley Orgánica 1/2000</ANSWER>
+<ANSWER ISCORRECT="true">b) Ley Orgánica 6/1984</ANSWER>
+<ANSWER ISCORRECT="false">c) Ley Orgánica 2/2005</ANSWER>
+<ANSWER ISCORRECT="false">d) Ley Orgánica 5/1999</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 52. ¿Cuál es el propósito principal de la Ley Orgánica Reguladora del Habeas Corpus?">
+<ANSWER ISCORRECT="false">a) Regular la inmigración ilegal</ANSWER>
+<ANSWER ISCORRECT="true">b) Proteger los derechos fundamentales de las personas detenidas</ANSWER>
+<ANSWER ISCORRECT="false">c) Establecer las normas de tráfico</ANSWER>
+<ANSWER ISCORRECT="false">d) Definir la responsabilidad penal de los menores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 53. ¿Qué autoridad judicial puede conceder el Habeas Corpus?">
+<ANSWER ISCORRECT="false">a) El juez de paz</ANSWER>
+<ANSWER ISCORRECT="false">b) El tribunal administrativo</ANSWER>
+<ANSWER ISCORRECT="true">c) El juez de instrucción o el tribunal correspondiente</ANSWER>
+<ANSWER ISCORRECT="false">d) El fiscal general del Estado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 54. ¿En qué situación se puede solicitar el Habeas Corpus según la Ley Orgánica 6/1984?">
+<ANSWER ISCORRECT="false">a) Exceso de plazo de la detención</ANSWER>
+<ANSWER ISCORRECT="false">b) Ausencia de imputación delictiva al detenido</ANSWER>
+<ANSWER ISCORRECT="false">c) Vulneración derechos fundamentales al detenido.</ANSWER>
+<ANSWER ISCORRECT="true">d) Todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 55.¿Cuál es el plazo máximo para resolver una solicitud de Habeas Corpus de acuerdo con la Ley Orgánica?">
+<ANSWER ISCORRECT="true">a) 48 horas</ANSWER>
+<ANSWER ISCORRECT="false">b) 1 semana</ANSWER>
+<ANSWER ISCORRECT="false">c) 30 días</ANSWER>
+<ANSWER ISCORRECT="false">d) No hay plazo definido</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 56.   ¿Quién puede presentar una solicitud de Habeas Corpus?">
+<ANSWER ISCORRECT="false">a) Solo abogados</ANSWER>
+<ANSWER ISCORRECT="true">b) Cualquier persona que tenga interés legítimo o el Ministerio Fiscal</ANSWER>
+<ANSWER ISCORRECT="false">c) Solo familiares de la persona detenida</ANSWER>
+<ANSWER ISCORRECT="false">d) Solo jueces y fiscales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 57.   ¿Qué tipo de recursos pueden utilizarse para presentar una solicitud de Habeas Corpus?">
+<ANSWER ISCORRECT="false">a) Fax y correo electrónico</ANSWER>
+<ANSWER ISCORRECT="false">b) Telegram y WhatsApp</ANSWER>
+<ANSWER ISCORRECT="true">c) Fax y correo postal</ANSWER>
+<ANSWER ISCORRECT="false">d) Llamadas telefónicas y redes sociales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 58.¿Cuál es la consecuencia de conceder el Habeas Corpus?">
+<ANSWER ISCORRECT="true">a) La persona detenida será liberada de inmediato</ANSWER>
+<ANSWER ISCORRECT="false">b) La persona detenida será condenadaa prisión</ANSWER>
+<ANSWER ISCORRECT="false">c) La solicitud será archivada</ANSWER>
+<ANSWER ISCORRECT="false">d) La persona detenida será trasladadaa otro lugar de detención</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 59.  ¿Puede negarse la concesión del Habeas Corpus?">
+<ANSWER ISCORRECT="false">a) No, es un derecho absoluto</ANSWER>
+<ANSWER ISCORRECT="true">b) Sí, en casos excepcionales y debidamente justificados</ANSWER>
+<ANSWER ISCORRECT="false">c) Solo si la persona detenida tiene antecedentes penales</ANSWER>
+<ANSWER ISCORRECT="false">d) Solo si la solicitud se presenta fuera de plazo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 60.     ¿Cuál es la jurisdicción competente para conocer de las solicitudes de Habeas Corpus?">
+<ANSWER ISCORRECT="false">a) Jurisdicción civil</ANSWER>
+<ANSWER ISCORRECT="false">b) Jurisdicción militar</ANSWER>
+<ANSWER ISCORRECT="false">c) Jurisdicción contencioso-administrativa</ANSWER>
+<ANSWER ISCORRECT="true">d) Jurisdicción penal</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 61.        ¿Cuál es el plazo máximo que puede durar una detención preventiva antes de que se presente ante un juez?">
+<ANSWER ISCORRECT="false">a) 24 horas</ANSWER>
+<ANSWER ISCORRECT="false">b) 48 horas</ANSWER>
+<ANSWER ISCORRECT="false">c) 72 horas</ANSWER>
+<ANSWER ISCORRECT="true">d) 120 horas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 62.  ¿En qué casos se permite la detención preventiva prorrogada?">
+<ANSWER ISCORRECT="false">a) Por cualquier motivo</ANSWER>
+<ANSWER ISCORRECT="true">b) Solo en casos de delitos graves y terrorismo</ANSWER>
+<ANSWER ISCORRECT="false">c) Solo en casos de delitos menores</ANSWER>
+<ANSWER ISCORRECT="false">d) Solo en casos de delitos políticos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 63. ¿Qué se entiende por 'flagrante delito' en relación con la detención?">
+<ANSWER ISCORRECT="false">a) Un delito muy grave</ANSWER>
+<ANSWER ISCORRECT="false">b) Un delito cometido en la calle</ANSWER>
+<ANSWER ISCORRECT="true">c) Un delito que se comete en el momento o inmediatamente después de ser descubierto</ANSWER>
+<ANSWER ISCORRECT="false">d) Un delito sin víctimas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 64.      ¿Cuál es el plazo máximo para que la policía presente un menor detenido ante el Ministerio Fiscal, siempre que se agote?">
+<ANSWER ISCORRECT="true">a) 24 horas</ANSWER>
+<ANSWER ISCORRECT="false">b) 48 horas</ANSWER>
+<ANSWER ISCORRECT="false">c) 7 días</ANSWER>
+<ANSWER ISCORRECT="false">d) 30 días</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 65.      ¿Qué es la detención preventiva?">
+<ANSWER ISCORRECT="false">a) La detención de una persona antes de cometer un delito</ANSWER>
+<ANSWER ISCORRECT="false">b) La detención de una persona como castigo por un delito</ANSWER>
+<ANSWER ISCORRECT="true">c) La detención de una persona antes de que se celebre un juicio, como medida cautelar de carácter personal</ANSWER>
+<ANSWER ISCORRECT="false">d) La detención de una persona por motivos de salud mental</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 66.        ¿Qué es la detención ilegal?">
+<ANSWER ISCORRECT="true">a) La detención de una persona por más tiempo del permitido por la ley</ANSWER>
+<ANSWER ISCORRECT="false">b) La detención de una persona que ha cometido un delito</ANSWER>
+<ANSWER ISCORRECT="false">c) La detención de una persona en su propio hogar</ANSWER>
+<ANSWER ISCORRECT="false">d) La detención de una persona sin pruebas suficientes</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 67.      ¿En qué casos se puede realizar una detención en ausencia de una orden judicial?">
+<ANSWER ISCORRECT="false">a) Si la persona es sospechosa de cualquier delito</ANSWER>
+<ANSWER ISCORRECT="false">b) Solo si la persona ha sido condenada previamente</ANSWER>
+<ANSWER ISCORRECT="true">c) En situaciones de emergencia o flagrante delito</ANSWER>
+<ANSWER ISCORRECT="false">d) Solo si la persona es menor de edad</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 68.  ¿Qué es el 'habeas corpus'?">
+<ANSWER ISCORRECT="false">a) Un tipo de detención preventiva</ANSWER>
+<ANSWER ISCORRECT="false">b) Un tipo de juicio sumario</ANSWER>
+<ANSWER ISCORRECT="true">c) Un recurso legal para impugnar la legalidad de una detención</ANSWER>
+<ANSWER ISCORRECT="false">d) Un tribunal de apelación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 69. ¿Cuál es la diferencia entre la detención preventiva y la prisión preventiva?">
+<ANSWER ISCORRECT="false">a) No hay diferencia, son términos intercambiables</ANSWER>
+<ANSWER ISCORRECT="true">b) La detención preventiva es antes del juicio, mientras que la prisión preventiva es después del juicio</ANSWER>
+<ANSWER ISCORRECT="false">c) La detención preventiva es para delitos menores y la prisión preventiva es para delitos graves</ANSWER>
+<ANSWER ISCORRECT="false">d) La detención preventiva es para menores de edad y la prisión preventiva es para adultos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 70. ¿Qué derecho fundamental está protegido por la norma 'presunción de inocencia' en relación con la detención?">
+<ANSWER ISCORRECT="false">a) El derechoa permanecer en silencio</ANSWER>
+<ANSWER ISCORRECT="false">b) El derechoa un abogado</ANSWER>
+<ANSWER ISCORRECT="true">c) El derechoa ser considerado inocente hasta que se demuestre lo contrario</ANSWER>
+<ANSWER ISCORRECT="false">d) El derechoa un juicio rápido y público</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 71.  Según el artículo 282 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para mantenera una persona detenida antes de presentarla ante el juez de instrucción en un so e detención incomunicada?">
+<ANSWER ISCORRECT="false">a) 12 horas</ANSWER>
+<ANSWER ISCORRECT="false">b) 24 horas</ANSWER>
+<ANSWER ISCORRECT="false">c) 48 horas</ANSWER>
+<ANSWER ISCORRECT="true">d) 72 horas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 72 De acuerdo con el artículo 545 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se puede ordenar la intervención de las comunicaciones de un abogado con su cliente?">
+<ANSWER ISCORRECT="false">a) En ningún caso</ANSWER>
+<ANSWER ISCORRECT="false">b) Solo si el abogado es sospechoso de participar en el delito</ANSWER>
+<ANSWER ISCORRECT="true">c) Cuando existan indicios razonables de que el abogado está implicado en la comisión del delito y se obtenga autorización judicial previa</ANSWER>
+<ANSWER ISCORRECT="false">d) Siempre que el cliente lo solicite.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 73. Según el artículo 579 de la Ley de Enjuiciamiento Criminal, ¿en qué momento debe notificarsea la persona objeto de una intervención de comunicaciones que estas han tenido lugar?">
+<ANSWER ISCORRECT="false">a) Antes de iniciar la intervención</ANSWER>
+<ANSWER ISCORRECT="false">b) Al concluir la intervención</ANSWER>
+<ANSWER ISCORRECT="true">c) Cuando se levante el secreto de sumario.</ANSWER>
+<ANSWER ISCORRECT="false">d) No es necesario notificarlo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 74.  De acuerdo con el artículo 545 bis de la Ley de Enjuiciamiento Criminal, ¿quién es la autoridad competente para autorizar la intervención de las comunicaciones en casos de rrorismo?">
+<ANSWER ISCORRECT="false">a) El juez de instrucción</ANSWER>
+<ANSWER ISCORRECT="false">b) El Ministerio de Justicia</ANSWER>
+<ANSWER ISCORRECT="false">c) El Director General de la Policía</ANSWER>
+<ANSWER ISCORRECT="true">d) El juez central de instrucción de la Audiencia Nacional</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 75.  Según el artículo 553 de la Ley de Enjuiciamiento Criminal, ¿cuándo puede llevarsea cabo una entrada y registro en un domicilio sin consentimiento del titular?">
+<ANSWER ISCORRECT="false">a) Solo si el delito es grave y flagrante</ANSWER>
+<ANSWER ISCORRECT="false">b) Siempre que haya sospechas fundadas de que se cometió un delito</ANSWER>
+<ANSWER ISCORRECT="true">c) Cuando existan indicios razonables de que se ocultan pruebas y se obtenga autorización judicial previa</ANSWER>
+<ANSWER ISCORRECT="false">d) Nunca se permite la entrada y registro sin consentimiento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 76.   Según el artículo 520 de la Ley de Enjuiciamiento Criminal, ¿cuáles son las garantías que deben respetarse durante la detención de una persona?">
+<ANSWER ISCORRECT="false">a) Derechoa permanecer en silencio ya no declarar contra sí mismo</ANSWER>
+<ANSWER ISCORRECT="false">b) Derechoa una llamada telefónica ya un abogado</ANSWER>
+<ANSWER ISCORRECT="false">c) Derechoa un juicio rápido y público</ANSWER>
+<ANSWER ISCORRECT="true">d) Todas las anteriores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 77.    De acuerdo con el artículo 509 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para que el juez de instrucción dicte auto de prisión provisional o de libertad  casos de detención en flagrante delito?">
+<ANSWER ISCORRECT="false">a) 12 horas</ANSWER>
+<ANSWER ISCORRECT="false">b) 24 horas</ANSWER>
+<ANSWER ISCORRECT="true">c) 48 horas</ANSWER>
+<ANSWER ISCORRECT="false">d) 72 horas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 78.     De acuerdo con el artículo 545 quáter de la Ley de Enjuiciamiento Criminal, ¿quién es el responsable de la custodia y control de las grabaciones de las conversaciones tervenidas?">
+<ANSWER ISCORRECT="false">a) El abogado defensor</ANSWER>
+<ANSWER ISCORRECT="false">b) El Fiscal General del Estado</ANSWER>
+<ANSWER ISCORRECT="false">c) El Juez de Instrucción</ANSWER>
+<ANSWER ISCORRECT="true">d) El letrado de la administración de justicia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 79.   Según el artículo 544 de la Ley de Enjuiciamiento Criminal, ¿qué debe constar en la resolución que autoriza la intervención de comunicaciones? Señala la incorrecta">
+<ANSWER ISCORRECT="false">a) El nombre de todas las personas que serán interceptadas</ANSWER>
+<ANSWER ISCORRECT="false">b) Los motivos de la interceptación y el plazo de duración</ANSWER>
+<ANSWER ISCORRECT="false">c) La hora exacta en que comenzará la interceptación</ANSWER>
+<ANSWER ISCORRECT="true">d) La firma del testigo más cercano al lugar de la intervención</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 80.   De acuerdo con el artículo 554 de la Ley de Enjuiciamiento Criminal, ¿qué se requiere para realizar un registro en un domicilio sin previo aviso? Señala la incorrecta">
+<ANSWER ISCORRECT="false">a) Orden de un juez o autorización del propietario</ANSWER>
+<ANSWER ISCORRECT="false">b) Orden de un juez o  delito flagrante.</ANSWER>
+<ANSWER ISCORRECT="true">c) Solamente orden de un juez.</ANSWER>
+<ANSWER ISCORRECT="false">d) Orden de un juez o autorización del Ministro del interior.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 81.    Según el artículo 520 bis de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la incomunicación de un detenido?">
+<ANSWER ISCORRECT="false">a) Siempre que el detenido lo solicite</ANSWER>
+<ANSWER ISCORRECT="true">b) Solo en casos de terrorismo o delincuencia organizada, con autorización judicial y por un plazo máximo de 5 días</ANSWER>
+<ANSWER ISCORRECT="false">c) Nunca se permite la incomunicación de un detenido</ANSWER>
+<ANSWER ISCORRECT="false">d) Cuando el detenido sea menor de edad</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 82.     ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figura del agente provocador?">
+<ANSWER ISCORRECT="false">a) Artículo 520 ter</ANSWER>
+<ANSWER ISCORRECT="false">b) Artículo 282</ANSWER>
+<ANSWER ISCORRECT="false">c) Artículo 282 bis</ANSWER>
+<ANSWER ISCORRECT="true">d) La Ley no contempla el agente provocador</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 83.    De acuerdo con el artículo 520 quater de la Ley de Enjuiciamiento Criminal, ¿cuál es la duración máxima de la detención incomunicada en casos de terrorismo?">
+<ANSWER ISCORRECT="false">a) 24 horas</ANSWER>
+<ANSWER ISCORRECT="false">b) 48 horas</ANSWER>
+<ANSWER ISCORRECT="true">c) 120 horas.</ANSWER>
+<ANSWER ISCORRECT="false">d) 96 horas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 84.    Según el artículo 572 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la detención por orden de autoridad gubernativa?">
+<ANSWER ISCORRECT="false">a) En casos de delitos menos graves</ANSWER>
+<ANSWER ISCORRECT="false">b) En casos de delitos graves</ANSWER>
+<ANSWER ISCORRECT="false">c) En casos de delitos cometidos durante una manifestación ilegal</ANSWER>
+<ANSWER ISCORRECT="true">d) Nunca se permite la detención por orden de autoridad gubernativa</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 85.    ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece las reglas para la ejecución de órdenes de entrada y registro?">
+<ANSWER ISCORRECT="false">a) Artículo 545</ANSWER>
+<ANSWER ISCORRECT="false">b) Artículo 545 bis</ANSWER>
+<ANSWER ISCORRECT="false">c) Artículo 545 ter</ANSWER>
+<ANSWER ISCORRECT="true">d) No existe un artículo específico para ello</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 86.   Según el artículo 579 ter de la Ley de Enjuiciamiento Criminal,¿ ante quién puede solicitar la prórroga de la intervención de comunicaciones?">
+<ANSWER ISCORRECT="false">a) Cualquier funcionario de policía</ANSWER>
+<ANSWER ISCORRECT="false">b) El Ministerio de Justicia</ANSWER>
+<ANSWER ISCORRECT="true">c) El Juez de Instrucción</ANSWER>
+<ANSWER ISCORRECT="false">d) El Ministerio Fiscal</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 87.   ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figurante de los agentes encubiertos?">
+<ANSWER ISCORRECT="false">a) Artículo 282 ter</ANSWER>
+<ANSWER ISCORRECT="false">b) Artículo 282 quater</ANSWER>
+<ANSWER ISCORRECT="false">c) Artículo 282 quinquies</ANSWER>
+<ANSWER ISCORRECT="true">d) Artículo 282 bis</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 88.      Según el artículo 509 bis de la Ley de Enjuiciamiento Criminal, ¿qué plazo debe respetarse para la presentación del detenido ante el juez en casos de detención incomunicada r errorismo?">
+<ANSWER ISCORRECT="false">a) 24 horas</ANSWER>
+<ANSWER ISCORRECT="false">b) 48 horas</ANSWER>
+<ANSWER ISCORRECT="false">c) 72 horas</ANSWER>
+<ANSWER ISCORRECT="true">d) 5 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 89  ¿Cuál es la diferencia principal entre una denuncia y una querella en el sistema penal español?">
+<ANSWER ISCORRECT="false">a) Una denuncia es presentada por la víctima o cualquier persona, mientras que una querella es presentada por el Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">b) Una denuncia se presenta ante la policía, mientras que una querella se presenta ante el juez de instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">c) Una denuncia es obligatoria para ciertos delitos, mientras que una querella es voluntaria en la mayoría de los casos.</ANSWER>
+<ANSWER ISCORRECT="false">d) No hay diferencia, ambos términos son intercambiables.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 89   ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la denuncia es obligatoria para ciertos delitos?">
+<ANSWER ISCORRECT="false">a) Artículo 261</ANSWER>
+<ANSWER ISCORRECT="true">b) Artículo 262</ANSWER>
+<ANSWER ISCORRECT="false">c) Artículo 271</ANSWER>
+<ANSWER ISCORRECT="false">d) Artículo 263</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 90. Según el artículo 270 de la Ley de Enjuiciamiento Criminal, ¿quién puede presentar una querella por un delito?">
+<ANSWER ISCORRECT="false">a) Solo la víctima del delito</ANSWER>
+<ANSWER ISCORRECT="true">b) Cualquier español</ANSWER>
+<ANSWER ISCORRECT="false">c) Solo el Ministerio Fiscal</ANSWER>
+<ANSWER ISCORRECT="false">d) Solo un abogado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 91 ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la querella es necesaria para ciertos delitos como la calumnia o la injuria?">
+<ANSWER ISCORRECT="false">a) Artículo 245</ANSWER>
+<ANSWER ISCORRECT="false">b) Artículo 270 bis</ANSWER>
+<ANSWER ISCORRECT="false">c) Artículo 262 ter</ANSWER>
+<ANSWER ISCORRECT="true">d) Artículo 279</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 92  ¿Cuál es la principal diferencia entre la denuncia y la querella en?">
+<ANSWER ISCORRECT="false">a) No hay diferencia, ambos tienen el mismo plazo de presentación.</ANSWER>
+<ANSWER ISCORRECT="false">b) La denuncia tiene un plazo más corto de presentación que la querella.</ANSWER>
+<ANSWER ISCORRECT="true">c) La querella se presente sólo se presenta ante el juzgado.</ANSWER>
+<ANSWER ISCORRECT="false">d) La diferencia de plazos depende del tipo de delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 93      ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la posibilidad de presentar una denuncia anónima?">
+<ANSWER ISCORRECT="false">a) Artículo 270</ANSWER>
+<ANSWER ISCORRECT="false">b) Artículo 275</ANSWER>
+<ANSWER ISCORRECT="false">c) Artículo 277</ANSWER>
+<ANSWER ISCORRECT="true">d) La Ley no permite denuncias anónimas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 94    ¿Qué delito es considerado un delito conexo al delito principal en la legislación española?">
+<ANSWER ISCORRECT="false">a) Cualquier delito que se cometa en la misma fecha que el delito principal</ANSWER>
+<ANSWER ISCORRECT="true">b) Un delito que esté relacionado causalmente con el delito principal y sea cometido con posterioridada este</ANSWER>
+<ANSWER ISCORRECT="false">c) Un delito que esté relacionado causalmente con el delito principal y sea cometido con anterioridada este</ANSWER>
+<ANSWER ISCORRECT="false">d) No existe el concepto de delito conexo en la legislación española.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 95      Según el artículo 15 de la Ley de Enjuiciamiento Criminal, ¿cómo se determina la competencia para conocer de delitos conexos?">
+<ANSWER ISCORRECT="false">a) Por sorteo entre los jueces de instrucción de la provincia</ANSWER>
+<ANSWER ISCORRECT="false">b) Por la elección de la víctima</ANSWER>
+<ANSWER ISCORRECT="true">c) Por el orden en que se hayan cometido los delitos y la jurisdicción que correspondea cada uno</ANSWER>
+<ANSWER ISCORRECT="false">d) Por la gravedad de los delitos y la pena prevista.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 96      Según el artículo 17 de la Ley de Enjuiciamiento Criminal, ¿qué requisito debe cumplir un delito conexo para ser considerado como tal?">
+<ANSWER ISCORRECT="false">a) Debe ser de la misma naturaleza que el delito principal.</ANSWER>
+<ANSWER ISCORRECT="false">b) Debe haber sido cometido por la misma persona que el delito principal.</ANSWER>
+<ANSWER ISCORRECT="true">c) Ser cometido para procurar la impunidad de otro delito.</ANSWER>
+<ANSWER ISCORRECT="false">d) Debe haber sido cometido en un lugar cercano al delito principal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 97         ¿Qué implicaciones tiene la consideración de un delito como conexo al delito principal según la Ley de Enjuiciamiento Criminal?">
+<ANSWER ISCORRECT="false">a) El delito conexo se juzga por separado en un proceso independiente.</ANSWER>
+<ANSWER ISCORRECT="true">b) El delito conexo se acumula al proceso del delito principal y se juzga en conjunto.</ANSWER>
+<ANSWER ISCORRECT="false">c) El delito conexo se archiva automáticamente.</ANSWER>
+<ANSWER ISCORRECT="false">d) El delito conexo se remitea otro tribunal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 98        ¿Cuál es el propósito principal de considerar los delitos como conexos en un mismo proceso según la Ley de Enjuiciamiento Criminal?">
+<ANSWER ISCORRECT="false">a) Facilitar la impunidad de los delincuentes.</ANSWER>
+<ANSWER ISCORRECT="true">b) Agilizar la administración de justicia al evitar juicios separados por delitos relacionados.</ANSWER>
+<ANSWER ISCORRECT="false">c) Aumentar las penas para los acusados.</ANSWER>
+<ANSWER ISCORRECT="false">d) Complicar la investigación de los delitos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 99         Según la Ley de Enjuiciamiento Criminal, ¿quién decide si un delito debe considerarse como conexo al delito principal?">
+<ANSWER ISCORRECT="false">a) El Ministerio Fiscal</ANSWER>
+<ANSWER ISCORRECT="false">b) El juez de instrucción</ANSWER>
+<ANSWER ISCORRECT="false">c) La víctima del delito</ANSWER>
+<ANSWER ISCORRECT="true">d) El tribunal competente, generalmente el juez de instrucción o el tribunal de enjuiciamiento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta 100       ¿Cuál es el criterio principal para determinar la conexidad de dos delitos según la Ley de Enjuiciamiento Criminal?">
+<ANSWER ISCORRECT="false">a) La gravedad de los delitos involucrados.</ANSWER>
+<ANSWER ISCORRECT="false">b) La ubicación geográfica en la que se cometieron los delitos.</ANSWER>
+<ANSWER ISCORRECT="true">c) La relación causal entre los delitos y el momento en que fueron cometidos.</ANSWER>
+<ANSWER ISCORRECT="false">d) La antigüedad de</ANSWER>
+</QUESTION>
+</POLL>

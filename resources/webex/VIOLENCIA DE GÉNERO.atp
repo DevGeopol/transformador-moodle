@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 01.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Objeto de la Ley. El objeto es actuar contra esta violencia ¿Como manifestación de?">
+<ANSWER ISCORRECT="false">La discriminación.</ANSWER>
+<ANSWER ISCORRECT="false">Situación de desigualdad.</ANSWER>
+<ANSWER ISCORRECT="false">Relaciones de poder de los hombres sobre las mujeres.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 02.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Objeto de la Ley. Este tipo de violencia se ejerce sobre las mujeres. Señala la circunstancia incorrecta respecto al autor y la víctima.">
+<ANSWER ISCORRECT="false">Por parte de quienes sean sus cónyuges.</ANSWER>
+<ANSWER ISCORRECT="false">Que estén ligados a ellas por relaciones similares de afectividad.</ANSWER>
+<ANSWER ISCORRECT="false">Por parte de quienes hayan sido cónyuges o estado ligados por relación similar de afectividad.</ANSWER>
+<ANSWER ISCORRECT="true">Que tengan convivencia en esa relación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 03.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿Qué comprende la Violencia de Género? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Todo acto de violencia física y psicológica.</ANSWER>
+<ANSWER ISCORRECT="false">Agresiones a la libertad sexual.</ANSWER>
+<ANSWER ISCORRECT="false">Las amenazas.</ANSWER>
+<ANSWER ISCORRECT="true">Las coacciones graves.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 04.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿Qué comprende también la Violencia de Género? Señala la respuesta correcta.">
+<ANSWER ISCORRECT="false">La violencia que con el objetivo de causar un mal a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de las personas indicadas en el apartado primero.</ANSWER>
+<ANSWER ISCORRECT="false">La violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o hijos menores de edad por parte de las personas indicadas en el apartado primero.</ANSWER>
+<ANSWER ISCORRECT="true">La violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de las personas indicadas en el apartado primero.</ANSWER>
+<ANSWER ISCORRECT="false">La violencia que con el objetivo de causar perjuicio o daño a las familias de las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de las personas indicadas en el apartado primero.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 05.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Principios rectores. Señala cual de los siguientes no es un principio rector, en relación a esta L.O.">
+<ANSWER ISCORRECT="false">Consagrar derechos de las mujeres víctimas de violencia de género, exigibles ante las Administraciones Públicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto.</ANSWER>
+<ANSWER ISCORRECT="false">Garantizar derechos en el ámbito laboral y funcionarial que concilien los requerimientos de la relación laboral y de empleo público con las circunstancias de aquellas trabajadoras o funcionarias que sufran violencia de género.</ANSWER>
+<ANSWER ISCORRECT="true">Fortalecer el marco penal y procesal vigente para asegurar una protección sectorial, desde las instancias jurisdiccionales, a las víctimas de violencia de género. </ANSWER>
+<ANSWER ISCORRECT="false">Promover la colaboración y participación de las entidades, asociaciones y organizaciones que desde la sociedad civil actúan contra la violencia de género.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 06.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Principios rectores. ¿Que establece esta Ley en la Administración General del Estado?">
+<ANSWER ISCORRECT="false">Un protocolo compacto de tutela institucional.</ANSWER>
+<ANSWER ISCORRECT="true">Un sistema integral de tutela institucional.</ANSWER>
+<ANSWER ISCORRECT="false">Un acuerdo sectorial institucional de tutela.</ANSWER>
+<ANSWER ISCORRECT="false">Un Consejo de actuación institucional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 07.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Medidas de sensibilización, prevención y detección. ¿Qué se pondrá en marcha por parte del Gobierno a la entrada en vigor de esta Ley?">
+<ANSWER ISCORRECT="false">Un Acuerdo sectorial para la Sensibilización y Prevención de la Violencia de Género.</ANSWER>
+<ANSWER ISCORRECT="false">Un Concierto para la Sensibilización y Prevención de la Violencia de Género.</ANSWER>
+<ANSWER ISCORRECT="true">Un Plan de Sensibilización y Prevención de la Violencia de Género.</ANSWER>
+<ANSWER ISCORRECT="false">Una reforma legal para la Sensibilización y Prevención de la Violencia de Género.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 08.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Medidas de sensibilización, prevención y detección. ¿Qué elaborará la Delegación del Gobierno contra la Violencia de Género?">
+<ANSWER ISCORRECT="false">Un informe semestral.</ANSWER>
+<ANSWER ISCORRECT="false">Un informe trimestral.</ANSWER>
+<ANSWER ISCORRECT="true">Un informe anual.</ANSWER>
+<ANSWER ISCORRECT="false">Un informe periódico.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 09.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Medidas de sensibilización, prevención y detección. ¿Dónde remitirá la Delegación del Gobierno contra la Violencia de Género, el informe que realiza?">
+<ANSWER ISCORRECT="false">Al Gobierno.</ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio de Igualdad.</ANSWER>
+<ANSWER ISCORRECT="true">A las Cortes Generales.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 10.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito educativo. ¿En relación con que Principio se incluirá en el sistema educativo  español, le eliminación de obstáculos que dificultan la plena igualdad entre hombres y mujeres?">
+<ANSWER ISCORRECT="false">Principio de igualdad.</ANSWER>
+<ANSWER ISCORRECT="true">Principio de calidad.</ANSWER>
+<ANSWER ISCORRECT="false">Principio de legalidad.</ANSWER>
+<ANSWER ISCORRECT="false">Principio de subsidiariedad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 11.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito educativo. ¿En que sector de la educación contribuirá a desarrollar en el alumnado su capacidad para adquirir habilidades en la resolución pacífica de conflictos y para comprender y respetar la igualdad entre sexos.?">
+<ANSWER ISCORRECT="false">Educación infantil.</ANSWER>
+<ANSWER ISCORRECT="true">Educación primaria.</ANSWER>
+<ANSWER ISCORRECT="false">Educación secundaria obligatoria.</ANSWER>
+<ANSWER ISCORRECT="false">En el Bachillerato.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 12.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito educativo. ¿La enseñanza para las personas adultas que incluirá entre sus objetivos? ">
+<ANSWER ISCORRECT="true">Desarrollar actividades en la resolución pacífica de conflictos y fomentar el respeto a la dignidad de las personas y a la igualdad entre hombres y mujeres.</ANSWER>
+<ANSWER ISCORRECT="false">La formación, docencia e investigación en igualdad de género y no discriminación de forma transversal.</ANSWER>
+<ANSWER ISCORRECT="false">Capacidad para consolidar su madurez personal, social y moral, que les permita actuar de forma responsable y autónoma y para analizar y valorar críticamente las desigualdades de sexo y fomentar la igualdad real y efectiva entre hombres y mujeres.</ANSWER>
+<ANSWER ISCORRECT="false">La plena equiparación en valores morales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 13.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito educativo. ¿Qué órgano impulsará la adopción de medidas educativas en el ámbito educativo? ">
+<ANSWER ISCORRECT="false">La Inspección educativa.</ANSWER>
+<ANSWER ISCORRECT="false">El órgano Rector.</ANSWER>
+<ANSWER ISCORRECT="true">El Consejo Escolar.</ANSWER>
+<ANSWER ISCORRECT="false">El pleno docente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 14.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito de la publicidad y de los medios de comunicación. Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Se considerará ilícita la publicidad que utilice la imagen de la mujer con carácter vejatorio o discriminatorio.</ANSWER>
+<ANSWER ISCORRECT="false">El Ente público al que corresponda velar para que los medios audiovisuales cumplan sus obligaciones adoptará las medidas que procedan para asegurar un tratamiento de la mujer conforme con los principios y valores constitucionales, sin perjuicio de las posibles actuaciones por parte de otras entidades.</ANSWER>
+<ANSWER ISCORRECT="true">El Gobierno y sus instituciones velarán por el cumplimiento estricto de la legislación en lo relativo a la protección y salvaguarda de los derechos fundamentales, con especial atención a la erradicación de conductas favorecedoras de situaciones de desigualdad de las mujeres en todos los medios de comunicación social, de acuerdo con la legislación vigente. </ANSWER>
+<ANSWER ISCORRECT="false">Los medios de comunicación fomentarán la protección y salvaguarda de la igualdad entre hombre y mujer, evitando toda discriminación entre ellos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 15.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito de la publicidad y de los medios de comunicación. ¿Qué órgano de los siguientes esta legitimado para ejercitar ante los Tribunales la acción de cesación de publicidad ilícita? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">La Delegación Especial del Gobierno contra la Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">El Instituto de la Mujer u órgano equivalente de cada Comunidad Autónoma.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="true">Las Asociaciones que tengan entre sus objetivos la defensa de los intereses de la mujer. (como objetivo único).</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 16.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Derechos de las mujeres victimas de violencia de género. Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Los servicios de información y orientación, atención psicosocial inmediata, telefónica y en línea, asesoramiento jurídico 24 horas, los servicios de acogida y asistencia social integral, consistentes en orientación jurídica, psicológica y social destinadas a las víctimas de violencias contra las mujeres tendrán carácter de servicios esenciales.</ANSWER>
+<ANSWER ISCORRECT="false">Las mujeres víctimas de violencia de género tienen derecho a servicios sociales de atención, de emergencia, de apoyo y acogida y de recuperación integral.</ANSWER>
+<ANSWER ISCORRECT="false">El Sistema Público de Salud garantizará a las mujeres víctimas de violencia de género, así como a sus hijos e hijas, el derecho a la atención sanitaria, con especial atención psicológica y psiquiátrica.</ANSWER>
+<ANSWER ISCORRECT="true">Las víctimas de violencia de género tienen derecho a recibir asesoramiento jurídico gratuito en el momento inmediatamente posterior a la interposición de la denuncia. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 17.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito sanitario. ¿A través de que órgano las Administraciones públicas desarrollarán programas de sensibilización y formación continuada para el personal sanitario, en relación con la violencia de género?">
+<ANSWER ISCORRECT="false">Comisión Interterritorial del Sistema Nacional de Salud.</ANSWER>
+<ANSWER ISCORRECT="true">Consejo Interministerial del Sistema Nacional de Salud.</ANSWER>
+<ANSWER ISCORRECT="false">Secretaria General del Sistema Nacional de Salud.</ANSWER>
+<ANSWER ISCORRECT="false">Departamento General del Sistema Nacional de Salud.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 18.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito sanitario. ¿Qué se constituirá en el seno del Consejo Interterritorial del Sistema Nacional de Salud?">
+<ANSWER ISCORRECT="false">Una Comisión Interterritorial del Sistema Nacional de Salud.</ANSWER>
+<ANSWER ISCORRECT="true">Una Comisión contra la Violencia de Género.</ANSWER>
+<ANSWER ISCORRECT="false">Una Delegación Sectorial.</ANSWER>
+<ANSWER ISCORRECT="false">Un Departamento General del de Violencia de Género.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 19.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En el ámbito sanitario. ¿A dónde remitirá anualmente un informe la Comisión creada por el Consejo Interterritorial del Sistema Nacional de Salud?">
+<ANSWER ISCORRECT="false">Al Observatorio Estatal de la Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">Al Pleno del Consejo Interterritorial.</ANSWER>
+<ANSWER ISCORRECT="false">A las Cortes Generales.</ANSWER>
+<ANSWER ISCORRECT="true">A y B son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 20.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Derechos de las mujeres víctimas de violencia de género. Derecho a la atención integral. ¿Qué servicios componen esa atención integral?">
+<ANSWER ISCORRECT="false">Servicios Sociales.</ANSWER>
+<ANSWER ISCORRECT="false">Servicios de Emergencia.</ANSWER>
+<ANSWER ISCORRECT="false">Servicios de apoyo y acogida.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 21.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Derechos de las mujeres víctimas de violencia de género. Derecho a la atención integral. ¿Estos servicios actuarán coordinadamente y en colaboración con? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Los Cuerpos de Seguridad.</ANSWER>
+<ANSWER ISCORRECT="false">Los Juzgados de Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">Los servicios sanitarios.</ANSWER>
+<ANSWER ISCORRECT="true">Las Instituciones encargadas de prestar asistencia social a las victimas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 22.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Derechos de las mujeres víctimas de violencia de género. Derecho a la atención integral. ¿Qué podrán solicitar estos servicios al órgano judicial?">
+<ANSWER ISCORRECT="false">Medidas precauciónales.</ANSWER>
+<ANSWER ISCORRECT="false">Medidas paliativas.</ANSWER>
+<ANSWER ISCORRECT="true">Medidas urgentes.</ANSWER>
+<ANSWER ISCORRECT="false">Medidas judiciales de ámbito integral.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 23.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Derechos de las mujeres víctimas de violencia de género. Derecho a la atención integral. ¿Quiénes tendrán también derecho a la asistencia social integral a través de los servicios sociales?">
+<ANSWER ISCORRECT="false">Los familiares de las víctimas de violencia de género.</ANSWER>
+<ANSWER ISCORRECT="true">Los menores víctimas de un delito.</ANSWER>
+<ANSWER ISCORRECT="false">Los menores que se encuentre bajo el cuidado de una victima de violencia de género.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 24.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. La trabajadora victima de violencia de género, ¿Tendrá derecho en los términos previstos en el Estatuto de los trabajadores a?">
+<ANSWER ISCORRECT="false">A la reducción o a la reordenación de su tiempo de trabajo, y la suspensión temporal del mismo, entre otras medidas.</ANSWER>
+<ANSWER ISCORRECT="false">La suspensión y la extinción del contrato de trabajo previstas en el apartado anterior darán lugar a situación legal de desempleo.</ANSWER>
+<ANSWER ISCORRECT="false">Las ausencias o faltas de puntualidad al trabajo motivadas por la situación física o psicológica derivada de la violencia de género se considerarán justificadas y serán remuneradas, cuando así lo determinen los servicios sociales.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 25.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿Cómo se acreditarán la situaciones de Violencia de Género? Señala la respuesta correcta.">
+<ANSWER ISCORRECT="true">Por sentencia condenatoria.</ANSWER>
+<ANSWER ISCORRECT="false">Orden de protección o medida cautelar a favor de la víctima, por sentencia firme.</ANSWER>
+<ANSWER ISCORRECT="false">Por informe del Ministerio Fiscal que indique la existencia fehaciente del delito.</ANSWER>
+<ANSWER ISCORRECT="false">Mediante informe de los Servicios Sociales incompetentes destinados a las victimas de violencia de género.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 26.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género.  Derechos económicos. ¿Qué tanto por ciento respecto al salario mínimo interprofesional tienen que tener las víctimas, para recibir una ayuda de pago único?">
+<ANSWER ISCORRECT="false">65%.</ANSWER>
+<ANSWER ISCORRECT="true">75%.</ANSWER>
+<ANSWER ISCORRECT="false">85%.</ANSWER>
+<ANSWER ISCORRECT="false">95%.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 27.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Tutela institucional ¿Qué órgano estará legitimado ante los órganos jurisdiccionales para intervenir en defensa de los derechos y de los intereses tutelados en esta ley en colaboración y coordinación con las administraciones con competencias en la materia?">
+<ANSWER ISCORRECT="false">El Observatorio Estatal de Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="true">La Delegación del Gobierno contra la Violencia de Género.</ANSWER>
+<ANSWER ISCORRECT="false">La delegación Estatal de Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">El Observatorio del Gobierno contra la Violencia de Género.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 28.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Fuerzas y Cuerpos de Seguridad. ¿Quién establecerá en las FCSE unidades especializadas en la prevención de la violencia de género?">
+<ANSWER ISCORRECT="false">El Ministerio del Interior.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Igualdad.</ANSWER>
+<ANSWER ISCORRECT="false">El Consejo de Ministros.</ANSWER>
+<ANSWER ISCORRECT="true">El Gobierno.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 29.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Fuerzas y Cuerpos de Seguridad. ¿Qué habrá de tener en cuenta la actuación de las Fuerzas y Cuerpos de Seguridad, respecto a la violencia de género?">
+<ANSWER ISCORRECT="false">El Protocolo de Actuación de las Fuerzas y Cuerpos de Seguridad del Estado y de Coordinación con los Órganos Judiciales para la protección de la violencia doméstica y de género.</ANSWER>
+<ANSWER ISCORRECT="true">El Convenio de Actuación de las Fuerzas y Cuerpos de Seguridad y de Coordinación con los Órganos Judiciales para la protección de la violencia doméstica y de género.</ANSWER>
+<ANSWER ISCORRECT="false">El Protocolo de Actuación de las Fuerzas y Cuerpos de Seguridad y de Coordinación con las Administraciones Públicas para la protección de la violencia doméstica y de género.</ANSWER>
+<ANSWER ISCORRECT="false">El Protocolo de Actuación de las Fuerzas y Cuerpos de Seguridad y de Coordinación con los Órganos Judiciales para la protección de la violencia de género.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 30.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿Qué elaborarán los poderes públicos, que garanticen la ordenación de sus actuaciones en la prevención, asistencia y persecución de los actos de violencia de género, que deberán implicar a las administraciones sanitarias, la Administración de Justicia, las Fuerzas y Cuerpos de Seguridad y los servicios sociales y organismos de igualdad?">
+<ANSWER ISCORRECT="false">Protocolos de actuación.</ANSWER>
+<ANSWER ISCORRECT="true">Planes de colaboración.</ANSWER>
+<ANSWER ISCORRECT="false">Estudios de impacto de género.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 31.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Tutela Penal, la presente Ley ha introducido cambios que afectan a diferentes apartados del Código Penal. Señala de las siguientes respuestas, la incorrecta, respecto a los cambios citados.">
+<ANSWER ISCORRECT="false">Suspensión de penas.</ANSWER>
+<ANSWER ISCORRECT="true">Restitución de penas.</ANSWER>
+<ANSWER ISCORRECT="false">Protección contra las lesiones.</ANSWER>
+<ANSWER ISCORRECT="false">Protección contra los malos tratos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 32.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Completa el siguiente texto, con la respuesta correcta. Artículo 38. Protección contra las amenazas. «Art. 171 C. Penal: 4. El que _____________ a quien sea o haya sido su esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficio de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o incapaz, inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento hasta cinco años.?.">
+<ANSWER ISCORRECT="false">De modo grave amenace.</ANSWER>
+<ANSWER ISCORRECT="true">De modo leve amenace.</ANSWER>
+<ANSWER ISCORRECT="false">De forma violenta amenace.</ANSWER>
+<ANSWER ISCORRECT="false">Con armas u objetos peligrosos amenace.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 33.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿Qué órgano de la Administración penitenciaria valorará la progresión de grado, para la concesión de permisos penitenciarios a los condenados por delito ?de violencia de género??">
+<ANSWER ISCORRECT="false">El Juez de vigilancia penitenciaria.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal de violencia de género.</ANSWER>
+<ANSWER ISCORRECT="true">La Junta de Tratamiento.</ANSWER>
+<ANSWER ISCORRECT="false">El Equipo Técnico de vigilancia penitenciaria.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 34.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Tutela judicial. ¿Qué existirá en cada partido judicial?">
+<ANSWER ISCORRECT="false">Un tribunal de violencia sobre la mujer.</ANSWER>
+<ANSWER ISCORRECT="true">Un Juzgado de violencia sobre la mujer.</ANSWER>
+<ANSWER ISCORRECT="false">Dos tribunales especializados en violencia sobre la mujer, que se alternaran en el conocimiento de los asuntos relativos a este delito.</ANSWER>
+<ANSWER ISCORRECT="false">Un Juzgado de Primera Instancia e Instrucción que se encargará de este tipo de delitos, en caso de existir un gran volumen de asuntos relacionados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 35.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. De los siguientes delitos, ¿Cual no será juzgado por el órgano jurisdiccional especializado en delitos de violencia de género?">
+<ANSWER ISCORRECT="false">Homicidio.</ANSWER>
+<ANSWER ISCORRECT="false">Aborto.</ANSWER>
+<ANSWER ISCORRECT="true">Delitos contra la integridad sexual.</ANSWER>
+<ANSWER ISCORRECT="false">Delitos cometidos con violencia o intimidación siempre que se hubiesen cometido contra quien sea o haya sido su esposa.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 36.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Normas procesales penales. Respecto al órgano jurisdiccional que deba enjuiciar el delito relacionado con esta Ley. ¿Qué circunstancia marca el órgano que deba enjuiciar el delito?">
+<ANSWER ISCORRECT="false">El lugar de comisión del hecho.</ANSWER>
+<ANSWER ISCORRECT="true">El domicilio de la víctima.</ANSWER>
+<ANSWER ISCORRECT="false">El lugar de descubrimiento del delito.</ANSWER>
+<ANSWER ISCORRECT="false">El lugar de conocimiento de la existencia del delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 37.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿Cuándo el juzgado de violencia sobre la mujer, no se halle en funciones, por no ser horario de audiencia, ¿Cómo actuarán las F.C.S.?">
+<ANSWER ISCORRECT="true">Presentarán al detenido y el atestado ante el Juzgado de violencia sobre la mujer el primer día hábil siguiente.</ANSWER>
+<ANSWER ISCORRECT="false">Presentarán al detenido y el atestado ante el Juzgado de Instrucción de guardia.</ANSWER>
+<ANSWER ISCORRECT="false">Deberán agendar cita con el juzgado de violencia sobre la mujer, que deberá ser ratificada por dicho juzgado.</ANSWER>
+<ANSWER ISCORRECT="false">Solo en caso de superarse las 72 horas máximas desde la detención del autor del hecho, podrán presentar al detenido y el atestado, ante el Juzgado de Instrucción de guardia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 38.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Medidas judiciales de protección y de seguridad de las víctimas. De las medidas de salida del domicilio, alejamiento o suspensión de las comunicaciones. ¿Qué podrá autorizar el Juez? ">
+<ANSWER ISCORRECT="false">La salida obligatoria del inculpado del domicilio de convivencia con la víctima.</ANSWER>
+<ANSWER ISCORRECT="false">Que el inculpado se aproxime a la persona protegida.</ANSWER>
+<ANSWER ISCORRECT="false">La comunicación de cualquier tipo del inculpado con la persona protegida.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 39.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Del Fiscal contra la Violencia de Género. ¿El Fiscal de Violencia de Género que será respecto al Fiscal General del Estado?">
+<ANSWER ISCORRECT="false">Un ayudante.</ANSWER>
+<ANSWER ISCORRECT="false">Un Comisionado.</ANSWER>
+<ANSWER ISCORRECT="true">Un delegado.</ANSWER>
+<ANSWER ISCORRECT="false">Un Jefe de Sección.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 40.:Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Del Fiscal contra la Violencia de Género. ¿Con que periodicidad elaborará un informe sobre procedimientos seguidos y actuaciones practicadas?">
+<ANSWER ISCORRECT="true">Trimestralmente.</ANSWER>
+<ANSWER ISCORRECT="false">Semestralmente.</ANSWER>
+<ANSWER ISCORRECT="false">Mensualmente.</ANSWER>
+<ANSWER ISCORRECT="false">Anualmente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 41.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿Qué existirá en la Fiscalía de la Audiencia Nacional, y en cada Fiscalía de los Tribunales Superiores de Justicia y Audiencias Provinciales?">
+<ANSWER ISCORRECT="false">Una sección de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">Una sección contra la violencia de la mujer.</ANSWER>
+<ANSWER ISCORRECT="false">Una sección principal de violencia de género y doméstica.</ANSWER>
+<ANSWER ISCORRECT="true">A y B son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 42.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. En aquellas Fiscalías en las que el número de asuntos de que conociera así lo aconsejara y siempre que resultara conveniente para la organización del servicio, previo informe del Consejo Fiscal, ¿Podrán designarse?">
+<ANSWER ISCORRECT="true">Delegados de la Jefatura.</ANSWER>
+<ANSWER ISCORRECT="false">Fiscales auxiliares</ANSWER>
+<ANSWER ISCORRECT="false">Dos Fiscales de apoyo.</ANSWER>
+<ANSWER ISCORRECT="false">Comisionados de la Fiscalía.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 43.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Los Delegados de la Jefatura, ¿Serán nombrados por?">
+<ANSWER ISCORRECT="false">El Fiscal de Sala.</ANSWER>
+<ANSWER ISCORRECT="true">El Fiscal General del Estado.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal Jefe de la Sección de Violencia de Género.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal Jefe de la Fiscalía de violencia de Genero de la Audiencia Provincial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 44.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Jurisdicción de los Juzgados. De los Juzgado de Violencia sobre la Mujer. Señala la respuesta correcta. ">
+<ANSWER ISCORRECT="false">Los Juzgados de Primera Instancia e Instrucción y los Juzgados de Violencia sobre la Mujer tienen jurisdicción en el ámbito territorial de su provincia.</ANSWER>
+<ANSWER ISCORRECT="true">Atendidas las circunstancias geográficas, de ubicación y población, podrán crearse Juzgados de Violencia sobre la Mujer que atiendan a más de un partido judicial.</ANSWER>
+<ANSWER ISCORRECT="false">Igualmente atendidas las circunstancias señaladas, un Juzgado de Violencia sobre la mujer, podrá organizarse en secciones, para un mejor desarrollo de sus funciones.</ANSWER>
+<ANSWER ISCORRECT="false">Los Juzgados de violencia sobre la mujer deberán ser dirigidos por un Magistrado-Juez en todo caso.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 45.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Derecho de atención integral. ¿Qué existirá entre la Administración General del Estado, y las Administraciones de las Comunidades Autónomas? ">
+<ANSWER ISCORRECT="true">Instrumentos y procedimientos de cooperación.</ANSWER>
+<ANSWER ISCORRECT="false">Acuerdos de cooperación.</ANSWER>
+<ANSWER ISCORRECT="false">Comisiones sectoriales de cooperación específicas.</ANSWER>
+<ANSWER ISCORRECT="false">Convenios de procedimiento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 46.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Asistencia Jurídica de la víctima de violencia de género. ¿Para que tendrá habilitación legal el abogado o abogada designado por la víctima?">
+<ANSWER ISCORRECT="false">Habilitación legal para la representación procesal de aquella hasta la designación de otro letrado, en tanto la víctima no se halla personado como acusación.</ANSWER>
+<ANSWER ISCORRECT="false">Habilitación procesal para la representación procesal de aquella hasta la designación de procurador o procuradora, en tanto la víctima no se halla personado como acusación.</ANSWER>
+<ANSWER ISCORRECT="false">Habilitación legal para la representación procesal de aquella hasta la designación de procurador o procuradora, hasta que la víctima se halla personado como acusación.</ANSWER>
+<ANSWER ISCORRECT="true">Habilitación legal para la representación procesal de aquella hasta la designación de procurador o procuradora, en tanto la víctima no se halla personado como acusación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 47.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. ¿En que marco, se creará un programa de acción específico para las víctimas de violencia de género? ">
+<ANSWER ISCORRECT="true">En el del Programa específico de empleo.</ANSWER>
+<ANSWER ISCORRECT="false">En el del Sistema Nacional de empleo.</ANSWER>
+<ANSWER ISCORRECT="false">En el del Protocolo Nacional de empleo.</ANSWER>
+<ANSWER ISCORRECT="false">En el del Acuerdo nacional de empleo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 48.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Acreditación de situaciones de violencia de género. ¿En caso de menores, como podrá acreditarse también esta situación?">
+<ANSWER ISCORRECT="false">Por los mismos órganos que para personas mayores de edad, en todo caso.</ANSWER>
+<ANSWER ISCORRECT="false">Por documentos de constatación al efecto.</ANSWER>
+<ANSWER ISCORRECT="true">Por documentos sanitarios oficiales de comunicación.</ANSWER>
+<ANSWER ISCORRECT="false">Por documentos escolares incluso de centros privados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 49.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Acreditación de situaciones de violencia de género. ¿En que marco diseñaran de común acuerdo el Gobierno y las CCAAs, procedimientos que permitan poner en marcha los sistemas de acreditación de las situaciones de violencia de género?">
+<ANSWER ISCORRECT="false">En el marco del Sistema Interadministrativo de violencia de género.</ANSWER>
+<ANSWER ISCORRECT="true">En el marco de la Conferencia Sectorial de Igualdad.</ANSWER>
+<ANSWER ISCORRECT="false">En el marco del Convenio sobre medidas ante situaciones de violencia de género.</ANSWER>
+<ANSWER ISCORRECT="false">En el marco del Acuerdo Nacional administrativo de Igualdad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 50.: Ley Orgánica 1/2004 Medidas de Protección Integral contra la Violencia de Género. Derechos de reparación. ¿Qué comprende este derecho? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Compensación económica.</ANSWER>
+<ANSWER ISCORRECT="false">Medidas para su completa recuperación física.</ANSWER>
+<ANSWER ISCORRECT="true">Acciones de reparación objetiva.</ANSWER>
+<ANSWER ISCORRECT="false">Garantías de no repetición.</ANSWER>
+</QUESTION>
+</POLL>

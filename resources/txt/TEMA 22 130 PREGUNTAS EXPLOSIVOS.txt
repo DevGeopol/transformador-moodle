@@ -1,0 +1,1284 @@
+TIPO GC
+
+1. ¿Cuál es el objetivo principal del Reglamento de Explosivos (Real Decreto 130/2017?
+RETRO
+a) Establecer la regulación de los explosivos en los aspectos relativos a la seguridad ciudadana en la fabricación, almacenamiento, distribución, comercio, transporte, medidas de seguridad, adquisición, tenencia y uso de los explosivos con fines civiles, en el marco de la Ley Orgánica de protección de la seguridad ciudadana, y en el ejercicio de la competencia que le reconoce la Constitución Española.
+b) Regular los aspectos relativos a la seguridad industrial en las actividades reglamentadas, que se aplicará dentro del marco de la Ley de Industria.
+c) Establecer disposiciones relativas a las funciones de los órganos específicos en materia  de
+seguridad y salud en el trabajo que se señalan la Ley de Prevención de Riesgos Laborales.
+d) Incorporar al ordenamiento jurídico español la Directiva 2014/28/UE, del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, en materia de comercialización y control de explosivos con fines civiles.
+e) Establecer los requisitos esenciales de seguridad que deberán cumplir los explosivos con fines civiles para su comercialización. (Seguridad ciudadana).
+FINRETRO
+Establecer regulaciones para la fabricación de explosivos militares.
+Regular la seguridad industrial en las actividades reglamentadas.
+Definir los aspectos de protección medioambiental en la fabricación de explosivos.
+-Regular aspectos relacionados con la seguridad ciudadana en el uso de explosivos civiles.
+
+2. ¿Qué se excluye de la regulación de este reglamento según regulación normativa específica?
+RETRO
+Los explosivos con fines civiles, así como el nitrato amónico y las matrices de emulsiones, suspensiones y geles a base de nitrato amónico para la fabricación de explosivos, «Materias primas intermedias para la fabricación de explosivos».
+El régimen jurídico previsto en este reglamento se aplicará sin perjuicio de las previsiones de protección medioambiental en materia de residuos y transporte de residuos.
+Exclusiones (regulación normativa específica):
+a) Las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas.
+b) Los explosivos para uso no comercial de esos cuerpos (excepto en lo relativo a su fabricación, importación, exportación, transferencia, tránsito, transporte, almacenamiento, uso y eliminación, si estas operaciones no son realizadas por el órgano competente de dichas Unidades).
+c) Los artículos pirotécnicos y cartuchería incluidos en el ámbito de aplicación del Reglamento de artículos pirotécnicos y cartuchería, aprobado por Real Decreto 989/2015, de 30 de octubre.
+d) Precursores de explosivos (Las materias que en sí mismas no sean explosivas, pero que puedan formar mezclas explosivas de líquidos, gases, vapores o polvos, y los artículos que contengan materias explosivas o mezclas explosivas de materias en cantidad tan pequeña, o de tal naturaleza, que su iniciación por inadvertencia o accidente no implique ninguna manifestación exterior en el artefacto que pudiera traducirse en proyecciones, incendio, desprendimiento de humo, calor o fuerte ruido).
+La adquisición de material explosivo por los Cuerpos de Policía de las Comunidades Autónomas que cuenten con unidades de desactivación de explosivos, requerirá el acuerdo anual de la Junta de Seguridad respectiva y, una vez adoptado éste, la comunicación previa a la Dirección General de la Guardia Civil de la cantidad, clase de producto y procedencia de la adquisición de dicho material por parte del Departamento del que dependan dichos Cuerpos.
+FINRETRO
+Los cuerpos de policía de las Comunidades Autónomas.
+Los explosivos para uso no comercial de las Fuerzas Armadas.
+-Los precursores de explosivos que sean por sí mismos explosivos.
+Todas las opciones anteriores quedan excluidas del Reglamento de explosivos.
+
+3. ¿Qué se requiere para que los Cuerpos de Policía de las Comunidades Autónomas adquieran material explosivo?
+RETRO
+La adquisición de material explosivo por los Cuerpos de Policía de las Comunidades Autónomas que cuenten con unidades de desactivación de explosivos, requerirá el acuerdo anual de la Junta de Seguridad respectiva y, una vez adoptado éste, la comunicación previa a la Dirección General de la Guardia Civil de la cantidad, clase de producto y procedencia de la adquisición de dicho material por parte del Departamento del que dependan dichos Cuerpos.
+FINRETRO
+Autorización del Ministerio del Interior.
+-Acuerdo anual de la Junta de Seguridad respectiva.
+Permiso del órgano competente de la Unión Europea.
+Certificado de seguridad expedido por la Guardia Civil.
+
+4. ¿Qué entidad debe otorgar el acuerdo anual para que los Cuerpos de Policía adquieran material explosivo?
+RETRO
+La adquisición de material explosivo por los Cuerpos de Policía de las Comunidades Autónomas que cuenten con unidades de desactivación de explosivos, requerirá el acuerdo anual de la Junta de Seguridad respectiva y, una vez adoptado éste, la comunicación previa a la Dirección General de la Guardia Civil de la cantidad, clase de producto y procedencia de la adquisición de dicho material por parte del Departamento del que dependan dichos Cuerpos.
+FINRETRO
+Ministerio de Defensa.
+-Junta de Seguridad respectiva.
+Guardia Civil.
+Ayuntamiento correspondiente.
+
+5. ¿Qué se entiende por "Materias primas intermedias para la fabricación de explosivos"?
+RETRO
+Los explosivos con fines civiles, así como el nitrato amónico y las matrices de emulsiones, suspensiones y geles a base de nitrato amónico para la fabricación de explosivos, «Materias primas intermedias para la fabricación de explosivos».
+FINRETRO
+Explosivos para uso comercial.
+Explosivos de uso no comercial.
+-Nitrato amónico y sus derivados.
+Artículos pirotécnicos.
+
+6. ¿Qué se excluye en relación con los cuerpos de Fuerzas Armadas y de Seguridad del Estado?
+RETRO
+Exclusiones (regulación normativa específica):
+a) Las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas.
+b) Los explosivos para uso no comercial de esos cuerpos (excepto en lo relativo a su fabricación, importación, exportación, transferencia, tránsito, transporte, almacenamiento, uso y eliminación, si estas operaciones no son realizadas por el órgano competente de dichas Unidades).
+c) Los artículos pirotécnicos y cartuchería incluidos en el ámbito de aplicación del Reglamento de artículos pirotécnicos y cartuchería, aprobado por Real Decreto 989/2015, de 30 de octubre.
+d)Precursores de explosivos (Las materias que en sí mismas no sean explosivas, pero que puedan formar mezclas explosivas de líquidos, gases, vapores o polvos, y los artículos que contengan materias explosivas o mezclas explosivas de materias en cantidad tan pequeña, o de tal naturaleza, que su iniciación por inadvertencia o accidente no implique ninguna manifestación exterior en el artefacto que pudiera traducirse en proyecciones, incendio, desprendimiento de humo, calor o fuerte ruido).
+La adquisición de material explosivo por los Cuerpos de Policía de las Comunidades Autónomas que cuenten con unidades de desactivación de explosivos, requerirá el acuerdo anual de la Junta de Seguridad respectiva y, una vez adoptado éste, la comunicación previa a la Dirección General de la Guardia Civil de la cantidad, clase de producto y procedencia de la adquisición de dicho material por parte del Departamento del que dependan dichos Cuerpos.
+FINRETRO
+Fabricación y exportación de explosivos.
+-Uso comercial de explosivos.
+Uso no comercial de explosivos.
+Transporte de explosivos.
+
+7. ¿Qué se requiere para la adquisición de material explosivo por los Cuerpos de Policía de las Comunidades Autónomas?
+RETRO
+La adquisición de material explosivo por los Cuerpos de Policía de las Comunidades Autónomas que cuenten con unidades de desactivación de explosivos, requerirá el acuerdo anual de la Junta de Seguridad respectiva y, una vez adoptado éste, la comunicación previa a la Dirección General de la Guardia Civil de la cantidad, clase de producto y procedencia de la adquisición de dicho material por parte del Departamento del que dependan dichos Cuerpos.
+FINRETRO
+Permiso de la Dirección General de la Guardia Civil.
+-Acuerdo de la Junta de Seguridad respectiva y comunicación a la Dirección General de la Guardia Civil.
+Aprobación del Ministerio de Industria.
+Autorización del Ministerio de Medio Ambiente.
+
+8. ¿Cuál es la función principal de la Dirección General de la Guardia Civil en relación a los explosivos?
+RETRO
+El Ministerio del Interior, a través de la Dirección General de la Guardia Civil, en ejercicio de sus competencias en materia de explosivos reguladas en la Ley Orgánica 4/2015, de 30 de marzo de protección de la seguridad ciudadana, especialmente en el control e inspección de su fabricación, almacenamiento, circulación, distribución, comercio, adquisición, transporte, medidas de seguridad, tenencia y uso, así como, la autorización de importaciones, transferencias y tránsitos de origen comunitario.
+FINRETRO
+Autorizar importaciones de explosivos
+-Inspeccionar instalaciones de fábricas y depósitos de explosivos
+Controlar la salud laboral en la industria de explosivos
+Regular la protección de la salud humana
+
+9. ¿Cuál es la función de las Administraciones Autonómicas y Locales en este reglamento?
+RETRO
+Las Administraciones Autonómicas y Locales en las actividades que a consecuencia de las que en este reglamento se regulan resulten de su competencia.
+Las Delegaciones del Gobierno comunicarán a la Dirección General de Política Energética y Minas, cualquier accidente grave o mortal producido en las actividades reguladas por el Reglamento de explosivos, a fin de que el citado Ministerio disponga de un registro actualizado de la siniestralidad laboral.
+FINRETRO
+Autorizar la fabricación de explosivos
+Inspeccionar instalaciones de fábricas de explosivos
+Regular el transporte de explosivos
+-Intervenir en actividades de su competencia
+
+10. ¿Cuál es el ministerio responsable de autorizar las instalaciones de las fábricas y depósitos de explosivos en función de la defensa nacional?
+RETRO
+El Ministerio  de  Defensa,  a través  de  la  Dirección  General  de  Armamento  y Material,  en
+cumplimiento de la función de salvaguardar la defensa nacional, en la autorización de las instalaciones de las fábricas y depósitos de explosivos y el control de estas fábricas en los aspectos concernientes a la defensa nacional.
+FINRETRO
+Ministerio de Energía, Turismo y Agenda Digital
+-Ministerio de Defensa
+Ministerio de Interior
+Ministerio de Asuntos Exteriores y de Cooperación
+
+11. ¿Qué organismo tiene competencias en la inspección en materia de seguridad industrial y en seguridad y salud en el trabajo según la Ley de Prevención de Riesgos Laborales?
+RETRO
+El Ministerio de Energía, Turismo y Agenda Digital, a través de la Dirección General de Política Energética y Minas, con competencias exclusivas generales y específicas en las autorizaciones de las actividades atribuidas en este reglamento, así como en la inspección en materia de seguridad industrial y en materia de seguridad y salud en el trabajo respecto a los ámbitos contemplados en el artículo 7.2 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, bien por sus propios medios o por las Áreas Funcionales de Industria y Energía de las Delegaciones y Subdelegaciones del Gobierno, respectivamente.
+FINRETRO
+Dirección General de Relaciones Económicas Internacionales
+-Dirección General de Política Energética y Minas
+Dirección General de Protección Civil y Emergencias
+Dirección General de Armamento y Material
+
+12. ¿Cuál  es  el organismo  responsable  de  salvaguardar la  defensa  nacional en  relación  a  las instalaciones de fábricas y depósitos de explosivos?
+RETRO
+El Ministerio de Defensa, a través de la Dirección General de Armamento y Material, en cumplimiento de la función de salvaguardar la defensa nacional, en la autorización de las instalaciones de las fábricas y depósitos de explosivos y el control de estas fábricas en los aspectos concernientes a la defensa nacional.
+FINRETRO
+Dirección General de Protección Civil y Emergencias
+Dirección General de Relaciones Económicas Internacionales
+-Dirección General de Armamento y Material
+Dirección General de Política Energética y Minas
+
+13. ¿Cuál es el organismo responsable de controlar los riesgos inherentes a los accidentes graves con sustancias peligrosas?
+RETRO
+El Ministerio del Interior, a través de la Dirección General de Protección Civil y Emergencias, en cumplimiento de las funciones en materia de protección civil establecidas por el artículo 6.1 del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas.
+FINRETRO
+Dirección General de Política Energética y Minas
+Dirección General de la Guardia Civil
+-Dirección General de Protección Civil y Emergencias
+Dirección General de Relaciones Económicas Internacionales
+
+14. ¿Qué organismo se encarga de las inspecciones en los aspectos laborales y de seguridad y salud en el trabajo no afectados por el reglamento de explosivos?
+RETRO
+El Ministerio de Empleo y Seguridad Social, así como la Inspección de Trabajo y Seguridad Social, en los aspectos no afectados por este reglamento, es decir, los laborales, los de empleo, los de seguridad social y, en particular, los aspectos relacionados con la seguridad y salud en el trabajo no afectados por la fabricación, manipulación, envasado y transporte de las materias reguladas por este reglamento, en adelante materias reglamentadas.
+FINRETRO
+Dirección General de Política Energética y Minas
+-Inspección de Trabajo y Seguridad Social
+Dirección General de la Guardia Civil
+Dirección General de Protección Civil y Emergencias
+
+15. ¿Cuál es la función principal de las Delegaciones del Gobierno en relación a los accidentes graves o mortales en actividades reguladas por el Reglamento de explosivos?
+RETRO
+Las Delegaciones del Gobierno comunicarán a la Dirección General de Política Energética y Minas, cualquier accidente grave o mortal producido en las actividades reguladas por el Reglamento de explosivos, a fin de que el citado Ministerio disponga de un registro actualizado de la siniestralidad laboral.
+FINRETRO
+Intervenir en la autorización de importaciones de explosivos
+Realizar inspecciones en fábricas y depósitos de explosivos
+-Comunicar accidentes graves o mortales a la Dirección General de Política Energética y Minas
+Regular el transporte de explosivos
+
+16. ¿Cuál es el organismo encargado de la autorización de importaciones, transferencias y tránsitos de explosivos de origen comunitario?
+RETRO
+El Ministerio de Asuntos Exteriores y de Cooperación, a través de la Dirección General de Relaciones Económicas Internacionales, en la autorización de los tránsitos de explosivos procedentes de países extracomunitarios por territorio nacional.
+FINRETRO
+Dirección General de Protección Civil y Emergencias
+Dirección General de Armamento y Material
+Dirección General de Política Energética y Minas
+-Dirección General de Relaciones Económicas Internacionales
+
+17. ¿Cuál es el organismo encargado de la inspección y ordenación de los transportes según este reglamento?
+RETRO
+Los Ministerios de Economía, Industria y Competitividad, y de Agricultura y Pesca, Alimentación y Medio Ambiente, en las actividades reguladas en este reglamento que sean de su competencia y el Ministerio de Fomento en todo lo referente a la inspección y ordenación de los transportes.
+FINRETRO
+Dirección General de Protección Civil y Emergencias
+Dirección General de Política Energética y Minas
+Dirección General de la Guardia Civil
+-Ministerio de Fomento
+
+18. ¿Cuál de las siguientes actividades NO es considerada dentro del sector de explosivos?
+RETRO
+Las  empresas  autorizadas  para  la  fabricación,  almacenamiento,  transferencia  o  importación,
+comercialización y utilización de explosivos deberán disponer de un sistema de seguimiento de la tenencia de los mismos, de conformidad con la ITC número 5, que permita identificar, en todo momento, a su tenedor.
+Todas las actividades reglamentadas concernientes a los explosivos solo podrán ser desempeñadas por quienes, ostentando la capacidad de obrar prevista en este reglamento, posean, además, la capacidad técnica y la solvencia financiera necesarias para el ejercicio de dichas actividades.
+FINRETRO
+Fabricación
+Transferencia
+-Difusión
+Almacenamiento
+
+19. ¿Quiénes pueden desempeñar actividades reglamentadas relacionadas con explosivos?
+RETRO
+Todas las actividades reglamentadas concernientes a los explosivos solo podrán ser desempeñadas por quienes, ostentando la capacidad de obrar prevista en este reglamento, posean, además, la
+capacidad técnica y la solvencia financiera necesarias para el ejercicio de dichas actividades.
+Los titulares de autorizaciones para el ejercicio de las actividades reguladas por este reglamento han de tener nacionalidad española o de cualquiera de los países miembros del Espacio Económico Europeo o la nacionalidad o parentesco determinado por la normativa que sea de aplicación.
+La validez de las autorizaciones para la manipulación de explosivos estará condicionada al hecho de que sus titulares tengan concertado y mantengan en vigor un seguro u otra garantía financiera que cubra su responsabilidad civil, por una cantidad que será determinada en función de la clase y cantidad de explosivo que se vaya a usar y del riesgo que pueda generar, teniendo en cuenta las circunstancias objetivas y subjetivas que en cada supuesto concurran.
+FINRETRO
+Cualquier individuo
+Solo personas con nacionalidad española
+-Personas con capacidad técnica y solvencia financiera necesarias
+Personas con antecedentes penales
+
+20. ¿Quiénes pueden ser titulares de autorizaciones para actividades reguladas por este reglamento?
+RETRO
+Los titulares de autorizaciones para el ejercicio de las actividades reguladas por este reglamento han de tener nacionalidad española o de cualquiera de los países miembros del Espacio Económico Europeo o la nacionalidad o parentesco determinado por la normativa que sea de aplicación.
+FINRETRO
+Cualquier persona
+Solo personas con nacionalidad española
+-Personas con nacionalidad española o de países del Espacio Económico Europeo
+Cualquier persona con antecedentes criminales
+
+21. ¿Qué determina la cantidad de seguro necesario para la manipulación de explosivos?
+RETRO
+Se considerará empresa del sector de explosivos toda persona física o jurídica que se dedique a la
+fabricación, almacenamiento, distribución, transporte, comercialización, uso, transferencia, importación o exportación de explosivos. Será obligatorio que disponga de un seguro u otra garantía financiera que cubra su responsabilidad civil, así como de la licencia o autorización correspondiente.
+Todas las actividades reglamentadas concernientes a los explosivos solo podrán ser desempeñadas por quienes, ostentando la capacidad de obrar prevista en este reglamento, posean, además, la capacidad técnica y la solvencia financiera necesarias para el ejercicio de dichas actividades.
+FINRETRO
+El color de los explosivos
+-La clase y cantidad de explosivo y el riesgo que pueda generar
+El tamaño del almacenamiento
+La antigüedad de la empresa
+
+22. ¿Qué necesitan los titulares de autorizaciones para las actividades reguladas de explosivos?:
+RETRO
+Los titulares de autorizaciones para el ejercicio de las actividades reguladas por este reglamento han
+de tener nacionalidad española o de cualquiera de los países miembros del Espacio Económico Europeo o la nacionalidad o parentesco determinado por la normativa que sea de aplicación.
+Todas las actividades reglamentadas concernientes a los explosivos solo podrán ser desempeñadas por quienes, ostentando la capacidad de obrar prevista en este reglamento, posean, además, la capacidad técnica y la solvencia financiera necesarias para el ejercicio de dichas actividades.
+Será obligatorio que disponga de un seguro u otra garantía financiera que cubra su responsabilidad civil, así como de la licencia o autorización correspondiente.
+FINRETRO
+Un título universitario
+Nacionalidad española
+-Capacidad técnica y solvencia financiera necesarias
+Todas las anteriores son correctas.
+
+23. ¿Qué debe permitir el sistema de seguimiento de tenencia de explosivos?:
+RETRO
+Las  empresas  autorizadas  para  la  fabricación,  almacenamiento,  transferencia  o  importación,
+comercialización y utilización de explosivos deberán disponer de un sistema de seguimiento de la tenencia de los mismos, de conformidad con la ITC número 5, que permita identificar, en todo momento, a su tenedor.
+FINRETRO
+Identificar a los ciudadanos
+Identificar a los extranjeros
+-Identificar a los tenedores de explosivos
+Identificar la ubicación geográfica exacta
+
+24. ¿Quiénes son considerados "agentes económicos" en relación con los explosivos?:
+RETRO
+Agentes económicos: el fabricante, el representante autorizado, el importador, el distribuidor y toda persona física o jurídica que interviene en el almacenamiento, la utilización, la transferencia, la importación, la exportación o el comercio de explosivos.
+FINRETRO
+Los compradores de explosivos.
+Los organismos de acreditación.
+-Los distribuidores y otros involucrados en la cadena de explosivos.
+Los investigadores de explosivos y fabricantes de productos industriales.
+
+25. ¿Qué es una "autorización de transferencia" en relación con los explosivos?
+RETRO
+Autorización de transferencia: la decisión adoptada con respecto a las transferencias previstas de explosivos dentro de la Unión Europea.
+FINRETRO
+Un permiso para vender explosivos fuera de la UE.
+Una decisión de importación de explosivos.
+-Una decisión sobre la transferencia de explosivos dentro de la UE.
+Un proceso de acreditación de explosivos.
+
+26. ¿Quién es un "distribuidor" de explosivos?:
+RETRO
+Distribuidor: toda persona física o jurídica integrada en la cadena de distribución, distinta del fabricante o el importador, que comercialice un explosivo.
+FINRETRO
+Un fabricante de explosivos.
+Un importador de explosivos.
+-Una entidad involucrada en la cadena de distribución de explosivos.
+Todas las anteriores opciones son correctas.
+
+27. ¿Qué implica la "evaluación de la conformidad" de un explosivo?
+RETRO
+Evaluación de la conformidad: el proceso por el que se evalúa si se satisfacen los requisitos esenciales de seguridad de este reglamento en relación con un explosivo.
+FINRETRO
+Evaluar la seguridad industrial de un explosivo.
+-Verificar si un explosivo cumple los requisitos esenciales de seguridad.
+Evaluar la mayor o menor presencia de explosivos en el mercado.
+Calibrar determinados explosivos para su comercialización.
+
+28. ¿Quién es un "exportador" de explosivos?
+RETRO
+Exportador: toda persona física o jurídica establecida en la Unión Europea que realice la expedición de un explosivo a un tercer país.
+FINRETRO
+Un fabricante de explosivos con residencia en la UE.
+Una persona que importa explosivos.
+Una persona que introduce explosivos en la UE.
+-Una persona que envía explosivos a un tercer país desde la UE.
+
+29. ¿Quién es un "fabricante" de explosivos?
+RETRO
+Fabricante: toda persona física o jurídica que fabrica un explosivo, o que manda diseñar o fabricar un explosivo y comercializa dicho explosivo con su nombre comercial o marca o lo utiliza para sus propios fines.
+FINRETRO
+Un usuario final de explosivos.
+-Una entidad que diseña explosivos.
+Una persona que almacena y transporta explosivos.
+Un importador/exportador de explosivos.
+
+30. ¿Cuándo ocurre la "introducción en el mercado" de un explosivo?
+RETRO
+Introducción en el mercado: la primera comercialización en el mercado de la Unión Europea de un explosivo.
+FINRETRO
+Cuando se fabrica un explosivo.
+Cuando se importa un explosivo.
+-Cuando se comercializa un explosivo por primera vez en la UE.
+Cuando se almacenan explosivos en un lugar seguro.
+
+31. ¿Qué es una "norma armonizada" según el Reglamento (UE) núm. 1025/2012?
+RETRO
+Legislación de armonización de la Unión Europea: toda legislación de la Unión Europea que armonice las condiciones para la comercialización de los productos.
+Norma armonizada: con arreglo a la definición del artículo 2, punto 1, letra c), del Reglamento (UE) núm. 1025/2012, del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE, del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE, del Parlamento Europeo y del Consejo, y por el que se deroga la Decisión 87/95/CEE, del Consejo y la Decisión n.o 1673/2006/CE, del Parlamento Europeo y del Consejo.
+FINRETRO
+Una regulación de importación de explosivos.
+Una guía de seguridad industrial.
+Un proceso de acreditación de explosivos.
+-Una regulación que establece condiciones de comercialización.
+
+32. ¿Qué es un "organismo nacional de acreditación"?:
+RETRO
+Organismo nacional de acreditación: organismo nacional de acreditación con arreglo a la definición del artículo 2, punto 11, del Reglamento (CE) núm 765/2008.
+REGLAMENTO (CE) No 765/2008 DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 9 de
+julio de 2008 por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) no 339/93
+«organismo nacional de acreditación»: el único organismo de un Estado miembro con potestad pública para llevar a cabo acreditaciones;
+Los Organismos de Acreditación (no todos) son firmantes de los llamados Acuerdos Multilaterales, que mejoran la aceptación de productos y servicios a través de las fronteras nacionales, creando así un marco para apoyar el comercio internacional mediante la eliminación de barreras técnicas.
+FINRETRO
+Un organismo que diseña explosivos.
+Un organismo que acredita la seguridad industrial.
+-Un organismo que evalúa la conformidad de explosivos.
+Un organismo que supervisa la distribución de explosivos.
+
+33. ¿Qué significa la "retirada" de un explosivo?:
+RETRO
+Retirada: cualquier medida destinada a impedir la comercialización de un explosivo que se encuentra en la cadena de suministro.
+FINRETRO
+La eliminación segura de explosivos.
+La exportación de explosivos caducados a terceros países.
+-El establecimiento de medidas que impidan la comercialización de explosivos en la cadena de suministro.
+La acción de almacenar explosivos en un lugar seguro.
+
+34. ¿Quién es un "Representante autorizado"?:
+RETRO
+Representante autorizado: toda persona física o jurídica establecida en la Unión Europea que ha recibido un mandato por escrito de un fabricante para actuar en su nombre en tareas específicas.
+FINRETRO
+Cualquier persona física en la Unión Europea para comercializar con explosivos.
+Cualquier fabricante de explosivos establecido en la Unión Europea.
+Una persona autorizada para comprar explosivos.
+-Persona con mandato para actuar en nombre de un fabricante en tareas específicas.
+
+35. ¿Qué abarca la "Seguridad ciudadana"?:
+RETRO
+Seguridad ciudadana: conjunto de medidas que deben aplicarse para proteger el libre ejercicio de los derechos y libertades, crear y mantener las condiciones adecuadas al efecto, y remover los obstáculos que lo impidan, evitando cualquier ilícito penal o administrativo que tenga por objeto las materias reglamentadas, los establecimientos relacionados con aquellos o los medios de transporte en que sean desplazados.
+FINRETRO
+Medidas para proteger y garantizar la actividad industrial.
+-Medidas para garantizar el libre ejercicio de los derechos y libertades.
+Medidas para prevenir la transferencia regulada de explosivos.
+Medidas para promover la libre competencia entre fabricantes.
+
+36. ¿Qué engloba la "Seguridad y salud en el trabajo"?
+RETRO
+Seguridad y salud en el trabajo: conjunto de medidas que deben aplicarse a fin de conseguir eliminar o disminuir el riesgo de que se produzcan accidentes de trabajo o enfermedades profesionales.
+FINRETRO
+La Protección contra ilícitos penales en el lugar de trabajo.
+Medidas para prevenir accidentes de tráfico.
+Medidas para eliminar enfermedades profesionales.
+-Medidas para prevenir accidentes laborales y enfermedades profesionales.
+
+37. ¿Dónde se encuentran las definiciones necesarias para entender el Reglamento de Explosivos publicado mediante Real Decreto 130/2017, de 24 de febrero)?
+RETRO
+Serán de aplicación las definiciones, no incluidas en este artículo, de algún concepto necesario para la comprensión de lo dispuesto en este reglamento, que aparecen en el Manual de Recomendaciones relativas al transporte de mercancías peligrosas, Reglamento tipo, de las Naciones Unidas o, en su defecto, en las normas UNE-EN/UNE/EN de la materia.
+FINRETRO
+Manual de Recomendaciones de la Unión Europea.
+Normas UNE-EN/UNE/EN exclusivamente.
+-Reglamento tipo de las Naciones Unidas.
+Manual de Recomendaciones de las Naciones Unidas o normas UNE-EN/UNE/EN.
+
+38. ¿Qué busca lograr la "Seguridad ciudadana"?
+RETRO
+Seguridad ciudadana: conjunto de medidas que deben aplicarse para proteger el libre ejercicio de los derechos y libertades, crear y mantener las condiciones adecuadas al efecto, y remover los obstáculos que lo impidan, evitando cualquier ilícito penal o administrativo que tenga por objeto las materias reglamentadas, los establecimientos relacionados con aquellos o los medios de transporte en que sean desplazados.
+FINRETRO
+Proteger el ambiente natural.
+Garantizar la libre circulación de explosivos.
+-Proteger los derechos y libertades, y prevenir delitos.
+Promover el uso limitado y controlado de productos industriales.
+
+39. ¿Qué tipo de documentación técnica deben elaborar los fabricantes según la ITC número 3?
+RETRO
+Los fabricantes elaborarán la documentación técnica a que se refiere la ITC número 3, y velarán por que se lleve a cabo el correspondiente procedimiento de evaluación de la conformidad a que se refiere el artículo 11.
+Cuando mediante ese procedimiento se haya demostrado que un explosivo cumple los requisitos aplicables, los fabricantes elaborarán una declaración UE de conformidad, según el modelo la ITC número 27, y colocarán el marcado CE.
+FINRETRO
+Documentos de marketing.
+Documentos de traslados.
+Documentos financieros.
+-Documentos técnicos.
+
+40. ¿Qué deben hacer los fabricantes si consideran que un explosivo no cumple con el reglamento?
+RETRO
+Los fabricantes que consideren o tengan motivos para pensar que un explosivo que han introducido en el mercado no es conforme con este reglamento, adoptarán inmediatamente las medidas correctoras necesarias para que sea conforme, retirarlo del mercado o recuperarlo, en caso de ser necesario.
+Además de lo anterior, cuando el explosivo presente un riesgo, los fabricantes informarán inmediatamente de ello a la Dirección General de Política Energética y Minas y a aquellas autoridades nacionales competentes de los Estados miembros en los que lo comercializaron, y proporcionarán detalles, en particular, sobre la no conformidad y las medidas correctoras adoptadas. Del mismo modo, los fabricantes lo comunicarán a los distribuidores y consumidores finales.
+FINRETRO
+Ignorar el problema.
+Informar a los consumidores.
+-Tomar medidas correctoras necesarias.
+Esperar a que lo solucione el distribuidor.
+
+41. ¿Cuál es una de las tareas que debe realizar un representante autorizado según el mandato?
+RETRO
+Los representantes autorizados efectuarán las tareas especificadas en el mandato recibido del fabricante. El mandato deberá permitir al representante autorizado, al menos:
+i.	Mantener la declaración UE de conformidad y la documentación técnica a disposición de las autoridades nacionales de vigilancia del mercado durante un período de diez años después de la introducción del explosivo en el mercado, contados desde la última fecha de fabricación del explosivo.
+ii.	Sobre la base de una solicitud motivada de la autoridad competente, facilitar a dicha autoridad toda
+información y documentación necesarias para demostrar la conformidad del explosivo.
+iii.	Cooperar con las autoridades competentes, a petición de éstas, en cualquier acción destinada a eliminar los riesgos que planteen los explosivos objeto del mandato del representante autorizado.
+FINRETRO
+Fabricar los explosivos.
+Realizar investigaciones de mercado.
+-Mantener la declaración UE de conformidad y la documentación técnica a disposición de las autoridades.
+Realizar inspecciones de seguridad en el lugar de uso.
+
+42. ¿Cuál es uno de los requisitos que debe cumplir el mandato del representante autorizado?
+RETRO
+Representantes autorizados:
+a) Los fabricantes podrán designar, mediante mandato escrito, un representante autorizado.
+b) Los representantes autorizados efectuarán las tareas especificadas en el mandato recibido del fabricante. El mandato deberá permitir al representante autorizado, al menos:
+i. Mantener la declaración UE de conformidad y la documentación técnica a disposición de las autoridades nacionales de vigilancia del mercado durante un período de diez años después de la introducción del explosivo en el mercado, contados desde la última fecha de fabricación del explosivo.
+ii. Sobre la base de una solicitud motivada de la autoridad competente, facilitar a dicha autoridad toda
+información y documentación necesarias para demostrar la conformidad del explosivo.
+iii. Cooperar con las autoridades competentes, a petición de éstas, en cualquier acción destinada a eliminar los riesgos que planteen los explosivos objeto del mandato del representante autorizado.
+FINRETRO
+Facilitar la fabricación de explosivos en otro país.
+Permitir la exportación de explosivos sin restricciones.
+Mantener la declaración UE de conformidad por 5 años.
+-Permitir al representante autorizado cooperar con cualquier entidad sin restricciones.
+
+43. ¿Cuánto  tiempo  deben  mantener  los  importadores  una  copia  de  la  declaración  UE  de conformidad después de introducir el explosivo en el mercado?
+RETRO
+Durante diez años después de la introducción del explosivo en el mercado, contados desde la última fecha de fabricación del explosivo, los importadores mantendrán una copia de la declaración UE de conformidad a disposición de la Dirección General de Política Energética y Minas, y se asegurarán de que, previa petición, dichas autoridad reciba una copia de la documentación técnica.
+FINRETRO
+1 año.
+5 años.
+-10 años.
+15 años.
+
+44. ¿Cuándo deben cooperar los importadores con la Dirección General de Política Energética y Minas en acciones para evitar riesgos relacionados con los explosivos?
+RETRO
+Sobre la base de una solicitud motivada de la Dirección General de Política Energética y Minas, los importadores facilitarán, en papel o formato electrónico, toda la información y documentación necesarias para demostrar la conformidad del explosivo, redactadas al menos en castellano. Cooperarán con dicha autoridad, a petición suya, en cualquier acción destinada a evitar los riesgos que planteen los explosivos que han introducido en el mercado.
+Obligaciones de los distribuidores:
+a) Al comercializar un explosivo, los distribuidores actuarán con la debida diligencia en relación con los requisitos de este reglamento.
+b) Antes de comercializar un explosivo, los distribuidores se asegurarán de que el explosivo lleve el
+marcado CE, vaya acompañado de los documentos requeridos y de las instrucciones y la información relativa a la seguridad, redactadas al menos en castellano, y de que el fabricante y el importador hayan cumplido los requisitos de establecidos en los apartados 1.e) y 3.c).
+c) Mientras sean responsables de un explosivo, los distribuidores se asegurarán de que las condiciones de su almacenamiento o transporte no comprometan el cumplimiento de los requisitos esenciales de seguridad de la ITC número 2.
+d) Los distribuidores que consideren o tengan motivos para pensar que un explosivo que han comercializado no es conforme con este reglamento, velarán por que se adopten las medidas correctoras necesarias para que sea conforme, retirarlo del mercado o recuperarlo, en caso de ser necesario. Además, cuando el explosivo presente un riesgo, los distribuidores informarán inmediatamente de ello a la Dirección General de Política Energética y Minas, y aquellas autoridades nacionales competentes de los Estados miembros en los que lo comercializaron, y proporcionarán detalles, en particular, sobre la no conformidad y las medidas correctoras adoptadas.
+e) Sobre la base de una solicitud motivada de la Dirección General de Política Energética y Minas, los distribuidores facilitarán, en papel o formato electrónico, toda la información y documentación necesarias para demostrar la conformidad del explosivo. Cooperarán con dicha autoridad, a petición suya, en cualquier acción destinada a evitar los riesgos que planteen los explosivos que han introducido en el mercado.
+FINRETRO
+Solo si reciben una orden judicial.
+Mensualmente o si lo consideran conveniente por motivos excepcionales.
+Si son contactados por la Intervención Central de Armas y Explosivos de la Guardia Civil.
+-A petición de la Dirección General, en cualquier acción destinada a evitar riesgos.
+
+45. ¿Qué deben verificar los distribuidores antes de comercializar un explosivo?:
+RETRO
+Antes de comercializar un explosivo, los distribuidores se asegurarán de que el explosivo lleve el marcado CE, vaya acompañado de los documentos requeridos y de las instrucciones y la información relativa a la seguridad, redactadas al menos en castellano, y de que el fabricante y el importador hayan cumplido los requisitos de establecidos en los apartados 1.e) y 3.c).
+FINRETRO
+La disponibilidad de explosivos similares en el mercado.
+-Que el explosivo tenga el marcado CE y esté acompañado de documentos y de instrucciones de seguridad.
+Si el explosivo es el más eficiente en su categoría.
+La popularidad del fabricante.
+
+46. ¿Qué deben hacer los distribuidores si consideran que un explosivo que han comercializado no cumple con el reglamento?
+RETRO
+Los distribuidores que consideren o tengan motivos para pensar que un explosivo que han comercializado no es conforme con este reglamento, velarán por que se adopten las medidas correctoras necesarias para que sea conforme, retirarlo del mercado o recuperarlo, en caso de ser necesario. Además, cuando el explosivo presente un riesgo, los distribuidores informarán inmediatamente de ello a la Dirección General de Política Energética y Minas, y aquellas autoridades nacionales competentes de los Estados miembros en los que lo comercializaron, y proporcionarán detalles, en particular, sobre la no conformidad y las medidas correctoras adoptadas.
+FINRETRO
+Ignorar el problema y dar traslado del mismo al fabricante.
+Informar al público sobre la no conformidad del producto.
+-Tomar  medidas correctoras para lograr  la conformidad o  retirar/recuperar  el explosivo  si es necesario.
+Distorsionar la información y esperar a que el fabricante tome medidas.
+
+47. ¿Qué deben hacer los distribuidores si reciben una solicitud motivada de la Dirección General de Política Energética y Minas en relación con la conformidad del explosivo?
+RETRO
+Sobre la base de una solicitud motivada de la Dirección General de Política Energética y Minas, los distribuidores facilitarán, en papel o formato electrónico, toda la información y documentación necesarias para demostrar la conformidad del explosivo. Cooperarán con dicha autoridad, a petición suya, en cualquier acción destinada a evitar los riesgos que planteen los explosivos que han introducido en el mercado.
+FINRETRO
+Informar de la solicitud al fabricante.
+Proporcionar información solo en la medida necesaria que exija la ley.
+Facilitar la información solo en formato electrónico.
+-Facilitar la información y documentación necesarias, cooperando en acciones para evitar riesgos. 
+
+48. ¿Qué es una Entidad Colaboradora de la Administración (ECA)?:
+RETRO
+Se entiende por entidad colaboradora de la Administración (ECA) cualquier entidad pública o privada   que,   reuniendo	determinados   requisitos,   colabora   con   la   autoridad	competente proporcionando asistencia técnica y apoyo en tareas de auditoría e inspección de seguridad industrial dentro del ámbito de aplicación del Reglamento de explosivos.
+FINRETRO
+Una organización internacional de inspección de material explosivo.
+Cualquier entidad que realice actividades comerciales relacionadas con explosivos.
+-Una entidad que colabora con la autoridad competente proporcionando asistencia técnica y apoyo en auditorías e inspecciones de seguridad industrial.
+Una organización sin fines de lucro dedicada a la seguridad industrial.
+
+49. ¿Quién autoriza a las Entidades Colaboradoras de la Administración (ECA) para actuar en el ámbito de este reglamento?:
+RETRO
+Las ECA, una vez acreditadas por la Entidad Nacional de Acreditación (ENAC) para poder actuar en el ámbito de este reglamento, requieren autorización previa de la Dirección General de Política Energética y Minas.
+Excepcionalmente, la Dirección General de Política Energética y Minas podrá autorizar a entidades que, sin disponer de la correspondiente acreditación de ENAC, cumplan con los requisitos.
+FINRETRO
+La Entidad Nacional de Acreditación (ENAC).
+El Ministerio del interior.
+La Dirección General de la Guardia Civil.
+-La Dirección General de Política Energética y Minas.
+
+50. ¿Qué debe remitir anualmente una Entidad Colaboradora de la Administración (ECA) a la Dirección General de Política Energética y Minas?
+RETRO
+Las ECA remitirán anualmente a la Dirección General de Política Energética y Minas la siguiente documentación:
+a) Memoria detallada relacionando las actuaciones realizadas en las actividades para las que se encuentren autorizadas.
+b) Copia del informe de seguimiento de la entidad de acreditación que las acreditó, que confirme el mantenimiento de las condiciones de acreditación. En el caso de que la entidad no disponga de la acreditación de ENAC, presentará todas las pruebas documentales que la Dirección General de Política Energética y Minas le solicite para el adecuado seguimiento periódico.
+FINRETRO
+Informes de auditorías realizadas por la ECA.
+Documentación relacionada con actividades comerciales.
+-Memoria detallada de actuaciones realizadas y copia de informe de seguimiento de la entidad de acreditación, si procede.
+Listado de explosivos comercializados por la ECA.
+
+51. ¿Qué se requiere para que un explosivo esté exento de llevar una identificación única según el reglamento?
+RETRO
+Los agentes económicos se regirán por un sistema uniforme de identificación única y trazabilidad de los explosivos, teniendo en cuenta su tamaño, forma o diseño, excepto cuando no resulte necesario colocar una identificación única en el explosivo debido a su bajo nivel de riesgo, sobre la base de sus características y de factores como sus escasos efectos detonantes, sus usos y el bajo riesgo de seguridad que presenta debido a los escasos efectos potenciales de un uso indebido
+FINRETRO
+Debe ser transportado en embalajes especiales.
+Debe ser de gran tamaño.
+-Debe tener un bajo nivel de riesgo y cumplir con ciertas características y usos.
+Debe ser fabricado in situ.
+
+52. ¿Por cuánto tiempo se almacenarán los datos de identificación y trazabilidad de los explosivos?
+RETRO
+Los datos se comprobarán a intervalos regulares y se protegerán para que no sean dañados o destruidos de forma accidental o premeditada.
+Los datos se almacenarán durante diez años a partir del momento en que haya tenido lugar la operación o, en caso de que se hayan utilizado o eliminado, diez años a partir de su utilización o eliminación, incluso cuando el agente económico haya cesado en sus actividades. Deberá poder disponerse de los mismos inmediatamente a petición de las autoridades competentes.
+FINRETRO
+5 años a partir del momento de la operación.
+15 años a partir del momento de la operación.
+-10 años a partir del momento de la operación.
+Ninguna de las anteriores opciones es correcta.
+
+53. ¿Qué función tiene el sistema informático de trazabilidad de explosivos según el texto?
+RETRO
+La Dirección General de la Guardia Civil podrá supervisar la trazabilidad de los explosivos mediante un sistema informático. El sistema tendrá conectividad con las empresas y permitirá la presentación telemática segura de la documentación requerida para la trazabilidad de los explosivos. Los agentes económicos se regirán por un sistema uniforme de identificación única y trazabilidad de los explosivos, teniendo en cuenta su tamaño, forma o diseño, excepto cuando no resulte necesario colocar una identificación única en el explosivo debido a su bajo nivel de riesgo, sobre la base de sus características y de factores como sus escasos efectos detonantes, sus usos y el bajo riesgo de seguridad que presenta debido a los escasos efectos potenciales de un uso indebido
+FINRETRO
+Conectar con empresas de seguridad privadas.
+-Permitir la presentación telemática segura de documentación requerida para la trazabilidad de los explosivos.
+Gestionar el transporte de explosivos por carretera.
+Registrar únicamente los datos de los explosivos de alto riesgo.
+
+54. ¿Cómo se adscriben los explosivos a las divisiones de riesgo según el reglamento de explosivos?
+RETRO
+Los explosivos se adscribirán, a los efectos de la graduación de riesgo involucrado en la manipulación, almacenamiento y transporte a una de las divisiones de riesgo definidas en el Manual de Recomendaciones relativas al transporte de mercancías peligrosas, Reglamento tipo, de las Naciones Unidas:
+FINRETRO
+Por su tamaño exclusivamente.
+Por su contenido radioactivo.
+-Según su riesgo de explosión y sus efectos.
+Por su capacidad de proyección de fragmentos.
+
+55. ¿En qué división se encuentran las materias y objetos que presentan un riesgo de proyección sin riesgo de explosión en masa?
+RETRO
+División 1.2 Materias y objetos que presentan un riesgo de proyección sin riesgo de explosión en masa.
+FINRETRO
+División 1.1
+-División 1.2
+División 1.3
+División 1.4
+
+56. ¿En qué división se encuentran las materias y objetos que solo presentan un pequeño riesgo de explosión en caso de ignición durante el transporte?
+RETRO
+División 1.4 Materias y objetos que solo presentan un pequeño riesgo de explosión en caso de ignición o cebado durante el transporte. Los efectos se limitan esencialmente a los bultos y normalmente no dan lugar a la proyección de fragmentos de tamaño apreciable ni a grandes distancias. Un incendio exterior no debe implicar la explosión prácticamente instantánea de la casi totalidad del contenido de los bultos.
+FINRETRO
+División 1.3
+-División 1.4
+División 1.5
+División 1.6
+
+57. ¿En qué división se encuentran los objetos extremadamente poco sensibles que no suponen riesgo de explosión en masa?
+RETRO
+División 1.6 Objetos extremadamente poco sensibles que no supongan riesgo de explosión en masa. Dichos objetos no contendrán más que materias extremadamente poco sensibles y que presenten una probabilidad despreciable de cebado o de propagación accidental. El riesgo vinculado a los objetos de la división 1.6 queda limitado a la explosión de un objeto único.
+FINRETRO
+División 1.4
+División 1.5
+-División 1.6
+División 1.1
+
+58. ¿Cuál es el riesgo vinculado a los objetos de la división 1.6?
+RETRO
+División 1.6 Objetos extremadamente poco sensibles que no supongan riesgo de explosión en masa. Dichos objetos no contendrán más que materias extremadamente poco sensibles y que presenten una probabilidad despreciable de cebado o de propagación accidental. El riesgo vinculado a los objetos de la división 1.6 queda limitado a la explosión de un objeto único.
+FINRETRO
+Explosión en masa.
+Proyección de fragmentos.
+Ignición accidental.
+-Explosión de un objeto único.
+
+59. ¿Cuál de las siguientes opciones es un subtipo de explosivos rompedores?:
+RETRO
+1.2	Explosivos rompedores.
+1.2.1	Sustancias explosivas.
+1.2.2	Mezclas explosivas.
+1.2.2.1	Explosivos tipo A (dinamitas).
+1.2.2.2	Explosivos tipo B (nafos).
+1.2.2.3	Explosivos tipo C (explosivos plásticos).
+1.2.2.4	Explosivos tipo E-a (hidrogeles).
+1.2.2.5	Explosivos tipo E-b (emulsiones).
+1.2.2.6	Otros explosivos rompedores.
+FINRETRO
+-Explosivos tipo A (dinamitas).
+Explosivos propulsores.
+Explosivos iniciadores.
+Cordones detonantes.
+
+60. ¿Quién es responsable de decidir la clasificación de los explosivos?:
+RETRO
+La clasificación de los explosivos corresponde al Ministerio de Energía, Turismo y Agenda Digital quien decidirá de conformidad con lo establecido en este título y en la ITC número 4.
+Serán preceptivos los informes del Ministerio de Defensa y de la Comisión de Seguridad Minera, dependiente del Ministerio de Energía, Turismo y Agenda Digital.
+FINRETRO
+Ministerio de Defensa.
+Comisión de Seguridad Minera.
+-Ministerio de Energía, Turismo y Agenda Digital.
+Agencia de Seguridad Industrial.
+
+61. ¿Cuál de las siguientes afirmaciones es cierta según el texto?:
+RETRO
+Las armas de guerra y los explosivos que no vayan a ser comercializados ni transportados quedan
+expresamente excluidos de la clasificación a que se refiere este apartado.
+La clasificación de los explosivos corresponde al Ministerio de Energía, Turismo y Agenda Digital quien decidirá de conformidad con lo establecido en este título y en la ITC número 4.
+Serán preceptivos los informes del Ministerio de Defensa y de la Comisión de Seguridad Minera, dependiente del Ministerio de Energía, Turismo y Agenda Digital.
+FINRETRO
+Las armas de guerra están incluidas en la clasificación de explosivos.
+Los detonadores eléctricos no se clasifican como objetos explosivos.
+El Ministerio de Defensa es el único responsable de la clasificación de explosivos.
+-La clasificación de explosivos excluye a las armas de guerra y a los explosivos no comercializados ni transportados.
+
+62. ¿Cuál es el objetivo de la clasificación de explosivos según el texto?:
+Determinar su tamaño.
+Evaluar su nivel de ruido.
+Establecer su capacidad de destrucción.
+-Identificar su nivel de riesgo y aplicación.
+
+63. ¿Qué  órgano  depende  del  Ministerio  de  Energía,  Turismo  y  Agenda  Digital  para  emitir informes?
+RETRO
+La clasificación de los explosivos corresponde al Ministerio de Energía, Turismo y Agenda Digital quien decidirá de conformidad con lo establecido en este título y en la ITC número 4.
+Serán preceptivos los informes del Ministerio de Defensa y de la Comisión de Seguridad Minera, dependiente del Ministerio de Energía, Turismo y Agenda Digital.
+FINRETRO
+Ministerio de Defensa.
+-Comisión de Seguridad Minera.
+Ministerio de Salud.
+Agencia de Seguridad Industrial.
+
+64. ¿Cuál de las siguientes opciones NO es un subtipo de detonadores?
+RETRO
+Detonadores.
+1. Detonadores de mecha.
+2. Detonadores eléctricos.
+3. Detonadores no eléctricos.
+4. Detonadores electrónicos.
+5. Otros detonadores.
+6. Relés.
+7. Otros sistemas de iniciación.
+FINRETRO
+Detonadores de mecha.
+Detonadores eléctricos.
+Detonadores no eléctricos.
+-Explosivos tipo C.
+
+65. ¿Cuál de los siguientes NO es un procedimiento mencionado en la ITC número 3 para la evaluación de la conformidad de los explosivos?
+RETRO
+Para  la  evaluación  de  la  conformidad  de  los  explosivos,  el  fabricante  seguirá  uno  de  los procedimientos siguientes mencionados en la ITC número 3:
+a)	El examen UE de tipo y, a elección del fabricante, uno de los siguientes:
+i.	La conformidad con el tipo basada en el control interno de la producción más control supervisado de los productos a intervalos aleatorios.
+ii.	La conformidad con el tipo basada en el aseguramiento de la calidad del proceso de producción.
+iii.	La conformidad con el tipo basada en el aseguramiento de la calidad del producto.
+iv.	La conformidad con el tipo basada en la verificación del producto.
+b)	La conformidad basada en la verificación por unidad.
+FINRETRO
+Control interno de la producción más control supervisado de los productos a intervalos aleatorios.
+Aseguramiento de la calidad del proceso de producción.
+-Evaluación externa de seguridad.
+Aseguramiento de la calidad del producto.
+
+66. ¿Qué elementos debe contener la declaración UE de conformidad según el texto?:
+RETRO
+La declaración UE de conformidad se ajustará a la estructura del modelo establecido en la ITC número 27, contendrá los elementos especificados en los módulos correspondientes establecidos en la ITC número 3 y se mantendrá actualizada continuamente. Se traducirá al menos en castellano.
+FINRETRO
+Declaración del precio del explosivo.
+Número de identificación del fabricante.
+-Elementos específicos de los módulos de evaluación de la conformidad.
+Certificación de exportación.
+
+67. ¿Qué responsabilidad asume el fabricante al elaborar una declaración UE de conformidad?:
+RETRO
+Al elaborar una declaración UE de conformidad, el fabricante asumirá la responsabilidad de la conformidad del explosivo con los requisitos establecidos en este reglamento.
+FINRETRO
+Responsabilidad de asegurar la rentabilidad del explosivo.
+Responsabilidad de garantizar la seguridad del transporte del explosivo.
+-Responsabilidad de demostrar la conformidad del explosivo con los requisitos del reglamento.
+Responsabilidad de supervisar la distribución del explosivo.
+
+68. ¿En qué idioma se debe traducir al menos la declaración UE de conformidad?:
+RETRO
+La declaración UE de conformidad se ajustará a la estructura del modelo establecido en la ITC número
+27, contendrá los elementos especificados en los módulos correspondientes establecidos en la ITC número 3 y se mantendrá actualizada continuamente. Se traducirá al menos en castellano.
+FINRETRO
+Inglés.
+Francés.
+-Castellano.
+Todos los anteriores por ser de la UE. 
+
+69. ¿Quién asume la responsabilidad de la conformidad del explosivo con los requisitos establecidos en el reglamento?:
+RETRO
+Al elaborar una declaración UE de conformidad, el fabricante asumirá la responsabilidad de la conformidad del explosivo con los requisitos establecidos en este reglamento.
+FINRETRO
+Ministerio de Energía, Turismo y Agenda Digital.
+El importador del explosivo.
+-El fabricante del explosivo.
+La Comisión de Seguridad Minera.
+
+70. ¿Qué se presume en relación a los explosivos conformes con normas armonizadas según el texto?
+RETRO
+Los explosivos que sean conformes con normas armonizadas o partes de estas cuyas referencias se hayan publicado en el Diario Oficial de la Unión Europea se presumirán conformes con los requisitos esenciales de seguridad contemplados en la ITC número 2 a los que se apliquen dichas normas o partes de estas
+FINRETRO
+Que no necesitan ser evaluados al menos en los 2 años siguientes a su primera evaluación.
+Que cumplen con normas y protocolos internacionales de la ONU.
+Que son seguros para su uso y distribución.
+-Que cumplen con los requisitos esenciales de seguridad contemplados en la ITC número 2.
+
+71. ¿En qué formato se adoptará el libro-registro de explosivos?:
+RETRO
+La catalogación se efectuará en el libro-registro de explosivos, con los índices y ficheros necesarios. El libro-registro adoptará el formato de base de datos con soporte informático.
+FINRETRO
+Papel impreso.
+-Base de datos con soporte informático.
+Archivos URL.
+Todas las anteriores son correctas.
+
+72. ¿Qué organismo recibirá una relación detallada de los explosivos catalogados?:
+RETRO
+El Ministerio de Energía, Turismo y Agenda Digital facilitará al Ministerio de Defensa y a la Intervención Central de Armas y Explosivos, relación detallada de los explosivos catalogados.
+FINRETRO
+Ministerio de Energía, Turismo y Agenda Digital.
+Dirección General de Política Energética y Minas.
+-Ministerio de Defensa.
+Ministerio del Interior.
+
+73. ¿A dónde deben dirigirse las solicitudes de catalogación de explosivos?:
+RETRO
+Redactadas al menos en castellano, se dirigirán a la Dirección General de Política Energética y Minas, acompañando lo dispuesto en la ITC número 4.
+FINRETRO
+-Dirección General de Política Energética y Minas.
+Ministerio de Defensa.
+Ministerio de Energía, Turismo y Agenda Digital.
+Intervención Central de Armas y Explosivos.
+
+74. ¿Qué organismo recibirá una relación detallada de los explosivos catalogados?:
+RETRO
+El Ministerio de Energía, Turismo y Agenda Digital facilitará al Ministerio de Defensa y a la Intervención Central de Armas y Explosivos, relación detallada de los explosivos catalogados.
+FINRETRO
+Ministerio del Interior.
+Dirección General de Política Energética y Minas.
+-Intervención Central de Armas y Explosivos.
+Agencia de Control de Sustancias Peligrosas.
+
+75. ¿Cuándo  deben  estar  catalogados  los  explosivos  antes  de  su  importación,  transferencia, almacenamiento, distribución, comercialización o utilización?
+RETRO
+Previamente a su importación, transferencia, almacenamiento, distribución, comercialización o utilización, los explosivos deberán estar catalogados conforme a lo dispuesto en este capítulo y en la ITC número 4.
+La catalogación de explosivos se efectuará mediante la mera incorporación al catálogo de aquellos que hayan obtenido los certificados de conformidad y marcado CE.
+No requerirán catalogación los explosivos, materias u objetos fabricados e incorporados a un producto final.
+FINRETRO
+Después de su importación.
+Después de su transferencia.
+-Antes de su comercialización.
+Antes de su fabricación.
+
+76. ¿Qué resultado produce la sustitución de un componente no explosivo por otro de función similar que no altere las características certificadas o catalogadas?
+Requiere una nueva catalogación.
+No afecta en nada al producto.
+Facilita la importación.
+-No requiere nueva catalogación.
+
+77. ¿Cuál es la entidad responsable de la clasificación de explosivos?:
+RETRO
+La Dirección General de Política Energética y Minas una vez analizada la solicitud y la documentación presentada, procederá, en su caso, a incorporar el correspondiente explosivo al catálogo, notificándolo así al interesado mediante resolución y de acuerdo con lo dispuesto en la ITC número 4.
+FINRETRO
+Ministerio de Defensa.
+Intervención Central de Armas y Explosivos.
+-Dirección General de Política Energética y Minas.
+Agencia de Control de Sustancias Peligrosas.
+
+78. ¿Qué procedimiento se debe seguir para la catalogación de explosivos?:
+RETRO
+En la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital se publicará el catálogo de explosivos, procedimiento CATEX-Clasificación y catalogación de explosivos y artículos pirotécnicos, certificado de conformidad de explosivos y homologación de accesorios, que funcionará como registro público del listado de los productos catalogados y, por tanto, autorizados para su almacenamiento, introducción en el mercado y distribución a nivel comunitario, así como de aquellos autorizados para su venta a nivel nacional, de acuerdo con lo dispuesto en la ITC número 4
+FINRETRO
+Procedimiento CATNAC.
+Procedimiento CADEX.
+-Procedimiento CATEX.
+Procedimiento CALEXP.
+
+79. ¿Qué se adopta como formato de base de datos con soporte informático para el libro-registro de explosivos?:
+RETRO
+Se configura como un registro administrativo dependiente del Ministerio de Energía, Turismo y Agenda Digital.
+La catalogación se efectuará en el libro-registro de explosivos, con los índices y ficheros necesarios. El libro-registro adoptará el formato de base de datos con soporte informático
+FINRETRO
+Formato Linux.
+Formato en papel.
+Formato electrónico URL.
+-Formato de base de datos con soporte informático.
+
+80. ¿Dónde se configura el registro administrativo para la catalogación de explosivos?
+RETRO
+La  catalogación  de  explosivos  se  configura  como  un  registro  administrativo  dependiente  del Ministerio de Energía, Turismo y Agenda Digital.
+La catalogación se efectuará en el libro-registro de explosivos, con los índices y ficheros necesarios. El libro-registro adoptará el formato de base de datos con soporte informático.
+FINRETRO
+Ministerio de Defensa.
+Intervención Central de Armas y Explosivos.
+Dirección General de Política Energética y Minas.
+-Ministerio de Energía, Turismo y Agenda Digital.
+
+81. ¿Dónde se publicará el catálogo de explosivos y los procedimientos relacionados?:
+RETRO
+En la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital se publicará el catálogo de explosivos, procedimiento CATEX-Clasificación y catalogación de explosivos y artículos pirotécnicos, certificado de conformidad de explosivos y homologación de accesorios, que funcionará como registro público del listado de los productos catalogados y, por tanto, autorizados para su almacenamiento, introducción en el mercado y distribución a nivel comunitario, así como de aquellos autorizados para su venta a nivel nacional, de acuerdo con lo dispuesto en la ITC número 4.
+FINRETRO
+Ministerio de Energía, Turismo y Agenda Digital.
+Ministerio de Defensa.
+Intervención Central de Armas y Explosivos.
+-Sede electrónica del Ministerio de Energía, Turismo y Agenda Digital.
+
+82. ¿Qué requisito deben cumplir los explosivos previamente a su importación, almacenamiento, distribución, comercialización o utilización?:
+RETRO
+Previamente a su importación, transferencia, almacenamiento, distribución, comercialización o utilización, los explosivos deberán estar catalogados conforme a lo dispuesto en este capítulo y en la ITC número 4.
+La catalogación de explosivos se efectuará mediante la mera incorporación al catálogo de aquellos que hayan obtenido los certificados de conformidad y marcado CE.
+No requerirán catalogación los explosivos, materias u objetos fabricados e incorporados a un producto final.
+FINRETRO
+Deben estar registrados en la base de datos informática.
+Deben ser homologados por un organismo internacional.
+-Deben estar catalogados conforme a lo dispuesto en el capítulo y en la ITC número 4.
+Deben ser fabricados en el país.
+
+83. ¿Bajo qué circunstancia los explosivos no requerirán catalogación?:
+RETRO
+No requerirán catalogación los explosivos, materias u objetos fabricados e incorporados a un producto final.
+FINRETRO
+-Cuando se fabriquen e incorporen a un producto final.
+Cuando no vayan a ser exportados.
+Cuando sean de bajo riesgo.
+Cuando sean marcados con CE.
+
+84. ¿Cómo deben presentarse las solicitudes de catalogación de explosivos según la Ley 39/2015?:
+RETRO
+Conforme a lo previsto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las solicitudes de catalogación de explosivos se presentarán por vía electrónica, con certificado electrónico, en la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital, procedimiento CATEX.
+FINRETRO
+En papel impreso.
+En formato PDF.
+-Por vía electrónica con certificado electrónico.
+En la sede del Ministerio de Defensa.
+
+85. ¿Qué sustitución de componentes no requiere una nueva catalogación?:
+RETROCualquier modificación de un producto catalogado, que afecte de manera significativa a las características del mismo, deberá ser comunicada al Ministerio de Energía, Turismo y Agenda Digital a efectos de que éste determine si es preciso o no proceder a una nueva catalogación. La sustitución de un componente no explosivo por otro de función similar, que no altere significativamente las características certificadas o catalogadas, no requerirá nueva catalogación.
+FINRETRO
+Cambio de marca.
+Cambio de color.
+-Sustitución de un componente no explosivo por otro de función similar sin alteración significativa.
+Sustitución de componentes explosivos.
+
+86. ¿Cuándo  deben  estar  catalogados  los  explosivos  antes  de  su  importación,  transferencia, almacenamiento, distribución, comercialización o utilización?
+RETRO
+Previamente a su importación, transferencia, almacenamiento, distribución, comercialización o utilización, los explosivos deberán estar catalogados conforme a lo dispuesto en este capítulo y en la ITC número 4.
+La catalogación de explosivos se efectuará mediante la mera incorporación al catálogo de aquellos que hayan obtenido los certificados de conformidad y marcado CE.
+No requerirán catalogación los explosivos, materias u objetos fabricados e incorporados a un producto final.
+FINRETRO
+Después de su importación.
+Después de su transferencia.
+-Antes de su comercialización.
+Antes de su fabricación.
+
+87. ¿Qué resultado produce la sustitución de un componente no explosivo por otro de función similar que no altere las características certificadas o catalogadas?
+RETRO
+Previamente a su importación, transferencia, almacenamiento, distribución, comercialización o utilización, los explosivos deberán estar catalogados conforme a lo dispuesto en este capítulo y en la ITC número 4.
+No requerirán catalogación los explosivos, materias u objetos fabricados e incorporados a un producto final.
+FINRETRO
+Requiere una nueva catalogación.
+No afecta en nada al producto.
+Facilita la importación.
+-No requiere nueva catalogación.
+
+88. ¿Cuál es la entidad responsable de la clasificación de explosivos?:
+RETRO
+La Dirección General de Política Energética y Minas una vez analizada la solicitud y la documentación presentada, procederá, en su caso, a incorporar el correspondiente explosivo al catálogo, notificándolo así al interesado mediante resolución y de acuerdo con lo dispuesto en la ITC número 4.
+FINRETRO
+Ministerio de Defensa.
+Intervención Central de Armas y Explosivos.
+-Dirección General de Política Energética y Minas.
+Agencia de Control de Sustancias Peligrosas.
+
+89. ¿Qué procedimiento se debe seguir para la catalogación de explosivos?:
+RETRO
+En la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital se publicará el catálogo de explosivos, procedimiento CATEX-Clasificación y catalogación de explosivos y artículos pirotécnicos, certificado de conformidad de explosivos y homologación de accesorios, que funcionará como registro público del listado de los productos catalogados y, por tanto, autorizados para su almacenamiento, introducción en el mercado y distribución a nivel comunitario, así como de aquellos autorizados para su venta a nivel nacional, de acuerdo con lo dispuesto en la ITC número 4.
+FINRETRO
+Procedimiento CATNAC.
+Procedimiento CADEX.
+-Procedimiento CATEX.
+Procedimiento CALEXP.
+
+90. ¿Qué se publica en la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital para su almacenamiento, introducción en el mercado y distribución a nivel comunitario?
+RETRO
+En la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital se publicará el catálogo de explosivos, procedimiento CATEX-Clasificación y catalogación de explosivos y artículos pirotécnicos, certificado de conformidad de explosivos y homologación de accesorios, que funcionará como registro público del listado de los productos catalogados y, por tanto, autorizados para su almacenamiento, introducción en el mercado y distribución a nivel comunitario, así como de aquellos autorizados para su venta a nivel nacional, de acuerdo con lo dispuesto en la ITC número 4
+FINRETRO
+Catálogo de armas.
+Catálogo de sustancias peligrosas.
+-Catálogo de explosivos.
+Catálogo de productos químicos.
+
+91. ¿Dónde deberá colocarse el marcado CE de manera visible e indeleble?:
+RETRO
+El marcado CE deberá colocarse de manera visible, legible e indeleble sobre el explosivo. Cuando esto no pueda garantizarse debido a la naturaleza del producto, se colocará en el embalaje y en los documentos adjuntos.
+FINRETRO
+En el envase primario
+-En el embalaje externo
+En los documentos de envío
+En el interior del producto
+
+92. ¿Quién coloca el número de identificación del organismo notificado en el explosivo?:
+RETRO
+El número de identificación del organismo notificado será colocado por el propio organismo, o, siguiendo las instrucciones de este, por el fabricante o su representante autorizado. Los requisitos a cumplir por los organismos notificados responsables de la evaluación de conformidad de los explosivos, son los establecidos en la ITC número 21.
+FINRETRO
+-El propio Fabricante
+La Comisión Europea
+El Distribuidor del producto
+El Organismo regulador establecido al efecto 
+
+93. ¿Qué puede seguir al marcado CE y al número de identificación del organismo notificado en el explosivo?:
+RETRO
+El marcado CE y, en su caso, el número de identificación del organismo notificado podrán ir seguidos de cualquier otra marca que indique un riesgo o uso especial.
+El marcado CE irá seguido del número de identificación del organismo notificado cuando este participe en la fase de control de la producción.
+El número de identificación del organismo notificado será colocado por el propio organismo, o, siguiendo las instrucciones de este, por el fabricante o su representante autorizado. Los requisitos a cumplir por los organismos notificados responsables de la evaluación de conformidad de los explosivos, son los establecidos en la ITC número 21.
+En los casos de explosivos fabricados para uso propio, explosivos transportados y entregados sin embalar o en unidades móviles de fabricación de explosivos (en adelante, MEMUs – Mobile Explosive Made Units) para su descarga directa en el barreno, y explosivos fabricados en el lugar de voladura y que se cargan inmediatamente después de producirse (producción in situ), el marcado CE se colocará en los documentos que los acompañen
+FINRETRO
+El número de serie
+La fecha de caducidad
+-Otras marcas de riesgo o uso especial
+Un código de barras
+
+94. ¿Qué se menciona sobre la colocación ilícita del marcado CE en los explosivos?:
+RETRO
+El marcado CE no se colocará ilícitamente sobre ningún explosivo.
+El modelo que habrá de utilizarse para el marcado CE será el dispuesto en la ITC número 7.
+No se colocará sobre los explosivos ninguna marca ni inscripción que pueda inducir a error a terceros sobre el significado y la forma del marcado CE.
+Cuando un explosivo no sea conforme, pero vaya provisto del marcado CE, la Dirección General de Política Energética y Minas adoptará las medidas oportunas contra quien quiera que sea el responsable de la colocación del marcado e informará de ello, a través del cauce adecuado, a la Comisión Europea
+FINRETRO
+Está permitida bajo ciertas condiciones
+Puede hacerse en el interior del producto
+-No se permite en ningún caso
+Es opcional según el fabricante
+
+95. ¿Qué acción tomará la Dirección General de Política Energética y Minas si un explosivo no conforme lleva el marcado CE?:
+RETRO
+Cuando un explosivo no sea conforme, pero vaya provisto del marcado CE, la Dirección General de Política Energética y Minas adoptará las medidas oportunas contra quien quiera que sea el responsable de la colocación del marcado e informará de ello, a través del cauce adecuado, a la Comisión Europea.
+FINRETRO
+Eliminará el marcado CE
+-Informará a la Comisión Europea
+Retirará el explosivo del mercado
+Cambiará el número de identificación del organismo notificado 
+
+96. ¿Qué tipo de explosivos pueden ser autorizados en régimen experimental?:
+RETRO
+El Ministerio de Energía, Turismo y Agenda Digital, previo informe favorable de la Dirección General de la Guardia Civil y, en el caso de fábricas de armas de guerra que incorporen explosivo, del Ministerio de Defensa, podrá otorgar autorizaciones de:
+Explosivos sin catalogar en régimen experimental, en cantidad y lugar concretos, de acuerdo con un plan concreto de pruebas, aprobado por el Ministerio de Energía, Turismo y Agenda Digital. Explosivos no catalogados, en régimen temporal y a fines de tránsito o exportación. Explosivos sin marcado CE, a fines de eliminación o inertización, reciclaje o reutilización. Explosivos no catalogados, en cantidad y lugar concretos.
+FINRETRO
+Explosivos catalogados
+Explosivos de uso doméstico
+-Explosivos sin catalogar
+Explosivos de uso militar
+
+97. ¿En qué situaciones se pueden autorizar explosivos sin marcado CE?:
+RETRO
+El Ministerio de Energía, Turismo y Agenda Digital, previo informe favorable de la Dirección General de la Guardia Civil y, en el caso de fábricas de armas de guerra que incorporen explosivo, del Ministerio de Defensa, podrá otorgar autorizaciones de:
+Explosivos sin catalogar en régimen experimental, en cantidad y lugar concretos, de acuerdo con un plan concreto de pruebas, aprobado por el Ministerio de Energía, Turismo y Agenda Digital. Explosivos no catalogados, en régimen temporal y a fines de tránsito o exportación.
+Explosivos sin marcado CE, a fines de eliminación o inertización, reciclaje o reutilización. Explosivos no catalogados, en cantidad y lugar concretos.
+FINRETRO
+Para fines de tránsito
+Para exportación
+Para uso comercial
+-Para eliminación o inertización
+
+98. ¿Cuál es el procedimiento específico para presentar solicitudes de autorización según el artículo?:
+RETRO
+Las solicitudes de autorización reguladas en este artículo se presentarán por vía electrónica, con certificado electrónico, en la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital, procedimiento ATREO - Autorizaciones de Excepciones a la Catalogación de Explosivos y pirotecnia.
+FINRETRO
+-Procedimiento ATREO
+Procedimiento ELECTRO
+Procedimiento EXPLOSIVO
+Procedimiento CATALOGO
+
+99. ¿Qué órgano debe ser notificado sobre la resolución de otorgamiento de autorización?:
+RETRO
+En la resolución en virtud de la cual se otorgue la correspondiente autorización se fijarán taxativamente las limitaciones y medidas de todo tipo que condicionen su validez y el plazo máximo de vigencia. Dicha resolución será también comunicada a la Dirección General de la Guardia Civil, Intervención Central de Armas y Explosivos, y, en su caso, al Ministerio de Defensa.
+FINRETRO
+Ministerio de Energía, Turismo y Agenda Digital
+-Dirección General de la Guardia Civil
+Intervención Central de Armas y Explosivos
+Ministerio de Defensa
+
+100. ¿Qué entidad puede otorgar autorizaciones para explosivos no catalogados en cantidad y lugar concretos?:
+RETRO
+El Ministerio de Energía, Turismo y Agenda Digital, previo informe favorable de la Dirección General de la Guardia Civil y, en el caso de fábricas de armas de guerra que incorporen explosivo, del Ministerio de Defensa, podrá otorgar autorizaciones de:
+Explosivos sin catalogar en régimen experimental, en cantidad y lugar concretos, de acuerdo con un plan concreto de pruebas, aprobado por el Ministerio de Energía, Turismo y Agenda Digital.
+Explosivos no catalogados, en régimen temporal y a fines de tránsito o exportación. Explosivos sin marcado CE, a fines de eliminación o inertización, reciclaje o reutilización. Explosivos no catalogados, en cantidad y lugar concretos.
+FINRETRO
+El Ministerio de Defensa
+La Dirección General de la Guardia Civil
+La Intervención Central de Armas y Explosivos
+-El Ministerio de Energía, Turismo y Agenda Digital
+
+101. ¿Qué tipo de división se atribuirá por defecto a los productos almacenados a granel?:
+RETRO
+A los productos almacenados a granel se les atribuirá por defecto la división 1.1.
+FINRETRO
+-División 1.1
+División 2.2
+División 3.3
+División 4.4
+
+102. ¿Qué se entiende por "envase" según el texto?:
+RETRO
+Envase, el recipiente o recinto de retención destinado a recibir o contener materias u objetos explosivos.
+Los envases podrán ser exteriores, si se trata de envases que carecen de embalaje o elemento de protección, o interiores, en caso de existir.
+FINRETRO
+El recinto de retención para la disposición de residuos
+La protección externa de un embalaje
+-El recipiente que almacena explosivos a granel
+El producto regulado por el reglamento
+
+103. ¿Qué deben indicar las etiquetas en los envases exteriores y embalajes conforme a la ITC número 15?:
+RETRO
+En el exterior de los envases exteriores y embalajes deberán figurar las marcas, duraderas y visibles, que indiquen su conformidad al tipo de diseño homologado y las señales de peligrosidad que les correspondan según la normativa aplicable, así como las etiquetas que permitan identificar su contenido conforme a la ITC número 15.
+En cada envase exterior o embalaje deberán figurar, redactados al menos en castellano, las frases:
+a)	«Riesgo de explosión por choque, fricción o fuego».
+b)	«Protéjase de fuentes de calor. No fumar».
+FINRETRO
+Nombre del fabricante
+-Frases de advertencia
+Fecha de fabricación
+Código de barras
+
+104. ¿Qué debe llevar un envase o embalaje vacío que aún presenta señales de contener residuos peligrosos?:
+RETRO
+Los envases y embalajes vacíos, no limpios, que presenten señales de contener residuos peligrosos, deberán estar bien cerrados y presentar, en su caso, las mismas condiciones de estanqueidad y llevar las mismas etiquetas de peligro que si estuviesen llenos hasta que se proceda a su eliminación o inertización según lo establecido en la ITC número 12.
+FINRETRO
+Etiqueta de reciclaje
+Marcas de peligro
+Señales de estanqueidad
+-Etiquetas de peligro y condiciones de estanqueidad
+
+105. ¿Qué regulación se debe seguir para la expedición de los explosivos?:
+RETRO
+La expedición de los explosivos se ajustará en todo momento a lo establecido en la Reglamentación para el transporte de mercancías peligrosas correspondiente al modo concreto de transporte.
+FINRETRO
+Reglamentación de seguridad en el almacenamiento
+-Reglamentación para el transporte de mercancías peligrosas
+Reglamentación de envases y embalajes
+Reglamentación de etiquetado de peligro
+
+106. ¿Qué requisito deben cumplir los productos explosivos para su etiquetado?:
+RETRO
+Los fabricantes, importadores o distribuidores garantizarán que los productos explosivos que se vayan a comercializar o a poner a disposición del público, estén etiquetados debidamente de manera visible, legible e indeleble, al menos en castellano.
+Este etiquetado será claro, comprensible e inteligible.
+FINRETRO
+Deben estar disponibles en varios idiomas.
+Deben estar etiquetados en inglés.
+-Deben estar etiquetados en castellano.
+Deben estar etiquetados en cualquier idioma.
+
+107. ¿Cómo debe ser el etiquetado de los productos explosivos según el texto?:
+RETRO
+Los fabricantes, importadores o distribuidores garantizarán que los productos explosivos que se vayan a comercializar o a poner a disposición del público, estén etiquetados debidamente de manera visible, legible e indeleble, al menos en castellano.
+Este etiquetado será claro, comprensible e inteligible.
+FINRETRO
+Visible solo con luz ultravioleta.
+Legible pero encriptado.
+-Visible, legible e indeleble.
+Invisible a simple vista.
+
+108. ¿Dónde se debe fijar el marcado CE en los explosivos según el artículo?:
+RETRO
+El marcado CE, a que hace referencia el artículo 20.2, se fijará de manera legible, fácilmente visible e indeleble, sobre los explosivos o, si esto no fuera posible, sobre una etiqueta, fabricada de manera que no pueda volver a utilizarse, fijada a éstos, o, por último, si los dos primeros métodos no fueran posibles, sobre el envase exterior.
+FINRETRO
+Sobre una etiqueta reutilizable.
+En el interior de los envases exteriores.
+-Sobre el envase exterior.
+En la ficha de datos de seguridad.
+
+109. ¿Qué  debe  incluir  la  ficha  de  datos  de  seguridad  que  se  proporciona  al  usuario profesional?:
+RETRO
+Se facilitará al usuario profesional una ficha de datos de seguridad en la que se indicarán las instrucciones e información relativas a la seguridad de su manipulación, almacenamiento, utilización y eliminación, redactadas, al menos en castellano.
+FINRETRO
+Instrucciones para su adecuada venta y distribución de venta al público.
+Información sobre la garantía del producto.
+Instrucciones para el almacenamiento en el hogar.
+-Instrucciones e información relativas a la seguridad de manipulación, almacenamiento, utilización y eliminación.
+
+110. ¿Cómo puede facilitarse la ficha de datos de seguridad al usuario profesional?:
+RETRO
+La ficha de datos de seguridad se facilitará en papel en el interior de los envases exteriores o embalajes, o será accesible por medios electrónicos.
+FINRETRO
+En formato de audio.
+Por medio de un código QR.
+A través de una aplicación móvil.
+-En papel en el interior de los envases exteriores o embalajes, o por medios electrónicos.
+
+111. ¿A qué entidad corresponde el control de mercado según el Reglamento de Explosivos?:
+RETRO
+El control de mercado corresponderá a la Dirección General de Política Energética y Minas. Dicha Dirección General podrá instrumentar las tareas de control de mercado a través de las Áreas Funcionales de Industria y Energía.
+FINRETRO
+Ministerio de Defensa
+-Dirección General de Política Energética y Minas
+A la Dirección General de la Guardia Civil
+Áreas Funcionales de Industria y Energía
+
+112. ¿Qué condición debe cumplir un explosivo para ser puesto en el mercado según el texto?:
+RETRO
+El objeto del control de mercado es adoptar las medidas necesarias, además de las dispuestas en otros títulos de este reglamento, para garantizar que los explosivos solo se pongan en el mercado si, habiendo sido almacenados de manera adecuada y fijada su utilización para los fines previstos, no suponen un peligro para la salud ni para la seguridad de las personas.
+FINRETRO
+-Debe ser almacenado de manera adecuada.
+Debe ser almacenado en lugares no accesibles.
+Debe ser utilizado solo para fines militares.
+Debe contar con etiquetas multilingües.
+
+113. ¿Qué incluye el ámbito de transporte según el texto?:
+RETRO
+A efectos de lo dispuesto en este título, quedarán incluidos en el ámbito de transporte el porte propiamente dicho y las operaciones de carga, descarga y manipulaciones complementarias, así como los medios empleados en las citadas operaciones.
+FINRETRO
+Solo el porte propiamente dicho.
+Porte, carga y descarga, pero no manipulaciones complementarias.
+-Porte, carga, descarga y manipulaciones complementarias.
+Solo las operaciones de carga y descarga.
+
+114. ¿Cómo debe ajustarse el transporte de explosivos dentro de fábricas y depósitos?:
+RETRO
+El transporte de explosivos en el interior de las fábricas y depósitos de explosivos, así como en el interior de las explotaciones u obras donde se consume explosivo, se ajustará a lo establecido en la ITC número 34.
+FINRETRO
+Según la ITC número 1.
+Según la ITC número 15.
+-Según la ITC número 34.
+Según la ITC número 75.
+
+115. ¿Bajo qué protección deben estar los productos regulados durante su transporte?:
+RETRO
+En todo momento, los productos regulados se encontrarán sometidos a la inspección de la autoridady, bajo la protección de vigilantes de explosivos, conforme a lo dispuesto en la ITC número 1.
+FINRETRO
+Protección de las FAS.
+Protección de la compañía de seguros.
+-Protección de vigilantes de explosivos.
+Protección de la Guardia Civil.
+
+116. ¿Cuál es la carga máxima a la que pueden ser sometidos los equipos de carga como grúas y palas?:
+RETRO
+La carga máxima a la que podrán ser sometidos las grúas, palas u otros medios auxiliares será el 75% de la carga nominal asignada.
+FINRETRO
+50% de la carga nominal asignada.
+-75% de la carga nominal asignada.
+100% de la carga nominal asignada.
+125% de la carga nominal asignada.
+
+117. ¿Qué documentación debe amparar el transporte de productos regulados?:
+RETRO
+Dicha documentación deberá acompañar a la expedición en todo su recorrido. El destinatario la recibirá al hacerse cargo de la mercancía, debiendo conservarla durante tres años a disposición de la autoridad competente.
+FINRETRO
+Documentos de identidad de los conductores.
+Documentos fiscales de venta.
+Documentación del fabricante.
+-Documentación exigida por los reglamentos aplicables al medio de transporte y por este reglamento. La respuesta correcta es; d) Documentación exigida por los reglamentos aplicables al medio de transporte y por este reglamento.
+
+118. ¿Qué plazo se establece para la conservación de la documentación de transporte por parte del destinatario?:
+RETRO
+El transporte de productos regulados deberá estar amparado por la documentación exigida por los reglamentos aplicables al medio de transporte utilizado y por la que, en su caso, se exija por este reglamento para permitir su circulación.
+Dicha documentación deberá acompañar a la expedición en todo su recorrido. El destinatario la recibirá al hacerse cargo de la mercancía, debiendo conservarla durante tres años a disposición de la autoridad competente.
+Un año.
+Dos años.
+-Tres años.
+Cuatro años.
+
+119. ¿Cuál es la sanción monetaria mínima establecida para la omisión o insuficiencia en las medidas de seguridad para la custodia de la documentación?
+RETRO
+La omisión o insuficiencia en las medidas de seguridad para la custodia de la documentación relativa a las materias reglamentadas, cuando dé lugar a su pérdida o sustracción. (100 euros hasta 600)
+FINRETRO
+50 euros
+-100 euros
+300 euros
+600 euros
+
+120. ¿Qué sanción se aplica por la omisión del deber de remitir partes y documentos a la Administración?:
+RETRO
+La omisión de la obligación de remitir a la Administración los partes y demás documentos relativos a las materias reglamentadas en los ámbitos de la seguridad industrial o ciudadana. (100 euros hasta 600- ciudadana- o 3.005,06-industrial)
+FINRETRO
+Hasta 300,50 € en todos los casos.
+Hasta 600 € en todos los casos.
+-Hasta 3.005,06 € en el ámbito industrial y 600 € en el ciudadano.
+Hasta 6000 € en el ámbito ciudadano y 30005,06 € en el industrial.
+
+121. ¿Cuál es la sanción por irregularidades en la cumplimentación de los libros y registros obligatorios?:
+RETRO
+Las irregularidades en la cumplimentación de los libros y registros obligatorios relativos a las materias reglamentadas, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos. (100 euros hasta 600)
+FINRETRO
+Hasta 1000 euros
+Hasta 300 euros
+-Hasta 600 euros
+Hasta 1500 euros
+
+122. ¿Cuál es la sanción por incumplir los requisitos para las entidades colaboradoras de la Administración y organismos notificados en seguridad industrial?:
+RETRO
+El  incumplimiento  de  los  requisitos  establecidos  para  las  entidades  colaboradoras  de  la Administración y organismos notificados en el ámbito de la seguridad industrial. (hasta 3.005,06 €)
+FINRETRO
+Hasta 30000 euros
+Hasta 6000 euros
+Hasta 10000 euros
+-Hasta 3.005,06 euros
+
+123. ¿Qué carácter tienen los funcionarios públicos del Área Funcional de Industria y Energía que realizan inspecciones?:
+RETRO
+b) Los funcionarios públicos del Área Funcional de Industria y Energía que realicen la tarea de inspección tienen en el ejercicio de sus funciones el carácter de autoridad pública.
+FINRETRO
+Tienen carácter de fiscales.
+-Tienen carácter de autoridad pública.
+Tienen carácter de testigos protegidos.
+Tienen carácter de meros intermediarios.
+
+124. ¿A quiénes corresponde la inspección sobre medidas de seguridad ciudadana?:
+RETRO
+a) La inspección sobre medidas de seguridad ciudadana corresponde a las Intervenciones de Armas y Explosivos, cuyos agentes en el ejercicio de sus funciones tendrán el carácter de agentes de la autoridad.
+FINRETRO
+A las Áreas Funcionales de Industria y Energía.
+-A la Intervención de Armas y Explosivos.
+A los funcionarios del Ministerio de Trabajo.
+A los inspectores de seguridad industrial.
+
+125. ¿Quién  NO  podría  iniciar  los  expedientes  sancionadores  en  materia  de  seguridad industrial?:
+RETRO
+Será competente para iniciar los expedientes sancionadores en materia de seguridad industrial, independientemente de la sanción que en definitiva se pueda imponer, cualquiera de las autoridades que a continuación se relacionan:
+a) El Ministro de Energía, Turismo y Agenda Digital.
+b) La Dirección General de Política Energética y Minas.
+c) Los Delegados del Gobierno en las Comunidades Autónomas, así como los Subdelegados del Gobierno en las provincias.
+FINRETRO
+El Ministro de Energía, Turismo y Agenda Digital.
+La Dirección General de Política Energética y Minas.
+Los Delegados del Gobierno en las Comunidades Autónomas.
+-Los Jefes de Dependencia de Industria y Energía.
+
+126. ¿Qué autoridad instruye los procedimientos sancionadores por infracciones muy graves en materia de seguridad ciudadana?:
+RETRO
+Le corresponde a la Dirección General de la Guardia Civil la instrucción de los procedimientos sancionadores por infracciones muy graves en materia de seguridad ciudadana.
+FINRETRO
+La Dirección General de Política Energética y Minas.
+El Ministro del Interior.
+Los Delegados del Gobierno en las Comunidades Autónomas.
+-La Dirección General de la Guardia Civil.
+
+127. ¿Quién  ejercita  la  competencia  para  dictar  la  resolución  e  imponer  sanciones  en infracciones muy graves en materia de seguridad industrial?:
+RETRO
+La competencia para dictar la correspondiente resolución e imponer las sanciones determinadas en los artículos anteriores la ejercitará:
+a) El Consejo de Ministros, para sancionar, en todo caso, las infracciones muy graves en materia de seguridad industrial.
+b) El Ministro del Interior, para la sanción de infracciones muy graves en grado máximo, en materia de seguridad ciudadana.
+c) El Ministro de Energía, Turismo y Agenda Digital, para sancionar, en todo caso, las infracciones graves en materia de seguridad industrial.
+d) El Secretario de Estado de Seguridad, para la sanción de infracciones muy graves en grado medio y grado mínimo, en materia de seguridad ciudadana.
+e) Los Delegados del Gobierno en las Comunidades Autónomas y en las Ciudades de Ceuta y Melilla, para imponer cualquiera de las sanciones por infracciones leves en materia de seguridad industrial o de control de productos en el mercado, así como para imponer cualquiera de las sanciones por infracciones graves y leves, en materia de seguridad ciudadana.
+FINRETRO
+-El Consejo de Ministros.
+El Ministro del Interior.
+El Ministro de Energía, Turismo y Agenda Digital.
+El Secretario de Estado de Seguridad.
+
+128. ¿Qué entidad será responsable de entregar los explosivos incautados, a las Fuerzas Armadas o Cuerpos de la Guardia Civil o Nacional de Policía?:
+RETRO
+Los explosivos incautados, como consecuencia de una infracción administrativa, pasarán a poder del Estado, que, a través del Delegado del Gobierno correspondiente, los entregará a las Fuerzas Armadas o Cuerpos de la Guardia Civil o Nacional de Policía, cuando pudieran ser de utilidad para el desempeño de sus funciones.
+FINRETRO
+El Ministerio de Energía, Turismo y Agenda Digital.
+La Dirección General de Política Energética y Minas.
+-El Delegado del Gobierno correspondiente.
+La autoridad sancionadora.
+
+129. ¿Dónde se depositarán los explosivos incautados durante la instrucción del expediente sancionador y la ejecución de la sanción?:
+RETRO
+Durante la instrucción del expediente sancionador y, en su caso, durante la ejecución de la sanciónimpuesta, los explosivos incautados se depositarán en un establecimiento debidamente habilitado, a disposición de la autoridad competente para sancionar. El depósito se realizará en las instalaciones del infractor siempre que éstas sean adecuadas.
+FINRETRO
+En el establecimiento del infractor.
+-En un establecimiento debidamente habilitado.
+En instalaciones de la Fuerzas Armadas.
+En la Intervención de armas de la Guardia Civil de mayor proximidad. 
+
+130. ¿Bajo qué circunstancia se podrían entregar los explosivos incautados a las Fuerzas Armadas o Cuerpos de la Guardia Civil o Nacional de Policía?:
+RETRO
+Los explosivos incautados, como consecuencia de una infracción administrativa, pasarán a poder del Estado, que, a través del Delegado del Gobierno correspondiente, los entregará a las Fuerzas Armadas o Cuerpos de la Guardia Civil o Nacional de Policía, cuando pudieran ser de utilidad para el desempeño de sus funciones.
+FINRETRO
+Si se considera que los explosivos son valiosos.
+Si los explosivos han sido incautados en el extranjero.
+-Si los explosivos pueden ser de utilidad para el desempeño de sus funciones.
+Si el infractor lo solicita voluntariamente.
+

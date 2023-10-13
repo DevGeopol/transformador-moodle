@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>01. Derechos Humanos. Reglamento del Defensor del Pueblo. El Consejo Asesor estará integrado por…</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">01. Derechos Humanos. Reglamento del Defensor del Pueblo. El Consejo Asesor estará integrado por…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Adjuntos del Defensor del Pueblo</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Un Mínimo de 10 vocales</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a y b con correctas</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>02. Derechos Humanos. Reglamento del Defensor del Pueblo. La Designación de Vocales se efectuará conforme a la siguiente distribución…</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">02. Derechos Humanos. Reglamento del Defensor del Pueblo. La Designación de Vocales se efectuará conforme a la siguiente distribución…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Del consejo Asesor.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1 Vocal designado a propuesta del Consejo General de la Abogacía de España </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Del consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1 Vocal designado a propuesta del Consejo General de Colegios Oficiales de Psicólogos de España</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Del consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1 Vocal designado a propuesta de la Organización Médica Colegial</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Del consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las opciones son correctas.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Del consejo Asesor.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>03. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Por qué período serán designados los vocales del Consejo Asesor? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">03. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Por qué período serán designados los vocales del Consejo Asesor? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por un período de 2 años. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por un período de 3 años. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por un período de 4 años. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por un período de 5 años.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>04. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Cuál de las siguientes no corresponde con una de las funciones del Consejo Asesor?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">04. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Cuál de las siguientes no corresponde con una de las funciones del Consejo Asesor?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 22. Funciones del Consejo Asesor.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Realizar propuestas sobre visitas a lugares donde se hallen personas privadas de libertad</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 22. Funciones del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Realizar propuestas para mejora de los protocolos de visita</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 22. Funciones del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Proponer programas de formación y cursos de especialización en materia de prevención de riesgos laborales</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 22. Funciones del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Realizar el seguimiento de los informes que se elabores por el Mecanismo Nacional de Prevención</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 22. Funciones del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>05. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Quién es un órgano de cooperación técnica y jurídica del mecanismo nacional de prevención? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">05. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Quién es un órgano de cooperación técnica y jurídica del mecanismo nacional de prevención? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Comité. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Consejo Asesor </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Gabinete Técnico. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Fiscal General del Estado.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>06. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Quién designa a los vocales del Consejo Asesor? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">06. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Quién designa a los vocales del Consejo Asesor? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Propio Consejo Asesor. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Defensor del Pueblo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Asamblea General. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las anteriores son incorrectas.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>07. Derechos Humanos. Reglamento del Defensor del Pueblo. El Adjunto en el que el Defensor del Pueblo delegue las funciones del Mecanismo Nacional de Prevención….</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">07. Derechos Humanos. Reglamento del Defensor del Pueblo. El Adjunto en el que el Defensor del Pueblo delegue las funciones del Mecanismo Nacional de Prevención….</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Asumirá la Presidencia del Consejo</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Asumirá la presidencia del Mecanismo Nacional de Prevención</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Asumirá la Secretaría General de la Institución</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 19. Consejo Asesor.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>08. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿A quién corresponde hacer la designación de los vocales y poner fin a sus funciones?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">08. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿A quién corresponde hacer la designación de los vocales y poner fin a sus funciones?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Mecanismo Nacional de Prevención</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Defensor del Pueblo</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Consejo Asesor</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Secretario General de la Institución</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 20. Vocales del Consejo Asesor.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>09. Derechos Humanos. Reglamento del Defensor del Pueblo. El Consejo Asesor del Mecanismo Nacional de Prevención se reunirá….</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">09. Derechos Humanos. Reglamento del Defensor del Pueblo. El Consejo Asesor del Mecanismo Nacional de Prevención se reunirá….</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Anualmente</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos 2 veces al año</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos 1 vez al mes</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>10. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Quién puede asistir a las reuniones del Consejo Asesor?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Quién puede asistir a las reuniones del Consejo Asesor?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+TEMA 6. FAO: Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El personal del Defensor del Pueblo</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+TEMA 6. FAO: Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Representantes de organismos internacionales de derechos humanos</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+TEMA 6. FAO: Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las opciones son correctas</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+TEMA 6. FAO: Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Otras convocadas por su presidente</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+TEMA 6. FAO: Artículo 21. Reuniones y asistencia a sesiones.
+</p>]]></text></feedback></answer>
+<tags></tags></question></quiz>

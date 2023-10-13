@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="1. De los citados a continuación, ¿cuál es un derecho reconocido en el Título Preliminar de la CE?">
+<ANSWER ISCORRECT="false">a) La dignidad humana.</ANSWER>
+<ANSWER ISCORRECT="true">b) Los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.</ANSWER>
+<ANSWER ISCORRECT="false">c) Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="2. De los citados a continuación, ¿cuál NO es un valor superior del ordenamiento jurídico según el artículo 1 de la CE?">
+<ANSWER ISCORRECT="true">a) La paz.</ANSWER>
+<ANSWER ISCORRECT="false">b) La libertad.</ANSWER>
+<ANSWER ISCORRECT="false">c) La justicia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="3. Tal y como establece el artículo 10 de la Constitución Española, es fundamento de la paz social: ">
+<ANSWER ISCORRECT="false">a) El libre desarrollo de la personalidad.</ANSWER>
+<ANSWER ISCORRECT="false">b) La dignidad de la persona.</ANSWER>
+<ANSWER ISCORRECT="true">c) Ambas respuestas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="4. La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. Al respecto:">
+<ANSWER ISCORRECT="false">a) Quedan incluidos en la extradición los delitos políticos, no considerándose como tales los actos de terrorismo.</ANSWER>
+<ANSWER ISCORRECT="false">b) Quedan excluidos de la extradición los delitos políticos, considerándose como tales los actos de terrorismo.</ANSWER>
+<ANSWER ISCORRECT="true">c) Quedan excluidos de la extradición los delitos políticos, no considerándose como tales los actos de terrorismo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="5. En relación con el Título Preliminar, señale la proposición INCORRECTA:">
+<ANSWER ISCORRECT="false">a) Corresponde a los poderes públicos facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.</ANSWER>
+<ANSWER ISCORRECT="false">b) Las Fuerzas Armadas, tienen como misión, entre otras, garantizar la soberanía e independencia de España.</ANSWER>
+<ANSWER ISCORRECT="true">c) La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la igualdad entre todas ellas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="6. ¿Dónde se encuentran regulados los Principios rectores de la política social y económica?">
+<ANSWER ISCORRECT="false">a) En la sección primera del capítulo segundo del Titulo primero.</ANSWER>
+<ANSWER ISCORRECT="true">b) En el capítulo tercero del Título primero.</ANSWER>
+<ANSWER ISCORRECT="false">c) En la sección segunda del capítulo primero del título tercero.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="7. Conforme al Capítulo Primero del Título I de la Constitución, señale la CORRECTA: ">
+<ANSWER ISCORRECT="false">a) Ningún español puede ser privado de su nacionalidad.</ANSWER>
+<ANSWER ISCORRECT="false">b) Los extranjeros tienen derecho de sufragio activo y pasivo en las elecciones generales.</ANSWER>
+<ANSWER ISCORRECT="true">c) En los países en los que España concierte tratados de doble nacionalidad, aun cuando no se reconozca en ese país a sus ciudadanos un derecho recíproco, los españoles podrán naturalizarse sin perder su nacionalidad de origen.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="8 Diga cual NO es una causa que permita el nombramiento de funcionarios interinos.  ">
+<ANSWER ISCORRECT="false">a) Sustitución transitoria de los titulares.</ANSWER>
+<ANSWER ISCORRECT="false">b) El exceso o acumulación de tareas por plazo máximo de 9 meses, en un periodo de 18 meses.</ANSWER>
+<ANSWER ISCORRECT="true">c) La realización de funciones expresamente calificadas como de confianza o asesoramiento especial. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="9. La libertad de Cátedra se encuentra regulada en el artículo 20 de la CE, el cual a su vez recoge el derecho a: ">
+<ANSWER ISCORRECT="false">a) A la educación.</ANSWER>
+<ANSWER ISCORRECT="true">b) A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.</ANSWER>
+<ANSWER ISCORRECT="false">c) A comunicar o recibir libremente cualquier tipo de información por cualquier medio de difusión.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. El secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial:">
+<ANSWER ISCORRECT="true">a) Se garantiza.</ANSWER>
+<ANSWER ISCORRECT="false">b) Se reconoce.</ANSWER>
+<ANSWER ISCORRECT="false">c) Se protege.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="11. Se reconoce el derecho de reunión pacífica y sin armas. Al respecto, es correcto afirmar que: ">
+<ANSWER ISCORRECT="false">a) En los casos de reuniones en lugares de tránsito público y manifestaciones se solicitará autorización previa a la autoridad.</ANSWER>
+<ANSWER ISCORRECT="true">b) En los casos de reuniones en lugares de tránsito público y manifestaciones, sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.</ANSWER>
+<ANSWER ISCORRECT="false">c) En los casos de reuniones en lugares de tránsito público y manifestaciones se solicitará autorización a la autoridad. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="12. De los derechos que a continuación se relacionan, señale cuál NO está reconocido en el Capítulo Segundo (Derechos y Libertades) del Título I:">
+<ANSWER ISCORRECT="false">a) La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.</ANSWER>
+<ANSWER ISCORRECT="false">b) Los profesores, los padres y, en su caso, los alumnos intervendrán en el control y gestión de todos los centros sostenidos por la Administración con fondos públicos, en los términos que la ley establezca</ANSWER>
+<ANSWER ISCORRECT="true">c) Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="13. En relación con el Título I de la Constitución Española no es correcto afirmar que:">
+<ANSWER ISCORRECT="true">a) Se reconoce el derecho de fundación para fines de interés particular, con arreglo a la ley.</ANSWER>
+<ANSWER ISCORRECT="false">b) Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales.</ANSWER>
+<ANSWER ISCORRECT="false">c) En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="14. En relación con los principios rectores de la política social y económica, señale la opción INCORRECTA.">
+<ANSWER ISCORRECT="false">a) Los poderes públicos promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho.</ANSWER>
+<ANSWER ISCORRECT="true">b) Los poderes públicos promoverán la ciencia y la investigación científica y técnica en beneficio del interés particular.</ANSWER>
+<ANSWER ISCORRECT="false">c) La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="15. Los derechos y libertades reconocidos en el Capítulo segundo del Título I de la Constitución: ">
+<ANSWER ISCORRECT="false">a) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.</ANSWER>
+<ANSWER ISCORRECT="false">b) Ninguna es correcta.</ANSWER>
+<ANSWER ISCORRECT="true">c) Vinculan a los poderes públicos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="16. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad. ¿Qué derechos gozarán de esta preferencia y sumariedad conforme al artículo 53 de la CE?">
+<ANSWER ISCORRECT="false">a) El artículo 14 y la Sección primera del Capítulo segundo del Título preliminar.</ANSWER>
+<ANSWER ISCORRECT="true">b) Al artículo 14 y la Sección primera del Capítulo segundo del Título primero.</ANSWER>
+<ANSWER ISCORRECT="false">c) Al artículo 14 y la Sección segunda del Capítulo segundo del Título primero.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="17. De los citados a continuación, ¿cuál de ellos el ciudadano NO podrá recabar su tutela a través del recurso de amparo ante el Tribunal Constitucional?">
+<ANSWER ISCORRECT="false">a) Artículo 20.</ANSWER>
+<ANSWER ISCORRECT="false">b) Artículo 19.</ANSWER>
+<ANSWER ISCORRECT="true">c) Artículo 31.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="18. El estado de alarma será declarado por:">
+<ANSWER ISCORRECT="true">a) El Gobierno mediante decreto acordado en Consejo de Ministros, dando cuenta al Congreso de los Diputados. </ANSWER>
+<ANSWER ISCORRECT="false">b) El Congreso de los Diputados por mayoría absoluta, a propuesta exclusiva del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="false">c) El Congreso de los Diputados por mayoría simple, a propuesta exclusiva del Gobierno.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="19. Previa declaración de los estados de excepción o de sitio, podrán ser suspendidos los siguientes derechos constitucionales:">
+<ANSWER ISCORRECT="true">a) Conflictos colectivos, secuestro de publicaciones y libertad de expresión.</ANSWER>
+<ANSWER ISCORRECT="false">b) Inviolabilidad del domicilio, reunión y asistencia letrada al detenido en las diligencias policiales, en los términos que la ley establezca.</ANSWER>
+<ANSWER ISCORRECT="false">c) Negociación colectiva e información al detenido de forma inmediata, y de modo que le sea comprensible de sus derechos y de las razones de su detención.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="20. En relación a los estados de alarma, excepción y sitio, es correcto afirmar que: ">
+<ANSWER ISCORRECT="false">a) La declaración de los estados de alarma, de excepción y de sitio modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.</ANSWER>
+<ANSWER ISCORRECT="false">b) En la declaración del estado de sitio el Congreso de los Diputados podrá determinará que los todos los delitos que se cometan durante su vigencia queden sometidos a la Jurisdicción Militar.</ANSWER>
+<ANSWER ISCORRECT="true">c) El derecho a la asistencia letrada del detenido puede ser suspendido en un estado de sitio.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="21. ¿Ante quién tomará posesión de su cargo el Defensor del Pueblo prestando juramento o promesa de fiel desempeño de su función?">
+<ANSWER ISCORRECT="false">a) Ante el Presidente del Congreso y del Senado conjuntamente.</ANSWER>
+<ANSWER ISCORRECT="false">b) Ante el Presidente del Congreso.</ANSWER>
+<ANSWER ISCORRECT="true">c) Ante las Mesas de ambas Cámaras reunidas conjuntamente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="22. El Defensor del Pueblo gozará de inviolabilidad. No podrá ser detenido, expedientado, multado, perseguido o juzgado:">
+<ANSWER ISCORRECT="false">a) En razón a las opiniones que formule en el ejercicio de su cargo.</ANSWER>
+<ANSWER ISCORRECT="false">b) En razón a los actos que realice en el ejercicio de las competencias propias de su cargo.</ANSWER>
+<ANSWER ISCORRECT="true">c) Ambas respuestas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="23. Defensor del Pueblo. Señale la proposición INCORRECTA: ">
+<ANSWER ISCORRECT="false">a) La correspondencia que sea remitida desde cualquier centro de detención, internamiento o custodia de las personas no podrá ser objeto de censura de ningún tipo.</ANSWER>
+<ANSWER ISCORRECT="false">b) Todas las actuaciones del Defensor del Pueblo son gratuitas para el interesado y no será preceptiva la asistencia de Letrado ni de Procurador.</ANSWER>
+<ANSWER ISCORRECT="true">c) El Defensor del Pueblo está facultado para entrar a examinar individualmente aquellas quejas sobre las que esté pendiente resolución judicial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="24. ¿Quién refrenda la propuesta del Rey a candidato a presidente del Gobierno?">
+<ANSWER ISCORRECT="false">a) El Presidente del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Presidente del Senado.</ANSWER>
+<ANSWER ISCORRECT="true">c) El Presidente del Congreso.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="25. En relación con el Título II de la Constitución Española, es correcto afirmar que: ">
+<ANSWER ISCORRECT="false">a) Sólo podrán acumularse los cargos de Regente y de tutor en el padre, madre o descendientes directos del Rey.</ANSWER>
+<ANSWER ISCORRECT="true">b) El Rey será proclamado ante las Cortes Generales, prestando juramento de desempeñar fielmente sus funciones, guardar y hacer guardar Constitución y leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.</ANSWER>
+<ANSWER ISCORRECT="false">c) Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por el Gobierno, y se compondrá de una, tres o cinco personas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="26. NO es una función del Rey: ">
+<ANSWER ISCORRECT="false">a) Acredita a los embajadores y otros representantes diplomáticos.</ANSWER>
+<ANSWER ISCORRECT="true">b) Nombrar el Defensor del Pueblo.</ANSWER>
+<ANSWER ISCORRECT="false">c) Previa autorización de las Cortes Generales, declarar la guerra y hacer la paz.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="27. En casos de extraordinaria y urgente necesidad el Congreso podrá dictar disposiciones legislativas en forma de:">
+<ANSWER ISCORRECT="true">a) Decreto ley.</ANSWER>
+<ANSWER ISCORRECT="false">b) Decreto legislativo.</ANSWER>
+<ANSWER ISCORRECT="false">c) Orden Ministerial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="28. La ley electoral determinará las causas de inelegibilidad e incompatibilidad de Diputados y Senadores que alcanzará en todo caso? (señale la proposición INCORRECTA): ">
+<ANSWER ISCORRECT="false">a) A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo.</ANSWER>
+<ANSWER ISCORRECT="true">b) A los altos cargos de la Administración del Estado que determine el Gobierno.</ANSWER>
+<ANSWER ISCORRECT="false">c) A los componentes del Tribunal Constitucional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="29. Son leyes orgánicas: ">
+<ANSWER ISCORRECT="false">a) Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas.</ANSWER>
+<ANSWER ISCORRECT="false">b) Las que aprueben los Estatutos de Autonomía.</ANSWER>
+<ANSWER ISCORRECT="true">c) Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="30. Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de ley:">
+<ANSWER ISCORRECT="false">a) Deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos refundidos.</ANSWER>
+<ANSWER ISCORRECT="true">b) La delegación se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente. No podrá entenderse concedida de modo implícito o por tiempo indeterminado</ANSWER>
+<ANSWER ISCORRECT="false">c) No cabe la subdelegación en ningún caso.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="31. El Gobierno se compone de: ">
+<ANSWER ISCORRECT="false">a) Presidente y Vicepresidentes, siendo los Ministros no obligatorios.</ANSWER>
+<ANSWER ISCORRECT="false">b) Del Presidente, de los Vicepresidentes, de los Ministros y Secretarios de Estado y de los demás miembros que establezca la ley</ANSWER>
+<ANSWER ISCORRECT="true">c) Del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="32. ¿Cuál no es una función del Gobierno?">
+<ANSWER ISCORRECT="false">a) Dirige la política exterior e interior.</ANSWER>
+<ANSWER ISCORRECT="false">b) Dirige la Administración Civil y militar y la defensa del Estado.</ANSWER>
+<ANSWER ISCORRECT="true">c) Ejerce la potestad legislativa de acuerdo con la Constitución y las leyes .</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="33. El Consejo de Estado:">
+<ANSWER ISCORRECT="true">a) Es el supremo órgano consultivo del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="false">b) Es el supremo órgano consultivo del Congreso.</ANSWER>
+<ANSWER ISCORRECT="false">c) Es el supremo órgano consultivo del Estado. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="34. El Gobierno responde solidariamente en su gestión política ante:">
+<ANSWER ISCORRECT="false">a) Ambas cámaras.</ANSWER>
+<ANSWER ISCORRECT="false">b) Las Cortes Generales.</ANSWER>
+<ANSWER ISCORRECT="true">c) El Congreso de los Diputados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="35. El Consejo General del Poder Judicial estará integrado:">
+<ANSWER ISCORRECT="false">a) Por el Presidente del Tribunal Constitucional, que lo presidirá, y por veinte miembros nombrados por el Rey por un periodo de cinco años.</ANSWER>
+<ANSWER ISCORRECT="false">b) Por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un periodo de cuatro años.</ANSWER>
+<ANSWER ISCORRECT="true">c) Por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un periodo de cinco años.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="36. Las Comunidades Autónomas NO podrán asumir competencias en las siguientes materias:">
+<ANSWER ISCORRECT="false">a) Los montes y aprovechamientos forestales, asistencia social, sanidad e higiene.</ANSWER>
+<ANSWER ISCORRECT="false">b) Promoción del deporte y de la adecuada utilización del ocio.</ANSWER>
+<ANSWER ISCORRECT="true">c) Fomento y coordinación general de la investigación científica y técnica.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="37. Los recursos de las Comunidades Autónomas estarán constituidos por:">
+<ANSWER ISCORRECT="false">a) Sus propios impuestos, tasas y contribuciones especiales.</ANSWER>
+<ANSWER ISCORRECT="true">b) Todas son correctas.</ANSWER>
+<ANSWER ISCORRECT="false">c) El producto de las operaciones de crédito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="38. Señale la proposición CORRECTA: ">
+<ANSWER ISCORRECT="false">a) El municipio es una entidad local sin personalidad jurídica propia.</ANSWER>
+<ANSWER ISCORRECT="false">b) Las provincias gozarán de seguridad jurídica plena.</ANSWER>
+<ANSWER ISCORRECT="true">c) La provincia es una entidad local con personalidad jurídica propia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="39. Están legitimados para interponer el recurso de amparo: ">
+<ANSWER ISCORRECT="false">a) El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.</ANSWER>
+<ANSWER ISCORRECT="false">b) Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Presidente del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="true">c) Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="40. En relación al procedimiento de reforma del artículo 168, las Cámaras elegidas:">
+<ANSWER ISCORRECT="true">a) Deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras.</ANSWER>
+<ANSWER ISCORRECT="false">b) Deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de tres quintos de ambas Cámaras.</ANSWER>
+<ANSWER ISCORRECT="false">c) Someterán la reforma a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="41. Conforme al Código Penal, no será castigada ninguna acción ni omisión que:">
+<ANSWER ISCORRECT="true">a) No esté prevista como delito por ley anterior a su perpetración.</ANSWER>
+<ANSWER ISCORRECT="false">b) Esté prevista como delito por ley anterior a su perpetración.</ANSWER>
+<ANSWER ISCORRECT="false">c) No esté prevista como delito por ley posterior a su perpetración.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="42. ¿Cuándo se castigarán las acciones u omisiones imprudentes?">
+<ANSWER ISCORRECT="false">a) En los casos que exista una específica obligación legal o contractual de actuar.</ANSWER>
+<ANSWER ISCORRECT="false">b) Cuando se haya creado una ocasión de riesgo para el bien jurídico protegido mediante una acción u omisión precedente.</ANSWER>
+<ANSWER ISCORRECT="true">c) Cuando expresamente lo disponga la Ley.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="43. Conforme al Código Penal NO son autores ni tienen la consideración de autor: ">
+<ANSWER ISCORRECT="false">a) Los que inducen directamente a otro a realizar el delito. </ANSWER>
+<ANSWER ISCORRECT="true">b) Los que cooperan a la ejecución del hecho con actos anteriores o simultáneos.</ANSWER>
+<ANSWER ISCORRECT="false">c) Los que cooperan a su ejecución con un acto sin el cual no se habría efectuado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="44. Hay tentativa: ">
+<ANSWER ISCORRECT="false">a) Cuando el sujeto da principio a la ejecución del delito directamente por hechos exteriores, practicando todos o parte de los actos que objetivamente deberían producir el resultado, y sin embargo éste no se produce por causas dependientes de la voluntad del autor.</ANSWER>
+<ANSWER ISCORRECT="false">b) Cuando el sujeto da principio a la ejecución del delito directamente por hechos exteriores, practicando parte de los actos que objetivamente deberían producir el resultado, y sin embargo éste se produce por causas independientes de la voluntad de la víctima.</ANSWER>
+<ANSWER ISCORRECT="true">c) Cuando el sujeto da principio a la ejecución del delito directamente por hechos exteriores, practicando todos o parte de los actos que objetivamente deberían producir el resultado, y sin embargo éste no se produce por causas independientes de la voluntad del autor</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="45. En relación a la comisión por omisión de un delito que consista en la producción de un resultado, ¿en cuál de las siguientes opciones NO se equiparará la omisión a la acción?">
+<ANSWER ISCORRECT="false">a) Cuando exista una específica obligación legal de actuar.</ANSWER>
+<ANSWER ISCORRECT="false">b) Cuando exista una específica obligación contractual de actuar.</ANSWER>
+<ANSWER ISCORRECT="true">c) Cuando exista una obligación moral de actuar.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="46. ¿Cómo se castiga el error sobre una circunstancia que cualifica la infracción penal o sobre una agravante?">
+<ANSWER ISCORRECT="true">a) Impide su apreciación. </ANSWER>
+<ANSWER ISCORRECT="false">b) Como imprudente. </ANSWER>
+<ANSWER ISCORRECT="false">c) Excluye la responsabilidad criminal. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="47. De las siguientes afirmaciones, señale la INCORRECTA: ">
+<ANSWER ISCORRECT="false">a) Cuando la pena por su extensión pueda incluirse a la vez entre penas graves y menos graves el delito se considerará, en todo caso, como grave.</ANSWER>
+<ANSWER ISCORRECT="false">b) Son delitos leves las infracciones que la ley castiga con pena leve.</ANSWER>
+<ANSWER ISCORRECT="true">c) Cuando la pena por su extensión, pueda considerarse como leve y grave, el delito se considerará, en todo caso, como leve.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="48. ¿Cómo se castiga el error sobre los elementos de la infracción penal cuando sea vencible?">
+<ANSWER ISCORRECT="true">a) Será castigado como imprudente.</ANSWER>
+<ANSWER ISCORRECT="false">b) Se aplicará la pena inferior en uno o dos grados.</ANSWER>
+<ANSWER ISCORRECT="false">c) Excluye de la responsabilidad criminal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="49. ¿Cómo se castiga el error vencible sobre la ilicitud de la infracción penal?">
+<ANSWER ISCORRECT="false">a) Como imprudente.</ANSWER>
+<ANSWER ISCORRECT="false">b) Excluye de la responsabilidad criminal.</ANSWER>
+<ANSWER ISCORRECT="true">c) Disminuye la pena en uno o dos grados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="50. Es delito el que dentro de los casos contemplados en la ley, practique un aborto:">
+<ANSWER ISCORRECT="true">a) Sin contar con los dictámenes previos preceptivos. </ANSWER>
+<ANSWER ISCORRECT="false">b) Sin haber contemplado el tiempo de espera contemplado en la legislación.</ANSWER>
+<ANSWER ISCORRECT="false">c) Sin haber comprobado que la mujer haya recibido información previa relativa a los derechos, prestaciones y ayudas públicas a la maternidad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="51. En relación a la conspiración es correcto afirmar que: ">
+<ANSWER ISCORRECT="false">a) La conspiración solo será delictiva como una forma de provocación y si por su naturaleza constituye una incitación directa a cometer el delito.</ANSWER>
+<ANSWER ISCORRECT="false">b) La conspiración existe cuando dos o más personas se conciertan para la ejecución de un delito. </ANSWER>
+<ANSWER ISCORRECT="true">c) La conspiración para delinquir sólo se castigará en los casos especialmente previstos en la ley.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="52. ¿Quiénes NO responderán criminalmente en los delitos que se cometan utilizando medios o soportes de difusión mecánicos?">
+<ANSWER ISCORRECT="false">a) Los que realmente hayan redactado el texto o producido el signo de que se trate y quienes les hayan inducido a realizarlo.</ANSWER>
+<ANSWER ISCORRECT="true">b) Los cómplices ni quienes los hubieren favorecido personal o realmente.</ANSWER>
+<ANSWER ISCORRECT="false">c) Los directores de la publicación o programa en que se difunda.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="53. Son cómplices del delito: ">
+<ANSWER ISCORRECT="false">a) El que ha resuelto cometer un delito invita a otra u otras personas a participar en él.</ANSWER>
+<ANSWER ISCORRECT="false">b) El que induce directamente a otro u otros a ejecutarlo.</ANSWER>
+<ANSWER ISCORRECT="true">c) Los que, sin ser autores, cooperan a la ejecución del hecho con actos anteriores o simultáneos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="54. Es circunstancia que puede atenuar o agravar la responsabilidad, según la naturaleza, los motivos y los efectos del delito:">
+<ANSWER ISCORRECT="false">a) Ser o haber sido el agraviado cónyuge o persona que esté o haya estado ligada de forma estable por análoga relación de afectividad del ofensor. </ANSWER>
+<ANSWER ISCORRECT="false">b) Ser hermano, por naturaleza o adopción del ofensor. </ANSWER>
+<ANSWER ISCORRECT="true">c) Todas las respuestas son correctas. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="55. ¿Cuál de las siguientes circunstancias modificativas de la responsabilidad criminal que a continuación se indican, será considerada eximente?">
+<ANSWER ISCORRECT="false">a) La de haber procedido el culpable a reparar el daño ocasionado a la víctima, o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral.</ANSWER>
+<ANSWER ISCORRECT="false">b) El que al tiempo de cometer la infracción penal se halle en estado de intoxicación leve por el consumo de drogas tóxicas.</ANSWER>
+<ANSWER ISCORRECT="true">c) El que obre en cumplimiento de un deber.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="56. Están exentos de responsabilidad criminal: ">
+<ANSWER ISCORRECT="false">a) Los que obren por estímulos tan poderosos que hayan producido arrebato.</ANSWER>
+<ANSWER ISCORRECT="false">b) El que al tiempo de cometer la infracción penal sufra de trastorno mental transitorio que haya sido buscado para cometer la infracción.</ANSWER>
+<ANSWER ISCORRECT="true">c) El que, por sufrir alteraciones en la percepción desde el nacimiento o desde la infancia, tenga alterada gravemente la conciencia de la realidad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="57. Es una circunstancia atenuante:">
+<ANSWER ISCORRECT="false">a) La de confesar el delito en cualquier momento del procedimiento.</ANSWER>
+<ANSWER ISCORRECT="true">b) La de actuar el presunto culpable a causa de su grave adicción a las bebidas alcohólicas.</ANSWER>
+<ANSWER ISCORRECT="false">c) La dilación extraordinaria e indebida en la tramitación del procedimiento, siempre que sea atribuible al propio inculpado y que guarde proporción con la complejidad de la causa.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="58. Cuando a la provocación hubiese seguido la realización del hecho punible:">
+<ANSWER ISCORRECT="false">a) Se castigará como apología.</ANSWER>
+<ANSWER ISCORRECT="false">b) Se castigará como provocación.</ANSWER>
+<ANSWER ISCORRECT="false">c) Se castigará como inducción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="59. ¿Cuál de las siguientes afirmaciones NO es correcta en relación con los requisitos de la legítima defensa? ">
+<ANSWER ISCORRECT="false">a) Necesidad racional del medio empleado para impedirla o repelerla.</ANSWER>
+<ANSWER ISCORRECT="false">b) Obrar en defensa de la persona o los derechos propios o ajenos.</ANSWER>
+<ANSWER ISCORRECT="true">c) Que el mal causado no sea mayor que el que se trate de evitar.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="60. En relación a las medidas de seguridad, señale la proposición CORRECTA.">
+<ANSWER ISCORRECT="false">a) En el caso de comisión de hechos previstos como delitos graves, podrán tener mayor duración que la pena abstractamente aplicable al hecho cometido.</ANSWER>
+<ANSWER ISCORRECT="false">b) Se fundamenta en el riesgo de victimización del sujeto al que se le impongan. </ANSWER>
+<ANSWER ISCORRECT="true">c) Se fundamentan en la peligrosidad criminal del sujeto al que se impongan, exteriorizada en la comisión de un hecho previsto como delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="61. El que presenciare la perpetración de cualquier delito público está obligado a ponerlo inmediatamente en conocimiento del Juez de instrucción más próximo. No obstante, está exento del deber de denunciar: ">
+<ANSWER ISCORRECT="false">a) Los que gozaren del pleno uso de la razón.</ANSWER>
+<ANSWER ISCORRECT="false">b) Quienes sean ascendientes y descendientes del delincuente y sus parientes colaterales a partir del segundo grado.</ANSWER>
+<ANSWER ISCORRECT="true">c) Los impúberes.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="62. La competencia territorial para conocer los delitos cuya instrucción corresponde a los Juzgados de Violencia sobre la mujer vendrá determinada por:">
+<ANSWER ISCORRECT="true">a) El lugar del domicilio de la víctima.</ANSWER>
+<ANSWER ISCORRECT="false">b) El lugar de comisión del hecho delictivo.</ANSWER>
+<ANSWER ISCORRECT="false">c) El lugar donde se hubiera producido la detención del autor del delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="63. ¿Quién va a conocer de los recursos contra las resoluciones dictadas por la Sala de lo Penal de la Audiencia Nacional?:">
+<ANSWER ISCORRECT="false">a) La Sala de lo Penal del Tribunal Supremo, ya que es órgano jurisdiccional superior a la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="false">b) La propia sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="true">c) La Sala de Apelación de la Audiencia Nacional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="64. De la querella: ">
+<ANSWER ISCORRECT="false">a) La querella se presentará siempre por medio de Letrado con poder bastante y suscrita por Procurador.</ANSWER>
+<ANSWER ISCORRECT="true">b) Se extenderá en papel de oficio.</ANSWER>
+<ANSWER ISCORRECT="false">c) Puede hacerse verbalmente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="65. Cualquier persona puede detener:  ">
+<ANSWER ISCORRECT="false">a) Al que se fugare del establecimiento donde esté cumpliendo condena.</ANSWER>
+<ANSWER ISCORRECT="false">b) Al procesado o condenado que se hallare en rebeldía.</ANSWER>
+<ANSWER ISCORRECT="true">c) Ambas respuestas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="66. De los citados a continuación, ¿quién NO tiene la consideración de Policía Judicial tal y como establece el artículo 283 de la LECRIM?">
+<ANSWER ISCORRECT="false">a) Los Alcaldes, Tenientes de Alcalde y Alcaldes de barrio.</ANSWER>
+<ANSWER ISCORRECT="true">b) El personal de Seguridad privada debidamente acreditado cuando actúe bajo las órdenes de las Fuerzas y Cuerpos de Seguridad del Estado.</ANSWER>
+<ANSWER ISCORRECT="false">c) Los Serenos, Celadores y cualesquiera otros Agentes municipales de policía urbana o rural.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="67. En relación a los Juzgados de Paz, señale la respuesta CORRECTA: ">
+<ANSWER ISCORRECT="false">a) En cada municipio donde exista Juzgado de Primera Instancia e Instrucción, y con jurisdicción en el término correspondiente, habrá un Juzgado de Paz.</ANSWER>
+<ANSWER ISCORRECT="false">b) Los Jueces de Paz y sus sustitutos serán elegidos para un periodo de cuatro años por la Sala de Gobierno del Tribunal Superior de Justicia correspondiente.</ANSWER>
+<ANSWER ISCORRECT="true">c) Los Jueces de Paz y sus sustitutos serán elegidos por el Pleno del Ayuntamiento, con el voto favorable de la mayoría absoluta de sus miembros, entre las personas que, reuniendo las condiciones legales, así lo soliciten.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="68. Conforme a la Ley Orgánica reguladora del Habeas Corpus NO está legitimado para instar el procedimiento:">
+<ANSWER ISCORRECT="true">a) El abogado de la persona detenida.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">c) El Juez, de oficio.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="69. Es competente para conocer la solicitud de «Habeas Corpus» de un menor de edad: ">
+<ANSWER ISCORRECT="true">a) El Juez de Instrucción del lugar en que se encuentre la persona privada de libertad; si no constare, el del lugar en que se produzca la detención, y, en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias sobre el paradero del detenido.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Juez Togado Militar de Instrucción constituido en la cabecera de la circunscripción jurisdiccional en la que se efectuó la detención.</ANSWER>
+<ANSWER ISCORRECT="false">c) El Juez de Instrucción del lugar en que se practicó la detención; si no constare, el del lugar de residencia del detenido, y, en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias sobre el paradero del detenido.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="70. A los efectos del Habeas Corpus se consideran personas ilegalmente detenidas: ">
+<ANSWER ISCORRECT="false">a) Las que estén lícitamente internadas en cualquier establecimiento o lugar.</ANSWER>
+<ANSWER ISCORRECT="false">b) Las que lo fueren por una autoridad, agente de la misma, funcionario público o particular, cuando concurran los supuestos legales.</ANSWER>
+<ANSWER ISCORRECT="true">c) Las privadas de libertad a quienes no les sean respetados los derechos que la Constitución y las leyes procesales garantizan a toda persona detenida</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="71. ¿A qué principio recogido en la exposición de motivos determina que ningún particular o agente de la autoridad pueda sustraerse al control judicial de la legalidad de la detención de las personas sin que quepa en este sentido excepción de ningún género?">
+<ANSWER ISCORRECT="false">a) Universalidad.</ANSWER>
+<ANSWER ISCORRECT="true">b) Generalidad.</ANSWER>
+<ANSWER ISCORRECT="false">c) Celeridad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="72. Quién conoce del enjuiciamiento y fallo de un delito con una pena privativa de libertad de tres años:">
+<ANSWER ISCORRECT="true">a) El Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">b) La Audiencia Provincial. </ANSWER>
+<ANSWER ISCORRECT="false">c) El Juez de Instrucción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="73. La Ley que recoge el conjunto de normas legales que regulan las actuaciones judiciales relativas a cualquier proceso penal se denomina:">
+<ANSWER ISCORRECT="false">a) Real Decreto de 14 de septiembre de 1982 por el que se aprueba la Ley de Enjuiciamiento Criminal.</ANSWER>
+<ANSWER ISCORRECT="false">b) Ley Orgánica del Poder Judicial.</ANSWER>
+<ANSWER ISCORRECT="true">c) Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="74. La Sala 4ª del Tribunal Supremo es la denominada: ">
+<ANSWER ISCORRECT="false">a) Sala de lo Civil.</ANSWER>
+<ANSWER ISCORRECT="false">b) Sala de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="true">c) Sala de lo Social.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="75. Conforme al art. 324 la investigación judicial se desarrollará en un plazo máximo de: ">
+<ANSWER ISCORRECT="false">a) Seis meses desde la incoación de la causa.</ANSWER>
+<ANSWER ISCORRECT="true">b) Doce meses desde la incoación de la causa, prorrogables por períodos iguales o inferiores a seis meses.</ANSWER>
+<ANSWER ISCORRECT="false">c) Doce meses desde la incoación de la causa, prorrogables por un período igual o inferior a tres meses.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="76. Conforme al artículo 8 de la LECrim, la jurisdicción criminal es siempre_____________:">
+<ANSWER ISCORRECT="false">a) Imprescriptible.</ANSWER>
+<ANSWER ISCORRECT="false">b) Inalienable.</ANSWER>
+<ANSWER ISCORRECT="true">c) Improrrogable.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="77. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso:">
+<ANSWER ISCORRECT="false">a) Para la instrucción y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años.</ANSWER>
+<ANSWER ISCORRECT="true">b) Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años.</ANSWER>
+<ANSWER ISCORRECT="false">c) Para el conocimiento y fallo de las causas por delitos a los que la Ley señale cualesquiera otras penas de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de éstas excedan de diez años.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="78. Cuando no conste el lugar en que se ha cometido el delito, ni se hallan encontrado pruebas materiales, pero sí se haya aprehendido al presunto reo y conozcamos su lugar de residencia, ¿de qué término municipal, partido o circunscripción serán los Jueces competentes para conocer de la causa en primer lugar?">
+<ANSWER ISCORRECT="false">a) El del término municipal, partido o circunscripción en que se hayan descubierto pruebas materiales del delito.</ANSWER>
+<ANSWER ISCORRECT="true">b) El del término municipal, partido o circunscripción en que el presunto reo haya sido aprehendido.</ANSWER>
+<ANSWER ISCORRECT="false">c) El de la residencia del reo presunto.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="79. A los efectos de la atribución de jurisdicción y de la distribución de la competencia se consideran delitos conexos:">
+<ANSWER ISCORRECT="false">a) Los cometidos por dos o más personas.</ANSWER>
+<ANSWER ISCORRECT="false">b) Los cometidos por dos o más personas en distintos lugares o tiempos.</ANSWER>
+<ANSWER ISCORRECT="true">c) Los delitos de favorecimiento real y personal y el blanqueo de capitales respecto al delito antecedente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="80. El Delegado de Gobierno tiene rango de: ">
+<ANSWER ISCORRECT="false">a) Director General.</ANSWER>
+<ANSWER ISCORRECT="false">b) Secretario General.</ANSWER>
+<ANSWER ISCORRECT="true">c) Subsecretario.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="81.NO es un alto cargo en la Administración General del Estado: ">
+<ANSWER ISCORRECT="false">a) El Secretario de Estado.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Delegado del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="true">c) El Subsecretario de Estado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="82. ¿Quién conocerá de la tramitación y enjuiciamiento de las acciones penales dirigidas contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, así como contra el Rey o Reina que hubiere abdicado y su consorte?">
+<ANSWER ISCORRECT="false">a) La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="true">b) La Sala de lo Penal del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">c) La Sala de Apelación de la Audiencia Nacional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="83. ¿Quién conocerá de la instrucción y enjuiciamiento de las causas contra los Presidentes de Sala o contra los Magistrados de una Sala, cuando sean Juzgados todos o la mayor parte de los que la constituyen?">
+<ANSWER ISCORRECT="false">a) La Sala Militar del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">b) La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="true">c) Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="84. ¿Cuál de las siguientes afirmaciones es correcta respecto del Tratado de Lisboa que modifica el TUE y el Tratado constitutivo de la Comunidad Europea, que pasa a llamarse TFUE?">
+<ANSWER ISCORRECT="false">a) Se firma el 1 de diciembre de 2008 y entra en vigor el 1 de enero de 2010.</ANSWER>
+<ANSWER ISCORRECT="true">b) Se firma el 13 de diciembre de 2007 y entra en vigor el 1 de diciembre de 2009.</ANSWER>
+<ANSWER ISCORRECT="false">c) Se firma el 13 de diciembre de 2008 y entra en vigor el 1 de diciembre de 2009.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="85. El Consejo Europeo se reunirá:">
+<ANSWER ISCORRECT="false">a) Una vez al año.</ANSWER>
+<ANSWER ISCORRECT="false">b) Una vez por trimestre.</ANSWER>
+<ANSWER ISCORRECT="true">c) Dos veces por semestre</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="86. El Parlamento Europeo estará compuesto por representantes de los ciudadanos de la UE. Su número no excederá, de acuerdo a lo establecido en los Tratados:">
+<ANSWER ISCORRECT="false">a) 750 con el Presidente. </ANSWER>
+<ANSWER ISCORRECT="false">b) 750 más el Presidente.</ANSWER>
+<ANSWER ISCORRECT="true">c) 736 con el Presidente. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="87. Con la incorporación en el 2013 de Croacia a la UE, ¿cuántas ampliaciones ha habido?">
+<ANSWER ISCORRECT="false">a) 4</ANSWER>
+<ANSWER ISCORRECT="true">b) 7</ANSWER>
+<ANSWER ISCORRECT="false">c) 6</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="88. En la UE, ¿quién velará por la aplicación de los Tratados y las medidas adoptadas por las instituciones en virtud de éstos?">
+<ANSWER ISCORRECT="false">a) El Parlamento</ANSWER>
+<ANSWER ISCORRECT="false">b) El Tribunal de Justicia</ANSWER>
+<ANSWER ISCORRECT="true">c) La Comisión</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="89. El Consejo elegirá a su Presidente por mayoría cualificada para un mandato de:">
+<ANSWER ISCORRECT="false">a) Dos años y medio que no podrá renovarse.</ANSWER>
+<ANSWER ISCORRECT="true">b) Dos años y medio que podrá renovarse una sola vez.</ANSWER>
+<ANSWER ISCORRECT="false">c) Cinco años sin poder ser reelegido.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="90. La representación exterior de la UE en los asuntos de política exterior y de seguridad común, será asumida por:">
+<ANSWER ISCORRECT="false">a) El Presidente del Consejo Europeo.</ANSWER>
+<ANSWER ISCORRECT="true">b) El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad.</ANSWER>
+<ANSWER ISCORRECT="false">c) El Presidente de la Comisión.</ANSWER>
+</QUESTION>
+</POLL>

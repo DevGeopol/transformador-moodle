@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="1. Ley Orgánica de Represión del Contrabando. ¿Cómo se denomina a la entrada de mercancías no comunitarias en el territorio español comprendido en el territorio aduanero de la Unión Europea, así como en ámbito territorial de Ceuta y Melilla?">
+<ANSWER ISCORRECT="true">Importación</ANSWER>
+<ANSWER ISCORRECT="false">Introducción</ANSWER>
+<ANSWER ISCORRECT="false">Exportación</ANSWER>
+<ANSWER ISCORRECT="false">Expedición</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="2. Ley Orgánica de Represión del Contrabando. ¿Cómo se denomina a todo bien corporal susceptible de ser objeto de comercio?">
+<ANSWER ISCORRECT="true">Mercancía.</ANSWER>
+<ANSWER ISCORRECT="false">Géneros o efectos estancados.</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías sujetas a medidas de política comercial.</ANSWER>
+<ANSWER ISCORRECT="false">Géneros prohibidos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="3. Ley Orgánica de Represión del Contrabando. ¿Cuál es el valor que han de alcanzar las mercancías de lícito comercio que se importen o exporten sin presentarlas para su despacho en las oficinas de aduanas o en los lugares habilitados por la administración aduanera para que se considere delito de contrabando?">
+<ANSWER ISCORRECT="false">Igual a 250.000 ?</ANSWER>
+<ANSWER ISCORRECT="false">Igual o superior a 250.000 ?</ANSWER>
+<ANSWER ISCORRECT="false">Superior a 250.000 ?</ANSWER>
+<ANSWER ISCORRECT="true">Igual o superior a 150.000 ?</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="4. Ley Orgánica de Represión del Contrabando. ¿Qué valor han de tener las mercancías para que se considere delito el contrabando de tabaco?">
+<ANSWER ISCORRECT="false">Superior a 15.000</ANSWER>
+<ANSWER ISCORRECT="false">Superior a 50.000</ANSWER>
+<ANSWER ISCORRECT="true">Igual o superior a 15.000</ANSWER>
+<ANSWER ISCORRECT="false">Igual o superior a 50.000.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="5. Ley Orgánica de Represión del Contrabando. Cuando se cometa un delito de contrabando de forma imprudente, ¿de qué forma se aplicará la pena correspondiente?: ">
+<ANSWER ISCORRECT="true">Inferior en un grado.</ANSWER>
+<ANSWER ISCORRECT="false">Inferior en uno o dos grados.</ANSWER>
+<ANSWER ISCORRECT="false">En su mitad superior.</ANSWER>
+<ANSWER ISCORRECT="false">En su mitad inferior.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="6. Ley Orgánica de Represión del Contrabando. Según lo establecido en el art. 5, toda pena que se impusiere por un delito de contrabando llevará consigo_____________de los siguientes bienes, efectos e instrumentos. Rellene el espacio en blanco:">
+<ANSWER ISCORRECT="false">La intervención</ANSWER>
+<ANSWER ISCORRECT="true">El comiso</ANSWER>
+<ANSWER ISCORRECT="false">La aprehensión</ANSWER>
+<ANSWER ISCORRECT="false">Medidas provisionales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="7. Ley Orgánica de Represión del Contrabando. ¿A quién se adjudicarán los bienes, efectos e instrumentos definitivamente decomisados por sentencia?:">
+<ANSWER ISCORRECT="false">Al Gobierno.</ANSWER>
+<ANSWER ISCORRECT="false">A las autoridades aduaneras.</ANSWER>
+<ANSWER ISCORRECT="false">A la Agencia Estatal de la Administración Tributaria</ANSWER>
+<ANSWER ISCORRECT="true">Al Estado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="8. Ley Orgánica de Represión del Contrabando. Respecto a los bienes de lícito comercio decomisados por delito de contrabando de drogas tóxicas, estupefacientes y sustancias psicotrópicas, o precursores de las mismas, ¿quién se encargará de la enajenación o la determinación de los mismos?:">
+<ANSWER ISCORRECT="true">Mesa de coordinación de Adjudicaciones</ANSWER>
+<ANSWER ISCORRECT="false">Agencia Estatal de Administración Tributaria</ANSWER>
+<ANSWER ISCORRECT="false">Al Servicio de Vigilancia Aduanera</ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio de Hacienda</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="9. Ley Orgánica de Represión del Contrabando. Según lo dispuesto en el art. 11, ¿cuál de las siguientes infracciones tendrá carácter de muy grave?">
+<ANSWER ISCORRECT="false">Las coacciones a las autoridades, funcionarios y fuerzas.</ANSWER>
+<ANSWER ISCORRECT="false">No facilitar el examen de la documentación justificativa o necesaria para la tramitación del expediente sancionador de contrabando.</ANSWER>
+<ANSWER ISCORRECT="true">La rotura del precinto de las máquinas expendedoras de tabaco cuando estas hubiesen sido objeto de una medida de las previstas en el artículo 14.</ANSWER>
+<ANSWER ISCORRECT="false">No atender algún requerimiento debidamente notificado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. Ley Orgánica de Represión del Contrabando. En general, ¿cuál será el importe mínimo de la multa aplicable por las infracciones en materia de contrabando?">
+<ANSWER ISCORRECT="true">500 euros</ANSWER>
+<ANSWER ISCORRECT="false">1000 euros</ANSWER>
+<ANSWER ISCORRECT="false">2000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="11. Ley Orgánica de Represión del Contrabando. Dentro de los supuestos especiales la citada Ley de represión del contrabando considera casos en los que cabe hablar de contrabando con independencia del valor de los bienes, mercancía o efectos. ¿Cuál de los siguientes NO estaría incluido?">
+<ANSWER ISCORRECT="false">Drogas tóxicas.</ANSWER>
+<ANSWER ISCORRECT="true">Vehículos de alta gama.</ANSWER>
+<ANSWER ISCORRECT="false">Armas.</ANSWER>
+<ANSWER ISCORRECT="false">Todos ellos se citan expresamente en la redacción del art. 2.3.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="12. Ley Orgánica de Represión del Contrabando.  Para la ejecución de la pena de multa y de la responsabilidad civil, los jueces y tribunales recabarán el auxilio de los servicios de la Administración Tributaria, ¿a través de qué procedimiento las exigirá?">
+<ANSWER ISCORRECT="false">De ejecución subsidiaria</ANSWER>
+<ANSWER ISCORRECT="false">De compulsión sobre las personas.</ANSWER>
+<ANSWER ISCORRECT="true">De apremio.</ANSWER>
+<ANSWER ISCORRECT="false">De multa coercitiva.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="13. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. ¿En qué plazo a contar desde la fecha de su comisión prescriben las infracciones administrativas de contrabando?">
+<ANSWER ISCORRECT="false">1 año</ANSWER>
+<ANSWER ISCORRECT="false">3 años</ANSWER>
+<ANSWER ISCORRECT="false">4 años</ANSWER>
+<ANSWER ISCORRECT="true">5 años</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="14. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. ¿Entre qué límites superior e inferior estará comprendida una sanción de cierre temporal de carácter leve?">
+<ANSWER ISCORRECT="false">Nueve meses y un día y doce meses.</ANSWER>
+<ANSWER ISCORRECT="false">Tres meses y un día y nueve meses.</ANSWER>
+<ANSWER ISCORRECT="true">Cuatro días y tres meses.</ANSWER>
+<ANSWER ISCORRECT="false">Siete días y seis meses.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="15. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. Rellene el espacio en blanco. Se apreciará reiteración cuando el sujeto infractor haya sido sancionado por cualquier infracción administrativa de contrabando en resolución administrativa firme dentro de los_____________ años anteriores a la fecha de la comisión de la infracción.">
+<ANSWER ISCORRECT="false">Dos</ANSWER>
+<ANSWER ISCORRECT="false">Tres</ANSWER>
+<ANSWER ISCORRECT="false">Cuatro</ANSWER>
+<ANSWER ISCORRECT="true">Cinco</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="16. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. Cuando el sujeto infractor haya sido sancionado por infracción administrativa de contrabando más de una vez en el período establecido en el art. 8.1, ¿en cuánto se incrementarán las sanciones pecuniarias por infracción grave?">
+<ANSWER ISCORRECT="false">Entre 15 y 20 puntos.</ANSWER>
+<ANSWER ISCORRECT="false">Entre 30 y 40 puntos.</ANSWER>
+<ANSWER ISCORRECT="false">Entre 40 y 50 puntos.</ANSWER>
+<ANSWER ISCORRECT="true">Entre 80 y 100 puntos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="17. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. Toda sanción que se imponga por una infracción administrativa de contrabando llevará consigo el comiso de los siguientes bienes, efectos e instrumentos (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">Los materiales, instrumentos o maquinaria empleados en la fabricación de los géneros estancados o prohibidos.</ANSWER>
+<ANSWER ISCORRECT="true">Los medios de transporte con los que se lleve a efecto la comisión de la infracción, incluso cuando pertenezcan a un tercero que no haya tenido participación en ésta.</ANSWER>
+<ANSWER ISCORRECT="false">Las ganancias obtenidas de la infracción, cualesquiera que sean las transformaciones que hubieran podido experimentar.</ANSWER>
+<ANSWER ISCORRECT="false">Cuantos bienes y efectos, hayan servido de instrumento para la comisión de la infracción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="18. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. ¿Cómo se extenderán las diligencias de aprehensión o descubrimiento practicadas antes de la iniciación del procedimiento sancionador en materia de contrabando?">
+<ANSWER ISCORRECT="false">En documento único.</ANSWER>
+<ANSWER ISCORRECT="false">Por duplicado.</ANSWER>
+<ANSWER ISCORRECT="true">Por triplicado.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="19. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. ¿De qué duración será el plazo máximo de resolución del procedimiento administrativo en materia de contrabando desde la fecha del acuerdo de iniciación?">
+<ANSWER ISCORRECT="false">2 meses.</ANSWER>
+<ANSWER ISCORRECT="false">3 meses.</ANSWER>
+<ANSWER ISCORRECT="true">6 meses.</ANSWER>
+<ANSWER ISCORRECT="false">9 meses.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="20. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. La resolución que estime cometida la infracción administrativa de contrabando contendrá la mención necesaria de los siguientes extremos: ">
+<ANSWER ISCORRECT="false">Los hechos que se estimen probados y la calificación de la infracción que se considera cometida</ANSWER>
+<ANSWER ISCORRECT="false">Los sujetos infractores</ANSWER>
+<ANSWER ISCORRECT="false">La procedencia o no del comiso de los bienes, efectos o instrumentos intervenidos</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="21. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. Cuando hablamos de utilización de medios fraudulentos o personas interpuestas como criterio de graduación de una sanción administrativa de contrabando, ésta sólo se apreciará cuando los mismos: ">
+<ANSWER ISCORRECT="true">Dificulten el control de la Administración sobre bienes, géneros o efectos objeto de contrabando</ANSWER>
+<ANSWER ISCORRECT="false">Sean ilegales</ANSWER>
+<ANSWER ISCORRECT="false">Sean de ilícito comercio</ANSWER>
+<ANSWER ISCORRECT="false">Sean de lícito comercio</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="22. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. Procederá el cierre definitivo de los establecimientos de los que los infractores sean titulares cuando el sujeto infractor haya sido sancionado por infracción administrativa de contrabando ____________________ en el período y circunstancias indicadas. ">
+<ANSWER ISCORRECT="false">Una vez</ANSWER>
+<ANSWER ISCORRECT="false">Más de una vez</ANSWER>
+<ANSWER ISCORRECT="true">Más de dos veces</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="23. Código Aduanero de la Unión. ¿Cuál de los siguientes territorios NO forma parte del territorio aduanero de la Unión Europea?">
+<ANSWER ISCORRECT="false">Los municipios de Livigno y Campione d?Italia.</ANSWER>
+<ANSWER ISCORRECT="false">Ceuta y Melilla.</ANSWER>
+<ANSWER ISCORRECT="false">Los países y territorios franceses de ultramar a los que se apliquen las disposiciones de la cuarta parte del TFUE.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="24. Código Aduanero de la Unión. ¿Qué denominación recibe 'el acto por el que una persona expresa, en la forma y el modo establecidos, que las mercancías están en depósito temporal'?">
+<ANSWER ISCORRECT="false">Declaración sumaria de entrada.</ANSWER>
+<ANSWER ISCORRECT="false">Declaración sumaria de salida.</ANSWER>
+<ANSWER ISCORRECT="true">Declaración de depósito temporal.</ANSWER>
+<ANSWER ISCORRECT="false">Declaración en aduana.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="25. Código Aduanero de la Unión. Según las definiciones del art. 5, ¿cuál de los siguientes regímenes no se contempla dentro del término 'régimen aduanero'?">
+<ANSWER ISCORRECT="false">Despacho a libre práctica</ANSWER>
+<ANSWER ISCORRECT="false">Regímenes especiales</ANSWER>
+<ANSWER ISCORRECT="false">Exportación</ANSWER>
+<ANSWER ISCORRECT="true">Importación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="26. Código Aduanero de la Unión. Previa solicitud del interesado, quedarán exentas de derechos de importación las mercancías no pertenecientes a la Unión que, tras haber sido inicialmente exportadas fuera del territorio aduanero de esta última como mercancías de la Unión. Como regla general, ¿en qué plazo han de reintroducirse y declararse para su despacho a libre práctica en dicho territorio? ">
+<ANSWER ISCORRECT="false">En un plazo de un año.</ANSWER>
+<ANSWER ISCORRECT="true">En un plazo de tres años.</ANSWER>
+<ANSWER ISCORRECT="false">En un plazo de cinco años.</ANSWER>
+<ANSWER ISCORRECT="false">La reintroducción y declaración no están sujetas a plazo alguno para que se produzca la exención.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="27. Código Aduanero de la Unión. Según el art. 214, ¿En qué régimen el titular de la autorización, el titular del régimen y toda persona que ejerza una actividad de depósito, elaboración o transformación de mercancías o de venta o compra de mercancías en zonas francas NO deberán llevar los registros adecuados, de la forma aprobada por las autoridades aduaneras?">
+<ANSWER ISCORRECT="true">Régimen de tránsito.</ANSWER>
+<ANSWER ISCORRECT="false">Régimen de depósito.</ANSWER>
+<ANSWER ISCORRECT="false">Régimen de destinos especiales.</ANSWER>
+<ANSWER ISCORRECT="false">Régimen de perfeccionamiento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="28. Código Aduanero de la Unión. ¿Cuál de los siguientes regímenes permitirá la circulación de mercancías de la Unión entre dos puntos del territorio aduanero de la Unión, pasando por un país o territorio no perteneciente a dicho territorio aduanero, sin que su estatuto aduanero se modifique?">
+<ANSWER ISCORRECT="false">Tránsito externo.</ANSWER>
+<ANSWER ISCORRECT="true">Tránsito interno.</ANSWER>
+<ANSWER ISCORRECT="false">De perfeccionamiento activo.</ANSWER>
+<ANSWER ISCORRECT="false">De importación temporal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="29. Código Aduanero de la Unión. ¿A cuál de los siguientes elementos se dispensará de la obligación de presentar la declaración previa de salida?">
+<ANSWER ISCORRECT="true">A los medios de transporte y las mercancías que se hallen en ellos que se limiten a atravesar las aguas territoriales o el espacio aéreo del territorio aduanero de la Unión sin efectuar ninguna parada en el mismo.</ANSWER>
+<ANSWER ISCORRECT="false">Las mercancías que vayan a salir del territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="false">A los medios de transporte y las mercancías que se hallen en ellos que se limiten a atravesar las aguas territoriales o el espacio aéreo del territorio aduanero de la Unión efectuando parada en el mismo.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="30. Código Aduanero de la Unión. ¿Cuál de las siguientes mercancías NO se aplicará la sujeción a declaración de reexportación establecida en el art. 270.1?">
+<ANSWER ISCORRECT="true">Mercancías incluidas en el régimen de tránsito interno.</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías incluidas en el régimen de perfeccionamiento pasivo.</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías entregadas, exentas del IVA o de impuestos especiales, para el avituallamiento de aeronaves o embarcaciones, independientemente del destino de la aeronave o de la embarcación, para las que se exigirá una prueba de tal entrega.</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías transbordadas dentro de una zona franca o directamente reexportadas desde una zona franca.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="31. Código Aduanero de la Unión. ¿Cuántos dígitos emplea para la clasificación de las mercancías el sistema de Nomenclatura Combinada?">
+<ANSWER ISCORRECT="false">6</ANSWER>
+<ANSWER ISCORRECT="true">8</ANSWER>
+<ANSWER ISCORRECT="false">10</ANSWER>
+<ANSWER ISCORRECT="false">12</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="32. Código Aduanero de la Unión. ¿Cuál de los siguientes territorios NO forma parte del territorio aduanero de la Unión?">
+<ANSWER ISCORRECT="false">República Eslovaca</ANSWER>
+<ANSWER ISCORRECT="false">República de Eslovenia</ANSWER>
+<ANSWER ISCORRECT="false">Reino de Dinamarca</ANSWER>
+<ANSWER ISCORRECT="true">Reino de Noruega</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="33. Código Aduanero de la Unión. ¿Cómo define el art. 5 el término 'autoridades aduaneras'?:">
+<ANSWER ISCORRECT="false">Las administraciones de aduanas de los Estados miembros competentes para aplicar la legislación aduanera.</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier otra autoridad que esté facultada con arreglo al Derecho Civil para aplicar determinadas disposiciones del Código Aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier otra autoridad que esté facultada con arreglo al Derecho Nacional para aplicar determinadas disposiciones del Código Aduanero.</ANSWER>
+<ANSWER ISCORRECT="false">A y C son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="34. Código Aduanero de la Unión. ¿Cuál de los siguientes conceptos se relaciona con la siguiente definición del art. 5?: 'una persona que, en el ejercicio de su actividad profesional, intervenga en actividades a las que se aplique la legislación aduanera'.">
+<ANSWER ISCORRECT="false">Persona.</ANSWER>
+<ANSWER ISCORRECT="true">Operador económico.</ANSWER>
+<ANSWER ISCORRECT="false">Representante aduanero.</ANSWER>
+<ANSWER ISCORRECT="false">Titular de las mercancías.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="35. Código Aduanero de la Unión. ¿Cómo deberán efectuarse todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera?">
+<ANSWER ISCORRECT="false">Mediante la aduana de partida.</ANSWER>
+<ANSWER ISCORRECT="false">Mediante el único declarante en las operaciones de importación.</ANSWER>
+<ANSWER ISCORRECT="false">Mediante la presentación manual de los datos relativos a los movimientos de mercancías.</ANSWER>
+<ANSWER ISCORRECT="true">Mediante Técnicas de tratamiento electrónico de datos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="36. Código Aduanero de la Unión. Según el art. 1, ¿qué contendrán el objetivo y el ámbito de aplicación de dicho Código?:">
+<ANSWER ISCORRECT="true">Las disposiciones y procedimientos generales aplicables a las mercancías introducidas en el territorio aduanero de la Unión o que salgan del mismo.</ANSWER>
+<ANSWER ISCORRECT="false">Las disposiciones y procedimientos generales aplicables a las mercancías introducidas en el territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="false">Las disposiciones y procedimientos generales aplicables a las mercancías introducidas en el territorio aduanero de la Unión y que salgan del mismo, o que salgan del mismo.</ANSWER>
+<ANSWER ISCORRECT="false">Las disposiciones y procedimientos generales aplicables a las mercancías que salgan en el territorio aduanero de la Unión.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="37. Código Aduanero de la Unión. Complete los espacios. Según lo establecido en el art. 3, las autoridades aduaneras serán responsables de supervisar el comercio internacional de la Unión, debiendo contribuir a un comercio_________ y _________, a la aplicación de los aspectos externos del mercado interior y a la ejecución de la política comercial común y de las restantes políticas comunes de la Unión relacionadas con el comercio, así como a la seguridad global de la cadena de suministros.">
+<ANSWER ISCORRECT="false">Justo y equitativo.</ANSWER>
+<ANSWER ISCORRECT="false">Regulado y Justo.</ANSWER>
+<ANSWER ISCORRECT="true">Justo y abierto.</ANSWER>
+<ANSWER ISCORRECT="false">Libre y abierto.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="38. Código Aduanero de la Unión. ¿A qué concepto se refiere el art. 5 cuando habla del 'el acto por el que las autoridades aduaneras pongan las mercancías a disposición de los fines concretos del régimen aduanero en el que se hayan incluido'? ">
+<ANSWER ISCORRECT="false">Gestión de riesgos.</ANSWER>
+<ANSWER ISCORRECT="true">Levante de las mercancías.</ANSWER>
+<ANSWER ISCORRECT="false">Despacho a libre práctica.</ANSWER>
+<ANSWER ISCORRECT="false">Presentación en aduana.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="39. Código Aduanero de la Unión. Según lo dispuesto en el art. 19.3, ¿en qué casos no exigirán las autoridades aduaneras a aquella persona que actúe como representante aduanero que presente en cada ocasión la prueba del poder de representación?">
+<ANSWER ISCORRECT="false">A quien ejecute y efectúe con carácter puntual actos y formalidades.</ANSWER>
+<ANSWER ISCORRECT="false">A quien ejecute y efectúe con carácter habitual actos y formalidades.</ANSWER>
+<ANSWER ISCORRECT="false">A quien solicite con carácter esporádico llevar a cabo actos y formalidades.</ANSWER>
+<ANSWER ISCORRECT="true">A quien ejecute y efectúe con carácter habitual actos y formalidades, siempre que tal persona esté en condiciones de presentar dicha prueba y a petición de las autoridades aduaneras.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="40. Código Aduanero de la Unión. ¿Quién especificará mediante actos de ejecución, las normas de procedimiento relativas a la utilización de mercancías equivalentes?">
+<ANSWER ISCORRECT="false">El Consejo de la UE.</ANSWER>
+<ANSWER ISCORRECT="false">El Parlamento Europeo.</ANSWER>
+<ANSWER ISCORRECT="true">La Comisión.</ANSWER>
+<ANSWER ISCORRECT="false">El Consejo Europeo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="41. Código Aduanero de la Unión. Dentro del régimen de tránsito de la Unión, ¿a quién le corresponde constituir una garantía con objeto de asegurar el pago del importe de los derechos de importación o de exportación correspondiente a la deuda aduanera y demás gravámenes?">
+<ANSWER ISCORRECT="true">Al Titular del régimen de tránsito.</ANSWER>
+<ANSWER ISCORRECT="false">Al transportista de mercancías incluidas en el régimen de tránsito.</ANSWER>
+<ANSWER ISCORRECT="false">Al destinatario de mercancías incluidas en el régimen de tránsito.</ANSWER>
+<ANSWER ISCORRECT="false">A cualquiera de los anteriores.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="42. Código Aduanero de la Unión. ¿Por qué tendrá que velar que se realice, fundamentalmente a efectos de protección y seguridad, dentro de un plazo específico, la aduana ante la que se presente la declaración previa a la salida a que se refiere el artículo 263?">
+<ANSWER ISCORRECT="false">Delegación de poderes.</ANSWER>
+<ANSWER ISCORRECT="true">Un análisis de riesgos.</ANSWER>
+<ANSWER ISCORRECT="false">Atribución de competencias de ejecución.</ANSWER>
+<ANSWER ISCORRECT="false">Un registro.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="43. Código Aduanero de la Unión. Señale la opción INCORRECTA. ¿Por quién serán presentadas en aduana en el momento de la salida las mercancías que vayan a salir del territorio aduanero de la Unión?">
+<ANSWER ISCORRECT="false">Por la persona que saque las mercancías del territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="false">La persona en cuyo nombre o por cuya cuenta actúe la persona que saque las mercancías del territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="true">La persona que asume la responsabilidad de transportar las mercancías después de su salida del territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="false">No hay ninguna incorrecta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="44. Reglamento (UE) nº 952/2013 CAU. Rellene el espacio en blanco. Cuando las mercancías para las que se haya presentado una declaración sumaria de salida no salgan del territorio aduanero de la Unión, las autoridades aduaneras invalidarán dicha declaración previa solicitud del declarante; en un plazo de_________a partir de la presentación de la declaración.">
+<ANSWER ISCORRECT="false">50 días.</ANSWER>
+<ANSWER ISCORRECT="false">120 días.</ANSWER>
+<ANSWER ISCORRECT="true">150 días.</ANSWER>
+<ANSWER ISCORRECT="false">180 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="45. Ley Orgánica de Represión del Contrabando. ¿Qué pena se impondrá cuando el delito se cometa por medio o en beneficio de personas, entidades u organizaciones de cuya naturaleza o actividad pudiera derivarse una facilidad especial para la comisión del mismo? ">
+<ANSWER ISCORRECT="false">La pena de 25 a 30 años de prisión </ANSWER>
+<ANSWER ISCORRECT="false">La pena inferior en uno o dos grados </ANSWER>
+<ANSWER ISCORRECT="true">La pena superior en grado </ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="46. Ley Orgánica de Represión del Contrabando. ¿Qué se entenderá por cualquier mercancía distinta de las mencionadas anteriormente para la que, con ocasión de la importación o exportación, se exija el cumplimiento de cualquier requisito de naturaleza no tributaria, como, por ejemplo, autorizaciones, licencias, permisos, homologaciones u obligaciones de etiquetado o circulación, establecidos por normativa nacional o comunitaria?">
+<ANSWER ISCORRECT="false">Mercancías sujetas a medidas de política mercantil </ANSWER>
+<ANSWER ISCORRECT="false">Mercancías sujetas a medidas de política económica </ANSWER>
+<ANSWER ISCORRECT="true">Mercancías sujetas a medidas de política comercial </ANSWER>
+<ANSWER ISCORRECT="false">Mercancías sujetas a medidas de política interior </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="47. Código Aduanero de la Unión. ¿Quién podrá solicitar a las autoridades aduaneras información relativa a la aplicación de la legislación aduanera? ">
+<ANSWER ISCORRECT="false">Toda persona </ANSWER>
+<ANSWER ISCORRECT="false">El Gobierno </ANSWER>
+<ANSWER ISCORRECT="true">Cualquier persona interesada</ANSWER>
+<ANSWER ISCORRECT="false">El afectado </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="48. Ley Orgánica de Represión del Contrabando. La definición de ?todo lugar habilitado por los órganos competentes del Ministerio de Economía y Hacienda para la presentación en aduana de las mercancías no comunitarias que hayan sido introducidas en el territorio español?, responde al concepto de:">
+<ANSWER ISCORRECT="false">Área exenta.</ANSWER>
+<ANSWER ISCORRECT="false">Zona franca.</ANSWER>
+<ANSWER ISCORRECT="true">Recinto aduanero.</ANSWER>
+<ANSWER ISCORRECT="false">Depósito aduanero.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="49. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Se considerará, que se aprecia facilidad especial para la comisión de la infracción cuando se cometa por medio o en beneficio, entre otros, de personal al servicio de la Administración aduanera, de las entidades y organizaciones, sus titulares y personal a su servicio siguientes (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">Compañías de transporte internacional, </ANSWER>
+<ANSWER ISCORRECT="false">Agencias de aduanas, </ANSWER>
+<ANSWER ISCORRECT="false">Compañías transitarias y consignatarias, </ANSWER>
+<ANSWER ISCORRECT="true">Asociaciones garantes de los regímenes NC </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="50. Código Aduanero de la Unión. COMPLETE EL ESPACIO EN BLANCO. Las autoridades aduaneras mantendrán  _____________con los operadores económicos y con otras autoridades que intervengan en el comercio internacional de mercancías.">
+<ANSWER ISCORRECT="true">Un diálogo regular</ANSWER>
+<ANSWER ISCORRECT="false">La necesaria transparencia</ANSWER>
+<ANSWER ISCORRECT="false">Un diálogo necesario</ANSWER>
+<ANSWER ISCORRECT="false">La regular transparencia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="51. Ley Orgánica de Represión del Contrabando. Se considerarán principalmente medios fraudulentos a estos efectos los siguientes (SEÑALE LA INCORRECTA):">
+<ANSWER ISCORRECT="false">La existencia de anomalías sustanciales en la contabilidad.</ANSWER>
+<ANSWER ISCORRECT="false">El empleo de facturas, justificantes y otros documentos falsos o falseados.</ANSWER>
+<ANSWER ISCORRECT="false">La utilización de medios, modos o formas que indiquen una planificación del contrabando.</ANSWER>
+<ANSWER ISCORRECT="true">La declaración incorrecta de la clasificación arancelaria o, en el caso de operaciones de exportación, de cualquier elemento determinante de la deuda aduanera en la declaración en aduanas que eluda el control informático de la misma.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="52. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Para la valoración de los bienes, mercancías, géneros o efectos no comunitarios se procederá:">
+<ANSWER ISCORRECT="true">A la liquidación de los tributos exigibles a la importación en el territorio donde se haya cometido la infracción.</ANSWER>
+<ANSWER ISCORRECT="false">A la liquidación de los aranceles exigibles a la importación en el territorio donde se haya cometido la infracción.</ANSWER>
+<ANSWER ISCORRECT="false">A la liquidación de los tributos exigibles a la importación en el territorio donde se hayan introducido las mercancías.</ANSWER>
+<ANSWER ISCORRECT="false">A la liquidación de los aranceles exigibles a la importación en el territorio donde se hayan introducido las mercancías.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="53. Código Aduanero de la Unión. ¿Ante quién se registrarán los operadores económicos establecidos en el territorio aduanero de la Unión?">
+<ANSWER ISCORRECT="false">Ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.</ANSWER>
+<ANSWER ISCORRECT="true">Ante las autoridades aduaneras responsables del lugar en el que estén establecidos.</ANSWER>
+<ANSWER ISCORRECT="false">Ante la Comisión.</ANSWER>
+<ANSWER ISCORRECT="false">No tendrán obligación de registro.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="54. Ley Orgánica de Represión del Contrabando. El valor de los géneros de contrabando, cuando se trate de precursores de sustancias químicas tóxicas, para que éste constituya delito, ha de ser igual o superior a:">
+<ANSWER ISCORRECT="false">15.000 ?</ANSWER>
+<ANSWER ISCORRECT="false">50.000 ?</ANSWER>
+<ANSWER ISCORRECT="false">100.000 ?</ANSWER>
+<ANSWER ISCORRECT="true">Es delito cualquiera que sea su valor</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="55. Derecho Fiscal. Código Aduanero de la Unión. Estarán exentos del pago de derechos de importación cuando se despachen a libre práctica:">
+<ANSWER ISCORRECT="false">Los productos de pesca marítima.</ANSWER>
+<ANSWER ISCORRECT="false">Los productos extraídos de las aguas territoriales de un país o territorio situado fuera del territorio aduanero de la Unión por buques exclusivamente matriculados o registrados en un Estado miembro.</ANSWER>
+<ANSWER ISCORRECT="true">Los productos de la pesca marítima extraídos de las aguas territoriales de un país o territorio situado fuera del territorio aduanero de la Unión por buques exclusivamente matriculados o registrados en un Estado miembro y que enarbolen pabellón de dicho Estado.</ANSWER>
+<ANSWER ISCORRECT="false">Cualesquiera productos provenientes de un país o territorio situado fuera del territorio aduanero de la Unión.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="56. Ley Orgánica de Represión del Contrabando. ¿Cómo se denomina a la salida de mercancías del territorio español con destino final a otros Estados miembros de la Unión Europea?">
+<ANSWER ISCORRECT="false">Exportación</ANSWER>
+<ANSWER ISCORRECT="true">Expedición</ANSWER>
+<ANSWER ISCORRECT="false">Transferencia</ANSWER>
+<ANSWER ISCORRECT="false">Introducción</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="57. Ley Orgánica de Represión del Contrabando. Para la valoración de los bienes, géneros y efectos comprendidos en las letras a) y b) del artículo 2.2 así como para la de los delitos de ilícito comercio:">
+<ANSWER ISCORRECT="true">El juez recabará de las Administraciones competentes el asesoramiento y los informes que estime necesarios.</ANSWER>
+<ANSWER ISCORRECT="false">El juez fijará la valoración previa tasación pericial.</ANSWER>
+<ANSWER ISCORRECT="false">Su valor será el precio medio declarado a las autoridades aduaneras de los productos semejantes clasificados en la subpartida a nivel de ocho dígitos y, en su defecto, a nivel de seis o cuatro dígitos de la nomenclatura prevista.</ANSWER>
+<ANSWER ISCORRECT="false">Su precio oficial o, en su defecto, el precio medio de mercado español de bienes semejantes o el valor de venta, siempre que fuese superior al de compra o al coste de producción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="58. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. El acuerdo del órgano competente para la iniciación del procedimiento podrá basarse en la actuación de (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">Los órganos de la administración aduanera. </ANSWER>
+<ANSWER ISCORRECT="false">Las fuerzas de la Guardia Civil, que cumplan funciones propias del resguardo fiscal del Estado y las actuaciones encaminadas a evitar y perseguir el contrabando, y otras autoridades y fuerzas cuya normativa específica les otorgue competencias para el descubrimiento y persecución del contrabando. </ANSWER>
+<ANSWER ISCORRECT="false">Las demás fuerzas y Cuerpos de Seguridad. </ANSWER>
+<ANSWER ISCORRECT="true">Las autoridades judiciales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="59. Código Aduanero de la Unión. Cuando las mercancías para las que se haya presentado una declaración sumaria de salida no salgan del territorio aduanero de la Unión, las autoridades aduaneras invalidarán dicha declaración en los siguientes casos:">
+<ANSWER ISCORRECT="true">Previa solicitud del declarante.</ANSWER>
+<ANSWER ISCORRECT="false">En un plazo de 180 días a partir de la presentación de la declaración.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando las autoridades aduaneras hayan concedido el levante para la salida de las mercancías.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando las autoridades aduaneras hayan determinado que uno o más datos de la declaración sumaria de salida son inexactos o están incompletos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="60. Ley Orgánica de Represión del Contrabando. ¿Cuándo puede la autoridad judicial designar a los presuntos responsables como depositarios de los bienes intervenidos?">
+<ANSWER ISCORRECT="false">Cuando se establezca una garantía.</ANSWER>
+<ANSWER ISCORRECT="false">Nunca.</ANSWER>
+<ANSWER ISCORRECT="true">Antes de que se decida la resolución que ponga término al proceso.</ANSWER>
+<ANSWER ISCORRECT="false">Después de que se decida la resolución que ponga término al proceso.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="61. Ley Orgánica de Represión del Contrabando. ¿En qué casos los bienes intervenidos pueden ser enajenados sin esperar al pronunciamiento o firmeza del fallo?">
+<ANSWER ISCORRECT="false">Si se decide en la resolución que ponga término al proceso.</ANSWER>
+<ANSWER ISCORRECT="false">Si se establece una garantía.</ANSWER>
+<ANSWER ISCORRECT="true">Si fuese su destino final procedente.</ANSWER>
+<ANSWER ISCORRECT="false">Si se utilizan provisionalmente por las fuerzas encargadas de la persecución del contrabando.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="62. Ley Orgánica de Represión del Contrabando. ¿Cuándo acordará el Juez o Tribunal la intervención de los bienes?">
+<ANSWER ISCORRECT="false">Si se establece una garantía.</ANSWER>
+<ANSWER ISCORRECT="false">Después de que se decida la resolución que ponga término al proceso.</ANSWER>
+<ANSWER ISCORRECT="true">A resultas de lo que se decida en la resolución que ponga término al proceso.</ANSWER>
+<ANSWER ISCORRECT="false">Antes de que se decida la resolución que ponga término al proceso.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="63. Ley Orgánica de Represión del Contrabando ¿Quién puede designar los presuntos responsables como depositarios de los bienes intervenidos?">
+<ANSWER ISCORRECT="true">La autoridad judicial.</ANSWER>
+<ANSWER ISCORRECT="false">Un tercero de buena fe.</ANSWER>
+<ANSWER ISCORRECT="false">Las fuerzas encargadas de la persecución del contrabando.</ANSWER>
+<ANSWER ISCORRECT="false">Ellos a sí mismos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="64. Ley Orgánica de Represión del Contrabando. Los bienes, efectos e instrumentos intervenidos podrán ser enajenados, si éste fuere su destino final procedente, sin esperar al pronunciamiento o firmeza del fallo en los siguientes casos: (señale la INCORRECTA)">
+<ANSWER ISCORRECT="false">Cuando su propietario haga expreso abandono de ellos.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando la autoridad judicial estime que su conservación pueda resultar peligrosa para la salud o seguridad pública o dar lugar a disminución importante de su valor.</ANSWER>
+<ANSWER ISCORRECT="false">Las mercancías, géneros o efectos que sin sufrir deterioro material se deprecian por el transcurso del tiempo.</ANSWER>
+<ANSWER ISCORRECT="true">Si así lo dispusieran las fuerzas o servicios encargados de la persecución del contrabando de acuerdo con lo que prevea la legislación específica aplicable a esta materia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="65. Ley Orgánica de Represión del Contrabando. La fijación del valor de los bienes, mercancías, géneros o efectos objeto de contrabando, si se trata de géneros estancados se hará conforme a las siguientes reglas:">
+<ANSWER ISCORRECT="true">Por el precio máximo de venta al público.</ANSWER>
+<ANSWER ISCORRECT="false">El juez recabará de las Administraciones competentes el asesoramiento y los informes que estime necesarios.</ANSWER>
+<ANSWER ISCORRECT="false">Su valor será el precio medio declarado a las autoridades aduaneras de los productos semejantes clasificados en la subpartida a nivel de ocho dígitos y, en su defecto, a nivel de seis o cuatro dígitos.</ANSWER>
+<ANSWER ISCORRECT="false">Su precio oficial o, en su defecto, el precio medio de mercado español de bienes semejantes o el valor de venta, siempre que fuese superior al de compra o al coste de producción incrementados, en su caso, con el índice general de precios al consumo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="66. Ley Orgánica de Represión del Contrabando. Constituye resistencia, obstrucción, excusa o negativa las siguientes conductas de la persona investigada, del presunto infractor o de la persona sancionada (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">No facilitar el examen de la documentación justificativa de los bienes, mercancías, géneros  o efectos y las actividades objeto de la investigación de contrabando o de la documentación necesaria para la tramitación del expediente sancionador de contrabando.</ANSWER>
+<ANSWER ISCORRECT="false">No atender algún requerimiento debidamente notificado.</ANSWER>
+<ANSWER ISCORRECT="false">La incomparecencia, salvo causa justificada, en el lugar y tiempo que se hubiera señalado.</ANSWER>
+<ANSWER ISCORRECT="true">Cualquier otra actuación del presunto infractor o de la persona objeto de la investigación de contrabando tendente agilizar, facilitar o permitir las actuaciones.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="67. Ley Orgánica de Represión del Contrabando. Los responsables de las infracciones administrativas de contrabando relativas a bienes pertenecientes al Patrimonio Histórico Español, serán sancionados del siguiente modo:">
+<ANSWER ISCORRECT="false">Con multa pecuniaria proporcional al valor de las mercancías.</ANSWER>
+<ANSWER ISCORRECT="false">Con el cierre del establecimiento </ANSWER>
+<ANSWER ISCORRECT="false">Con la suspensión del ejercicio de la actividad.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="68. Ley Orgánica de Represión del Contrabando. Cuando se trate de labores del tabaco,  el cierre temporal o la suspensión del ejercicio de las actividades objeto de contrabando, por la comisión de una infracción muy grave, tendrá una duración comprendida entre:">
+<ANSWER ISCORRECT="false">Siete días y seis meses.</ANSWER>
+<ANSWER ISCORRECT="false">Seis meses y un día, y doce meses</ANSWER>
+<ANSWER ISCORRECT="true">Doce meses y un día y veinticuatro meses</ANSWER>
+<ANSWER ISCORRECT="false">Dieciocho meses y un día y veinticuatro meses</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="69. Ley Orgánica de Represión del Contrabando. Cuando el sujeto infractor haya sido sancionado por cualquier infracción administrativa de contrabando en resolución administrativa firme o condenado por delito de contrabando por sentencia judicial firme, en ambos casos, dentro de los_____________a la fecha de la comisión de la infracción.">
+<ANSWER ISCORRECT="false">Cinco años posteriores.</ANSWER>
+<ANSWER ISCORRECT="true">Cinco años anteriores.</ANSWER>
+<ANSWER ISCORRECT="false">Dos años posteriores.</ANSWER>
+<ANSWER ISCORRECT="false">Dos años anteriores.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="70. Ley Orgánica de Represión del Contrabando. Las sanciones por infracciones administrativas de contrabando se graduarán atendiendo en cada caso concreto a los siguientes criterios (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">La reiteración.</ANSWER>
+<ANSWER ISCORRECT="false">La resistencia, negativa u obstrucción a la acción investigadora de los órganos competentes para el descubrimiento y persecución de las infracciones administrativas.</ANSWER>
+<ANSWER ISCORRECT="false">La resistencia, negativa u obstrucción a la acción investigadora de los órganos competentes para la iniciación del procedimiento sancionador por estas infracciones.</ANSWER>
+<ANSWER ISCORRECT="true">La comisión de la infracción por medio de la propia persona.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="71. Ley Orgánica de Represión del Contrabando. Se considerarán principalmente medios fraudulentos a estos efectos los siguientes:">
+<ANSWER ISCORRECT="false">La existencia de anomalías en la contabilidad.</ANSWER>
+<ANSWER ISCORRECT="false">El empleo de facturas, justificantes y otros documentos.</ANSWER>
+<ANSWER ISCORRECT="false">La utilización de medios, modos o formas que indiquen una provocación del contrabando.</ANSWER>
+<ANSWER ISCORRECT="true">La declaración incorrecta de la clasificación arancelaria.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="72. Ley Orgánica de Represión del Contrabando. Serán competentes para conocer de las infracciones de contrabando:">
+<ANSWER ISCORRECT="false">Los órganos judiciales. </ANSWER>
+<ANSWER ISCORRECT="false">Los órganos de la Agencia Estatal de Administración Tributaria.</ANSWER>
+<ANSWER ISCORRECT="true">Los órganos de la Administración aduanera de la Agencia Estatal de Administración Tributaria.</ANSWER>
+<ANSWER ISCORRECT="false">El Director del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="73. Ley Orgánica de Represión del Contrabando. El control, inspección e intervención de medios de pago portados por personas físicas, o en sus equipajes o medios de transporte, se regirá:">
+<ANSWER ISCORRECT="false">Por la legislación de vigilancia y control de financiación del terrorismo.</ANSWER>
+<ANSWER ISCORRECT="true">Por la legislación de prevención del blanqueo de capitales.</ANSWER>
+<ANSWER ISCORRECT="false">Por la legislación general tributaria.</ANSWER>
+<ANSWER ISCORRECT="false">Por la legislación de aduanas e impuestos especiales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="74. Ley Orgánica de Represión del Contrabando. Las infracciones administrativas de contrabando prescriben:">
+<ANSWER ISCORRECT="false">A los cuatro años a contar desde el día siguiente al de su comisión.</ANSWER>
+<ANSWER ISCORRECT="false">A los cinco años a contar desde el día de su comisión.</ANSWER>
+<ANSWER ISCORRECT="false">A los cinco años a contar desde el día siguiente la de su comisión.</ANSWER>
+<ANSWER ISCORRECT="true">A los cuatro años a contar desde el día de su comisión.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="75. Ley Orgánica de Represión del Contrabando. En el ejercicio de sus funciones de control y vigilancia, los servicios de aduanas podrán:">
+<ANSWER ISCORRECT="false">Efectuar el reconocimiento y registro de cualquier vehículo.</ANSWER>
+<ANSWER ISCORRECT="false">Efectuar el reconocimiento y registro de cualquier medio de transporte o caravana.</ANSWER>
+<ANSWER ISCORRECT="false">Efectuar el reconocimiento y registro de cualquier paquete o bulto.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="76. Ley Orgánica de Represión del Contrabando. En la investigación, persecución y represión de los delitos de contrabando, actuará/n en coordinación con las Fuerzas y Cuerpos de Seguridad del Estado y tendrá, a todos los efectos legales, carácter colaborador de los mismos:">
+<ANSWER ISCORRECT="false">El servicio de Resguardo Fiscal y Fronteras de la Guardia Civil.</ANSWER>
+<ANSWER ISCORRECT="false">Los cuerpos de policía local.</ANSWER>
+<ANSWER ISCORRECT="false">Los miembros de las Fuerzas Armadas que actúen con carácter urgente cuando sean requeridos para ello.</ANSWER>
+<ANSWER ISCORRECT="true">El Servicio de Vigilancia Aduanera.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="77. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Se considerará, salvo prueba en contrario, que existe ocultación o sustracción dolosa:">
+<ANSWER ISCORRECT="false">Cuando se realicen operaciones de comercio, tenencia o circulación de mercancías no comunitarias de lícito comercio, sin cumplir los requisitos legalmente establecidos para acreditar su lícita importación.</ANSWER>
+<ANSWER ISCORRECT="true">Si las mercancías se encuentran contenidas en dobles fondos, espacios disimulados o en cualquier otra circunstancia que racionalmente suponga un ánimo doloso.</ANSWER>
+<ANSWER ISCORRECT="false">Se destinen al consumo mercancías en tránsito con incumplimiento del Convenio TIR.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando, no habiendo sido presentadas en aduana para la ultimación del régimen de tránsito, sean objeto de cualquier acto de comercio, incluido el autoconsumo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="78. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. La prescripción se aplicará:">
+<ANSWER ISCORRECT="true">De oficio, sin necesidad de que se invoque o se excepcione por el sujeto infractor.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando se invoque o se excepcione por el sujeto infractor.</ANSWER>
+<ANSWER ISCORRECT="false">Por orden de órgano superior.</ANSWER>
+<ANSWER ISCORRECT="false">Por petición razonada de otros órganos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="79. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Según lo dispuesto en el art. 5.1, las infracciones administrativas de contrabando serán sancionadas con:">
+<ANSWER ISCORRECT="false">Prisión y multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas.</ANSWER>
+<ANSWER ISCORRECT="true">Multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas.</ANSWER>
+<ANSWER ISCORRECT="false">Sanción de cierre del establecimiento y multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas.</ANSWER>
+<ANSWER ISCORRECT="false">Prisión, cierre del establecimiento y multa pecuniaria proporcional al valor de los bienes, mercancías, géneros o efectos objeto de las mismas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="80. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. La naturaleza de los bienes, mercancías, géneros o efectos objeto del contrabando, operará como circunstancia atenuante en la graduación de la sanción (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">Cuando los bienes, mercancías, géneros o efectos objeto del contrabando sean de lícito comercio.</ANSWER>
+<ANSWER ISCORRECT="true">Se trate de material de defensa o doble uso.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando los bienes sean especímenes de fauna y flora silvestres y sus partes y productos de especies recogidas en el Convenio de Washington, de 3 de marzo de 1973, y en el Reglamento (CE) número 338/97, del Consejo, de 9 de diciembre de 1996.</ANSWER>
+<ANSWER ISCORRECT="false">Sean bienes relacionados con las labores del tabaco.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="81. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Cuando el sujeto infractor haya sido sancionado, por infracción administrativa de contrabando, una vez dentro de los cinco años anteriores a la fecha de la comisión de la infracción por infracción grave, las sanciones en lo que respecta a infracciones relativas a labores del tabaco se incrementarán entre:">
+<ANSWER ISCORRECT="false">8 y 10 puntos.</ANSWER>
+<ANSWER ISCORRECT="false">10 y 15 puntos</ANSWER>
+<ANSWER ISCORRECT="true">15 y 20 puntos.</ANSWER>
+<ANSWER ISCORRECT="false">20 y 35 puntos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="82. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Los interesados tienen derecho a conocer el estado de tramitación del procedimiento y acceder a los documentos contenidos en él y a obtener copias de éstos, con las limitaciones que prevé la Ley:">
+<ANSWER ISCORRECT="false">Durante el trámite de alegaciones.</ANSWER>
+<ANSWER ISCORRECT="false">Con anterioridad al trámite de audiencia.</ANSWER>
+<ANSWER ISCORRECT="false">Con anterioridad a que se dicte la resolución que ponga fin al procedimiento.</ANSWER>
+<ANSWER ISCORRECT="true">En cualquier momento del procedimiento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="83. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Son órganos competentes para acordar e imponer las sanciones consistentes en multa, decretar el comiso de los bienes, efectos e instrumentos intervenidos y, en su caso, ordenar la enajenación anticipada de los mismos:">
+<ANSWER ISCORRECT="true">Los Administradores de Aduanas e Impuestos Especiales.</ANSWER>
+<ANSWER ISCORRECT="false">El Director del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.</ANSWER>
+<ANSWER ISCORRECT="false">Las Secciones de contrabando de las Administraciones de Aduanas e Impuestos Especiales de la provincia en la que se haya descubierto la infracción.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="84. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Iniciado el procedimiento sancionador, si el infractor reconoce su responsabilidad el procedimiento:">
+<ANSWER ISCORRECT="false">Podrá resolverse con la imposición de la sanción que proceda</ANSWER>
+<ANSWER ISCORRECT="false">Ppodrán omitirse las fases del procedimiento sancionador anteriores a la resolución que de otro modo hubieran procedido.</ANSWER>
+<ANSWER ISCORRECT="true">A y B son correctas.</ANSWER>
+<ANSWER ISCORRECT="false">Se tramitará la totalidad del procedimiento sin omitirse ninguna de las fases del procedimiento sancionador anteriores a la resolución que de otro modo hubieran procedido.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="85. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. La imposición de la sanción de cierre de los establecimientos de los que los sujetos infractores sean titulares, recogida en el artículo 5.2, párrafo b), del presente Real Decreto, se realizará:">
+<ANSWER ISCORRECT="true">En el mismo expediente que el instruido para la imposición de la sanción pecuniaria y, en su caso, el comiso de los bienes, efectos e instrumentos.</ANSWER>
+<ANSWER ISCORRECT="false">En pieza separada del expediente instruido para la imposición de la sanción pecuniaria.</ANSWER>
+<ANSWER ISCORRECT="false">En el mismo expediente que el instruido para la imposición de la sanción pecuniaria sin que pueda procederse al comiso de los bienes, efectos e instrumentos, que se determinará en pieza separada.</ANSWER>
+<ANSWER ISCORRECT="false">En pieza separada del expediente instruido para la imposición de la sanción pecuniaria y, en su caso, el comiso de los bienes, efectos e instrumentos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="86. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. El procedimiento se iniciará (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">De oficio.</ANSWER>
+<ANSWER ISCORRECT="false">Mediante acuerdo del titular de la unidad administrativa que instruya el expediente, bien por propia iniciativa o como consecuencia de orden superior.</ANSWER>
+<ANSWER ISCORRECT="true">Por denuncia.</ANSWER>
+<ANSWER ISCORRECT="false">No hay ninguna incorrecta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="87. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Las denuncias se dirigirán a (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">Las Administraciones de Aduanas e Impuestos Especiales</ANSWER>
+<ANSWER ISCORRECT="false">A las Intervenciones de Territorios Francos.</ANSWER>
+<ANSWER ISCORRECT="false">A la Sección de Aduanas e Impuestos Especiales de las Delegaciones de la Agencia Estatal de Administración Tributaria competentes.</ANSWER>
+<ANSWER ISCORRECT="true">A las Secciones de contrabando de las Administraciones de Aduanas e Impuestos Especiales de la provincia en la que se haya descubierto la infracción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="88. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. Podrán realizar actuaciones previas con objeto de determinar, con carácter preliminar, los hechos que pudieran constituir infracción de contrabando, la identificación de los presuntos responsables y las circunstancias que concurran en unos y otros:">
+<ANSWER ISCORRECT="false">Los órganos competentes para su iniciación </ANSWER>
+<ANSWER ISCORRECT="false">Otros órganos de la Administración aduanera </ANSWER>
+<ANSWER ISCORRECT="false">Las demás personas a quienes está encomendada la persecución y el descubrimiento del contrabando</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="89. Real Decreto por el que se desarrolla el Título II de la Ley Orgánica de represión del contrabando. El plazo máximo para resolver el procedimiento podrá prorrogarse por resolución expresa del órgano competente para resolver, previa petición motivada del órgano instructor:">
+<ANSWER ISCORRECT="false">Por un único plazo improrrogable de doce meses.</ANSWER>
+<ANSWER ISCORRECT="true">Por un único plazo improrrogable de seis meses.</ANSWER>
+<ANSWER ISCORRECT="false">Por un plazo de doce meses prorrogable cuando así lo acuerde el Departamento de Aduanas e Impuestos especiales de la Agencia Estatal de Administración Tributaria.</ANSWER>
+<ANSWER ISCORRECT="false">Por un plazo de seis meses prorrogable cuando así lo acuerde el Departamento de Aduanas e Impuestos especiales de la Agencia Estatal de Administración Tributaria.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="90. Código Aduanero de la Unión. Las autoridades aduaneras serán responsables de supervisar el comercio internacional de la Unión, debiendo contribuir a un comercio:">
+<ANSWER ISCORRECT="false">Equitativo y justo.</ANSWER>
+<ANSWER ISCORRECT="false">Equitativo y abierto.</ANSWER>
+<ANSWER ISCORRECT="true">Justo y abierto.</ANSWER>
+<ANSWER ISCORRECT="false">Libre y justo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="91. Código Aduanero de la Unión. El territorio aduanero de la Unión comprenderá los territorios siguientes, incluidos su mar territorial, sus aguas interiores y su espacio aéreo (señale la INCORRECTA):">
+<ANSWER ISCORRECT="false">El territorio del Gran Ducado de Luxemburgo.</ANSWER>
+<ANSWER ISCORRECT="true">El territorio del Reino de España, salvo el archipiélago canario y Ceuta y Melilla.</ANSWER>
+<ANSWER ISCORRECT="false">El territorio de Mónaco.</ANSWER>
+<ANSWER ISCORRECT="false">El territorio de la República de Finlandia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="92. Código Aduanero de la Unión. Toda persona nombrada por otra persona para ejecutar los actos y formalidades necesarios en virtud de la legislación aduanera en sus relaciones con las autoridades aduaneras, es la definición de:">
+<ANSWER ISCORRECT="false">Persona</ANSWER>
+<ANSWER ISCORRECT="false">Operador económico</ANSWER>
+<ANSWER ISCORRECT="true">Representante aduanero.</ANSWER>
+<ANSWER ISCORRECT="false">Declarante.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="93. Código Aduanero de la Unión. El acto por el que una persona informa a las autoridades aduaneras, en la forma y el modo establecidos, y dentro de un plazo concreto, de que determinadas mercancías van a entrar en el territorio aduanero de la Unión, responde a la definición de:">
+<ANSWER ISCORRECT="true">Declaración sumaria de entrada.</ANSWER>
+<ANSWER ISCORRECT="false">Declaración sumaria de salida.</ANSWER>
+<ANSWER ISCORRECT="false">Declaración de depósito temporal.</ANSWER>
+<ANSWER ISCORRECT="false">Declaración en aduana. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="94. Código Aduanero de la Unión. Se corresponde con el concepto de ?levante de las mercancías?:">
+<ANSWER ISCORRECT="false">Las tareas desempeñadas generalmente por las autoridades aduaneras para garantizar el cumplimiento de la legislación aduanera y, en su caso, el de otras disposiciones aplicables a las mercancías sujetas a dichas tareas.</ANSWER>
+<ANSWER ISCORRECT="false">La notificación a las autoridades aduaneras de la llegada de las mercancías a la aduana, o a cualquier otro lugar designado o autorizado por aquellas, y de su disponibilidad para los controles aduaneros.</ANSWER>
+<ANSWER ISCORRECT="true">El acto por el que las autoridades aduaneras pongan las mercancías a disposición de los fines concretos del régimen aduanero en el que se hayan incluido.</ANSWER>
+<ANSWER ISCORRECT="false">La notificación a las autoridades aduaneras de la llegada de las mercancías a la aduana, o a cualquier otro lugar designado o autorizado por aquellas, y de su disponibilidad para los controles aduaneros.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="95. Código Aduanero de la Unión. ¿En qué caso en el contexto de salida se considera ?transportista? a la persona que concluya un contrato y expida un conocimiento de embarque o un conocimiento aéreo para el transporte real de las mercancías fuera del territorio aduanero de la Unión?">
+<ANSWER ISCORRECT="false">En el caso del transporte combinado al que opere aquel medio de transporte que, tras su entrada en el territorio aduanero de la Unión, circule por sí mismo como medio de transporte activo.</ANSWER>
+<ANSWER ISCORRECT="false">En el caso del tráfico marítimo o aéreo la persona que concluya un contrato y expida un conocimiento de embarque o un conocimiento aéreo para la introducción real de las mercancías en el territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="true">En el caso del tráfico marítimo o aéreo, cuando existe un acuerdo de uso compartido de buque o un contrato de fletamento la persona que concluya un contrato y expida un conocimiento de embarque o un conocimiento aéreo para el transporte real de las mercancías fuera del territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="false">En el caso del transporte combinado, cuando el medio de transporte activo que abandone el territorio aduanero de la Unión se utilice únicamente para transportar otro medio de transporte, el cual, tras la llegada del medio de transporte activo a su destino, circulará por sí mismo como medio de transporte activo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="96. Código Aduanero de la Unión. ¿En cuál de los siguientes supuestos se entiende que el representante aduanero ejerce representación INDIRECTA?">
+<ANSWER ISCORRECT="false">Cuando actúe en nombre y por cuenta de otra persona.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando actúe en nombre y por cuenta propia.</ANSWER>
+<ANSWER ISCORRECT="true">Cuando actúe en su propio nombre pero por cuenta de otra persona.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando actúe en nombre de otra persona pero por cuenta propia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="97. Código Aduanero de la Unión. Las mercancías no pertenecientes a la Unión destinadas a ser introducidas en el mercado de la Unión o destinadas a utilización o consumo privados dentro de esta última se incluirán en:">
+<ANSWER ISCORRECT="false">Cualquiera de los regímenes especiales.</ANSWER>
+<ANSWER ISCORRECT="false">El régimen de exportación.</ANSWER>
+<ANSWER ISCORRECT="true">El régimen de despacho a libre práctica.</ANSWER>
+<ANSWER ISCORRECT="false">El régimen de perfeccionamiento pasivo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="98. Código Aduanero de la Unión. Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales (señale la afirmación INCORRECTA):">
+<ANSWER ISCORRECT="false">El tránsito, que incluirá el tránsito interno y el tránsito externo.</ANSWER>
+<ANSWER ISCORRECT="false">El depósito, que incluirá el depósito aduanero y las zonas francas.</ANSWER>
+<ANSWER ISCORRECT="true">Destinos especiales, que incluirán la importación final y el destino temporal.  </ANSWER>
+<ANSWER ISCORRECT="false">El perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="99. Código Aduanero de la Unión. Las mercancías que vayan a salir del territorio aduanero de la Unión serán presentadas en aduana en el momento de la salida por una de las siguientes personas (señale la INCORRECTA): ">
+<ANSWER ISCORRECT="false">La persona que saque las mercancías del territorio aduanero de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">La persona en cuyo nombre o por cuya cuenta actúe la persona que saque las mercancías del territorio aduanero de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">La persona que asume la responsabilidad de transportar las mercancías antes de su salida del territorio aduanero de la Unión.</ANSWER>
+<ANSWER ISCORRECT="true">El representante aduanero de la persona que saque las mercancías del territorio aduanero de la Unión. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="100. Código Aduanero de la Unión. NO se incluirán en el régimen aduanero de exportación (señale INCORRECTA):">
+<ANSWER ISCORRECT="false">Mercancías incluidas en el régimen de perfeccionamiento pasivo </ANSWER>
+<ANSWER ISCORRECT="false">Mercancías que salgan del territorio aduanero de la Unión después de haberse incluido en el régimen de destino final </ANSWER>
+<ANSWER ISCORRECT="false">Mercancías entregadas, exentas del IVA o de impuestos especiales, para el avituallamiento de aeronaves o embarcaciones, independientemente del destino de la aeronave o de la embarcación, para las que se exigirá una prueba de tal entrega; </ANSWER>
+<ANSWER ISCORRECT="true">Las mercancías de la Unión que vayan a salir del territorio aduanero de la Unión.</ANSWER>
+</QUESTION>
+</POLL>

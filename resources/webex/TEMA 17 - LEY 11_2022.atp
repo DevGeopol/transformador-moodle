@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="01. TIC´s. Ley General de Telecomunicaciones. ¿Para qué se crea la presente ley?">
+<ANSWER ISCORRECT="false">Para regular la instalación en el ámbito de las telecomunicaciones</ANSWER>
+<ANSWER ISCORRECT="false">Para regular la explotación de las telecomunicaciones</ANSWER>
+<ANSWER ISCORRECT="false">Para regular la prestación de los servicios en el ámbito de las telecomunicaciones</ANSWER>
+<ANSWER ISCORRECT="true">Todas las opciones son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="02. TIC´s. Ley General de Telecomunicaciones. En los ámbitos de la seguridad pública, seguridad vial y de la protección civil, en su específica relación con el uso de las telecomunicaciones, el Ministerio de Asuntos Económicos y Transformación Digital cooperará con: ">
+<ANSWER ISCORRECT="true">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas con competencias sobre las citadas materias. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio del Interior y el Ministerio de Defensa. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas y Entidades Locales con competencias asumidas. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Defensa y con los órganos responsables de las Comunidades Autónomas y Provincias con competencias en la materia. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="03. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes NO tiene consideración de servicio público?">
+<ANSWER ISCORRECT="false">Seguridad Nacional</ANSWER>
+<ANSWER ISCORRECT="false">Seguridad Pública</ANSWER>
+<ANSWER ISCORRECT="true">Defensa Pública</ANSWER>
+<ANSWER ISCORRECT="false">Seguridad Vial</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="04. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes no figura como un objetivo de la presente Ley?">
+<ANSWER ISCORRECT="false">Fomentar la competencia efectiva en los mercados de telecomunicaciones</ANSWER>
+<ANSWER ISCORRECT="false">Desarrollar la economía y el empleo digital</ANSWER>
+<ANSWER ISCORRECT="true">Promover el despliegue de redes y la prestación de servicios, fomentando la conectividad y la interoperabilidad extremo a extremo, en condiciones de igualdad y discriminación.</ANSWER>
+<ANSWER ISCORRECT="false">Contribuir al desarrollo del mercado interior de servicios de comunicaciones.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="05. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes no figura como un objetivo de la presente Ley?">
+<ANSWER ISCORRECT="false">Impulsar la universalidad del acceso a las redes</ANSWER>
+<ANSWER ISCORRECT="false">Fomentar la neutralidad tecnológica</ANSWER>
+<ANSWER ISCORRECT="true">Uso eficaz y eficiente de los recursos ilimitados de telecomunicaciones.</ANSWER>
+<ANSWER ISCORRECT="false">Contribuir al desarrollo del mercado interior de servicios de comunicaciones.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="06. TIC´s. Ley General de Telecomunicaciones. En los ámbitos de la seguridad defensa nacional, en su específica relación con el uso de las telecomunicaciones, el Ministerio de Asuntos Económicos y Transformación Digital cooperará con: ">
+<ANSWER ISCORRECT="false">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas con competencias sobre las citadas materias. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio del Interior y el Ministerio de Defensa. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas y Entidades Locales con competencias asumidas. </ANSWER>
+<ANSWER ISCORRECT="true">El Ministerio de Defensa</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="07. TIC´s. Ley General de Telecomunicaciones. ¿Qué se fomentará al promover el despliegue de redes y prestación de servicios de comunicaciones electrónicas? ">
+<ANSWER ISCORRECT="false">La amplitud del ancho de banda y de las conexiones inalámbricas. </ANSWER>
+<ANSWER ISCORRECT="false">La precisión en la prestación de servicios y los límites demaniales en el despliegue. </ANSWER>
+<ANSWER ISCORRECT="true">La conectividad y la interoperabilidad extremo a extremo. </ANSWER>
+<ANSWER ISCORRECT="false">La conexión con puntos remotos o de difícil acceso. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="08. TIC´s. Ley General de Telecomunicaciones. Señala la característica CORRECTA: ">
+<ANSWER ISCORRECT="false">Servicio prestado en régimen de libre competencia. </ANSWER>
+<ANSWER ISCORRECT="false">Servicio de interés general. </ANSWER>
+<ANSWER ISCORRECT="true">y son correctas. </ANSWER>
+<ANSWER ISCORRECT="false">y son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="09. TIC´s. Ley General de Telecomunicaciones. ¿A qué principios se atenderá para proteger en los mercados de telecomunicaciones la satisfacción de las necesidades de grupos sociales específicos? ">
+<ANSWER ISCORRECT="true">Igualdad de oportunidades y no discriminación. </ANSWER>
+<ANSWER ISCORRECT="false">Igualdad y progresividad. </ANSWER>
+<ANSWER ISCORRECT="false">Congruencia y oportunidad. </ANSWER>
+<ANSWER ISCORRECT="false">Eficacia, jerarquía, igualdad de oportunidades y reciprocidad. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. TIC´s. Ley General de Telecomunicaciones. ¿Qué órgano ejecuta la política de defensa nacional en el ámbito de las telecomunicaciones? ">
+<ANSWER ISCORRECT="true"> El Ministerio de Asuntos Económicos y Transformación Digital. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Asuntos Exteriores. </ANSWER>
+<ANSWER ISCORRECT="false">La Dirección General de Telecomunicaciones y Medios de Comunicación. </ANSWER>
+<ANSWER ISCORRECT="false">La Agencia Española de Telecomunicaciones. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="11. TIC´s. Ley General de Telecomunicaciones. ¿En qué casos excepcionales podrá el Gobierno acordar la asunción por parte de la AGE de la intervención de servicios de comunicaciones electrónicas? Señala la INCORRECTA: ">
+<ANSWER ISCORRECT="false">Los que puedan afectar a la seguridad pública. </ANSWER>
+<ANSWER ISCORRECT="false">Los que puedan afectar a la defensa nacional. </ANSWER>
+<ANSWER ISCORRECT="true">Los que puedan afectar a los poderes del estado. </ANSWER>
+<ANSWER ISCORRECT="false">Los que puedan afectar al orden público. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="12. TIC´s. Ley General de Telecomunicaciones. ¿Qué órgano podrá examinar las medidas técnicas y de gestión adoptadas por los operadores para preservar la seguridad en la explotación de su red para garantizar la protección de los datos de carácter personal? ">
+<ANSWER ISCORRECT="false">El Ministerio del Interior. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Educación y Ciencia. </ANSWER>
+<ANSWER ISCORRECT="true">La Agencia Española de Protección de Datos. </ANSWER>
+<ANSWER ISCORRECT="false">El Consejo de Seguridad Nacional en las Comunicaciones</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="13. TIC´s. Ley General de Telecomunicaciones. ¿Cómo podrá establecerse el formato y contenido del inventario de violaciones de datos personales? ">
+<ANSWER ISCORRECT="false">Cada operador establecerá el suyo y lo enviará a la Agencia Española de protección de Datos. </ANSWER>
+<ANSWER ISCORRECT="false">Por acuerdo de las organizaciones y asociaciones más representativas del sector. </ANSWER>
+<ANSWER ISCORRECT="true">Mediante Real Decreto. </ANSWER>
+<ANSWER ISCORRECT="false">Reglamentariamente. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="14. TIC´s. Ley General de Telecomunicaciones. La Agencia Española de Protección de Datos, en el ejercicio de su competencia de _____, podrá examinar las medidas adoptadas por los operadores que exploten redes públicas de comunicaciones electrónicas o que presten servicios de comunicaciones electrónicas disponibles al público y podrá formular recomendaciones sobre las mejores prácticas con respecto al nivel de seguridad que debería conseguirse con estas medidas. ">
+<ANSWER ISCORRECT="false">Control de la seguridad en el tratamiento de la información de carácter público. </ANSWER>
+<ANSWER ISCORRECT="false">Vigilancia del control en la gestión administrativa. </ANSWER>
+<ANSWER ISCORRECT="true">Garantía de la seguridad en el tratamiento de datos de carácter personal. </ANSWER>
+<ANSWER ISCORRECT="false">Intervención del control en el tratamiento de la información personal y privada. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="15. TIC´s. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Asuntos Económicos y Transformación Digital aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas? ">
+<ANSWER ISCORRECT="false">A la Agencia Nacional de Defensa. </ANSWER>
+<ANSWER ISCORRECT="false">A la Agencia Nacional de Seguridad. </ANSWER>
+<ANSWER ISCORRECT="false">A la Defensa Nacional Contra Ciberataques. </ANSWER>
+<ANSWER ISCORRECT="true">A la Secretaría de Estado de Seguridad del Ministerio del Interior. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="16. TIC?s. Ley General de Telecomunicaciones. ¿Qué servicios o actividades quedan excluidos del ámbito de esta ley? ">
+<ANSWER ISCORRECT="false">Los servicios de comunicación audiovisual. </ANSWER>
+<ANSWER ISCORRECT="false">Los contenidos audiovisuales transmitidos a través de las redes. </ANSWER>
+<ANSWER ISCORRECT="false">Los servicios que suministren contenidos transmitidos mediante redes y servicios de comunicaciones electrónicas. </ANSWER>
+<ANSWER ISCORRECT="true">Todos los anteriores quedan excluidos del ámbito de aplicación de esta ley. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="17. TIC?s. Ley General de Telecomunicaciones. ¿Qué son las telecomunicaciones? ">
+<ANSWER ISCORRECT="true">Son servicios de interés general que se prestan en régimen de libre competencia. </ANSWER>
+<ANSWER ISCORRECT="false">Son servicios de interés general que se prestan en régimen de cooperación voluntaria. </ANSWER>
+<ANSWER ISCORRECT="false">Son servicios de interés público que se prestan en régimen de libre competencia. </ANSWER>
+<ANSWER ISCORRECT="false">Son servicios de interés público que se prestan en régimen de cooperación voluntaria. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="18. TIC?s. Ley General de Telecomunicaciones. ¿Qué servicios tienen la consideración de servicio público? Señala la INCORRECTA: ">
+<ANSWER ISCORRECT="false">Defensa Nacional. </ANSWER>
+<ANSWER ISCORRECT="false">Seguridad Pública. </ANSWER>
+<ANSWER ISCORRECT="false">Seguridad Vial. </ANSWER>
+<ANSWER ISCORRECT="true">Seguridad Social. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="19. TIC?s. Ley General de Telecomunicaciones. ¿Qué ministerios coordinarán la planificación del sistema de telecomunicaciones de las Fuerzas Armadas? ">
+<ANSWER ISCORRECT="false">El Ministerio de Defensa y de Interior. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Defensa, de Interior y de Asuntos Económicos y Transformación Digital. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Defensa y de Administraciones Públicas. </ANSWER>
+<ANSWER ISCORRECT="true">El Ministerio de Defensa y de Asuntos Económicos y Transformación Digital.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="20. TIC?s. Ley General de Telecomunicaciones. ¿Cuál es el órgano de la AGE con competencia para ejecutar la política de defensa nacional en el sector de las Telecomunicaciones? ">
+<ANSWER ISCORRECT="true">El Ministerio de Asuntos Económicos y Transformación Digital, con la debida coordinación con el Ministerio de Defensa y siguiendo los criterios fijados por éste. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Asuntos Económicos y Transformación Digital, bajo su exclusivo criterio. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Defensa, con la debida coordinación con el Ministerio de Asuntos Económicos y Transformación Digital,  siguiendo los criterios fijados por éste. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Defensa, bajo su exclusivo criterio. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="21. TIC?s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes NO es un objetivo y principio de esta Ley? ">
+<ANSWER ISCORRECT="false">Fomentar la competencia efectiva en los mercados de telecomunicaciones para potenciar al máximo los beneficios para las empresas y los consumidores, principalmente en términos de bajada de los precios, calidad de los servicios e innovación. </ANSWER>
+<ANSWER ISCORRECT="false">Desarrollar la economía y el empleo digital, promover el desarrollo del sector de las telecomunicaciones y de todos los nuevos servicios digitales que las nuevas redes ultrarrápidas permiten. </ANSWER>
+<ANSWER ISCORRECT="false">Promover el despliegue de redes y la prestación de servicios de comunicaciones electrónicas, fomentando la conectividad y la interoperabilidad extremo a extremo y su acceso, en condiciones de igualdad y no discriminación. </ANSWER>
+<ANSWER ISCORRECT="true">Hacer posible el uso eficaz de los recursos ilimitados de telecomunicaciones, como la numeración y el espectro radioeléctrico. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="22. TIC?s. Ley General de Telecomunicaciones. ¿Quién podrá acordar la asunción de la gestión directa por la Administración General del Estado o la intervención de las redes y servicios de comunicaciones electrónicas que puedan afectar al orden público, la seguridad pública y la seguridad nacional? ">
+<ANSWER ISCORRECT="true">El Gobierno, con carácter excepcional y transitorio. </ANSWER>
+<ANSWER ISCORRECT="false">El Gobierno, atendiendo a los criterios que se fijen en la declaración de estado de alarma, excepción o sitio. </ANSWER>
+<ANSWER ISCORRECT="false">Las Cortes Generales, con carácter excepcional y transitorio. </ANSWER>
+<ANSWER ISCORRECT="false">Las Cortes Generales, atendiendo a los criterios que se fijen en la declaración de estado de alarma, excepción o sitio. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="23. TIC?s. Ley General de Telecomunicaciones. ¿Qué ministerios propondrán al Gobierno las medidas y sistemas de seguridad, vigilancia, difusión de información, prevención de riesgos y protección, que dispondrán los bienes muebles o inmuebles vinculados a los centros, establecimientos y dependencias afectos a la explotación de las redes y a la prestación de los servicios de telecomunicaciones? ">
+<ANSWER ISCORRECT="false">El Ministerio de Defensa. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio del Interior. </ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Asuntos Económicos y Transformación Digital. </ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="24. TIC?s. Ley General de Telecomunicaciones. Señala la INCORRECTA. Algunos de los objetivos y principio de esta ley son los siguientes: ">
+<ANSWER ISCORRECT="true">Fomentar la competencia efectiva en los mercados de telecomunicaciones para potenciar al máximo los beneficios para las empresas y los consumidores, principalmente en términos de subida de los precios, calidad de los servicios e innovación. </ANSWER>
+<ANSWER ISCORRECT="false">Desarrollar la economía y el empleo digital, promover el desarrollo del sector de las telecomunicaciones y de todos los nuevos servicios digitales que las nuevas redes ultrarrápidas permiten. </ANSWER>
+<ANSWER ISCORRECT="false">Promover el desarrollo de la industria de productos y equipos de telecomunicaciones. </ANSWER>
+<ANSWER ISCORRECT="false">Hacer posible el uso eficaz de los recursos limitados de telecomunicaciones, como la numeración y el espectro radioeléctrico. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="25. TIC?s. Ley General de Telecomunicaciones. ¿En qué ámbitos, en su específica relación con el uso de las telecomunicaciones, cooperará el Ministerio de Asuntos Económicos y Transformación Digital con el Ministerio del Interior? ">
+<ANSWER ISCORRECT="false">En los ámbitos de Seguridad Pública. </ANSWER>
+<ANSWER ISCORRECT="false">En los ámbitos de Seguridad Vial. </ANSWER>
+<ANSWER ISCORRECT="false">En los ámbitos de Protección Civil. </ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="26. TIC?s. Ley General de Telecomunicaciones. ¿En qué casos podrá acordar el Gobierno la asunción de la gestión directa, por parte de la Administración General del Estado, de la intervención de las redes y servicios de comunicaciones electrónicas? ">
+<ANSWER ISCORRECT="false">Cuando así esté establecido en una norma con rango de ley. </ANSWER>
+<ANSWER ISCORRECT="false">Cuando fuere requerido para ello por las autoridades competentes. </ANSWER>
+<ANSWER ISCORRECT="true">Con carácter excepcional y transitorio, en determinados supuestos excepcionales. </ANSWER>
+<ANSWER ISCORRECT="false">Por resolución judicial motivada. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="27. TIC?s. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Asuntos Económicos y Transformación Digital aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas? ">
+<ANSWER ISCORRECT="true">A la Secretaría de Estado de Seguridad. </ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio del Interior. </ANSWER>
+<ANSWER ISCORRECT="false">Al Ministerio de Defensa. </ANSWER>
+<ANSWER ISCORRECT="false">A la Dirección General de la Guardia Civil.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="28. TIC?s. Ley General de Telecomunicaciones. ¿Qué Ministerios coordinaran su planificación en el sistema de telecomunicaciones de las Fuerzas Armadas, para asegurar su compatibilidad con los servicios civiles?">
+<ANSWER ISCORRECT="true">Los Ministerios de Defensa y de Asuntos Económicos y Transformación Digital</ANSWER>
+<ANSWER ISCORRECT="false">Los Ministerios de Defensa e Interior</ANSWER>
+<ANSWER ISCORRECT="false">Los Ministerios de Interior y de Asuntos Económicos y Transformación Digital</ANSWER>
+<ANSWER ISCORRECT="false">Ninguno de los anteriores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="29. TIC?s. Ley General de Telecomunicaciones. Cuándo se deba aplicar una medida susceptible de restringir los derechos y libertades fundamentales sólo podrá imponerse si es?. (Señale la opción incorrecta)">
+<ANSWER ISCORRECT="false">Adecuada</ANSWER>
+<ANSWER ISCORRECT="false">Necesaria</ANSWER>
+<ANSWER ISCORRECT="true">Merecida</ANSWER>
+<ANSWER ISCORRECT="false">Proporcionada</ANSWER>
+</QUESTION>
+</POLL>

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>¿Qué forma de transmisión cultural se suele producir en una colonización, al fusionarse dos culturas en una sola de las dos existentes?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué forma de transmisión cultural se suele producir en una colonización, al fusionarse dos culturas en una sola de las dos existentes?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una transculturación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una enculturación</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una aculturación</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Es el menos estructurado como didáctico y el menos intencional de los aprendizajes:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Es el menos estructurado como didáctico y el menos intencional de los aprendizajes:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje informal</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje no formal</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje formal</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>No es característica propia de la tribu urbana:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No es característica propia de la tribu urbana:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Sentido de grupo</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Líder permanente</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Símbolos comunes</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cuál de los siguientes se considera uno de los objetivos de la socialización?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cuál de los siguientes se considera uno de los objetivos de la socialización?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Máximo conocimiento del individuo en sí mismo</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mayor consenso con la colectividad global</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mejor proceso de adaptación al medio humano</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cómo clasifica Merton, a las personas que mantienen prejuicios contra las minorías, pero por presión social actúan de una manera igualitaria?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cómo clasifica Merton, a las personas que mantienen prejuicios contra las minorías, pero por presión social actúan de una manera igualitaria?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fanáticos activos</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Liberales tibios</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fanáticos tímidos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Qué se entiende por movilidad social?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué se entiende por movilidad social?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La posibilidad de desplazarse de un lugar a otro</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La posibilidad de variar de estatus</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La posibilidad de variar de rol</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>En la denominada “socialización secundaria”:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En la denominada “socialización secundaria”:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La internalización es muy fuerte</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los agentes socializadores son pocos, pero intensos</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La adhesión emocional es prescindible</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Afirmación falsa, en relación con los aspectos fundamentales de la personalidad:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Afirmación falsa, en relación con los aspectos fundamentales de la personalidad:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El temperamento es un aspecto heredado, como el carácter</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las emociones son aspectos heredados, como el temperamento</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La virtud es un aspecto adquirido, como lo es el carácter</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Según Freud, en la estructura de la personalidad, el “ego” se basa:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Según Freud, en la estructura de la personalidad, el “ego” se basa:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el principio del placer</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el principio de la realidad</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el principio del deber</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Quiénes basan la personalidad solo en la educación del individuo?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Quiénes basan la personalidad solo en la educación del individuo?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los denominados genetistas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los denominados ambientalistas</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los denominados sintéticos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Qué es la formación o reforzamiento de una asociación basada en un comportamiento condicionado por un premio o un castigo, establecidos previamente?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué es la formación o reforzamiento de una asociación basada en un comportamiento condicionado por un premio o un castigo, establecidos previamente?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje denominado condicionamiento clásico</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje denominado condicionamiento operante</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje denominado condicionamiento vicario</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿A qué concepto nos referimos si hablamos de una sociedad en la que prima la individualidad sobre la colectividad, con una gran división del trabajo, según Durkheim?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿A qué concepto nos referimos si hablamos de una sociedad en la que prima la individualidad sobre la colectividad, con una gran división del trabajo, según Durkheim?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la solidaridad mecánica</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la sociedad tradicional</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la solidaridad orgánica</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>El antisemitismo es:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El antisemitismo es:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cualquier acto de odio, violencia, discriminación, fobia y rechazo, practicados contra los judíos o nacionales del Estado de Israel</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cualquier acto de odio, violencia, discriminación, fobia y rechazo, practicados contra los miembros de la comunidad musulmana</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cualquier acto de odio, violencia, discriminación, fobia y rechazo, practicados contra los nacionales de los Estados de Oriente próximo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>No existe “tolerancia”:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No existe “tolerancia”:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Si lo tolerado nos desagrada</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Si lo tolerado nos es indiferente</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Si lo tolerado nos supone sacrificio</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿En qué se basa el proceso de “socialización terciaria” que surge en la vejez, cuando se deja de practicar lo aprendido y se tiende a una resocialización?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿En qué se basa el proceso de “socialización terciaria” que surge en la vejez, cuando se deja de practicar lo aprendido y se tiende a una resocialización?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En una retrosocialización</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En una desocialización</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En una gerosocialización</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cuál es el conocido como “aprendizaje por ensayo y error”?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cuál es el conocido como “aprendizaje por ensayo y error”?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El condicionamiento operante</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El condicionamiento clásico</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El condicionamiento respondiente</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cuál de las siguientes es una definición de “discriminación positiva”?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cuál de las siguientes es una definición de “discriminación positiva”?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Comprobar que un colectivo tiene derechos y deberes distintos a los de los demás</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Dotar a un colectivo discriminado de alguna ventaja respecto a la generalidad</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Conceder a un colectivo trato desigual y oportunidades sociales diferentes</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cuál de estas tres dimensiones psicoanalíticas de Freud correspondería a las normas de comportamiento ideal, propias de la cultura social?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cuál de estas tres dimensiones psicoanalíticas de Freud correspondería a las normas de comportamiento ideal, propias de la cultura social?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El yo o ego</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El superyó o superego</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El ello o id</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Lo rural tiene características más cercanas a lo que Durkheim denominó:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Lo rural tiene características más cercanas a lo que Durkheim denominó:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Gesellschaft</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Solidaridad orgánica</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a y b son incorrectas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Afirmación correcta:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Afirmación correcta:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El prejuicio racial es un comportamiento social</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El prejuicio racial es un valor social</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El prejuicio racial es una actitud social</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Qué es la formación o el reforzamiento de una asociación entre un estímulo neutro y un reflejo, es decir, asociación de respuestas automáticas ante nuevos estímulos?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué es la formación o el reforzamiento de una asociación entre un estímulo neutro y un reflejo, es decir, asociación de respuestas automáticas ante nuevos estímulos?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje denominado condicionamiento clásico</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje denominado condicionamiento operante</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El aprendizaje denominado condicionamiento vicario</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿De qué grupo socializador procede, según Merton, la denominada “socialización anticipatoria”?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿De qué grupo socializador procede, según Merton, la denominada “socialización anticipatoria”?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De los grupos de referencia o identificación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De los grupos formales</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De los grupos heterogéneos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿En qué se basa el fanatismo?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿En qué se basa el fanatismo?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el maniqueísmo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el analfabetismo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En la objetividad</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Quiénes reflejan la naturaleza cultural de una sociedad?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Quiénes reflejan la naturaleza cultural de una sociedad?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los medios de comunicación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los distintos grupos sociales</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las escuelas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Qué tipo de aprendizaje es el denominado “vicario”?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué tipo de aprendizaje es el denominado “vicario”?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El basado en el estudio y la cultura</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El basado en el estímulo y la imposición</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El basado en la observación y la imitación</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Una sociedad preindustrial se corresponde con un tipo de solidaridad:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una sociedad preindustrial se corresponde con un tipo de solidaridad:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Primitiva</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mecánica</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Orgánica</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cuáles son las tres formas de transmisión cultural?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cuáles son las tres formas de transmisión cultural?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Enculturación, culturación y transculturación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Culturación, aculturación y transculturación</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Enculturación, aculturación y transculturación</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Tribus urbanas de corte violento:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tribus urbanas de corte violento:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Canis y hiphoperos</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Heavys y rastafaris</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Raperos y chetas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Señale el binomio interrelacionado:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Señale el binomio interrelacionado:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Progreso-Solidaridad Orgánica</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tradición-Solidaridad Orgánica</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Industrialización-Solidaridad Mecánica</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>La ciencia que estudia el comportamiento de los animales y del ser humano es denominada:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La ciencia que estudia el comportamiento de los animales y del ser humano es denominada:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Demoscopia</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Etología</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Geografía de la población</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>La adquisición y asimilación de una nueva cultura o aspectos de la cultura distinta a la propia, mediante el contacto continuo y generalmente involuntario, es la definición de una forma de transmisión cultural, denominada:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La adquisición y asimilación de una nueva cultura o aspectos de la cultura distinta a la propia, mediante el contacto continuo y generalmente involuntario, es la definición de una forma de transmisión cultural, denominada:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Aculturación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Endoculturación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Transculturación</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cuántos tipos de socialización existen?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cuántos tipos de socialización existen?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">2</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">3</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">5</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>La socialización es un proceso:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La socialización es un proceso:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Permanente y homogéneo</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Permanente y difuso</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Esporádico y heterogéneo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Se denominan grupo exógenos:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se denominan grupo exógenos:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Grupos de afuera</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Grupos ajenos</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las otras dos son correctas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>El concepto de racialismo fue acuñado por:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El concepto de racialismo fue acuñado por:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Taguieff</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todorov</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Bernier</p>]]></text></answer>
+<tags></tags></question></quiz>

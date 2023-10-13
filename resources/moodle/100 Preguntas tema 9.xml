@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>Pregunta 1: ¿Cuál es el órgano encargado de dirigir la investigación de un delito en el proceso penal español, una vez el procedimiento ha sido judicializado?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 1: ¿Cuál es el órgano encargado de dirigir la investigación de un delito en el proceso penal español, una vez el procedimiento ha sido judicializado?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El juez de instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El abogado defensor.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El acusado.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 2: ¿Qué función principal tiene el Ministerio Fiscal en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 2: ¿Qué función principal tiene el Ministerio Fiscal en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Juzgara los acusados.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Defendera los acusados.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Promover la acción de la justicia en defensa de la legalidad</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Representara la víctima en el juicio.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 3: ¿Cuál es el plazo máximo de detención preventiva?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 3: ¿Cuál es el plazo máximo de detención preventiva?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 12 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 24 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 48 horas.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 72 horas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 4: ¿Qué tribunal tiene competencia para conocer de los delitos graves en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 4: ¿Qué tribunal tiene competencia para conocer de los delitos graves en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Juzgado de lo Penal.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Audiencia Provincial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Juzgado de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Tribunal Supremo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 5: ¿En qué fase del proceso penal español se celebra el juicio oral?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 5: ¿En qué fase del proceso penal español se celebra el juicio oral?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) En la fase de instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) En la fase de apelación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) En la fase de ejecución.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) En la fase de enjuiciamiento.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 6: ¿Cuál es el principio fundamental en el proceso penal español que establece que nadie puede ser juzgado dos veces por los mismos hechos?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 6: ¿Cuál es el principio fundamental en el proceso penal español que establece que nadie puede ser juzgado dos veces por los mismos hechos?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Principio de legalidad.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Principio de presunción de inocencia.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Principio de non bis in idem.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Principio de igualdad procesal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 7: ¿Qué es la prisión provisional en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 7: ¿Qué es la prisión provisional en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Una pena de cárcel impuesta por un juez.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Una medida cautelar que priva de libertad al acusado durante la investigación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Una condenaa cadena perpetua.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Una pena de arresto domiciliario.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 8: ¿Quién tiene la responsabilidad de presentar la acusación en un proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 8: ¿Quién tiene la responsabilidad de presentar la acusación en un proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El juez.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El abogado defensor.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El testigo principal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 9: ¿Cuál es el plazo general para solicitar la prórroga de una detención en los casos de terrorismo o investigación de bandas armadas desde la detención?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 9: ¿Cuál es el plazo general para solicitar la prórroga de una detención en los casos de terrorismo o investigación de bandas armadas desde la detención?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 12 horas.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 48 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 24 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 72 horas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 10: ¿Qué tribunal es la última instancia en el sistema judicial español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 10: ¿Qué tribunal es la última instancia en el sistema judicial español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Juzgado de lo Penal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Audiencia Provincial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Juzgado de Instrucción.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Tribunal Supremo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 11: ¿Qué es el 'habeas corpus' en el contexto del proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 11: ¿Qué es el 'habeas corpus' en el contexto del proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un tipo de evidencia en un juicio.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Una orden de arresto.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un recurso para proteger la libertad individual contra detenciones ilegales.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un tipo de pena de cárcel.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 12: ¿Cuál es el plazo para presentar un recurso de apelación en un juicio penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 12: ¿Cuál es el plazo para presentar un recurso de apelación en un juicio penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 5 días.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 10 días.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 15 días.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 30 días.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 13: ¿Qué es la cadena de custodia en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 13: ¿Qué es la cadena de custodia en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un sistema de video vigilancia en los tribunales.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El procedimiento para garantizar la integridad de las pruebas en un proceso penal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El registro de las sentencias judiciales.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un tipo de pena de cárcel.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 14: ¿Cuál es el propósito principal de la fase de instrucción en un proceso penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 14: ¿Cuál es el propósito principal de la fase de instrucción en un proceso penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Celebrar el juicio oral.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Investigar y reunir pruebas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Dictar sentencias.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Realizar apelaciones.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 15: ¿Qué significa el principio de 'presunción de inocencia' en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 15: ¿Qué significa el principio de 'presunción de inocencia' en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Que el acusado es siempre inocente.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Que el acusado debe demostrar su inocencia.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Que se presume que el acusado es inocente hasta que se demuestre su culpabilidad.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Que el acusado es culpable hasta que se demuestre su inocencia.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 16: ¿Cuál es el tribunal competente para conocer de los delitos leves en el proceso penal español con carácter general?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 16: ¿Cuál es el tribunal competente para conocer de los delitos leves en el proceso penal español con carácter general?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Juzgado de lo Penal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Audiencia Provincial.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Juzgado de Instrucción.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 17: ¿Qué es la 'prueba prohibida' en un procedimiento penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 17: ¿Qué es la 'prueba prohibida' en un procedimiento penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Pruebas de ADN.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Documentos escritos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Prueba obtenida vulnerando derechos fundamentales.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Pruebas periciales.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 18: ¿En qué fase del proceso penal español se emite la sentencia?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 18: ¿En qué fase del proceso penal español se emite la sentencia?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Fase de instrucción.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Fase de juicio oral.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Fase de apelación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Fase de ejecución.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 19: ¿A quién debe notificarse la entrada y registro en el Congreso de los Diputados' en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 19: ¿A quién debe notificarse la entrada y registro en el Congreso de los Diputados' en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Al presidente del Senado</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Al rey.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Al presidente del Gobierno.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Ninguna respuesta es correcta.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 20: ¿Cuál es el recurso que se presenta contra una sentencia definitiva en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 20: ¿Cuál es el recurso que se presenta contra una sentencia definitiva en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Recurso de apelación.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Recurso de revisión.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Recurso de casación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Recurso de amparo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 21: ¿Qué es la 'prueba documental' en un juicio penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 21: ¿Qué es la 'prueba documental' en un juicio penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Pruebas de ADN.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Declaraciones de testigos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Documentos escritos que se presentan como evidencia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Pruebas periciales.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 22: ¿Cuál es el principio que establece que un acusado no puede ser juzgado dos veces por el mismo delito?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 22: ¿Cuál es el principio que establece que un acusado no puede ser juzgado dos veces por el mismo delito?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Principio de legalidad.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Principio de doble incriminación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Principio de no autoincriminación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Principio de igualdad procesal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 23: ¿Qué es un 'homicidio doloso' en el contexto del proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 23: ¿Qué es un 'homicidio doloso' en el contexto del proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un homicidio accidental.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Un homicidio con intención de causar la muerte.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un homicidio justificado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un homicidio culposo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 24: ¿Cuál es el plazo de la detención de un menor de edad en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 24: ¿Cuál es el plazo de la detención de un menor de edad en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El tiempo imprescindible para la práctica de las diligencias necesarias para la averiguación del delito..</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 24 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 72 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Ninguna es correcta</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 25: ¿Cuál es el propósito de la 'defensa técnica' en un proceso penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 25: ¿Cuál es el propósito de la 'defensa técnica' en un proceso penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Definir las leyes.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Representara la víctima.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Proteger los derechos del acusado y proporcionar asesoramiento legal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Tomar decisiones sobre la culpabilidad del acusado.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 26: ¿Qué es un 'testigo experto' en un juicio penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 26: ¿Qué es un 'testigo experto' en un juicio penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un testigo que tiene experiencia en dar testimonio.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Un testigo que es un experto en el tema relacionado con el caso.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un testigo que ha sido acusado de un delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un testigo que ha sido coaccionado para dar falso testimonio.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 27: ¿Qué es el 'derecho de defensa' en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 27: ¿Qué es el 'derecho de defensa' en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El derecho de los testigosa ser defendidos por un abogado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El derecho de los juecesa tomar decisiones.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El derecho de los acusadosa presentar pruebas ya ejercer las acciones oportunas para defenderse de una acusación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El derecho de los fiscalesa presentar cargos.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 28: ¿Qué es la 'prueba pericial' en un juicio penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 28: ¿Qué es la 'prueba pericial' en un juicio penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Pruebas de ADN.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Documentos escritos.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Declaraciones de testigos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Pruebas presentadas por expertos en un campo específico.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 29: ¿Qué es un 'delito culposo' en el contexto del proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 29: ¿Qué es un 'delito culposo' en el contexto del proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un delito cometido con intención de causar daño.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Un delito cometido por accidente o negligencia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un delito cometido en defensa propia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un delito justificado.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 30: ¿Cuál es la máxima instancia en el sistema judicial español que tiene la autoridad para revisar sentencias de tribunales inferiores?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 30: ¿Cuál es la máxima instancia en el sistema judicial español que tiene la autoridad para revisar sentencias de tribunales inferiores?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Juzgado de lo Penal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Audiencia Provincial.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Tribunal Supremo.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Tribunal Constitucional.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 31: ¿Cuál es el órgano judicial competente para instruir un delito cometido en el ámbito de la violencia de género?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 31: ¿Cuál es el órgano judicial competente para instruir un delito cometido en el ámbito de la violencia de género?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Juzgado de instrucción del lugar de los hechos investigados..</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Juzgado de Violencia sobre la mujer del domicilio de la víctima</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Juzgado de Violencia sobre la mujer del lugar donde hayan ocurrido los hechos investigados.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 32: ¿En qué artículo del la lecrim se recogen los derechos del investigado en un proceso penal</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 32: ¿En qué artículo del la lecrim se recogen los derechos del investigado en un proceso penal</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 520</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 521</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 519.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 420.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 33: ¿Qué es la 'prueba de cargo' en un juicio penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 33: ¿Qué es la 'prueba de cargo' en un juicio penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Pruebas presentadas por la defensa.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Pruebas que incriminan al acusado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Pruebas de carácter personal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Pruebas documentales.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 34: ¿Cuál es el plazo para presentar un recurso de casación ante el Tribunal Supremo</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 34: ¿Cuál es el plazo para presentar un recurso de casación ante el Tribunal Supremo</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 3 días.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 5 días.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 10 días.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 20 días.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 35: ¿Quién tiene la responsabilidad de probar la culpabilidad del acusado en un juicio penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 35: ¿Quién tiene la responsabilidad de probar la culpabilidad del acusado en un juicio penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El juez.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La defensa.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La víctima.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 36: ¿Qué es el 'derecho de contradicción' en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 36: ¿Qué es el 'derecho de contradicción' en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El derecho de la defensaa presentar pruebas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El derecho del fiscala interrogara los testigos.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El derecho de la víctimaa declarar en el juicio.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El derecho de la defensaa impugnar las pruebas presentadas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 37: ¿Cuál es el plazo para presentar un recurso de revisión ante el Tribunal Supremo en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 37: ¿Cuál es el plazo para presentar un recurso de revisión ante el Tribunal Supremo en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 5 días.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 10 días.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 15 días.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 30 días.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 38: ¿Qué es el 'jurado popular' en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 38: ¿Qué es el 'jurado popular' en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un grupo de abogados defensores.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Un grupo de jueces.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un grupo de ciudadanos seleccionados para emitir un veredicto en un juicio.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un grupo de expertos en derecho penal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 39: ¿Cuál es el plazo para presentar una querella en el proceso penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 39: ¿Cuál es el plazo para presentar una querella en el proceso penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 3 meses.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 6 meses.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 1 año.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 2 años.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 40: ¿En qué consiste una denuncia en el procedimiento penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 40: ¿En qué consiste una denuncia en el procedimiento penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Declaración de voluntad.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Declaración de conocimiento.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Declaración de acciones.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Ninguna es correcta</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 41: ¿Cuál es el propósito principal del Real Decreto 769/1987 de Policía Judicial?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 41: ¿Cuál es el propósito principal del Real Decreto 769/1987 de Policía Judicial?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Establecer las sanciones para los delitos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Regular las competencias y funciones de la Policía Judicial en la investigación de los delitos.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Definir los derechos de los detenidos.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Establecer los procedimientos de juicio oral.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 42: ¿Quién tiene la responsabilidad de dirigir las investigaciones de la Policía Judicial de forma general?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 42: ¿Quién tiene la responsabilidad de dirigir las investigaciones de la Policía Judicial de forma general?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El Ministro de Justicia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El Director General de la Policía.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El Juez de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El Fiscal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 43: ¿Cuál de las siguientes unidades policiales constituye Policía Judicial específica  en el ámbito nacional en España?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 43: ¿Cuál de las siguientes unidades policiales constituye Policía Judicial específica  en el ámbito nacional en España?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) La Guardia Civil.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) La Policía Local.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La Policía Autonómica.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La Policía Municipal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 44: ¿Cuál es de las siguientes es  función de la Policía Judicial en la investigación de un delito?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 44: ¿Cuál es de las siguientes es  función de la Policía Judicial en la investigación de un delito?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Defender al acusado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Emitir veredictos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Recoger pruebas y evidencias.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Juzgar al acusado.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 45: ¿Qué autoridad judicial emite las órdenes de registro en el marco de un procedimiento judicial penal ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 45: ¿Qué autoridad judicial emite las órdenes de registro en el marco de un procedimiento judicial penal ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El Juez de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El Director General de la Policía.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El Ministro de Justicia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El Fiscal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 46: ¿Cuál es el plazo máximo para comunicar unos hechos delictivos al juez?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 46: ¿Cuál es el plazo máximo para comunicar unos hechos delictivos al juez?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 12 horas.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 24 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 48 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 72 horas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 47: ¿Quién tiene la responsabilidad de coordinar las actuaciones de la Policía Judicial en casos de delincuencia organizada?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 47: ¿Quién tiene la responsabilidad de coordinar las actuaciones de la Policía Judicial en casos de delincuencia organizada?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El Ministro de Justicia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El Director General de la Policía.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El CITCO</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El Fiscal General del Estado.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 48: ¿Qué tipo de autorización se requiere para la intervención de comunicaciones telefónicas en el marco de una investigación penal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 48: ¿Qué tipo de autorización se requiere para la intervención de comunicaciones telefónicas en el marco de una investigación penal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Autorización del Ministro de Justicia.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Autorización del Director General de la Policía.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Autorización del Juez de Instrucción.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Autorización del Fiscal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 49: Los delitos contra la libertad sexual tienen la consideración de </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 49: Los delitos contra la libertad sexual tienen la consideración de </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) delitos públicos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) delitos semipúblicos</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) delitos privados</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) delitos semiprivados</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 50: Según lo dispuesto en la lecrim, NO se consideran primeras diligencias</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 50: Según lo dispuesto en la lecrim, NO se consideran primeras diligencias</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) recoger y poner en custodia cuanto conduzcaa la identificación del delincuente.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) protegera los ofendidos o perjudicados por el delito,a sus familiares oa otras personas.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) consignar todas las pruebas del delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) todas son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 51. ¿Qué ley regula el Habeas Corpus en España?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 51. ¿Qué ley regula el Habeas Corpus en España?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Ley Orgánica 1/2000</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Ley Orgánica 6/1984</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Ley Orgánica 2/2005</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Ley Orgánica 5/1999</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 52. ¿Cuál es el propósito principal de la Ley Orgánica Reguladora del Habeas Corpus?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 52. ¿Cuál es el propósito principal de la Ley Orgánica Reguladora del Habeas Corpus?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Regular la inmigración ilegal</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Proteger los derechos fundamentales de las personas detenidas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Establecer las normas de tráfico</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Definir la responsabilidad penal de los menores</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 53. ¿Qué autoridad judicial puede conceder el Habeas Corpus?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 53. ¿Qué autoridad judicial puede conceder el Habeas Corpus?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El juez de paz</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El tribunal administrativo</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El juez de instrucción o el tribunal correspondiente</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El fiscal general del Estado</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 54. ¿En qué situación se puede solicitar el Habeas Corpus según la Ley Orgánica 6/1984?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 54. ¿En qué situación se puede solicitar el Habeas Corpus según la Ley Orgánica 6/1984?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Exceso de plazo de la detención</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Ausencia de imputación delictiva al detenido</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Vulneración derechos fundamentales al detenido.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Todas son correctas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 55.¿Cuál es el plazo máximo para resolver una solicitud de Habeas Corpus de acuerdo con la Ley Orgánica?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 55.¿Cuál es el plazo máximo para resolver una solicitud de Habeas Corpus de acuerdo con la Ley Orgánica?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 48 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 1 semana</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 30 días</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) No hay plazo definido</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 56.   ¿Quién puede presentar una solicitud de Habeas Corpus?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 56.   ¿Quién puede presentar una solicitud de Habeas Corpus?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Solo abogados</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Cualquier persona que tenga interés legítimo o el Ministerio Fiscal</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Solo familiares de la persona detenida</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Solo jueces y fiscales</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 57.   ¿Qué tipo de recursos pueden utilizarse para presentar una solicitud de Habeas Corpus?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 57.   ¿Qué tipo de recursos pueden utilizarse para presentar una solicitud de Habeas Corpus?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Fax y correo electrónico</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Telegram y WhatsApp</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Fax y correo postal</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Llamadas telefónicas y redes sociales</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 58.¿Cuál es la consecuencia de conceder el Habeas Corpus?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 58.¿Cuál es la consecuencia de conceder el Habeas Corpus?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) La persona detenida será liberada de inmediato</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) La persona detenida será condenadaa prisión</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La solicitud será archivada</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La persona detenida será trasladadaa otro lugar de detención</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 59.  ¿Puede negarse la concesión del Habeas Corpus?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 59.  ¿Puede negarse la concesión del Habeas Corpus?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) No, es un derecho absoluto</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Sí, en casos excepcionales y debidamente justificados</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Solo si la persona detenida tiene antecedentes penales</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Solo si la solicitud se presenta fuera de plazo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 60.     ¿Cuál es la jurisdicción competente para conocer de las solicitudes de Habeas Corpus?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 60.     ¿Cuál es la jurisdicción competente para conocer de las solicitudes de Habeas Corpus?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Jurisdicción civil</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Jurisdicción militar</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Jurisdicción contencioso-administrativa</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Jurisdicción penal</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 61.        ¿Cuál es el plazo máximo que puede durar una detención preventiva antes de que se presente ante un juez?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 61.        ¿Cuál es el plazo máximo que puede durar una detención preventiva antes de que se presente ante un juez?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 24 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 48 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 72 horas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 120 horas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 62.  ¿En qué casos se permite la detención preventiva prorrogada?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 62.  ¿En qué casos se permite la detención preventiva prorrogada?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Por cualquier motivo</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Solo en casos de delitos graves y terrorismo</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Solo en casos de delitos menores</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Solo en casos de delitos políticos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 63. ¿Qué se entiende por 'flagrante delito' en relación con la detención?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 63. ¿Qué se entiende por 'flagrante delito' en relación con la detención?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un delito muy grave</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Un delito cometido en la calle</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un delito que se comete en el momento o inmediatamente después de ser descubierto</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un delito sin víctimas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 64.      ¿Cuál es el plazo máximo para que la policía presente un menor detenido ante el Ministerio Fiscal, siempre que se agote?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 64.      ¿Cuál es el plazo máximo para que la policía presente un menor detenido ante el Ministerio Fiscal, siempre que se agote?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 24 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 48 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 7 días</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 30 días</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 65.      ¿Qué es la detención preventiva?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 65.      ¿Qué es la detención preventiva?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) La detención de una persona antes de cometer un delito</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) La detención de una persona como castigo por un delito</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La detención de una persona antes de que se celebre un juicio, como medida cautelar de carácter personal</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La detención de una persona por motivos de salud mental</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 66.        ¿Qué es la detención ilegal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 66.        ¿Qué es la detención ilegal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) La detención de una persona por más tiempo del permitido por la ley</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) La detención de una persona que ha cometido un delito</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La detención de una persona en su propio hogar</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La detención de una persona sin pruebas suficientes</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 67.      ¿En qué casos se puede realizar una detención en ausencia de una orden judicial?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 67.      ¿En qué casos se puede realizar una detención en ausencia de una orden judicial?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Si la persona es sospechosa de cualquier delito</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Solo si la persona ha sido condenada previamente</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) En situaciones de emergencia o flagrante delito</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Solo si la persona es menor de edad</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 68.  ¿Qué es el 'habeas corpus'?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 68.  ¿Qué es el 'habeas corpus'?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Un tipo de detención preventiva</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Un tipo de juicio sumario</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un recurso legal para impugnar la legalidad de una detención</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Un tribunal de apelación</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 69. ¿Cuál es la diferencia entre la detención preventiva y la prisión preventiva?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 69. ¿Cuál es la diferencia entre la detención preventiva y la prisión preventiva?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) No hay diferencia, son términos intercambiables</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) La detención preventiva es antes del juicio, mientras que la prisión preventiva es después del juicio</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La detención preventiva es para delitos menores y la prisión preventiva es para delitos graves</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La detención preventiva es para menores de edad y la prisión preventiva es para adultos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 70. ¿Qué derecho fundamental está protegido por la norma 'presunción de inocencia' en relación con la detención?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 70. ¿Qué derecho fundamental está protegido por la norma 'presunción de inocencia' en relación con la detención?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El derechoa permanecer en silencio</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El derechoa un abogado</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El derechoa ser considerado inocente hasta que se demuestre lo contrario</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El derechoa un juicio rápido y público</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 71.  Según el artículo 282 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para mantenera una persona detenida antes de presentarla ante el juez de instrucción en un so e detención incomunicada?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 71.  Según el artículo 282 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para mantenera una persona detenida antes de presentarla ante el juez de instrucción en un so e detención incomunicada?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 12 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 24 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 48 horas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 72 horas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 72 De acuerdo con el artículo 545 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se puede ordenar la intervención de las comunicaciones de un abogado con su cliente?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 72 De acuerdo con el artículo 545 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se puede ordenar la intervención de las comunicaciones de un abogado con su cliente?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) En ningún caso</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Solo si el abogado es sospechoso de participar en el delito</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Cuando existan indicios razonables de que el abogado está implicado en la comisión del delito y se obtenga autorización judicial previa</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Siempre que el cliente lo solicite.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 73. Según el artículo 579 de la Ley de Enjuiciamiento Criminal, ¿en qué momento debe notificarsea la persona objeto de una intervención de comunicaciones que estas han tenido lugar?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 73. Según el artículo 579 de la Ley de Enjuiciamiento Criminal, ¿en qué momento debe notificarsea la persona objeto de una intervención de comunicaciones que estas han tenido lugar?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Antes de iniciar la intervención</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Al concluir la intervención</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Cuando se levante el secreto de sumario.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) No es necesario notificarlo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 74.  De acuerdo con el artículo 545 bis de la Ley de Enjuiciamiento Criminal, ¿quién es la autoridad competente para autorizar la intervención de las comunicaciones en casos de rrorismo?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 74.  De acuerdo con el artículo 545 bis de la Ley de Enjuiciamiento Criminal, ¿quién es la autoridad competente para autorizar la intervención de las comunicaciones en casos de rrorismo?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El juez de instrucción</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El Ministerio de Justicia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El Director General de la Policía</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El juez central de instrucción de la Audiencia Nacional</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 75.  Según el artículo 553 de la Ley de Enjuiciamiento Criminal, ¿cuándo puede llevarsea cabo una entrada y registro en un domicilio sin consentimiento del titular?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 75.  Según el artículo 553 de la Ley de Enjuiciamiento Criminal, ¿cuándo puede llevarsea cabo una entrada y registro en un domicilio sin consentimiento del titular?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Solo si el delito es grave y flagrante</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Siempre que haya sospechas fundadas de que se cometió un delito</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Cuando existan indicios razonables de que se ocultan pruebas y se obtenga autorización judicial previa</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Nunca se permite la entrada y registro sin consentimiento.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 76.   Según el artículo 520 de la Ley de Enjuiciamiento Criminal, ¿cuáles son las garantías que deben respetarse durante la detención de una persona?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 76.   Según el artículo 520 de la Ley de Enjuiciamiento Criminal, ¿cuáles son las garantías que deben respetarse durante la detención de una persona?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Derechoa permanecer en silencio ya no declarar contra sí mismo</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Derechoa una llamada telefónica ya un abogado</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Derechoa un juicio rápido y público</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Todas las anteriores</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 77.    De acuerdo con el artículo 509 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para que el juez de instrucción dicte auto de prisión provisional o de libertad  casos de detención en flagrante delito?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 77.    De acuerdo con el artículo 509 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para que el juez de instrucción dicte auto de prisión provisional o de libertad  casos de detención en flagrante delito?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 12 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 24 horas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 48 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 72 horas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 78.     De acuerdo con el artículo 545 quáter de la Ley de Enjuiciamiento Criminal, ¿quién es el responsable de la custodia y control de las grabaciones de las conversaciones tervenidas?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 78.     De acuerdo con el artículo 545 quáter de la Ley de Enjuiciamiento Criminal, ¿quién es el responsable de la custodia y control de las grabaciones de las conversaciones tervenidas?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El abogado defensor</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El Fiscal General del Estado</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El Juez de Instrucción</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El letrado de la administración de justicia</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 79.   Según el artículo 544 de la Ley de Enjuiciamiento Criminal, ¿qué debe constar en la resolución que autoriza la intervención de comunicaciones? Señala la incorrecta</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 79.   Según el artículo 544 de la Ley de Enjuiciamiento Criminal, ¿qué debe constar en la resolución que autoriza la intervención de comunicaciones? Señala la incorrecta</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El nombre de todas las personas que serán interceptadas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Los motivos de la interceptación y el plazo de duración</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La hora exacta en que comenzará la interceptación</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La firma del testigo más cercano al lugar de la intervención</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 80.   De acuerdo con el artículo 554 de la Ley de Enjuiciamiento Criminal, ¿qué se requiere para realizar un registro en un domicilio sin previo aviso? Señala la incorrecta</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 80.   De acuerdo con el artículo 554 de la Ley de Enjuiciamiento Criminal, ¿qué se requiere para realizar un registro en un domicilio sin previo aviso? Señala la incorrecta</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Orden de un juez o autorización del propietario</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Orden de un juez o  delito flagrante.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Solamente orden de un juez.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Orden de un juez o autorización del Ministro del interior.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 81.    Según el artículo 520 bis de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la incomunicación de un detenido?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 81.    Según el artículo 520 bis de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la incomunicación de un detenido?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Siempre que el detenido lo solicite</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Solo en casos de terrorismo o delincuencia organizada, con autorización judicial y por un plazo máximo de 5 días</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Nunca se permite la incomunicación de un detenido</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Cuando el detenido sea menor de edad</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 82.     ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figura del agente provocador?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 82.     ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figura del agente provocador?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Artículo 520 ter</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Artículo 282</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Artículo 282 bis</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La Ley no contempla el agente provocador</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 83.    De acuerdo con el artículo 520 quater de la Ley de Enjuiciamiento Criminal, ¿cuál es la duración máxima de la detención incomunicada en casos de terrorismo?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 83.    De acuerdo con el artículo 520 quater de la Ley de Enjuiciamiento Criminal, ¿cuál es la duración máxima de la detención incomunicada en casos de terrorismo?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 24 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 48 horas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 120 horas.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 96 horas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 84.    Según el artículo 572 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la detención por orden de autoridad gubernativa?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 84.    Según el artículo 572 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la detención por orden de autoridad gubernativa?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) En casos de delitos menos graves</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) En casos de delitos graves</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) En casos de delitos cometidos durante una manifestación ilegal</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Nunca se permite la detención por orden de autoridad gubernativa</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 85.    ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece las reglas para la ejecución de órdenes de entrada y registro?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 85.    ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece las reglas para la ejecución de órdenes de entrada y registro?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Artículo 545</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Artículo 545 bis</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Artículo 545 ter</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) No existe un artículo específico para ello</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 86.   Según el artículo 579 ter de la Ley de Enjuiciamiento Criminal,¿ ante quién puede solicitar la prórroga de la intervención de comunicaciones?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 86.   Según el artículo 579 ter de la Ley de Enjuiciamiento Criminal,¿ ante quién puede solicitar la prórroga de la intervención de comunicaciones?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Cualquier funcionario de policía</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El Ministerio de Justicia</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El Juez de Instrucción</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El Ministerio Fiscal</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 87.   ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figurante de los agentes encubiertos?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 87.   ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figurante de los agentes encubiertos?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Artículo 282 ter</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Artículo 282 quater</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Artículo 282 quinquies</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Artículo 282 bis</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 88.      Según el artículo 509 bis de la Ley de Enjuiciamiento Criminal, ¿qué plazo debe respetarse para la presentación del detenido ante el juez en casos de detención incomunicada r errorismo?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 88.      Según el artículo 509 bis de la Ley de Enjuiciamiento Criminal, ¿qué plazo debe respetarse para la presentación del detenido ante el juez en casos de detención incomunicada r errorismo?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) 24 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) 48 horas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) 72 horas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) 5 días.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 89  ¿Cuál es la diferencia principal entre una denuncia y una querella en el sistema penal español?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 89  ¿Cuál es la diferencia principal entre una denuncia y una querella en el sistema penal español?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Una denuncia es presentada por la víctima o cualquier persona, mientras que una querella es presentada por el Ministerio Fiscal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Una denuncia se presenta ante la policía, mientras que una querella se presenta ante el juez de instrucción.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Una denuncia es obligatoria para ciertos delitos, mientras que una querella es voluntaria en la mayoría de los casos.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) No hay diferencia, ambos términos son intercambiables.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 89   ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la denuncia es obligatoria para ciertos delitos?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 89   ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la denuncia es obligatoria para ciertos delitos?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Artículo 261</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Artículo 262</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Artículo 271</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Artículo 263</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 90. Según el artículo 270 de la Ley de Enjuiciamiento Criminal, ¿quién puede presentar una querella por un delito?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 90. Según el artículo 270 de la Ley de Enjuiciamiento Criminal, ¿quién puede presentar una querella por un delito?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Solo la víctima del delito</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Cualquier español</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Solo el Ministerio Fiscal</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Solo un abogado</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 91 ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la querella es necesaria para ciertos delitos como la calumnia o la injuria?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 91 ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la querella es necesaria para ciertos delitos como la calumnia o la injuria?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Artículo 245</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Artículo 270 bis</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Artículo 262 ter</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Artículo 279</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 92  ¿Cuál es la principal diferencia entre la denuncia y la querella en?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 92  ¿Cuál es la principal diferencia entre la denuncia y la querella en?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) No hay diferencia, ambos tienen el mismo plazo de presentación.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) La denuncia tiene un plazo más corto de presentación que la querella.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La querella se presente sólo se presenta ante el juzgado.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La diferencia de plazos depende del tipo de delito.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 93      ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la posibilidad de presentar una denuncia anónima?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 93      ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la posibilidad de presentar una denuncia anónima?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Artículo 270</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Artículo 275</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Artículo 277</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La Ley no permite denuncias anónimas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 94    ¿Qué delito es considerado un delito conexo al delito principal en la legislación española?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 94    ¿Qué delito es considerado un delito conexo al delito principal en la legislación española?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Cualquier delito que se cometa en la misma fecha que el delito principal</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Un delito que esté relacionado causalmente con el delito principal y sea cometido con posterioridada este</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Un delito que esté relacionado causalmente con el delito principal y sea cometido con anterioridada este</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) No existe el concepto de delito conexo en la legislación española.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 95      Según el artículo 15 de la Ley de Enjuiciamiento Criminal, ¿cómo se determina la competencia para conocer de delitos conexos?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 95      Según el artículo 15 de la Ley de Enjuiciamiento Criminal, ¿cómo se determina la competencia para conocer de delitos conexos?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Por sorteo entre los jueces de instrucción de la provincia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Por la elección de la víctima</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Por el orden en que se hayan cometido los delitos y la jurisdicción que correspondea cada uno</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Por la gravedad de los delitos y la pena prevista.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 96      Según el artículo 17 de la Ley de Enjuiciamiento Criminal, ¿qué requisito debe cumplir un delito conexo para ser considerado como tal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 96      Según el artículo 17 de la Ley de Enjuiciamiento Criminal, ¿qué requisito debe cumplir un delito conexo para ser considerado como tal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Debe ser de la misma naturaleza que el delito principal.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Debe haber sido cometido por la misma persona que el delito principal.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Ser cometido para procurar la impunidad de otro delito.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Debe haber sido cometido en un lugar cercano al delito principal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 97         ¿Qué implicaciones tiene la consideración de un delito como conexo al delito principal según la Ley de Enjuiciamiento Criminal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 97         ¿Qué implicaciones tiene la consideración de un delito como conexo al delito principal según la Ley de Enjuiciamiento Criminal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El delito conexo se juzga por separado en un proceso independiente.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El delito conexo se acumula al proceso del delito principal y se juzga en conjunto.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) El delito conexo se archiva automáticamente.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El delito conexo se remitea otro tribunal.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 98        ¿Cuál es el propósito principal de considerar los delitos como conexos en un mismo proceso según la Ley de Enjuiciamiento Criminal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 98        ¿Cuál es el propósito principal de considerar los delitos como conexos en un mismo proceso según la Ley de Enjuiciamiento Criminal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) Facilitar la impunidad de los delincuentes.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) Agilizar la administración de justicia al evitar juicios separados por delitos relacionados.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) Aumentar las penas para los acusados.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) Complicar la investigación de los delitos.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 99         Según la Ley de Enjuiciamiento Criminal, ¿quién decide si un delito debe considerarse como conexo al delito principal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 99         Según la Ley de Enjuiciamiento Criminal, ¿quién decide si un delito debe considerarse como conexo al delito principal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) El Ministerio Fiscal</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) El juez de instrucción</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La víctima del delito</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) El tribunal competente, generalmente el juez de instrucción o el tribunal de enjuiciamiento.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Pregunta 100       ¿Cuál es el criterio principal para determinar la conexidad de dos delitos según la Ley de Enjuiciamiento Criminal?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Pregunta 100       ¿Cuál es el criterio principal para determinar la conexidad de dos delitos según la Ley de Enjuiciamiento Criminal?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) La gravedad de los delitos involucrados.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">b) La ubicación geográfica en la que se cometieron los delitos.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">c) La relación causal entre los delitos y el momento en que fueron cometidos.</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">d) La antigüedad de</p>]]></text></answer>
+<tags></tags></question></quiz>

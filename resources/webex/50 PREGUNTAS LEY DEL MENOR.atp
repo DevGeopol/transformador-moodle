@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 01.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores.  ¿Esta Ley se aplicará para exigir la responsabilidad de las personas menores de 18 años, pero mayores de?">
+<ANSWER ISCORRECT="true">14 años.</ANSWER>
+<ANSWER ISCORRECT="false">16 años.</ANSWER>
+<ANSWER ISCORRECT="false">12 años.</ANSWER>
+<ANSWER ISCORRECT="false">15 años.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 02.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Esta Ley se aplica acorde a los delitos cometidos en que normativa?">
+<ANSWER ISCORRECT="false">Código Penal ordinario.</ANSWER>
+<ANSWER ISCORRECT="false">Leyes penales especiales.</ANSWER>
+<ANSWER ISCORRECT="false">Código Penal Militar.</ANSWER>
+<ANSWER ISCORRECT="true">A y B son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 03.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Qué autoridad es la competente para conocer de los hechos cometidos por las personas mencionadas en esta Ley?">
+<ANSWER ISCORRECT="false">Los Jueces de instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">Los jueces de menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal de Menores. (instruye el procedimiento)</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 04.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Qué autoridad resuelve sobre las responsabilidades civiles derivadas de hechos cometidos por las personas relacionadas con esta Ley como autores?">
+<ANSWER ISCORRECT="false">El Fiscal de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de 1ª Instancia.</ANSWER>
+<ANSWER ISCORRECT="true">El Juez de Menores</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de asuntos civiles.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 05.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Qué autoridad resuelve los delitos cometidos por menores en el Extranjero?">
+<ANSWER ISCORRECT="false">El Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="true">El Juez del Juzgado Central de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal del Juzgado Central de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal de Menores.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 06.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Cuándo al menor por su edad no se le puede exigir responsabilidad penal, como se actúa?">
+<ANSWER ISCORRECT="false">Se le aplican las normas sobre menores inimputables, acorde al Código Penal.</ANSWER>
+<ANSWER ISCORRECT="true">Se le aplican las normas sobre protección de menores previstas en el Código Civil.</ANSWER>
+<ANSWER ISCORRECT="false">Se le aplican las normas del expediente de reforma.</ANSWER>
+<ANSWER ISCORRECT="false">Se le aplican las normas del expediente de protección de la Ley Procesal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 07.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Quién velará por los derechos de las victimas y de las personas perjudicadas?">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">La oficina del Fiscal del Juzgado Decano.</ANSWER>
+<ANSWER ISCORRECT="true">A y B son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 08.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Quién derivará a la Oficina de Atención a la víctima, a las victimas del delito?">
+<ANSWER ISCORRECT="true">El Letrado de la Administración de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">El Letrado de las partes.</ANSWER>
+<ANSWER ISCORRECT="false">El Letrado designado por la víctima del delito.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 09.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿A que tienen derecho las victimas del delito, en relación al proceso judicial?">
+<ANSWER ISCORRECT="false">A impulsar el proceso en fase de sumario procesal.</ANSWER>
+<ANSWER ISCORRECT="true">A personarse y ser parte del expediente que se incoe.</ANSWER>
+<ANSWER ISCORRECT="false">A instar el procedimiento procesal en fase sumarial.</ANSWER>
+<ANSWER ISCORRECT="false">A reclamar las penas imputables al supuesto autor del hecho.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 10.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Las edades indicadas en el articulado de esta Ley, ¿Se han de entender siempre referidas a?">
+<ANSWER ISCORRECT="false">Al momento del enjuiciamiento de los hechos.</ANSWER>
+<ANSWER ISCORRECT="false">Al momento de la imputación de los hechos.</ANSWER>
+<ANSWER ISCORRECT="true">Al momento de la comisión de los hechos.</ANSWER>
+<ANSWER ISCORRECT="false">Al momento del cumplimiento de la condena.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 11.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Quién ordenará a la Policía Judicial que practique las actuaciones necesarias para la comprobación de los hechos delictivos?">
+<ANSWER ISCORRECT="true">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez Central de Menores.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 12.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. De las siguientes medidas susceptibles de ser impuesta a un menor autor de un delito, señala la incorrecta.">
+<ANSWER ISCORRECT="false">Internamiento en régimen cerrado.</ANSWER>
+<ANSWER ISCORRECT="true">Internamiento en régimen semicerrado.</ANSWER>
+<ANSWER ISCORRECT="false">Internamiento en régimen abierto.</ANSWER>
+<ANSWER ISCORRECT="false">Internamiento terapéutico en régimen cerrado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 13.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿De cuantos periodos constarán las medidas de internamiento?">
+<ANSWER ISCORRECT="false">1, en el centro designado.</ANSWER>
+<ANSWER ISCORRECT="true">2, una en el centro designado y otra en régimen de libertad vigilada.</ANSWER>
+<ANSWER ISCORRECT="false">3, centro designado, centro de día y libertad vigilada.</ANSWER>
+<ANSWER ISCORRECT="false">4, centro designado, centro de día, medida terapéutica y libertad vigilada.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 14.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Principio Acusatorio. ¿El Juez de Menores no podrá imponer una medida que suponga una mayor restricción de derechos, que la solicitada por?">
+<ANSWER ISCORRECT="true">La acusación particular.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal Decano de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez Decano de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 15.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿La medida de internamiento en régimen cerrado sólo podrá ser aplicable cuándo? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Los hechos estén tipificados como delito grave por el Código Penal o las leyes penales especiales.</ANSWER>
+<ANSWER ISCORRECT="false">Tratándose de hechos tipificados como delito menos grave, en su ejecución se haya empleado violencia o intimidación en las personas o se haya generado grave riesgo para la vida o la integridad física de las mismas.</ANSWER>
+<ANSWER ISCORRECT="false">Los hechos tipificados como delito se cometan en grupo o el menor perteneciere o actuare al servicio de una banda, organización o asociación, incluso de carácter transitorio, que se dedicare a la realización de tales actividades.</ANSWER>
+<ANSWER ISCORRECT="true">Los hechos estén tipificados como delito muy grave, cometidos en grupo, con alevosía y perpetración.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 16.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Procedimiento de aplicación de medidas en supuestos de pluralidad de infracciones. ¿A que procederá el Juez competente para la ejecución de las medidas impuestas?">
+<ANSWER ISCORRECT="false">Al cumplimiento consecutivo de las medidas impuestas.</ANSWER>
+<ANSWER ISCORRECT="false">A la suma de medidas con inclusión de los órganos judiciales que las hubieran dictado.</ANSWER>
+<ANSWER ISCORRECT="true">A la refundición de las medidas para ordenar su ejecución.</ANSWER>
+<ANSWER ISCORRECT="false">A ordenar el cumplimiento de la medida más grave.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 17.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Mayoría de edad del condenado. Señala la respuesta correcta.">
+<ANSWER ISCORRECT="false">Cuando el menor a quien se le hubiere impuesto una medida de las establecidas en esta Ley alcanzase la mayoría de edad, continuará el cumplimiento de la medida hasta alcanzar los objetivos propuestos en la sentencia en que se le impuso.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando se trate de la medida de internamiento en régimen cerrado y el menor alcance la edad de dieciocho años sin haber finalizado su cumplimiento, el Juez de Menores, oído el Ministerio Fiscal, el letrado del menor, el equipo técnico y la entidad pública de protección o reforma de menores, podrá ordenar en auto motivado que su cumplimiento se lleve a cabo en un centro penitenciario conforme al régimen general previsto en la Ley Orgánica General Penitenciaria si la conducta de la persona internada no responde a los objetivos propuestos en la sentencia.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando el menor pase a cumplir la medida de internamiento en un centro penitenciario, quedarán sin efecto el resto de las medidas impuestas por el Juez de Menores que estuvieren pendientes de cumplimiento sucesivo o que estuviera cumpliendo simultáneamente con la de internamiento, si éstas no fueren compatible con el régimen penitenciario.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 18.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Cuándo prescriben los hechos cometidos por menores? Señale la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Con arreglo a las normas contenidas en el Código Penal, en caso de un delito de homicidio.</ANSWER>
+<ANSWER ISCORRECT="true">A los cinco años, cuando se trate de un delito grave sancionado en el Código Penal con pena superior a quince años. (Diez años)</ANSWER>
+<ANSWER ISCORRECT="false">A los tres años, cuando se trate de cualquier otro delito grave.</ANSWER>
+<ANSWER ISCORRECT="false">Al año, cuando se trate de un delito menos grave. 5.º A los tres meses, cuando se trate de una falta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 19.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Finalizada la instrucción del Procedimiento, y remitido el Expediente por el Ministerio Fiscal al Juez de Menores, ¿Este iniciará?">
+<ANSWER ISCORRECT="false">Las diligencias preparatorias de la vista oral.</ANSWER>
+<ANSWER ISCORRECT="true">Las diligencias de tramite correspondientes.</ANSWER>
+<ANSWER ISCORRECT="false">Las diligencias procesales en fase de instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">Las diligencias indagatorias.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 20.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Detención de menores. Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="true">Los funcionarios que intervengan en la detención deberán notificar inmediatamente el hecho de la detención y el lugar de la custodia a los representantes legales del menor y al Juez de menores. (Ministerio Fiscal).</ANSWER>
+<ANSWER ISCORRECT="false">Toda declaración del detenido se llevará a cabo en presencia de su letrado y de aquéllos que ejerzan la patria potestad, tutela o guarda del menor -de hecho o de derecho-, salvo que, en este último caso, las circunstancias aconsejen lo contrario.</ANSWER>
+<ANSWER ISCORRECT="false">Mientras dure la detención, los menores deberán hallarse custodiados en dependencias adecuadas y separadas de las que se utilicen para los mayores de edad.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez competente para el procedimiento de hábeas corpus en relación a un menor será el Juez de Instrucción del lugar en el que se encuentre el menor privado de libertad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 21.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Cuándo podrá el Ministerio Fiscal, desistir de la incoación del expediente?">
+<ANSWER ISCORRECT="false">Cuando los hechos denunciados no sean constitutivos de delito de especial gravedad.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando los hechos denunciados constituyan delitos graves, sin violencia o intimidación.</ANSWER>
+<ANSWER ISCORRECT="true">Cuando los hechos denunciados constituyan delitos menos graves, sin violencia o intimidación.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando la acusación particular, manifieste la voluntad de no continuar el proceso penal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 22.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Detención de menores. Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Los funcionarios que intervengan en la detención de un menor, deberán notificar inmediatamente el hecho de la detención y el lugar de la custodia a los representantes legales del menor y al Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El menor detenido tendrá derecho a la entrevista reservada con su abogado con anterioridad y al término de la práctica de la diligencia de toma de declaración.</ANSWER>
+<ANSWER ISCORRECT="false">Mientras dure la detención, los menores deberán hallarse custodiados en dependencias adecuadas y separadas de las que se utilicen para los mayores de edad.</ANSWER>
+<ANSWER ISCORRECT="true">La detención de un menor por funcionarios de policía no podrá durar más tiempo del estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, dentro del plazo máximo de cuarenta y ocho horas, el menor detenido deberá ser puesto en libertad o a disposición del Ministerio Fiscal. (24 horas)</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 23.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿En qué tipo de delito, el acto de conciliación, deberá ser solicitado expresamente por la victima? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Violencia doméstica.</ANSWER>
+<ANSWER ISCORRECT="true">Delitos contra la libertad e indemnidad sexual.</ANSWER>
+<ANSWER ISCORRECT="false">Delito de homicidio.</ANSWER>
+<ANSWER ISCORRECT="false">Delito de Robo con violencia e intimidación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 24.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Incoación del expediente. ¿Qué plazo tiene el menor y sus representantes para que designen letrado?">
+<ANSWER ISCORRECT="false">10 días.</ANSWER>
+<ANSWER ISCORRECT="true">3 días.</ANSWER>
+<ANSWER ISCORRECT="false">2 días.</ANSWER>
+<ANSWER ISCORRECT="false">5 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 25.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. La actuación instructora del Ministerio Fiscal, ¿Tendrá como objeto? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Valorar la participación del menor en los hechos.</ANSWER>
+<ANSWER ISCORRECT="false">Expresarle el reproche que merece su conducta.</ANSWER>
+<ANSWER ISCORRECT="true">Proponer las concretas medidas de contenido procesal adecuadas a las circunstancias del hecho. (educativo y sancionador)</ANSWER>
+<ANSWER ISCORRECT="false">Sobre todo el interés del propio menor valorado en la causa.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 26.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Secreto del Expediente. ¿Quién podrá solicitar del Juez de Menores, que decrete el secreto del expediente?">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El menor o su familia.</ANSWER>
+<ANSWER ISCORRECT="false">Quien ejerza la acción penal.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 27.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. De la acusación particular. ¿Quiénes podrán presentarse en el procedimiento como acusadores particulares? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Las personas directamente ofendidas por el delito.</ANSWER>
+<ANSWER ISCORRECT="false">Los padres de las personas directamente ofendidas por el delito.</ANSWER>
+<ANSWER ISCORRECT="true">Los herederos de las personas ofendidas por el delito. (falta directamente)</ANSWER>
+<ANSWER ISCORRECT="false">Los representantes legales de las personas directamente ofendidas por el delito, si fueran menores o incapaces.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 28.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. El Equipo técnico. ¿Durante la instrucción del expediente, de quien dependerá funcionalmente el Equipo Técnico?">
+<ANSWER ISCORRECT="false">Del Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="true">Del Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">De los servicios Sociales donde se hallen integrados.</ANSWER>
+<ANSWER ISCORRECT="false">Del Ministerio de Justicia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 29.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Qué plazo tiene ese Equipo Técnico para entregar el informe que debe cumplimentar?">
+<ANSWER ISCORRECT="false">1 mes.</ANSWER>
+<ANSWER ISCORRECT="true">10 días.</ANSWER>
+<ANSWER ISCORRECT="false">15 días.</ANSWER>
+<ANSWER ISCORRECT="false">20 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 30.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Medida cautelar de internamiento. ¿Cuánto tiempo podrá prorrogarse dicha medida, tras la finalización del plazo máximo de la misma?">
+<ANSWER ISCORRECT="true">3 meses.</ANSWER>
+<ANSWER ISCORRECT="false">6 meses.</ANSWER>
+<ANSWER ISCORRECT="false">9 meses.</ANSWER>
+<ANSWER ISCORRECT="false">1 mes.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 31.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Medidas cautelares en los casos de exención de la responsabilidad del menor. ¿A que instará el Ministerio Fiscal?">
+<ANSWER ISCORRECT="false">A la entrega del mismo a sus progenitores.</ANSWER>
+<ANSWER ISCORRECT="true">A la incapacitación del menor, y a su tutela.</ANSWER>
+<ANSWER ISCORRECT="false">A solicitar alguna medida de internamiento en régimen cerrado.</ANSWER>
+<ANSWER ISCORRECT="false">A solicitar medidas terapéuticas, en caso de solicitado por la Autoridad judicial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 32.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Finalizada la fase de instrucción, ¿Que autoridad remite el expediente finalizado a otros estamentos judiciales?">
+<ANSWER ISCORRECT="false">El Juez de Menores remite el expediente al Fiscal de Menores.</ANSWER>
+<ANSWER ISCORRECT="true">El Fiscal de Menores remite el expediente al Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Menores, remite el expediente al Juez del Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal de Menores remite el expediente a la Audiencia Provincial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 33.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Fase de audiencia. Contra las decisiones del Juez de Menores, diferentes a la conformidad, en acorde al art. 33 de esta Ley, ¿Qué tipo de recursos podrán ser interpuestos? Señala la respuesta correcta.">
+<ANSWER ISCORRECT="false">La decisión del Juez no es recurrible en estos supuestos.</ANSWER>
+<ANSWER ISCORRECT="false">Solo el recurso de apelación.</ANSWER>
+<ANSWER ISCORRECT="false">Solo el recurso de reforma.</ANSWER>
+<ANSWER ISCORRECT="true">Los recursos previstos en esta Ley.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 34.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Quién informa al menor expedientado de la medidas y responsabilidad civil solicitadas?">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="true">El Secretario judicial.</ANSWER>
+<ANSWER ISCORRECT="false">El Secretario del Fiscal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 35.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. De la sentencia. ¿Qué plazo tiene el Juez de Menores para dictar sentencia?">
+<ANSWER ISCORRECT="false">10 días.</ANSWER>
+<ANSWER ISCORRECT="true">5 días.</ANSWER>
+<ANSWER ISCORRECT="false">1 mes.</ANSWER>
+<ANSWER ISCORRECT="false">20 días.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 36.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Del Régimen de recursos. ¿Qué recurso puede presentarse contra la sentencia dictada por el Juez de Menores?">
+<ANSWER ISCORRECT="true">Recurso de Apelación ante la Audiencia Provincial.</ANSWER>
+<ANSWER ISCORRECT="false">Recurso de Reforma ante la Audiencia Provincial.</ANSWER>
+<ANSWER ISCORRECT="false">Recurso de Apelación ante el mismo órgano que dictó sentencia.</ANSWER>
+<ANSWER ISCORRECT="false">Recurso de Reforma ante el Juzgado Central de Menores.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 37.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. De la ejecución de las medidas. ¿Qué principio rige en relación a la imposición de las medidas a ejecutar por la sentencia? ">
+<ANSWER ISCORRECT="false">Principio de Proporcionalidad.</ANSWER>
+<ANSWER ISCORRECT="false">Principio de subsidiariedad.</ANSWER>
+<ANSWER ISCORRECT="true">Principio de Legalidad.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 38.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Competencia Judicial. ¿La ejecución de las medidas bajo el control de que autoridad se realizarán?">
+<ANSWER ISCORRECT="false">Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="true">Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">Juez de vigilancia penitenciaria.</ANSWER>
+<ANSWER ISCORRECT="false">Equipo Técnico docente-educativo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 39.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Competencia Administrativa. ¿De qué órganos es la competencia administrativa, de la ejecución de las medidas impuestas en la sentencia?">
+<ANSWER ISCORRECT="true">De las Comunidades Autónomas.</ANSWER>
+<ANSWER ISCORRECT="false">De la autoridad judicial.</ANSWER>
+<ANSWER ISCORRECT="false">De la entidad Pública.</ANSWER>
+<ANSWER ISCORRECT="false">De quien ejerza la patria potestad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 40.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Liquidación de la medida. ¿Quién practica la liquidación de la medida, para su cumplimiento?">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="true">El Secretario Judicial.</ANSWER>
+<ANSWER ISCORRECT="false">La Entidad administrativa competente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 41.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Expediente personal de la persona sometida a la ejecución de una medida. ¿Qué órgano abrirá el citado expediente personal?">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal, para seguimiento.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Menores, para control.</ANSWER>
+<ANSWER ISCORRECT="true">La Entidad Pública, para la ejecución.</ANSWER>
+<ANSWER ISCORRECT="false">El Centro receptor del menor, si es autorizado por el Ministerio Fiscal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 42.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Presentación de recursos por el menor que se halla cumpliendo las medidas impuestas en la condena. Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Lo presentará de forma escrita.</ANSWER>
+<ANSWER ISCORRECT="true">Deberá presentarlo en todo caso ante el Director del Centro de internamiento.</ANSWER>
+<ANSWER ISCORRECT="false">Podrá presentarlo ante el Juez de Menores en forma verbal.</ANSWER>
+<ANSWER ISCORRECT="false">El letrado del menor también podrá interponer recursos al efecto.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 43.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Cumplimiento de la Medida. Cumplida la medida, la Entidad Pública remitirá a los destinatarios señalados en esta Ley, ¿A quien notificará el auto del Juez, el secretario judicial? Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Al Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">Al letrado del menor.</ANSWER>
+<ANSWER ISCORRECT="true">Al Ministerio de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">A la víctima.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 44.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Porque Principio están orientadas las medidas impuestas a un menor responsable penalmente? ">
+<ANSWER ISCORRECT="false">Principio de reinserción.</ANSWER>
+<ANSWER ISCORRECT="false">Principio de Reeducación.</ANSWER>
+<ANSWER ISCORRECT="true">Principio de Resocialización.</ANSWER>
+<ANSWER ISCORRECT="false">Principio de Responsabilidad educativa.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 45.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. De los derechos de los menores internados. Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Derecho del menor de edad civil a recibir una educación y formación integral en todos los ámbitos y a la protección específica que por su condición le dispensan las leyes.</ANSWER>
+<ANSWER ISCORRECT="false">Derecho a estar en el centro más cercano a su domicilio, de acuerdo a su régimen de internamiento, y a no ser trasladados fuera de su Comunidad Autónoma excepto en los casos y con los requisitos previstos en esta Ley y sus normas de desarrollo.</ANSWER>
+<ANSWER ISCORRECT="false">Derecho de los sentenciados a un programa de tratamiento individualizado y de todos los internados a participar en las actividades del centro.</ANSWER>
+<ANSWER ISCORRECT="true">Derecho de las menores internadas a tener en su compañía a sus hijos menores de seis años, en las condiciones y con los requisitos que se establezcan reglamentariamente. (tres años)</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 46.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Medios de contención, sobre los menores internados en el Centro. Señala la respuesta incorrecta.">
+<ANSWER ISCORRECT="false">Se podrán utilizar exclusivamente los medios de contención que se establezcan reglamentariamente para evitar actos de violencia o lesiones de las personas que cumplen las medidas previstas en esta ley.</ANSWER>
+<ANSWER ISCORRECT="false">Solo será admisible, con carácter excepcional, la sujeción de las muñecas de la persona que cumple medida de internamiento con equipos homologados, siempre y cuando se realice bajo un estricto protocolo y no sea posible aplicar medidas menos lesivas.</ANSWER>
+<ANSWER ISCORRECT="false">Se prohíbe la contención mecánica consistente en la sujeción de una persona a una cama articulada o a un objeto fijo o anclado a las instalaciones o a objetos muebles.</ANSWER>
+<ANSWER ISCORRECT="true">La aplicación de medidas de contención requerirá en todos los casos en que se hiciera uso de la fuerza, la exploración física del interno por facultativo médico en el plazo máximo de 24 horas, extendiéndose el correspondiente parte médico. (48 horas).</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 47.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. Las Faltas disciplinarias cometidas por el menor en el Centro de internamiento, ¿Se clasifican en?">
+<ANSWER ISCORRECT="false">Muy graves, graves y leves.</ANSWER>
+<ANSWER ISCORRECT="true">Graves, menos graves y leves.</ANSWER>
+<ANSWER ISCORRECT="false">Graves y leves.</ANSWER>
+<ANSWER ISCORRECT="false">Muy graves, graves, menos graves y leves.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 48.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. De la Responsabilidad Civil. ¿Quién ejercita la acción relativa a la Responsabilidad Civil? Señala la respuesta correcta.">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal incluso si el perjudicado renuncia a la misma.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">El Secretario Judicial.</ANSWER>
+<ANSWER ISCORRECT="true">El perjudicado si la ejerce por si mismo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 49.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Cuándo serán responsables civiles, las entidades aseguradoras?">
+<ANSWER ISCORRECT="false">En todo caso.</ANSWER>
+<ANSWER ISCORRECT="false">No son responsables civiles, solo recae la responsabilidad en el autor y quienes ejerzan sobre el mismo, la patria potestad.</ANSWER>
+<ANSWER ISCORRECT="true">Cuando hubiesen asumido el riesgo de las responsabilidades pecuniarias derivadas de los actos del menor.</ANSWER>
+<ANSWER ISCORRECT="false">Todas son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pregunta nº 50.: Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores. ¿Qué ordenará abrir el Juez de Menores, tan pronto como el parte de incoación del expediente por el proceso a seguir contra el menor?">
+<ANSWER ISCORRECT="false">Una pieza independiente de responsabilidad civil.</ANSWER>
+<ANSWER ISCORRECT="true">Una pieza separada de responsabilidad civil.</ANSWER>
+<ANSWER ISCORRECT="false">Una pieza supletoria de responsabilidad civil.</ANSWER>
+<ANSWER ISCORRECT="false">Una pieza subsidiaria de responsabilidad civil.</ANSWER>
+</QUESTION>
+</POLL>

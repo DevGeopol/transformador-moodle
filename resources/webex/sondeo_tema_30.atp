@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="¿Qué forma de transmisión cultural se suele producir en una colonización, al fusionarse dos culturas en una sola de las dos existentes?:">
+<ANSWER ISCORRECT="false">Una transculturación</ANSWER>
+<ANSWER ISCORRECT="false">Una enculturación</ANSWER>
+<ANSWER ISCORRECT="true">Una aculturación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Es el menos estructurado como didáctico y el menos intencional de los aprendizajes:">
+<ANSWER ISCORRECT="true">El aprendizaje informal</ANSWER>
+<ANSWER ISCORRECT="false">El aprendizaje no formal</ANSWER>
+<ANSWER ISCORRECT="false">El aprendizaje formal</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="No es característica propia de la tribu urbana:">
+<ANSWER ISCORRECT="false">Sentido de grupo</ANSWER>
+<ANSWER ISCORRECT="true">Líder permanente</ANSWER>
+<ANSWER ISCORRECT="false">Símbolos comunes</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cuál de los siguientes se considera uno de los objetivos de la socialización?:">
+<ANSWER ISCORRECT="false">Máximo conocimiento del individuo en sí mismo</ANSWER>
+<ANSWER ISCORRECT="true">Mayor consenso con la colectividad global</ANSWER>
+<ANSWER ISCORRECT="false">Mejor proceso de adaptación al medio humano</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cómo clasifica Merton, a las personas que mantienen prejuicios contra las minorías, pero por presión social actúan de una manera igualitaria?:">
+<ANSWER ISCORRECT="false">Fanáticos activos</ANSWER>
+<ANSWER ISCORRECT="false">Liberales tibios</ANSWER>
+<ANSWER ISCORRECT="true">Fanáticos tímidos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Qué se entiende por movilidad social?:">
+<ANSWER ISCORRECT="false">La posibilidad de desplazarse de un lugar a otro</ANSWER>
+<ANSWER ISCORRECT="true">La posibilidad de variar de estatus</ANSWER>
+<ANSWER ISCORRECT="false">La posibilidad de variar de rol</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="En la denominada ?socialización secundaria?:">
+<ANSWER ISCORRECT="false">La internalización es muy fuerte</ANSWER>
+<ANSWER ISCORRECT="false">Los agentes socializadores son pocos, pero intensos</ANSWER>
+<ANSWER ISCORRECT="true">La adhesión emocional es prescindible</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Afirmación falsa, en relación con los aspectos fundamentales de la personalidad:">
+<ANSWER ISCORRECT="true">El temperamento es un aspecto heredado, como el carácter</ANSWER>
+<ANSWER ISCORRECT="false">Las emociones son aspectos heredados, como el temperamento</ANSWER>
+<ANSWER ISCORRECT="false">La virtud es un aspecto adquirido, como lo es el carácter</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Según Freud, en la estructura de la personalidad, el ?ego? se basa:">
+<ANSWER ISCORRECT="false">En el principio del placer</ANSWER>
+<ANSWER ISCORRECT="true">En el principio de la realidad</ANSWER>
+<ANSWER ISCORRECT="false">En el principio del deber</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Quiénes basan la personalidad solo en la educación del individuo?:">
+<ANSWER ISCORRECT="false">Los denominados genetistas</ANSWER>
+<ANSWER ISCORRECT="true">Los denominados ambientalistas</ANSWER>
+<ANSWER ISCORRECT="false">Los denominados sintéticos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Qué es la formación o reforzamiento de una asociación basada en un comportamiento condicionado por un premio o un castigo, establecidos previamente?:">
+<ANSWER ISCORRECT="false">El aprendizaje denominado condicionamiento clásico</ANSWER>
+<ANSWER ISCORRECT="true">El aprendizaje denominado condicionamiento operante</ANSWER>
+<ANSWER ISCORRECT="false">El aprendizaje denominado condicionamiento vicario</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿A qué concepto nos referimos si hablamos de una sociedad en la que prima la individualidad sobre la colectividad, con una gran división del trabajo, según Durkheim?:">
+<ANSWER ISCORRECT="false">A la solidaridad mecánica</ANSWER>
+<ANSWER ISCORRECT="false">A la sociedad tradicional</ANSWER>
+<ANSWER ISCORRECT="true">A la solidaridad orgánica</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El antisemitismo es:">
+<ANSWER ISCORRECT="true">Cualquier acto de odio, violencia, discriminación, fobia y rechazo, practicados contra los judíos o nacionales del Estado de Israel</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier acto de odio, violencia, discriminación, fobia y rechazo, practicados contra los miembros de la comunidad musulmana</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier acto de odio, violencia, discriminación, fobia y rechazo, practicados contra los nacionales de los Estados de Oriente próximo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="No existe ?tolerancia?:">
+<ANSWER ISCORRECT="false">Si lo tolerado nos desagrada</ANSWER>
+<ANSWER ISCORRECT="true">Si lo tolerado nos es indiferente</ANSWER>
+<ANSWER ISCORRECT="false">Si lo tolerado nos supone sacrificio</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿En qué se basa el proceso de ?socialización terciaria? que surge en la vejez, cuando se deja de practicar lo aprendido y se tiende a una resocialización?:">
+<ANSWER ISCORRECT="false">En una retrosocialización</ANSWER>
+<ANSWER ISCORRECT="true">En una desocialización</ANSWER>
+<ANSWER ISCORRECT="false">En una gerosocialización</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cuál es el conocido como ?aprendizaje por ensayo y error??:">
+<ANSWER ISCORRECT="false">El condicionamiento operante</ANSWER>
+<ANSWER ISCORRECT="true">El condicionamiento clásico</ANSWER>
+<ANSWER ISCORRECT="false">El condicionamiento respondiente</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cuál de las siguientes es una definición de ?discriminación positiva??:">
+<ANSWER ISCORRECT="false">Comprobar que un colectivo tiene derechos y deberes distintos a los de los demás</ANSWER>
+<ANSWER ISCORRECT="true">Dotar a un colectivo discriminado de alguna ventaja respecto a la generalidad</ANSWER>
+<ANSWER ISCORRECT="false">Conceder a un colectivo trato desigual y oportunidades sociales diferentes</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cuál de estas tres dimensiones psicoanalíticas de Freud correspondería a las normas de comportamiento ideal, propias de la cultura social?:">
+<ANSWER ISCORRECT="false">El yo o ego</ANSWER>
+<ANSWER ISCORRECT="true">El superyó o superego</ANSWER>
+<ANSWER ISCORRECT="false">El ello o id</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Lo rural tiene características más cercanas a lo que Durkheim denominó:">
+<ANSWER ISCORRECT="false">Gesellschaft</ANSWER>
+<ANSWER ISCORRECT="true">Solidaridad orgánica</ANSWER>
+<ANSWER ISCORRECT="false">a y b son incorrectas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Afirmación correcta:">
+<ANSWER ISCORRECT="false">El prejuicio racial es un comportamiento social</ANSWER>
+<ANSWER ISCORRECT="false">El prejuicio racial es un valor social</ANSWER>
+<ANSWER ISCORRECT="true">El prejuicio racial es una actitud social</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Qué es la formación o el reforzamiento de una asociación entre un estímulo neutro y un reflejo, es decir, asociación de respuestas automáticas ante nuevos estímulos?:">
+<ANSWER ISCORRECT="true">El aprendizaje denominado condicionamiento clásico</ANSWER>
+<ANSWER ISCORRECT="false">El aprendizaje denominado condicionamiento operante</ANSWER>
+<ANSWER ISCORRECT="false">El aprendizaje denominado condicionamiento vicario</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿De qué grupo socializador procede, según Merton, la denominada ?socialización anticipatoria??:">
+<ANSWER ISCORRECT="true">De los grupos de referencia o identificación</ANSWER>
+<ANSWER ISCORRECT="false">De los grupos formales</ANSWER>
+<ANSWER ISCORRECT="false">De los grupos heterogéneos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿En qué se basa el fanatismo?:">
+<ANSWER ISCORRECT="true">En el maniqueísmo</ANSWER>
+<ANSWER ISCORRECT="false">En el analfabetismo</ANSWER>
+<ANSWER ISCORRECT="false">En la objetividad</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Quiénes reflejan la naturaleza cultural de una sociedad?:">
+<ANSWER ISCORRECT="true">Los medios de comunicación</ANSWER>
+<ANSWER ISCORRECT="false">Los distintos grupos sociales</ANSWER>
+<ANSWER ISCORRECT="false">Las escuelas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Qué tipo de aprendizaje es el denominado ?vicario??:">
+<ANSWER ISCORRECT="false">El basado en el estudio y la cultura</ANSWER>
+<ANSWER ISCORRECT="false">El basado en el estímulo y la imposición</ANSWER>
+<ANSWER ISCORRECT="true">El basado en la observación y la imitación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Una sociedad preindustrial se corresponde con un tipo de solidaridad:">
+<ANSWER ISCORRECT="false">Primitiva</ANSWER>
+<ANSWER ISCORRECT="true">Mecánica</ANSWER>
+<ANSWER ISCORRECT="false">Orgánica</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cuáles son las tres formas de transmisión cultural?:">
+<ANSWER ISCORRECT="false">Enculturación, culturación y transculturación</ANSWER>
+<ANSWER ISCORRECT="false">Culturación, aculturación y transculturación</ANSWER>
+<ANSWER ISCORRECT="true">Enculturación, aculturación y transculturación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Tribus urbanas de corte violento:">
+<ANSWER ISCORRECT="true">Canis y hiphoperos</ANSWER>
+<ANSWER ISCORRECT="false">Heavys y rastafaris</ANSWER>
+<ANSWER ISCORRECT="false">Raperos y chetas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Señale el binomio interrelacionado:">
+<ANSWER ISCORRECT="true">Progreso-Solidaridad Orgánica</ANSWER>
+<ANSWER ISCORRECT="false">Tradición-Solidaridad Orgánica</ANSWER>
+<ANSWER ISCORRECT="false">Industrialización-Solidaridad Mecánica</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La ciencia que estudia el comportamiento de los animales y del ser humano es denominada:">
+<ANSWER ISCORRECT="false">Demoscopia</ANSWER>
+<ANSWER ISCORRECT="true">Etología</ANSWER>
+<ANSWER ISCORRECT="false">Geografía de la población</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La adquisición y asimilación de una nueva cultura o aspectos de la cultura distinta a la propia, mediante el contacto continuo y generalmente involuntario, es la definición de una forma de transmisión cultural, denominada:">
+<ANSWER ISCORRECT="true">Aculturación</ANSWER>
+<ANSWER ISCORRECT="false">Endoculturación</ANSWER>
+<ANSWER ISCORRECT="false">Transculturación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="¿Cuántos tipos de socialización existen?:">
+<ANSWER ISCORRECT="false">2</ANSWER>
+<ANSWER ISCORRECT="true">3</ANSWER>
+<ANSWER ISCORRECT="false">5</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="La socialización es un proceso:">
+<ANSWER ISCORRECT="false">Permanente y homogéneo</ANSWER>
+<ANSWER ISCORRECT="true">Permanente y difuso</ANSWER>
+<ANSWER ISCORRECT="false">Esporádico y heterogéneo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Se denominan grupo exógenos:">
+<ANSWER ISCORRECT="false">Grupos de afuera</ANSWER>
+<ANSWER ISCORRECT="false">Grupos ajenos</ANSWER>
+<ANSWER ISCORRECT="true">Las otras dos son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="El concepto de racialismo fue acuñado por:">
+<ANSWER ISCORRECT="false">Taguieff</ANSWER>
+<ANSWER ISCORRECT="true">Todorov</ANSWER>
+<ANSWER ISCORRECT="false">Bernier</ANSWER>
+</QUESTION>
+</POLL>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>1- Real Decreto 240/2007.A quién de los siguientes se aplica el régimen comunitario:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1- Real Decreto 240/2007.A quién de los siguientes se aplica el régimen comunitario:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al hijo congoleño de 19 años de un francés </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al ex marido de una portuguesa</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la pareja de hecho de un bielorruso</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se aplica a todos los anteriores</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>2- Real Decreto 240/2007.La solicitud de la tarjeta de residencia de familiar de ciudadano de la Unión deberá presentarse en el plazo __________desde la fecha de entrada en España, ante la Oficina de Extranjeros de la provincia donde el interesado pretenda permanecer o fijar su residencia o, en su defecto, ante la Comisaría de Policía correspondiente</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">2- Real Decreto 240/2007.La solicitud de la tarjeta de residencia de familiar de ciudadano de la Unión deberá presentarse en el plazo __________desde la fecha de entrada en España, ante la Oficina de Extranjeros de la provincia donde el interesado pretenda permanecer o fijar su residencia o, en su defecto, ante la Comisaría de Policía correspondiente</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De tres meses</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De un mes</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De dos meses</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De seis meses</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>3- Real Decreto 240/2007.Se perderá el derecho de residencia permanente:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">3- Real Decreto 240/2007.Se perderá el derecho de residencia permanente:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por ausencia de la Unión Europea durante mas de 12 meses</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por ausencia del territorio español durante más de dos años consecutivos</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por ausencia del territorio español durante más de doce meses consecutivos</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por ausencia de la Unión Europea durante más de dos años consecutivos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>4- Real Decreto 240/2007.La tarjeta de residencia permanente para miembros de la familia que no tengan la nacionalidad de un Estado miembro de la Unión Europea</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">4- Real Decreto 240/2007.La tarjeta de residencia permanente para miembros de la familia que no tengan la nacionalidad de un Estado miembro de la Unión Europea</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Será renovable automáticamente cada diez años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Será renovable automáticamente cada cinco años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Será renovable automáticamente cada tres años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No es renovable, tiene carácter indefinido</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>5- Real Decreto 240/2007.Si un comunitario ha residido en España durante los diez años anteriores:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">5- Real Decreto 240/2007.Si un comunitario ha residido en España durante los diez años anteriores:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No se le podrá expulsar</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No se le podrá expulsar salvo motivos graves de orden público o seguridad pública</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No se le podrá expulsar salvo si existen motivos imperiosos de seguridad pública</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se les expulsará por incurrir en las infracciones de la ley 4/2000</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>6- Real Decreto 240/2007. Las resoluciones de expulsión establecerán un plazo para abandonar el territorio español que salvo casos urgentes no podrá ser inferior a </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">6- Real Decreto 240/2007. Las resoluciones de expulsión establecerán un plazo para abandonar el territorio español que salvo casos urgentes no podrá ser inferior a </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Quince días a partir de la fecha de notificación</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Un mes a partir de la fecha de notificación</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Dos meses a partir de la fecha de notificación</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Diez días a partir de la fecha de notificación</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>7. Real Decreto 240/2007 En el caso de pareja de hecho se entenderá la existencia de vínculo duradero si se acredita un tiempo de convivencia marital de:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">7. Real Decreto 240/2007 En el caso de pareja de hecho se entenderá la existencia de vínculo duradero si se acredita un tiempo de convivencia marital de:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos, un año continuado, salvo que tuvieran descendencia en común, en cuyo caso bastará la acreditación de convivencia estable debidamente probada</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos dos años continuados</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos, seis meses continuados, salvo que tuvieran descendencia en común, en cuyo caso bastará la acreditación de convivencia estable debidamente probada</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos seis meses</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>8. Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.En el caso de familiares, en todo caso, se entenderá acreditada la convivencia cuando se demuestre fehacientemente una convivencia continuada de______________  en el país de procedencia:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">8. Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.En el caso de familiares, en todo caso, se entenderá acreditada la convivencia cuando se demuestre fehacientemente una convivencia continuada de______________  en el país de procedencia:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">12 meses</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">24 meses</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">6 meses</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">18 meses</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>9. Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo, o a miembros de su familia, con independencia de su nacionalidad, que hayan adquirido el derecho de residencia permanente en España, si existen motivos _______________________.</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">9. Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo, o a miembros de su familia, con independencia de su nacionalidad, que hayan adquirido el derecho de residencia permanente en España, si existen motivos _______________________.</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De orden público, de seguridad pública o de salud pública</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Graves de orden público o seguridad pública</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Imperiosos de seguridad pública</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De seguridad nacional</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>10.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia que no posean la nacionalidad de uno de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo efectuarán su entrada en España:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia que no posean la nacionalidad de uno de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo efectuarán su entrada en España:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con pasaporte valido y en vigor</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con un pasaporte válido y en vigor, necesitando, además, en su caso, el correspondiente visado de entrada</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con visado de entrada</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con un documento de identidad válido y en vigor, necesitando, además, en su caso, el correspondiente visado de entrada</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>11.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia de un ciudadano de un Estado miembro de la Unión Europea o de un Estado parte en el Acuerdo sobre el Espacio Económico Europeo que no ostenten la nacionalidad de uno de dichos Estados, cuando le acompañen o se reúnan con él, tendrán la obligación de solicitar y obtener:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">11.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia de un ciudadano de un Estado miembro de la Unión Europea o de un Estado parte en el Acuerdo sobre el Espacio Económico Europeo que no ostenten la nacionalidad de uno de dichos Estados, cuando le acompañen o se reúnan con él, tendrán la obligación de solicitar y obtener:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Su inscripción en el Registro Central de Extranjeros</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La tarjeta de residencia de familiar de ciudadano de la Unión</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La tarjeta como residente de ciudadano de la Unión</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Su inscripción en el Registro Civil</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>12.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Dicho Real decreto se aplica también a los descendientes directos de un comunitario cuando sea menor de: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">12.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Dicho Real decreto se aplica también a los descendientes directos de un comunitario cuando sea menor de: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">18 años</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">21 años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">23 años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">25 años</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>13.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Las resoluciones de expulsión serán dictadas:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">13.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Las resoluciones de expulsión serán dictadas:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Siempre por el delegado del Gobierno</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por el delegado del gobierno en las comunidades autónomas pluriprovinciales</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Subdelegados del Gobierno</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Oficina de extranjería del lugar de residencia del interesado</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>14.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con carácter general, no se aplicará este Decreto a los nacionales de:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">14.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con carácter general, no se aplicará este Decreto a los nacionales de:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Islandia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Suiza</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Portugal</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Andorra</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>15.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. La caducidad del documento de identidad o del pasaporte con el que el interesado efectuara su entrada en España, o, en su caso, de la tarjeta de residencia:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">15.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. La caducidad del documento de identidad o del pasaporte con el que el interesado efectuara su entrada en España, o, en su caso, de la tarjeta de residencia:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Será causa de devolución</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Será causa de deportación</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Será causa de expulsión</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No podrá ser causa de expulsión</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>16.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia que no posean la nacionalidad de uno de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo efectuarán su entrada en España:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">16.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia que no posean la nacionalidad de uno de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo efectuarán su entrada en España:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con un pasaporte válido y en vigor, necesitando, además, el correspondiente visado de entrada cuando así lo disponga el Reglamento (CE) 539/2001, de 15 de marzo</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con el pasaporte o documento de identidad válido y en vigor y en el que conste la nacionalidad del titular</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con pasaporte válido no necesitando visado en ningún caso</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con el pasaporte o documento de identidad válido y en vigor en el que conste la nacionalidad del titular y además el correspondiente visado</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>17.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Se exige la existencia de motivos imperiosos de seguridad pública para expulsar a:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">17.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Se exige la existencia de motivos imperiosos de seguridad pública para expulsar a:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que hubiera residido en España durante los diez años anteriores</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que tenga una residencia permanente</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que tenga una residencia temporal</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>18.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.. Tarjeta de residencia permanente para miembros de la familia de un nacional de un Estado miembro. Las interrupciones de residencia no superiores a_____________, no afectarán a la vigencia de la tarjeta de residencia permanente</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">18.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.. Tarjeta de residencia permanente para miembros de la familia de un nacional de un Estado miembro. Las interrupciones de residencia no superiores a_____________, no afectarán a la vigencia de la tarjeta de residencia permanente</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Dos años consecutivos</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tres años consecutivos</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seis meses</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cinco años consecutivos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>19.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos de un Estado miembro de la Unión Europea con independencia de su nacionalidad, que hayan adquirido el derecho de residencia permanente en España, si existen motivos graves de: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">19.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos de un Estado miembro de la Unión Europea con independencia de su nacionalidad, que hayan adquirido el derecho de residencia permanente en España, si existen motivos graves de: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Orden público</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seguridad nacional</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Salud pública</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna es correcta</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>20. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. El presente real decreto se aplica también, cualquiera que sea su nacionalidad al:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">20. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. El presente real decreto se aplica también, cualquiera que sea su nacionalidad al:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ex cónyuge de un nacional de la UE</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A los descendientes del nacional de la UE que sean menores de 21 años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la pareja con la que mantenga una unión análoga a la conyugal inscrita en un registro público con el nacional de la UE , aunque se haya cancelado dicha inscripción</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se aplica a todos los anteriores</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>21.Para que como regla general se te aplique el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo se requiere ser de que nacionalidad (SEÑALA LA INCORRECTA):</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">21.Para que como regla general se te aplique el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo se requiere ser de que nacionalidad (SEÑALA LA INCORRECTA):</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Suiza</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Islandia</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Moldavia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Francia</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>22.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Podrá ser causa de expulsión:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">22.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Podrá ser causa de expulsión:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La caducidad del pasaporte con el que el interesado efectuara su entrada en España</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La caducidad de la tarjeta de residencia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cometer una tercera infracción grave</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores es cierta</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>23.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo . La tarjeta de familiar de ciudadano de la Unión deberá expedirse:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">23.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo . La tarjeta de familiar de ciudadano de la Unión deberá expedirse:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el plazo de los tres meses siguientes a la presentación de la solicitud</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En el plazo del mes siguiente a la presentación de la solicitud</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Inmediatamente desde la solicitud</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Nada de lo anterior es cierto</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>24.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En el caso de familiares se entenderá acreditada la convivencia cuando se demuestre fehacientemente una convivencia continuada</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">24.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En el caso de familiares se entenderá acreditada la convivencia cuando se demuestre fehacientemente una convivencia continuada</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 12 meses en el país de procedencia</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 24 meses en el país de procedencia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 6 meses en el país de procedencia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">De 18 meses en el país de procedencia</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>25. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con carácter general, la resolución de expulsión de alguien a que se aplica el régimen comunitario:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">25. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con carácter general, la resolución de expulsión de alguien a que se aplica el régimen comunitario:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Establecerán un plazo para abandonar el territorio español , que salvo casos urgentes no podrá ser inferior a un mes</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No establecerá un plazo de abandono voluntario</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Establecerán un plazo para abandonar el territorio español , que salvo casos urgentes no podrá ser inferior a tres meses</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Establecerán un plazo para abandonar el territorio español , que salvo casos urgentes no podrá ser inferior a seis meses</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>26. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. NO es una situación prevista en el Real Decreto 240/2007:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">26. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. NO es una situación prevista en el Real Decreto 240/2007:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La estancia</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La residencia de más de tres meses</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La residencia de larga duración </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La residencia permanente</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>27. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Son titulares del derecho a residir con carácter permanente los ciudadanos de un Estado miembro de la Unión Europea o de un Estado parte en el Acuerdo sobre el Espacio Económico Europeo, y los miembros de la familia que no sean nacionales de uno de dichos Estados, que hayan residido legalmente en España durante un período continuado de</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">27. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Son titulares del derecho a residir con carácter permanente los ciudadanos de un Estado miembro de la Unión Europea o de un Estado parte en el Acuerdo sobre el Espacio Económico Europeo, y los miembros de la familia que no sean nacionales de uno de dichos Estados, que hayan residido legalmente en España durante un período continuado de</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">3 años</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">5 años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10 años</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">8 años</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>28. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En el caso de pareja de hecho, se entenderá la existencia de vínculo duradero si se acredita un tiempo de convivencia marital de: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">28. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En el caso de pareja de hecho, se entenderá la existencia de vínculo duradero si se acredita un tiempo de convivencia marital de: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos, un año continuado aunque tengan descendencia común </p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Basta acreditar la convivencia si tienen descendencia en común</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos 24 meses continuados</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al menos 6 meses continuados</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>29. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Las resoluciones de expulsión de los comunitarios serán dictadas por:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">29. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Las resoluciones de expulsión de los comunitarios serán dictadas por:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Subdelegados del Gobierno </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Delegados del Gobierno en las comunidades autónomas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las dos son correctas</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Secretario de Estado de Seguridad</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>30. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Si se aplicará el régimen comunitario al cónyuge de un belga:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">30. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Si se aplicará el régimen comunitario al cónyuge de un belga:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Que estén separados</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Que sea declarado nulo el matrimonio</p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Que estén divorciados </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No se aplica el régimen comunitario al cónyuge</p>]]></text></answer>
+<tags></tags></question></quiz>

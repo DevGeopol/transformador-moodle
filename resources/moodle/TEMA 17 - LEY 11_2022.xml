@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>01. TIC´s. Ley General de Telecomunicaciones. ¿Para qué se crea la presente ley?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">01. TIC´s. Ley General de Telecomunicaciones. ¿Para qué se crea la presente ley?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto de la Ley.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para regular la instalación en el ámbito de las telecomunicaciones</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto de la Ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para regular la explotación de las telecomunicaciones</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto de la Ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para regular la prestación de los servicios en el ámbito de las telecomunicaciones</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto de la Ley.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las opciones son correctas</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 1. Objeto de la Ley.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>02. TIC´s. Ley General de Telecomunicaciones. En los ámbitos de la seguridad pública, seguridad vial y de la protección civil, en su específica relación con el uso de las telecomunicaciones, el Ministerio de Asuntos Económicos y Transformación Digital cooperará con: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">02. TIC´s. Ley General de Telecomunicaciones. En los ámbitos de la seguridad pública, seguridad vial y de la protección civil, en su específica relación con el uso de las telecomunicaciones, el Ministerio de Asuntos Económicos y Transformación Digital cooperará con: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas con competencias sobre las citadas materias. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior y el Ministerio de Defensa. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas y Entidades Locales con competencias asumidas. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa y con los órganos responsables de las Comunidades Autónomas y Provincias con competencias en la materia. </p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>03. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes NO tiene consideración de servicio público?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">03. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes NO tiene consideración de servicio público?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seguridad Nacional</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seguridad Pública</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Defensa Pública</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seguridad Vial</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>04. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes no figura como un objetivo de la presente Ley?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">04. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes no figura como un objetivo de la presente Ley?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fomentar la competencia efectiva en los mercados de telecomunicaciones</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Desarrollar la economía y el empleo digital</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Promover el despliegue de redes y la prestación de servicios, fomentando la conectividad y la interoperabilidad extremo a extremo, en condiciones de igualdad y discriminación.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Contribuir al desarrollo del mercado interior de servicios de comunicaciones.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>05. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes no figura como un objetivo de la presente Ley?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">05. TIC´s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes no figura como un objetivo de la presente Ley?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Impulsar la universalidad del acceso a las redes</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fomentar la neutralidad tecnológica</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Uso eficaz y eficiente de los recursos ilimitados de telecomunicaciones.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Contribuir al desarrollo del mercado interior de servicios de comunicaciones.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>06. TIC´s. Ley General de Telecomunicaciones. En los ámbitos de la seguridad defensa nacional, en su específica relación con el uso de las telecomunicaciones, el Ministerio de Asuntos Económicos y Transformación Digital cooperará con: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">06. TIC´s. Ley General de Telecomunicaciones. En los ámbitos de la seguridad defensa nacional, en su específica relación con el uso de las telecomunicaciones, el Ministerio de Asuntos Económicos y Transformación Digital cooperará con: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas con competencias sobre las citadas materias. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior y el Ministerio de Defensa. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior y con los órganos responsables de las Comunidades Autónomas y Entidades Locales con competencias asumidas. </p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>07. TIC´s. Ley General de Telecomunicaciones. ¿Qué se fomentará al promover el despliegue de redes y prestación de servicios de comunicaciones electrónicas? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">07. TIC´s. Ley General de Telecomunicaciones. ¿Qué se fomentará al promover el despliegue de redes y prestación de servicios de comunicaciones electrónicas? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La amplitud del ancho de banda y de las conexiones inalámbricas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La precisión en la prestación de servicios y los límites demaniales en el despliegue. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La conectividad y la interoperabilidad extremo a extremo. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La conexión con puntos remotos o de difícil acceso. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>08. TIC´s. Ley General de Telecomunicaciones. Señala la característica CORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">08. TIC´s. Ley General de Telecomunicaciones. Señala la característica CORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Servicio prestado en régimen de libre competencia. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Servicio de interés general. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">y son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">y son incorrectas.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. Las telecomunicaciones como servicios de interés general.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>09. TIC´s. Ley General de Telecomunicaciones. ¿A qué principios se atenderá para proteger en los mercados de telecomunicaciones la satisfacción de las necesidades de grupos sociales específicos? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">09. TIC´s. Ley General de Telecomunicaciones. ¿A qué principios se atenderá para proteger en los mercados de telecomunicaciones la satisfacción de las necesidades de grupos sociales específicos? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Igualdad de oportunidades y no discriminación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Igualdad y progresividad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Congruencia y oportunidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Eficacia, jerarquía, igualdad de oportunidades y reciprocidad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la Ley. Opción L
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>10. TIC´s. Ley General de Telecomunicaciones. ¿Qué órgano ejecuta la política de defensa nacional en el ámbito de las telecomunicaciones? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10. TIC´s. Ley General de Telecomunicaciones. ¿Qué órgano ejecuta la política de defensa nacional en el ámbito de las telecomunicaciones? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"> El Ministerio de Asuntos Económicos y Transformación Digital. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Asuntos Exteriores. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Dirección General de Telecomunicaciones y Medios de Comunicación. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Agencia Española de Telecomunicaciones. </p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>11. TIC´s. Ley General de Telecomunicaciones. ¿En qué casos excepcionales podrá el Gobierno acordar la asunción por parte de la AGE de la intervención de servicios de comunicaciones electrónicas? Señala la INCORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">11. TIC´s. Ley General de Telecomunicaciones. ¿En qué casos excepcionales podrá el Gobierno acordar la asunción por parte de la AGE de la intervención de servicios de comunicaciones electrónicas? Señala la INCORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los que puedan afectar a la seguridad pública. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los que puedan afectar a la defensa nacional. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los que puedan afectar a los poderes del estado. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los que puedan afectar al orden público. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>12. TIC´s. Ley General de Telecomunicaciones. ¿Qué órgano podrá examinar las medidas técnicas y de gestión adoptadas por los operadores para preservar la seguridad en la explotación de su red para garantizar la protección de los datos de carácter personal? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">12. TIC´s. Ley General de Telecomunicaciones. ¿Qué órgano podrá examinar las medidas técnicas y de gestión adoptadas por los operadores para preservar la seguridad en la explotación de su red para garantizar la protección de los datos de carácter personal? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 58. Secreto de las comunicaciones.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 58. Secreto de las comunicaciones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Educación y Ciencia. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 58. Secreto de las comunicaciones.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Agencia Española de Protección de Datos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 58. Secreto de las comunicaciones.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Consejo de Seguridad Nacional en las Comunicaciones</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 58. Secreto de las comunicaciones.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>13. TIC´s. Ley General de Telecomunicaciones. ¿Cómo podrá establecerse el formato y contenido del inventario de violaciones de datos personales? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">13. TIC´s. Ley General de Telecomunicaciones. ¿Cómo podrá establecerse el formato y contenido del inventario de violaciones de datos personales? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cada operador establecerá el suyo y lo enviará a la Agencia Española de protección de Datos. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por acuerdo de las organizaciones y asociaciones más representativas del sector. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mediante Real Decreto. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Reglamentariamente. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>14. TIC´s. Ley General de Telecomunicaciones. La Agencia Española de Protección de Datos, en el ejercicio de su competencia de _____, podrá examinar las medidas adoptadas por los operadores que exploten redes públicas de comunicaciones electrónicas o que presten servicios de comunicaciones electrónicas disponibles al público y podrá formular recomendaciones sobre las mejores prácticas con respecto al nivel de seguridad que debería conseguirse con estas medidas. </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">14. TIC´s. Ley General de Telecomunicaciones. La Agencia Española de Protección de Datos, en el ejercicio de su competencia de _____, podrá examinar las medidas adoptadas por los operadores que exploten redes públicas de comunicaciones electrónicas o que presten servicios de comunicaciones electrónicas disponibles al público y podrá formular recomendaciones sobre las mejores prácticas con respecto al nivel de seguridad que debería conseguirse con estas medidas. </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Control de la seguridad en el tratamiento de la información de carácter público. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Vigilancia del control en la gestión administrativa. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Garantía de la seguridad en el tratamiento de datos de carácter personal. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Intervención del control en el tratamiento de la información personal y privada. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 60. Protección de los datos de carácter personal.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>15. TIC´s. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Asuntos Económicos y Transformación Digital aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">15. TIC´s. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Asuntos Económicos y Transformación Digital aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la Agencia Nacional de Defensa. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la Agencia Nacional de Seguridad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la Defensa Nacional Contra Ciberataques. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la Secretaría de Estado de Seguridad del Ministerio del Interior. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>16. TIC’s. Ley General de Telecomunicaciones. ¿Qué servicios o actividades quedan excluidos del ámbito de esta ley? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">16. TIC’s. Ley General de Telecomunicaciones. ¿Qué servicios o actividades quedan excluidos del ámbito de esta ley? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Ámbito de aplicación.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los servicios de comunicación audiovisual. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los contenidos audiovisuales transmitidos a través de las redes. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los servicios que suministren contenidos transmitidos mediante redes y servicios de comunicaciones electrónicas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todos los anteriores quedan excluidos del ámbito de aplicación de esta ley. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Ámbito de aplicación.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>17. TIC’s. Ley General de Telecomunicaciones. ¿Qué son las telecomunicaciones? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">17. TIC’s. Ley General de Telecomunicaciones. ¿Qué son las telecomunicaciones? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Son servicios de interés general que se prestan en régimen de libre competencia. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Son servicios de interés general que se prestan en régimen de cooperación voluntaria. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Son servicios de interés público que se prestan en régimen de libre competencia. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Son servicios de interés público que se prestan en régimen de cooperación voluntaria. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>18. TIC’s. Ley General de Telecomunicaciones. ¿Qué servicios tienen la consideración de servicio público? Señala la INCORRECTA: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">18. TIC’s. Ley General de Telecomunicaciones. ¿Qué servicios tienen la consideración de servicio público? Señala la INCORRECTA: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Defensa Nacional. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seguridad Pública. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seguridad Vial. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Seguridad Social. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 2. LAS TELECOMUNICACIONES COMO SERVICIOS DE INTERÉS GENERAL.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>19. TIC’s. Ley General de Telecomunicaciones. ¿Qué ministerios coordinarán la planificación del sistema de telecomunicaciones de las Fuerzas Armadas? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">19. TIC’s. Ley General de Telecomunicaciones. ¿Qué ministerios coordinarán la planificación del sistema de telecomunicaciones de las Fuerzas Armadas? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa y de Interior. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa, de Interior y de Asuntos Económicos y Transformación Digital. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa y de Administraciones Públicas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa y de Asuntos Económicos y Transformación Digital.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>20. TIC’s. Ley General de Telecomunicaciones. ¿Cuál es el órgano de la AGE con competencia para ejecutar la política de defensa nacional en el sector de las Telecomunicaciones? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">20. TIC’s. Ley General de Telecomunicaciones. ¿Cuál es el órgano de la AGE con competencia para ejecutar la política de defensa nacional en el sector de las Telecomunicaciones? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Asuntos Económicos y Transformación Digital, con la debida coordinación con el Ministerio de Defensa y siguiendo los criterios fijados por éste. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Asuntos Económicos y Transformación Digital, bajo su exclusivo criterio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa, con la debida coordinación con el Ministerio de Asuntos Económicos y Transformación Digital,  siguiendo los criterios fijados por éste. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa, bajo su exclusivo criterio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>21. TIC’s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes NO es un objetivo y principio de esta Ley? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">21. TIC’s. Ley General de Telecomunicaciones. ¿Cuál de los siguientes NO es un objetivo y principio de esta Ley? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fomentar la competencia efectiva en los mercados de telecomunicaciones para potenciar al máximo los beneficios para las empresas y los consumidores, principalmente en términos de bajada de los precios, calidad de los servicios e innovación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Desarrollar la economía y el empleo digital, promover el desarrollo del sector de las telecomunicaciones y de todos los nuevos servicios digitales que las nuevas redes ultrarrápidas permiten. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Promover el despliegue de redes y la prestación de servicios de comunicaciones electrónicas, fomentando la conectividad y la interoperabilidad extremo a extremo y su acceso, en condiciones de igualdad y no discriminación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Hacer posible el uso eficaz de los recursos ilimitados de telecomunicaciones, como la numeración y el espectro radioeléctrico. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>22. TIC’s. Ley General de Telecomunicaciones. ¿Quién podrá acordar la asunción de la gestión directa por la Administración General del Estado o la intervención de las redes y servicios de comunicaciones electrónicas que puedan afectar al orden público, la seguridad pública y la seguridad nacional? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">22. TIC’s. Ley General de Telecomunicaciones. ¿Quién podrá acordar la asunción de la gestión directa por la Administración General del Estado o la intervención de las redes y servicios de comunicaciones electrónicas que puedan afectar al orden público, la seguridad pública y la seguridad nacional? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Gobierno, con carácter excepcional y transitorio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Gobierno, atendiendo a los criterios que se fijen en la declaración de estado de alarma, excepción o sitio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las Cortes Generales, con carácter excepcional y transitorio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las Cortes Generales, atendiendo a los criterios que se fijen en la declaración de estado de alarma, excepción o sitio. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>23. TIC’s. Ley General de Telecomunicaciones. ¿Qué ministerios propondrán al Gobierno las medidas y sistemas de seguridad, vigilancia, difusión de información, prevención de riesgos y protección, que dispondrán los bienes muebles o inmuebles vinculados a los centros, establecimientos y dependencias afectos a la explotación de las redes y a la prestación de los servicios de telecomunicaciones? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">23. TIC’s. Ley General de Telecomunicaciones. ¿Qué ministerios propondrán al Gobierno las medidas y sistemas de seguridad, vigilancia, difusión de información, prevención de riesgos y protección, que dispondrán los bienes muebles o inmuebles vinculados a los centros, establecimientos y dependencias afectos a la explotación de las redes y a la prestación de los servicios de telecomunicaciones? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Defensa. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio del Interior. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Ministerio de Asuntos Económicos y Transformación Digital. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas son correctas.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>24. TIC’s. Ley General de Telecomunicaciones. Señala la INCORRECTA. Algunos de los objetivos y principio de esta ley son los siguientes: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">24. TIC’s. Ley General de Telecomunicaciones. Señala la INCORRECTA. Algunos de los objetivos y principio de esta ley son los siguientes: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fomentar la competencia efectiva en los mercados de telecomunicaciones para potenciar al máximo los beneficios para las empresas y los consumidores, principalmente en términos de subida de los precios, calidad de los servicios e innovación. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Desarrollar la economía y el empleo digital, promover el desarrollo del sector de las telecomunicaciones y de todos los nuevos servicios digitales que las nuevas redes ultrarrápidas permiten. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Promover el desarrollo de la industria de productos y equipos de telecomunicaciones. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Hacer posible el uso eficaz de los recursos limitados de telecomunicaciones, como la numeración y el espectro radioeléctrico. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 3. Objetivos y principios de la ley.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>25. TIC’s. Ley General de Telecomunicaciones. ¿En qué ámbitos, en su específica relación con el uso de las telecomunicaciones, cooperará el Ministerio de Asuntos Económicos y Transformación Digital con el Ministerio del Interior? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">25. TIC’s. Ley General de Telecomunicaciones. ¿En qué ámbitos, en su específica relación con el uso de las telecomunicaciones, cooperará el Ministerio de Asuntos Económicos y Transformación Digital con el Ministerio del Interior? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En los ámbitos de Seguridad Pública. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En los ámbitos de Seguridad Vial. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En los ámbitos de Protección Civil. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas son correctas. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>26. TIC’s. Ley General de Telecomunicaciones. ¿En qué casos podrá acordar el Gobierno la asunción de la gestión directa, por parte de la Administración General del Estado, de la intervención de las redes y servicios de comunicaciones electrónicas? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">26. TIC’s. Ley General de Telecomunicaciones. ¿En qué casos podrá acordar el Gobierno la asunción de la gestión directa, por parte de la Administración General del Estado, de la intervención de las redes y servicios de comunicaciones electrónicas? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cuando así esté establecido en una norma con rango de ley. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cuando fuere requerido para ello por las autoridades competentes. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Con carácter excepcional y transitorio, en determinados supuestos excepcionales. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por resolución judicial motivada. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>27. TIC’s. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Asuntos Económicos y Transformación Digital aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">27. TIC’s. Ley General de Telecomunicaciones. ¿A quién comunicará el Ministerio de Asuntos Económicos y Transformación Digital aquellos incidentes que, afectando a los operadores estratégicos nacionales, sean de interés para la mejora de la protección de las infraestructuras críticas? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la Secretaría de Estado de Seguridad. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Ministerio del Interior. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Ministerio de Defensa. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A la Dirección General de la Guardia Civil.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 63. Integridad y seguridad de las redes y de los servicios de comunicaciones electrónicas.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>28. TIC’s. Ley General de Telecomunicaciones. ¿Qué Ministerios coordinaran su planificación en el sistema de telecomunicaciones de las Fuerzas Armadas, para asegurar su compatibilidad con los servicios civiles?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">28. TIC’s. Ley General de Telecomunicaciones. ¿Qué Ministerios coordinaran su planificación en el sistema de telecomunicaciones de las Fuerzas Armadas, para asegurar su compatibilidad con los servicios civiles?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Ministerios de Defensa y de Asuntos Económicos y Transformación Digital</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Ministerios de Defensa e Interior</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los Ministerios de Interior y de Asuntos Económicos y Transformación Digital</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguno de los anteriores</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 4. Servicios de telecomunicaciones para la seguridad nacional, la defensa nacional, la seguridad pública, la seguridad vial y la protección civil.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>29. TIC’s. Ley General de Telecomunicaciones. Cuándo se deba aplicar una medida susceptible de restringir los derechos y libertades fundamentales sólo podrá imponerse si es…. (Señale la opción incorrecta)</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">29. TIC’s. Ley General de Telecomunicaciones. Cuándo se deba aplicar una medida susceptible de restringir los derechos y libertades fundamentales sólo podrá imponerse si es…. (Señale la opción incorrecta)</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Salvaguardia de derechos fundamentales.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Adecuada</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Salvaguardia de derechos fundamentales.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Necesaria</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Salvaguardia de derechos fundamentales.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Merecida</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Salvaguardia de derechos fundamentales.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Proporcionada</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Artículo 56. Salvaguardia de derechos fundamentales.
+</p>]]></text></feedback></answer>
+<tags></tags></question></quiz>

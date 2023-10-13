@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="01. Instituciones Internacionales. OMS. ¿En qué año entró en vigor la OMS?: ">
+<ANSWER ISCORRECT="false">1945. </ANSWER>
+<ANSWER ISCORRECT="false">1946. </ANSWER>
+<ANSWER ISCORRECT="false">1947. </ANSWER>
+<ANSWER ISCORRECT="true">1948. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="02. Instituciones Internacionales. OMS. ¿Qué día entró en vigor la Constitución la OMS? ">
+<ANSWER ISCORRECT="true">7 de abril </ANSWER>
+<ANSWER ISCORRECT="false">19 de junio. </ANSWER>
+<ANSWER ISCORRECT="false">22 de julio. </ANSWER>
+<ANSWER ISCORRECT="false">7 de agosto. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="03. Instituciones Internacionales. OMS. ¿Cuál es el Día Mundial de la Salud? ">
+<ANSWER ISCORRECT="true">7 de abril </ANSWER>
+<ANSWER ISCORRECT="false">19 de junio. </ANSWER>
+<ANSWER ISCORRECT="false">22 de julio. </ANSWER>
+<ANSWER ISCORRECT="false">7 de agosto.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="04. Instituciones Internacionales. OMS. ¿Dónde se encuentra la Sede de la OMS? ">
+<ANSWER ISCORRECT="true">En Ginebra. </ANSWER>
+<ANSWER ISCORRECT="false">En El Cairo. </ANSWER>
+<ANSWER ISCORRECT="false">En Copenhague. </ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las anteriores es correcta. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="05. Instituciones Internacionales. OMS. ¿Con cuántas Oficinas Regionales cuenta la OMS? ">
+<ANSWER ISCORRECT="false">Con 3 oficinas. </ANSWER>
+<ANSWER ISCORRECT="false">Con 5 oficinas. </ANSWER>
+<ANSWER ISCORRECT="true">Con 6 oficinas </ANSWER>
+<ANSWER ISCORRECT="false">Con 8 oficinas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="06. Instituciones Internacionales. OMS. ¿Con cuántos Estados Miembros está constituida la OMS? ">
+<ANSWER ISCORRECT="false">Con 190 Estados Miembro. </ANSWER>
+<ANSWER ISCORRECT="true">Con 194 Estados Miembro. </ANSWER>
+<ANSWER ISCORRECT="false">Con 195 Estados Miembro. </ANSWER>
+<ANSWER ISCORRECT="false">Con 198 Estados Miembro. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="07. Instituciones Internacionales. OMS. ¿Cada cuánto se reúne la Asamblea Mundial de la Salud? ">
+<ANSWER ISCORRECT="false">Semestralmente. </ANSWER>
+<ANSWER ISCORRECT="false">Trimestralmente. </ANSWER>
+<ANSWER ISCORRECT="true">Una vez al año, generalmente en mayo. </ANSWER>
+<ANSWER ISCORRECT="false">Cada dos años, generalmente en mayo. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="08. Instituciones Internacionales. OMS. ¿Cuál es el órgano decisorio supremo de la OMS?: ">
+<ANSWER ISCORRECT="false">Asamblea mundial de la salud. </ANSWER>
+<ANSWER ISCORRECT="false">Consejo Ejecutivo. </ANSWER>
+<ANSWER ISCORRECT="false">Director General. </ANSWER>
+<ANSWER ISCORRECT="false">La Conferencia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="09. Instituciones Internacionales. OMS. ¿Cuántos miembros componen el Consejo Ejecutivo? ">
+<ANSWER ISCORRECT="true">34 miembros. </ANSWER>
+<ANSWER ISCORRECT="false">46 miembros. </ANSWER>
+<ANSWER ISCORRECT="false">24 miembros. </ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las opciones anteriores es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. Instituciones Internacionales. OMS. ¿Cuál de las siguientes no es función de las OMS?: ">
+<ANSWER ISCORRECT="true">La Divulgación de los conocimientos teóricos y prácticos relativos a nutrición y agricultura. </ANSWER>
+<ANSWER ISCORRECT="false">Desempeñar el liderazgo en los Asuntos Sanitarios Mundiales. </ANSWER>
+<ANSWER ISCORRECT="false">Configurar la agenda en investigaciones de la Salud. </ANSWER>
+<ANSWER ISCORRECT="false">Vigilar las tendencias sanitarias mundiales.</ANSWER>
+</QUESTION>
+</POLL>

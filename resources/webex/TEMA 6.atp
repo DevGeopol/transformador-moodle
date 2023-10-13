@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="01. Instituciones Internacionales. FAO. ¿En qué año se fundó la FAO?: ">
+<ANSWER ISCORRECT="false">1944. </ANSWER>
+<ANSWER ISCORRECT="true">1945. </ANSWER>
+<ANSWER ISCORRECT="false">1904. </ANSWER>
+<ANSWER ISCORRECT="false">1946. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="02. Instituciones Internacionales. FAO. ¿Cuántas naciones firmaron el compromiso cuando se fundó la FAO? ">
+<ANSWER ISCORRECT="true">44. </ANSWER>
+<ANSWER ISCORRECT="false">46. </ANSWER>
+<ANSWER ISCORRECT="false">45. </ANSWER>
+<ANSWER ISCORRECT="false">40.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="03. Instituciones Internacionales. FAO. ¿Dónde se encuentra situada la sede de la FAO? ">
+<ANSWER ISCORRECT="false">En Ginebra. </ANSWER>
+<ANSWER ISCORRECT="false">En Berlín. </ANSWER>
+<ANSWER ISCORRECT="false">En Quebec. </ANSWER>
+<ANSWER ISCORRECT="true">En Roma. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="04. Instituciones Internacionales. FAO. ¿Cuál es el esfuerzo internacional que lidera la FAO?: ">
+<ANSWER ISCORRECT="false">Controlar la salud pública de los estados miembros. </ANSWER>
+<ANSWER ISCORRECT="true">Poner fin al hambre. </ANSWER>
+<ANSWER ISCORRECT="false">Fomentar el desarrollo Económico y Social. </ANSWER>
+<ANSWER ISCORRECT="false">Promocionar conocimientos sobre las materias de la alimentación. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="05. Instituciones Internacionales. FAO. ¿Cuáles son los órganos principales de la FAO? ">
+<ANSWER ISCORRECT="true">La Conferencia, el Consejo y la Dirección General. </ANSWER>
+<ANSWER ISCORRECT="false">La Conferencia, el Comité y la Dirección General. </ANSWER>
+<ANSWER ISCORRECT="false">La Asamblea, el Consejo y la Dirección General. </ANSWER>
+<ANSWER ISCORRECT="false">El Consejo y la Dirección General. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="06. Instituciones Internacionales. FAO. ¿Cuál es la función principal de la FAO? ">
+<ANSWER ISCORRECT="false">Conducir las actividades internacionales de salud. </ANSWER>
+<ANSWER ISCORRECT="true">Conducir las actividades internacionales encaminadas a erradicar el hambre. </ANSWER>
+<ANSWER ISCORRECT="false">Controlar la seguridad alimentaria y la nutrición. </ANSWER>
+<ANSWER ISCORRECT="false">Todas las anteriores son correctas. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="07. Instituciones Internacionales. FAO. ¿Cuál es el órgano rector de la FAO? ">
+<ANSWER ISCORRECT="false">La Dirección General. </ANSWER>
+<ANSWER ISCORRECT="false">El Comité. </ANSWER>
+<ANSWER ISCORRECT="true">La Conferencia. </ANSWER>
+<ANSWER ISCORRECT="false">a) y b) son correctas </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="08. Instituciones Internacionales. FAO. ¿Con cuántos países miembros cuenta la FAO como organización intergubernamental? ">
+<ANSWER ISCORRECT="true">Como organización intergubernamental, la FAO cuenta con 194 países miembros, dos miembros asociados y una organización miembro, la Unión Europea. </ANSWER>
+<ANSWER ISCORRECT="false">Como organización intergubernamental, la FAO cuenta con 190 países miembros, tres miembros asociados y una organización miembro, la Unión Europea. </ANSWER>
+<ANSWER ISCORRECT="false">Como organización intergubernamental, la FAO cuenta con 195 países miembros y un miembro asociado, </ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las anteriores es correcta. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="09. Instituciones Internacionales. FAO. ¿Quién elije los miembros del Consejo? ">
+<ANSWER ISCORRECT="false">El Comité. </ANSWER>
+<ANSWER ISCORRECT="true">La Conferencia. </ANSWER>
+<ANSWER ISCORRECT="false">La Dirección General. </ANSWER>
+<ANSWER ISCORRECT="false">a) y b) son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. Instituciones Internacionales. FAO. ¿Quién elije al Director General? ">
+<ANSWER ISCORRECT="false">El Comité. </ANSWER>
+<ANSWER ISCORRECT="true">La Conferencia. </ANSWER>
+<ANSWER ISCORRECT="false">La Dirección General. </ANSWER>
+<ANSWER ISCORRECT="false">a) y b) son correctas.</ANSWER>
+</QUESTION>
+</POLL>

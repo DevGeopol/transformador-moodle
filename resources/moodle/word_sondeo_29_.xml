@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>¿Quién es el padre de la Sociología? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Quién es el padre de la Sociología? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Durkheim</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Tylor</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Comte</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>“Maneras de ser, o de obrar que una persona o una colectividad juzgan ideales y que hace deseables o estimables a los seres o a las conductas a los que se atribuye dicho valor” …es una definición de los valores hecha por:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">“Maneras de ser, o de obrar que una persona o una colectividad juzgan ideales y que hace deseables o estimables a los seres o a las conductas a los que se atribuye dicho valor” …es una definición de los valores hecha por:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Milton Rokeach</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Guy Rocher</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">L. Festinger</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cuáles son los tres elementos de la actitud?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cuáles son los tres elementos de la actitud?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El individual, social y conductual.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El cognitivo, afectivo y tendencial.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El psicológico, sociológico y temperamental</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>En su libro Opinión Pública (1922) Walter Lippmann acuñó el término estereotipo, ¿a qué se refieres este término?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En su libro Opinión Pública (1922) Walter Lippmann acuñó el término estereotipo, ¿a qué se refieres este término?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se refiere a generalizaciones utilizadas para clasificar grupos de personas.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se refiere a imágenes mentales de personas u objetos con un trasfondo negativo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Se refiere a las conductas negativas realizadas por grupos de personas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Según la imagen que se tenga de otro grupo los estereotipos pueden ser:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Según la imagen que se tenga de otro grupo los estereotipos pueden ser:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Positivos o negativos</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mixtos</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las dos repuestas anteriores son correctas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Qué significa xenofobia?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué significa xenofobia?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Significa odio, repugnancia u hostilidad hacia los nacionales</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Significa odio, repugnancia u hostilidad hacia los extranjeros</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Significa odio, repugnancia u hostilidad hacia uno mismo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>La tendencia a responder a una persona, objeto o situación en forma positiva o negativa es la definición que corresponde a: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La tendencia a responder a una persona, objeto o situación en forma positiva o negativa es la definición que corresponde a: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los valores</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las actitudes</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las emociones</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Según Rokeach el Dogmatismo se caracteriza por:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Según Rokeach el Dogmatismo se caracteriza por:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Personalidades abiertas, flexibles y valientes</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Personalidades cerradas, flexibles y temerosas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Personalidades cerradas, rígidas y temerosas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Los microgrupos son una clase de grupos sociales según su dimensión y tamaño. ¿Por cuántos individuos forman esta clase de grupo sociales?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los microgrupos son una clase de grupos sociales según su dimensión y tamaño. ¿Por cuántos individuos forman esta clase de grupo sociales?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por más de 30 miembros</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Por 30 individuos </p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A y b son incorrectas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Quién es el que acuña el concepto de DOGMATISMO?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Quién es el que acuña el concepto de DOGMATISMO?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Christie, y estudia los grupos conservadores de derechas e izquierdas</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Stewart y Hoult, y estudia los grupos conservadores de derechas e izquierdas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">M. Rokeach, y estudia los grupos conservadores de derechas e izquierdas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Las generalizaciones excesivas originan unas imágenes mentales que atribuyen a un grupo de personas:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Las generalizaciones excesivas originan unas imágenes mentales que atribuyen a un grupo de personas:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Conductas favorables (prejuicios positivos) o desfavorables (prejuicios negativos)</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Características favorables (estereotipos positivos) o desfavorables (estereotipos negativos).</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una imagen destructiva e irreal del mismo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Qué dos funciones tiene la xenofobia?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué dos funciones tiene la xenofobia?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Proyección y adjudicación</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Desplazamiento y proyección</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Proyección y racionalización</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Cooley acuña los conceptos de:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cooley acuña los conceptos de:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Grupo primario y secundario</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Grupo de pertenencia y referencia</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Intragrupo y extra grupo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿A qué llamamos DOGMATISMO?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿A qué llamamos DOGMATISMO?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Es la presunción de los que quieren que sus doctrinas y sus aseveraciones sean tenidas en cuenta y que puedan ser discutidas.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Es la presunción de los que quieren que sus doctrinas y sus aseveraciones sean tenidas en cuenta por verdades inconclusas (indudables), dando lugar a la intolerancia y al sectarismo.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">A y b no son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Allport distinguió entre prejuicios de endo grupo y exogrupo. El conjunto de personas con el que nos identificamos afectivamente sería el concepto de: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Allport distinguió entre prejuicios de endo grupo y exogrupo. El conjunto de personas con el que nos identificamos afectivamente sería el concepto de: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Endrogrupo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Intergrupo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Exogrupo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Cómo se denomina la escala que elabora Adorno sobre la personalidad autoritaria?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Cómo se denomina la escala que elabora Adorno sobre la personalidad autoritaria?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Escala F de fascismo</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Escala F de evaluación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Escala A de antisemitismo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>¿Quién o quiénes de los siguientes autores definen el concepto de 'Discriminación Institucional?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">¿Quién o quiénes de los siguientes autores definen el concepto de 'Discriminación Institucional?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Merton</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Heinz</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Carmichael y Hamilton</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>El prejuicio hacia el exogrupo genera:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El prejuicio hacia el exogrupo genera:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una actitud racista</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una actitud xenófoba</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">ambas son correctas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Para el miembro de una banda delictiva, ésta sería su:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Para el miembro de una banda delictiva, ésta sería su:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Grupo de pertenencia o referencia</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Exogrupo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Grupo ajeno</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>El hecho de considerar la cultura propia como patrón para medir a otras culturas, es un fenómeno conocido como:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El hecho de considerar la cultura propia como patrón para medir a otras culturas, es un fenómeno conocido como:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Etnocentrismo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Distancia social</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Endogrupo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Milton Rokeach define:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Milton Rokeach define:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Figura y fondo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Figura y forma</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Distancia social</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Los principios básicos de actuación se denominan:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los principios básicos de actuación se denominan:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Actitudes</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Estereotipos</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Valores sociales</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>En todo conflicto grupal se distinguen claramente tres fases:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En todo conflicto grupal se distinguen claramente tres fases:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Primaria, secundaria, terciaria.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Inicio, desarrollo y expresión.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Latencia, desarrollo y explosión.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Refiriéndonos a personas que poseen un atributo social semejante, gracias al cual pueden ser agrupadas lógicamente, este concepto se conoce como: 	</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Refiriéndonos a personas que poseen un atributo social semejante, gracias al cual pueden ser agrupadas lógicamente, este concepto se conoce como: 	</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Categoría social</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Agregado estadístico</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Grupo de referencia</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>La técnica de resolución de conflictos entre dos grupos en la que una tercera parte, que se supone neutral, trata de sugerir propuestas de resolución, se conoce como:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La técnica de resolución de conflictos entre dos grupos en la que una tercera parte, que se supone neutral, trata de sugerir propuestas de resolución, se conoce como:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Negociación</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Arbitraje</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mediación</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>Si una predisposición no es aprendida, sino innata</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Si una predisposición no es aprendida, sino innata</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Es un prejuicio</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">No es una actitud</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Significa que no es importante</p>]]></text></answer>
+<tags></tags></question></quiz>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="1. Ley de Enjuiciamiento Criminal. Conforme al artículo 8 de la LECrim, la jurisdicción criminal es siempre_____________ (Señale la CORRECTA):">
+<ANSWER ISCORRECT="false">Imprescriptible</ANSWER>
+<ANSWER ISCORRECT="true">Improrrogable.</ANSWER>
+<ANSWER ISCORRECT="false">Inviolable.</ANSWER>
+<ANSWER ISCORRECT="false">Inalienable.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="2. Ley de Enjuiciamiento Criminal. ¿A quién corresponde el conocimiento de las causas y juicios criminales, con excepción de los casos reservados por las leyes al Senado, a los Tribunales de Guerra y Marina y a las autoridades administrativas o de policía?">
+<ANSWER ISCORRECT="true">A la jurisdicción ordinaria.</ANSWER>
+<ANSWER ISCORRECT="false">A la jurisdicción aforada.</ANSWER>
+<ANSWER ISCORRECT="false">A la jurisdicción especial.</ANSWER>
+<ANSWER ISCORRECT="false">A la jurisdicción militar.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="3. Ley de Enjuiciamiento Criminal. El conocimiento de las causas por delitos en que aparezcan a la vez culpables personas sujetas a la jurisdicción ordinaria y otras aforadas corresponderá?: ">
+<ANSWER ISCORRECT="false">A la jurisdicción ordinaria en todo caso.</ANSWER>
+<ANSWER ISCORRECT="true">A la jurisdicción ordinaria salvo las excepciones consignadas expresamente en las leyes respecto a la competencia de otra jurisdicción.</ANSWER>
+<ANSWER ISCORRECT="false">A la jurisdicción ordinaria salvo las excepciones consignadas expresamente en las leyes o reglamentos respecto a la competencia de otra jurisdicción.</ANSWER>
+<ANSWER ISCORRECT="false">A la jurisdicción ordinaria o a la jurisdicción, conforme a lo establecido en las leyes.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="4. Ley de Enjuiciamiento Criminal. La jurisdicción ordinaria será siempre competente para prevenir las causas por delitos que cometan los aforados. Esta competencia se limitará a:">
+<ANSWER ISCORRECT="false">Enjuiciamiento y fallo de la causa criminal.</ANSWER>
+<ANSWER ISCORRECT="true">Al enjuiciamiento y fallo de la causa criminal.</ANSWER>
+<ANSWER ISCORRECT="false">Instruir las primeras diligencias, concluidas las cuales la jurisdicción ordinaria remitirá las actuaciones al Juez o Tribunal que deba conocer de la causa con arreglo a las Leyes.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las respuestas es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="5. Ley de Enjuiciamiento Criminal. En la instrucción de delitos cometidos a través de internet, del teléfono o de cualquier otra tecnología de la información o de la comunicación, el juzgado podrá acordar, como primeras diligencias, de oficio o a instancia de parte, las medidas cautelares consistentes en:">
+<ANSWER ISCORRECT="false">La retirada provisional de contenidos lícitos.</ANSWER>
+<ANSWER ISCORRECT="false">La interrupción provisional o definitiva de los servicios que ofrezcan contenidos ilícitos.</ANSWER>
+<ANSWER ISCORRECT="true">Al bloqueo provisional de los servicios que ofrezcan contenidos ilícitos cuando radiquen en el extranjero.</ANSWER>
+<ANSWER ISCORRECT="false">Las respuestas y son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="6. Ley de Enjuiciamiento Criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes para el conocimiento y fallo de los juicios por delito leve:">
+<ANSWER ISCORRECT="true">El Juez de Instrucción, salvo que la competencia corresponda al Juez de Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Instrucción, para todas las causas por delito.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Instrucción instruye el delito, quedando el conocimiento y fallo del delito al Juez de lo Penal o a la Audiencia Provincial, dependiendo de la gravedad de la pena asociada al delito.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez Central de Instrucción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="7. Ley de Enjuiciamiento Criminal. ¿Quién será competente para conocer de la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares?">
+<ANSWER ISCORRECT="false">El Juez de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">El Juzgado de Violencia de la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">El Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="8. Ley de Enjuiciamiento Criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso: (señale la CORRECTA):">
+<ANSWER ISCORRECT="false">Para la instrucción y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años.</ANSWER>
+<ANSWER ISCORRECT="true">Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años.</ANSWER>
+<ANSWER ISCORRECT="false">Para el conocimiento y fallo de las causas por delitos a los que la Ley señale cualquiera otra pena de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de éstas exceda de diez años</ANSWER>
+<ANSWER ISCORRECT="false">Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración superior a cinco años.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="9. Ley de Enjuiciamiento Criminal. Cuando no conste el lugar en que se ha cometido el delito, ni se han encontrado pruebas materiales de su comisión, pero sí se ha producido detención del presunto reo, con arreglo a la prioridad establecida por la Ley, ¿de qué término municipal, partido o circunscripción serán los Jueces competentes para conocer de la causa en primer lugar?">
+<ANSWER ISCORRECT="false">Del de cualquiera que hubiese tenido noticia del delito.</ANSWER>
+<ANSWER ISCORRECT="false">Del de la residencia del reo presunto.</ANSWER>
+<ANSWER ISCORRECT="true">De aquel en que el presunto reo haya sido aprehendido.</ANSWER>
+<ANSWER ISCORRECT="false">El del término municipal, partido o circunscripción en que se hayan descubierto pruebas materiales del delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. Ley de Enjuiciamiento Criminal. Son jueces y tribunales competentes, por su orden, para conocer de las causas por delitos conexos?:  (Señale el orden CORRECTO): ">
+<ANSWER ISCORRECT="false">Primero, el del territorio en que se haya cometido el delito a que esté señalada pena menor.</ANSWER>
+<ANSWER ISCORRECT="false">Segundo, el del territorio en que se haya cometido el delito a que esté señalada pena mayor.</ANSWER>
+<ANSWER ISCORRECT="true">Segundo, el que primero comenzare la causa en el caso de que a los delitos esté señalada igual pena.</ANSWER>
+<ANSWER ISCORRECT="false">Tercero, el que la audiencia de lo criminal o el tribunal supremo en sus casos respectivos designen, cuando conste cual causa comenzó primero.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="11. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta CORRECTA: ">
+<ANSWER ISCORRECT="false">Los cónyuges pueden ejercitar la acción penal entre sí, salvo por delito hacia la persona del uno cometido por el otro o la de sus hijos, y por el delito de bigamia, que no podrá hacerlo.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las respuestas es correcta.</ANSWER>
+<ANSWER ISCORRECT="true">El que hubiera sido condenado una vez por sentencia firme como reo del delito de denuncia o querella calumniosas podrá ejercitar la acción penal.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez no puede ejercitar la acción penal en ningún caso.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="12. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta INCORRECTA: ">
+<ANSWER ISCORRECT="false">En los delitos perseguibles a instancias de la persona agraviada también podrá denunciar el Ministerio Fiscal si aquélla fuere menor de edad, persona con discapacidad necesitada de especial protección o desvalida.</ANSWER>
+<ANSWER ISCORRECT="true">En el caso de muerte o desaparición de la víctima a consecuencia del delito, la acción penal podrá ser ejercida por sus parientes en línea recta o colateral dentro del segundo grado que se encontraren bajo su guarda, personas sujetas a su tutela o curatela o que se encontraren bajo su acogimiento familiar.</ANSWER>
+<ANSWER ISCORRECT="false">Promovido juicio criminal en averiguación de un delito no podrá seguirse pleito sobre el mismo hecho; suspendiéndole si le hubiese, en el estado en que se hallare, hasta que recaiga sentencia firme en la causa criminal.</ANSWER>
+<ANSWER ISCORRECT="false">La acción penal por delito que dé lugar al procedimiento de oficio no se extingue por la renuncia de la persona ofendida.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="13. Ley de Enjuiciamiento Criminal. Del derecho a la traducción e interpretación. Deberán ser traducidos, en todo caso:">
+<ANSWER ISCORRECT="false">Las resoluciones que acuerden la prisión del imputado.</ANSWER>
+<ANSWER ISCORRECT="false">El escrito de acusación.</ANSWER>
+<ANSWER ISCORRECT="false">La sentencia.</ANSWER>
+<ANSWER ISCORRECT="true">Todas las respuestas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="14. Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos. Señale la respuesta INCORRECTA: ">
+<ANSWER ISCORRECT="false">La renuncia de la acción civil o de la penal renunciable no perjudicará más que al renunciante; pudiendo continuar el ejercicio de la penal en el estado en que se halle la causa, o ejercitarla nuevamente los demás a quienes también correspondiere.</ANSWER>
+<ANSWER ISCORRECT="true">Las víctimas del delito que no hubieran renunciado a su derecho podrán ejercer la acción penal en cualquier momento, si bien ello no permitirá retrotraer ni reiterar las actuaciones ya practicadas antes de su personación.</ANSWER>
+<ANSWER ISCORRECT="false">La acción penal también podrá ser ejercitada por las asociaciones de víctimas y por las personas jurídicas a las que la ley reconoce legitimación para defender los derechos de las víctimas, siempre que ello fuera autorizado por la víctima del delito.</ANSWER>
+<ANSWER ISCORRECT="false">La sentencia firme absolutoria dictada en el pleito promovido por el ejercicio de la acción civil, no será obstáculo para el ejercicio de la acción penal correspondiente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="15. Ley de Enjuiciamiento Criminal. Del derecho a la defensa y a la asistencia jurídica gratuita. Las comunicaciones entre el investigado o encausado y su abogado:">
+<ANSWER ISCORRECT="false">Tendrán carácter reservado.</ANSWER>
+<ANSWER ISCORRECT="true">Si estas conversaciones hubieran sido captadas durante la ejecución de alguna de las diligencias, el juez ordenará la eliminación de la grabación, dejando constancia de estas circunstancias en las actuaciones</ANSWER>
+<ANSWER ISCORRECT="false">Tienen carácter confidencial en todo caso y nunca se podrá revelar el contenido de las mismas.</ANSWER>
+<ANSWER ISCORRECT="false">Las respuestas b)y c)son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="16. Ley de Enjuiciamiento Criminal. Del derecho a la traducción e interpretación. La renuncia a los derechos a que se refiere el artículo 123: ">
+<ANSWER ISCORRECT="false">Deberá ser expresa y libre.</ANSWER>
+<ANSWER ISCORRECT="false">Solamente será válida si se produce antes de que el imputado o acusado haya recibido un asesoramiento jurídico suficiente y accesible que le permita tener conocimiento de las consecuencias de su renuncia.</ANSWER>
+<ANSWER ISCORRECT="false">No se puede renunciar al derecho a la interpretación de todas las actuaciones del juicio oral.</ANSWER>
+<ANSWER ISCORRECT="true">Las respuestas a)y c) son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="17. Ley de Enjuiciamiento Criminal. De la denuncia. Los que por razón de sus cargos, profesiones u oficios tuvieren noticia de algún delito público, estarán obligados a denunciarlo inmediatamente al (señale la opción INCORRECTA): ">
+<ANSWER ISCORRECT="false">Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">Juez de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">Funcionario fiscal más próximo al sitio en que se hallare.</ANSWER>
+<ANSWER ISCORRECT="false">Funcionario de policía más próximo al sitio si se tratare de un delito flagrante.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="18. Ley de Enjuiciamiento Criminal. De la denuncia. ¿Quién no puede autorizar la entrega o circulación vigilada de drogas tóxicas?">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Instrucción competente.</ANSWER>
+<ANSWER ISCORRECT="true">El Secretario de Estado de Seguridad.</ANSWER>
+<ANSWER ISCORRECT="false">Los Jefes de las Unidades Orgánicas de Policía Judicial, centrales o de ámbito provincial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="19. Ley de Enjuiciamiento Criminal. De la denuncia. Señale la INCORRECTA: ">
+<ANSWER ISCORRECT="false">El denunciador no contraerá en ningún caso otra responsabilidad que la correspondiente a los delitos que hubiese cometido por medio de la denuncia, o con su ocasión.</ANSWER>
+<ANSWER ISCORRECT="true">Se le entregará resguardo de haber formalizado la denuncia al denunciador en todo caso.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez, Tribunal, autoridad o funcionario que recibieren una denuncia verbal o escrita harán constar por la cédula personal o por otros medios que reputen suficientes, la identidad de la persona del denunciador.</ANSWER>
+<ANSWER ISCORRECT="false">La denuncia que se hiciere por escrito deberá estar firmada por el denunciador; y si no pudiere hacerlo, por otra persona a su ruego.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="20. Ley de Enjuiciamiento Criminal. De la querella. Señale la CORRECTA: ">
+<ANSWER ISCORRECT="false">Todos los ciudadanos españoles pueden querellarse, ejercitando la acción popular, siempre que hayan sido ofendidos por el delito.</ANSWER>
+<ANSWER ISCORRECT="false">Los extranjeros pueden querellarse en cualquier caso.</ANSWER>
+<ANSWER ISCORRECT="false">El particular que intentare querellarse por cualquier delito podrá acudir al Juez de instrucción que estuviere más próximo o a cualquier funcionario de policía, a fin de que se practiquen las primeras diligencias necesarias para hacer constar la verdad de los hechos y para detener al delincuente.</ANSWER>
+<ANSWER ISCORRECT="true">Se extenderá en papel de oficio, y en ella se expresará, entre otras cosas, la firma del querellante o la de otra persona a su ruego si no supiere o no pudiere firmar cuando el Procurador no tuviese poder especial para formular la querella.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="21. Ley de Enjuiciamiento Criminal. La identidad supuesta del agente encubierto será otorgada por: ">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal, por plazo de 6 meses prorrogables por periodos de igual duración.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Justicia, por plazo de 3 meses prorrogables por periodos de igual o inferior duración.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio del Interior, por plazo de 6 meses prorrogables por periodos de igual o inferior duración.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna de las respuestas es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="22. Ley de Enjuiciamiento Criminal. Constituirán la Policía judicial y serán auxiliares de los Jueces y Tribunales competentes en materia penal y del Ministerio fiscal, quedando obligados a seguir las instrucciones que de aquellas autoridades reciban a efectos de la investigación de los delitos y persecución de los delincuentes (señale la opción INCORRECTA): ">
+<ANSWER ISCORRECT="true">El personal colaborador y auxiliar de la Administración de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">Los funcionarios del Cuerpo especial de Prisiones.</ANSWER>
+<ANSWER ISCORRECT="false">Los Serenos, Celadores y cualesquiera otros Agentes municipales de policía urbana o rural.</ANSWER>
+<ANSWER ISCORRECT="false">Los Alcaldes, Tenientes de Alcalde y Alcaldes de barrio.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="23. Ley de Enjuiciamiento Criminal. Cuando no exista autor conocido del delito, la Policía Judicial conservará el atestado a disposición del Ministerio Fiscal y de la autoridad judicial, sin enviárselo, salvo que concurra alguna de las siguientes circunstancias:">
+<ANSWER ISCORRECT="false">Que se trate de un delito contra el patrimonio.</ANSWER>
+<ANSWER ISCORRECT="false">Que se practique cualquier diligencia después de transcurridas setenta y dos horas desde la detención y éstas hayan tenido algún resultado.</ANSWER>
+<ANSWER ISCORRECT="false">Que el Ministerio Fiscal o el secretario judicial soliciten la remisión.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna de las respuestas anteriores es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="24. Ley de Enjuiciamiento Criminal. Del sumario. Señale la opción CORRECTA: ">
+<ANSWER ISCORRECT="false">Las diligencias del sumario serán secretas y no tendrán carácter público hasta que se abra el juicio oral.</ANSWER>
+<ANSWER ISCORRECT="false">En cualquier delito, podrá el Juez de Instrucción, a propuesta del Ministerio Fiscal, de la acusación o de oficio, declararlo, mediante sentencia, total o parcialmente secreto para todas las partes personadas.</ANSWER>
+<ANSWER ISCORRECT="false">El secreto del sumario deberá alzarse necesariamente con al menos un mes de antelación a la conclusión del sumario.</ANSWER>
+<ANSWER ISCORRECT="true">Los Jueces de instrucción formarán los sumarios de los delitos públicos bajo la inspección directa del Fiscal del Tribunal competente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="25. Ley de Enjuiciamiento Criminal. ¿Quién ordenará recoger en los primeros momentos las armas, instrumentos o efectos de cualquiera clase que puedan tener relación con el delito y se hallen en el lugar en que éste se cometió, o en sus inmediaciones, o en poder del reo, o en otra parte conocida?">
+<ANSWER ISCORRECT="false">El Juez o Tribunal que conozca la causa.</ANSWER>
+<ANSWER ISCORRECT="true">El Juez instructor.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="false">El secretario judicial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="26. Ley de Enjuiciamiento Criminal. De la destrucción y la realización anticipada de los efectos judiciales. La realización de los efectos judiciales podrá consistir en (señale la opción CORRECTA):">
+<ANSWER ISCORRECT="false">La entrega a empresas, asociaciones o a las Administraciones públicas.</ANSWER>
+<ANSWER ISCORRECT="true">La realización por medio de persona o entidad especializada.</ANSWER>
+<ANSWER ISCORRECT="false">La subasta pública o privada.</ANSWER>
+<ANSWER ISCORRECT="false">Todas las opciones anteriores son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="27. Ley de Enjuiciamiento Criminal. De la identidad del delincuente y de sus circunstancias personales. Cuando fueren varios los que hubieren de reconocer a una persona:">
+<ANSWER ISCORRECT="true">Deberá practicarse separadamente con cada uno de ellos, sin que puedan comunicarse entre sí hasta que se haya efectuado el último reconocimiento.</ANSWER>
+<ANSWER ISCORRECT="false">Podrá hacerse el reconocimiento de todos en un solo acto.</ANSWER>
+<ANSWER ISCORRECT="false">Podrá practicarse conjuntamente con cada uno de ellos, sin que puedan comunicarse entre sí hasta que se haya efectuado el último reconocimiento.</ANSWER>
+<ANSWER ISCORRECT="false">Deberá practicarse separadamente con cada uno de ellos, pudiendo comunicarse entre sí durante el reconocimiento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="28. Ley de Enjuiciamiento Criminal. Firme un auto de procesamiento por delito cometido por persona integrada o relacionada con bandas armadas o individuos terroristas o rebeldes, el procesado que estuviere ostentando función o cargo público:">
+<ANSWER ISCORRECT="false">Quedará automáticamente inhabilitado en el ejercicio del mismo, siempre que se haya decretado la prisión provisional, mientras dure la situación de prisión.</ANSWER>
+<ANSWER ISCORRECT="false">Quedará automáticamente separado del servicio.</ANSWER>
+<ANSWER ISCORRECT="false">Quedará automáticamente considerado en situación de servicios especiales mientras, siempre que se haya decretado la prisión provisional, mientras dure la situación de prisión.</ANSWER>
+<ANSWER ISCORRECT="true">Quedará automáticamente suspendido en el ejercicio del mismo mientras, siempre que se haya decretado la prisión provisional, mientras dure la situación de prisión.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="29. Ley de Enjuiciamiento Criminal. De las declaraciones de los procesados. Si el procesado estuviere detenido (señale la opción CORRECTA): ">
+<ANSWER ISCORRECT="false">Se le recibirá la primera declaración dentro del término de 72 horas.</ANSWER>
+<ANSWER ISCORRECT="true">Se le recibirá la primera declaración dentro del término de 24 horas.</ANSWER>
+<ANSWER ISCORRECT="false">Se le recibirá la primera declaración dentro del término de 24 horas, no pudiendo ser prorrogado.</ANSWER>
+<ANSWER ISCORRECT="false">Se le recibirá la primera declaración dentro del término de 24 horas, pudiendo prorrogarse por otras 24 horas, si mediare causa grave, la cual se expresará en la providencia en que se acordase la prórroga.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="30. Ley de Enjuiciamiento Criminal. De la declaración de los testigos (señale la opción CORRECTA): ">
+<ANSWER ISCORRECT="true">El Presidente del Consejo General del Poder Judicial está exento de concurrir al llamamiento del Juez, pero no de declarar, pudiendo informar por escrito sobre los hechos de que tengan conocimiento por razón de su cargo.</ANSWER>
+<ANSWER ISCORRECT="false">Estarán exentas de declarar, pudiendo hacerlo por escrito, el Rey, la Reina, sus respectivos consortes, el Príncipe heredero y los Regentes del Reino.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal General del Estado está exento de concurrir al llamamiento del Juez, pero no de declarar, pudiendo hacerlo en su despacho oficial o en la sede del órgano del que sean miembros</ANSWER>
+<ANSWER ISCORRECT="false">Todas las respuestas anteriores son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="31. Ley de Enjuiciamiento Criminal. El particular que detuviere a una persona, deberá ponerla en libertad o entregarla al juez más próximo al lugar en que hubiere hecho la detención dentro de las ______________horas siguientes al acto de la misma.">
+<ANSWER ISCORRECT="true">24 horas.</ANSWER>
+<ANSWER ISCORRECT="false">48 horas.</ANSWER>
+<ANSWER ISCORRECT="false">72 horas.</ANSWER>
+<ANSWER ISCORRECT="false">12 horas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="32. Ley de Enjuiciamiento Criminal. Se reputarán edificios o lugares públicos: ">
+<ANSWER ISCORRECT="false">Cualesquiera otros edificios o lugares cerrados que constituyan domicilio de un particular.</ANSWER>
+<ANSWER ISCORRECT="false">Los buques nacionales mercantes.</ANSWER>
+<ANSWER ISCORRECT="false">Los Palacios Reales, estén o no habitados por el Monarca al tiempo de la entrada o registro.</ANSWER>
+<ANSWER ISCORRECT="true">Los que estuvieren destinados a cualquier establecimiento de reunión o recreo, fueren o no lícitos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="33. Ley Reguladora del Habeas Corpus. ¿A qué principio recogido en la exposición de motivos de esta ley hace referencia esta frase 'evitar dilaciones indebidas y permitir el acceso de todos los ciudadanos'">
+<ANSWER ISCORRECT="true">Sencillez.</ANSWER>
+<ANSWER ISCORRECT="false">Agilidad.</ANSWER>
+<ANSWER ISCORRECT="false">Universalidad.</ANSWER>
+<ANSWER ISCORRECT="false">Generalidad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="34. Ley Reguladora del Habeas Corpus. Es competente para conocer la solicitud de «Habeas Corpus» el Juez de Instrucción:">
+<ANSWER ISCORRECT="false">Del lugar en que se encuentre la persona privada de libertad; si no constare, el del lugar en que se produzca la detención, y, en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias sobre el paradero del detenido.</ANSWER>
+<ANSWER ISCORRECT="false">En el caso de bandas armadas o elementos terroristas, el procedimiento deberá seguirse ante el Juez Central de Instrucción correspondiente.</ANSWER>
+<ANSWER ISCORRECT="false">En el ámbito de la Jurisdicción Militar será competente el Juez Togado Militar de Instrucción constituido en la cabecera de la circunscripción jurisdiccional en la que se efectuó la detención</ANSWER>
+<ANSWER ISCORRECT="true">Todas las respuestas anteriores son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="35. Ley Reguladora del Habeas Corpus. Señale la respuesta CORRECTA en: ">
+<ANSWER ISCORRECT="false">Conforme a la Ley Orgánica 6/84, podrá instar el procedimiento el abogado del detenido.</ANSWER>
+<ANSWER ISCORRECT="false">El procedimiento se iniciará, salvo cuando se incoe por comparecencia, mediante escrito, no siendo preceptiva la intervención de Abogado ni de Procurador.</ANSWER>
+<ANSWER ISCORRECT="true">Si, finalizadas las actuaciones, el juez estima que concurren alguna de las circunstancias que determinan que la detención es ilegal podrá acordar que la persona privada de libertad sea puesta inmediatamente a disposición judicial, si ya hubiese transcurrido el plazo legalmente establecido para su detención.</ANSWER>
+<ANSWER ISCORRECT="false">La autoridad gubernativa estará obligada a poner en conocimiento del Juez competente la solicitud de «Habeas Corpus» en el plazo máximo de 24 horas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="36. Ley Reguladora del Habeas Corpus. ¿En qué plazo los Jueces practicarán todas las actuaciones a que se refiere la ley y dictarán la resolución que proceda?">
+<ANSWER ISCORRECT="false">Inmediatamente.</ANSWER>
+<ANSWER ISCORRECT="false">En el plazo de 24 horas desde la detención.</ANSWER>
+<ANSWER ISCORRECT="false">En el plazo de 72 horas desde la detención.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna de las opciones es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="37. Ley Orgánica del Poder Judicial. De los mencionados a continuación, ¿Quién NO tendrá competencia alguna en la fase de instrucción? ">
+<ANSWER ISCORRECT="false">Juzgado de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">Juzgado de Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">Juzgado Central de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">Juzgado de lo Penal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="38. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. Con relación a los Juzgados de Paz, señale la respuesta CORRECTA: ">
+<ANSWER ISCORRECT="false">En cada municipio donde exista Juzgado de Primera Instancia e Instrucción, y con jurisdicción en el término correspondiente, habrá un Juzgado de Paz.</ANSWER>
+<ANSWER ISCORRECT="false">Los Jueces de Paz y sus sustitutos serán nombrados por el alcalde del Ayuntamiento.</ANSWER>
+<ANSWER ISCORRECT="false">Los Jueces de Paz serán nombrados por un periodo de cinco años.</ANSWER>
+<ANSWER ISCORRECT="true">Los Jueces de Paz prestarán juramento ante el Juez de Primera Instancia e Instrucción y tomarán posesión ante quien se hallara ejerciendo la jurisdicción.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="39. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los delitos atribuidos a la Fiscalía Europea en los artículos 22 y 25 del Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, cuando aquella hubiera decidido ejercer su competencia?">
+<ANSWER ISCORRECT="false">El Juzgado Central de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">El Juzgado Central de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de lo Penal del Tribunal Supremo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="40. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. De las citadas a continuación, señale cuál NO es una competencia de la Sala de lo Penal del Tribunal Supremo:">
+<ANSWER ISCORRECT="false">De los recursos de casación.</ANSWER>
+<ANSWER ISCORRECT="true">Delitos cometidos fuera del territorio nacional, cuando conforme a las leyes o a los tratados corresponda su enjuiciamiento a los Tribunales españoles.</ANSWER>
+<ANSWER ISCORRECT="false">Todas las respuestas son competencias del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="41. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los recursos de apelación que establezca la ley contra las resoluciones del Juzgado Central de lo Penal?:">
+<ANSWER ISCORRECT="false">La Sala de lo Penal del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de Apelación del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="true">La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de Apelación de la Audiencia Nacional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="42. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. Señale la respuesta CORRECTA:">
+<ANSWER ISCORRECT="false">El Presidente del Tribunal Superior de Justicia tiene la consideración de Magistrado del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">El Presidente de la Audiencia Nacional, que tendrá la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas sus Salas.</ANSWER>
+<ANSWER ISCORRECT="false">El Presidente del Tribunal Superior de Justicia preside la Sala de lo Civil y Penal de dicho tribunal.</ANSWER>
+<ANSWER ISCORRECT="true">Todas las respuestas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="43. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de los incidentes de recusación del Presidente del Tribunal Supremo, o de los Presidentes de Sala, o de más de dos Magistrados de una Sala?">
+<ANSWER ISCORRECT="false">Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="true">Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de lo Penal del Tribunal Supremo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="44. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de la instrucción y enjuiciamiento de las causas contra el presidente del Consejo de Estado?:">
+<ANSWER ISCORRECT="true">La Sala Penal del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala Civil y Penal del Tribunal Superior de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="false">El Juzgado de lo Penal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="45. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de las peticiones de la Fiscalía Europea, relativas a la adopción de medidas cautelares personales, la autorización de los actos que supongan limitación de los derechos fundamentales cuya adopción esté reservada a la autoridad judicial y demás supuestos que expresamente determine la ley?:">
+<ANSWER ISCORRECT="false">El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="true">El Juez Central de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="46. Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Quién conocerá de la tramitación y enjuiciamiento de las acciones penales dirigidas contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, así como contra el Rey o Reina que hubiere abdicado y su consorte?:">
+<ANSWER ISCORRECT="false">La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="true">La Sala de lo Penal del Tribunal Supremo.</ANSWER>
+<ANSWER ISCORRECT="false">No se les puede exigir responsabilidad penal a los miembros de la Corona.</ANSWER>
+<ANSWER ISCORRECT="false">La Sala de Apelación de la Audiencia Nacional.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="47. Ley Orgánica del Poder Judicial. Del Ministerio Fiscal y demás personas e instituciones que cooperan con la administración de justicia. Señale la opción CORRECTA: ">
+<ANSWER ISCORRECT="false">Corresponde en exclusiva la denominación y función de procurador al licenciado en Derecho que ejerza profesionalmente la dirección y defensa de las partes en toda clase de procesos, o el asesoramiento y consejo jurídico.</ANSWER>
+<ANSWER ISCORRECT="true">En su actuación ante los juzgados y tribunales, los abogados son libres e independientes, se sujetarán al principio de buena fe, gozarán de los derechos inherentes a la dignidad de su función y serán amparados por aquéllos en su libertad de expresión y defensa</ANSWER>
+<ANSWER ISCORRECT="false">Los abogados podrán realizar los actos de comunicación a las partes del proceso que la ley les autorice</ANSWER>
+<ANSWER ISCORRECT="false">En los procedimientos penales, laborales y de Seguridad Social la representación técnica podrá ser ostentada por un Graduado Social.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="48. Real Decreto de la Policía Judicial. Las unidades orgánicas de la policía judicial se estructurarán con arreglo a criterios de distribución ______________ sobre una base ______________:">
+<ANSWER ISCORRECT="false">Funcional / provincial.</ANSWER>
+<ANSWER ISCORRECT="false">Judicial / nacional.</ANSWER>
+<ANSWER ISCORRECT="true">Territorial / provincial.</ANSWER>
+<ANSWER ISCORRECT="false">Competencial / autonómica.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="49. Real Decreto de la Policía Judicial. Señale la CORRECTA: ">
+<ANSWER ISCORRECT="false">Los funcionarios policiales comisionados por la Autoridad Judicial para la práctica de alguna investigación se atendrán a las órdenes y directrices que hubieren recibido, pudiendo las instrucciones de carácter técnico que obtuvieren de sus superiores policiales inmediatos contradecir las de la autoridad judicial.</ANSWER>
+<ANSWER ISCORRECT="false">El Fiscal competente, podrá sancionar mediante el ejercicio de la potestad disciplinaria respecto de los funcionarios de Policía Judicial cuando fundadamente entiendan que su conducta ha sido merecedora de sanción.</ANSWER>
+<ANSWER ISCORRECT="false">No se puede remover de la investigación a los funcionarios de Policía Judicial en ningún caso.</ANSWER>
+<ANSWER ISCORRECT="true">Todas las respuestas son incorrectas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="50. Real Decreto de la Policía Judicial. Constituyen la Policía Judicial en sentido estricto las Unidades Orgánicas previstas en el artículo 30.1 de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad integradas por: ">
+<ANSWER ISCORRECT="false">Miembros del Cuerpo Nacional de Policía y de la Guardia Civil, policía autonómica y local, las cuales se estructurarán con arreglo a criterios de distribución territorial sobre una base provincial.</ANSWER>
+<ANSWER ISCORRECT="true">Miembros del Cuerpo Nacional de Policía y de la Guardia Civil, las cuales se estructurarán con arreglo a criterios de distribución territorial sobre una base provincial.</ANSWER>
+<ANSWER ISCORRECT="false">Miembros del Cuerpo Nacional de Policía y de la Guardia Civil, se estructurarán con arreglo a criterios de distribución territorial sobre una base autonómica.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las respuestas es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="51. Estatuto de la Víctima. Señale la opción CORRECTA: ">
+<ANSWER ISCORRECT="false">Cuando se trate de actuaciones policiales, la decisión de no facilitar interpretación o traducción a la víctima no podrá ser recurrida.</ANSWER>
+<ANSWER ISCORRECT="false">La decisión judicial de no facilitar interpretación o traducción a la víctima no podrá ser recurrida.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando se trate de actuaciones policiales, la decisión de no facilitar interpretación o traducción a la víctima podrá ser recurrida ante el Juzgado de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="true">La decisión judicial de no facilitar interpretación o traducción a la víctima podrá ser recurrida en apelación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="52. Estatuto de la Víctima. Los Abogados y Procuradores no podrán dirigirse a las víctimas directas o indirectas de catástrofes, calamidades públicas u otros sucesos que hubieran producido un número elevado de víctimas que cumplan los requisitos que se determinen reglamentariamente y que puedan constituir delito, para ofrecerles sus servicios profesionales hasta transcurridos:">
+<ANSWER ISCORRECT="false">30 días desde el hecho.</ANSWER>
+<ANSWER ISCORRECT="true">45 días desde el hecho.</ANSWER>
+<ANSWER ISCORRECT="false">60 días desde el hecho.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las respuestas anteriores es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="53. Estatuto de la Víctima. Las disposiciones de esta Ley serán aplicables a:">
+<ANSWER ISCORRECT="false">Las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, siempre que la víctima sea española.</ANSWER>
+<ANSWER ISCORRECT="false">Las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, con independencia de su nacionalidad, siempre que disfruten de residencia legal.</ANSWER>
+<ANSWER ISCORRECT="false">A las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, con independencia de su nacionalidad, de si son mayores o menores de edad o de si disfrutan o no de residencia legal, siempre que la denuncia se presente en España.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna de las respuestas anteriores es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="54. Estatuto de la Víctima. Toda víctima tiene derecho a (señale la opción INCORRECTA): ">
+<ANSWER ISCORRECT="false">A la asistencia lingüística gratuita y a la traducción escrita de la copia de la denuncia presentada, cuando no entienda o no hable ninguna de las lenguas que tengan carácter oficial en el lugar en el que se presenta la denuncia.</ANSWER>
+<ANSWER ISCORRECT="false">Estar acompañada de una persona de su elección desde el primer contacto con las autoridades y funcionarios.</ANSWER>
+<ANSWER ISCORRECT="true">A obtener una copia de la denuncia, solo si el denunciante la reclamase.</ANSWER>
+<ANSWER ISCORRECT="false">Ser informada de manera inmediata de la fecha, hora y lugar del juicio, así como del contenido de la acusación dirigida contra el infractor.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="55. Estatuto de la Víctima. Según se establece en el art. 2 del Estatuto de víctima del Delito, se entiende por víctima:">
+<ANSWER ISCORRECT="false">Al representante legal del fallecido como víctima directa del delito.</ANSWER>
+<ANSWER ISCORRECT="true">Tanto a la víctima directa del delito como a la víctima indirecta, esta última en los casos de muerte o desaparición de una persona que haya sido causada por un delito, salvo que se trate de los responsables del hecho.</ANSWER>
+<ANSWER ISCORRECT="false">Toda persona física o jurídica que ha sufrido daños o perjuicios sobre su persona o patrimonio.</ANSWER>
+<ANSWER ISCORRECT="false">Los terceros que hubieran sufrido perjuicios derivados del delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="56. Estatuto de la Víctima. La determinación de qué medidas de protección deben ser adoptadas para evitar a la víctima perjuicios relevantes que, de otro modo, pudieran derivar del proceso, se realizará tras una valoración de sus circunstancias particulares. Esta valoración tendrá especialmente en consideración (señale la respuesta INCORRECTA):">
+<ANSWER ISCORRECT="false">Las características y circunstancias personales de la víctima.</ANSWER>
+<ANSWER ISCORRECT="false">La naturaleza del delito y la gravedad de los perjuicios causados a la víctima.</ANSWER>
+<ANSWER ISCORRECT="true">Las circunstancias del delito, en particular si se trata de delitos imprudentes.</ANSWER>
+<ANSWER ISCORRECT="false">El riesgo de reiteración del delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="57. Estatuto de la víctima. La valoración de las necesidades de la víctima y la determinación de las medidas de protección corresponden:">
+<ANSWER ISCORRECT="false">Durante la fase de investigación del delito, al Juez de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="false">Durante la fase de investigación del delito, al Juez de Violencia sobre la Mujer.</ANSWER>
+<ANSWER ISCORRECT="false">Durante la fase de enjuiciamiento, al Juez o Tribunal a los que correspondiera el conocimiento de la causa.</ANSWER>
+<ANSWER ISCORRECT="true">Todas las respuestas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="58. Estatuto de la Víctima. La persona que se hubiera beneficiado de subvenciones o ayudas percibidas por su condición de víctima, que hubiera sido objeto de alguna de las medidas de protección reguladas en el Estatuto de la Víctima y haya sido condenada por denuncia falsa, ¿vendrá obligada a reembolsar las cantidades recibidas?:">
+<ANSWER ISCORRECT="false">No, en ningún caso.</ANSWER>
+<ANSWER ISCORRECT="true">Sí junto con el abono de los gastos causados a la Administración por sus actuaciones de reconocimiento, información, protección y apoyo, así como por los servicios prestados.</ANSWER>
+<ANSWER ISCORRECT="false">Sí, con un incremento del interés legal del dinero aumentado en un treinta por ciento.</ANSWER>
+<ANSWER ISCORRECT="false">Las respuestas y son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="59. Estatuto de la Víctima. ¿Cuál de las siguientes medidas de protección podrá ser adoptada tanto en la fase de investigación como en la fase de enjuiciamiento?">
+<ANSWER ISCORRECT="false">Medidas que eviten el contacto visual entre la víctima y el supuesto autor de los hechos, incluso durante la práctica de la prueba, para lo cual podrá hacerse uso de tecnologías de la comunicación</ANSWER>
+<ANSWER ISCORRECT="false">Medidas para garantizar que la víctima pueda ser oída sin estar presente en la sala de vistas, mediante la utilización de tecnologías de la comunicación adecuadas</ANSWER>
+<ANSWER ISCORRECT="false">Medidas para evitar que se formulen preguntas relativas a la vida privada de la víctima que no tengan relevancia con el hecho delictivo enjuiciado, salvo que el Juez o Tribunal consideren excepcionalmente que deben ser contestadas para valorar adecuadamente los hechos o la credibilidad de la declaración de la víctima.</ANSWER>
+<ANSWER ISCORRECT="true">Las respuestas y son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="60. Estatuto de la Víctima. El Estatuto de la Víctima establece que la evaluación periódica del sistema de atención a las víctimas del delito en España.">
+<ANSWER ISCORRECT="false">Se llevará a cabo anualmente por el Ministerio de Interior.</ANSWER>
+<ANSWER ISCORRECT="true">Se llevará a cabo anualmente por el Ministerio de Justicia.</ANSWER>
+<ANSWER ISCORRECT="false">Se llevará a cabo semestralmente por el Ministerio de Interior.</ANSWER>
+<ANSWER ISCORRECT="false">Se llevará a cabo trimestralmente por el Ministerio de Justicia.</ANSWER>
+</QUESTION>
+</POLL>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="Carta de las Naciones Unidas. Órganos. ¿De acuerdo con qué disposiciones se podrán establecer los órganos subsidiarios que se estimen necesarios?">
+<ANSWER ISCORRECT="false">Con las del Pacto Internacional de Derechos Civiles y Políticos</ANSWER>
+<ANSWER ISCORRECT="false">Con las de la Declaración Universal de Derechos Humanos</ANSWER>
+<ANSWER ISCORRECT="false">Con las del Pacto Internacional de Derechos Económicos, Sociales y Culturales</ANSWER>
+<ANSWER ISCORRECT="true">Con las de la Carta de Naciones Unidas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Declaración Universal de Derechos Humanos. La Declaración fue adoptada y proclamada por la Asamblea General de las Naciones Unidas en el año?:">
+<ANSWER ISCORRECT="false">1.928</ANSWER>
+<ANSWER ISCORRECT="false">1.938</ANSWER>
+<ANSWER ISCORRECT="true">1.948</ANSWER>
+<ANSWER ISCORRECT="false">1.958</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Derechos Humanos. El Pacto Internacional de Derechos Económicos, Sociales y Culturales establece que debe ser asequible a todos gratuitamente la enseñanza:">
+<ANSWER ISCORRECT="true">Primaria</ANSWER>
+<ANSWER ISCORRECT="false">Primaria y secundaria</ANSWER>
+<ANSWER ISCORRECT="false">Primaria, secundaria y superior</ANSWER>
+<ANSWER ISCORRECT="false">Religiosa y política</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Pacto Internacional de Derechos Civiles y Políticos. En relación con la pena de muerte, los Estados Partes en el citado Pacto convienen que?:">
+<ANSWER ISCORRECT="false">No se impondrá la pena de muerte por delitos cometidos por personas de menos de veintiún años de edad, ni se la aplicará a las mujeres en estado de gravidez</ANSWER>
+<ANSWER ISCORRECT="false">El derecho a la vida es inherente a la persona humana, en ningún caso nadie podrá ser privado de la vida</ANSWER>
+<ANSWER ISCORRECT="true">Toda persona condenada a muerte tendrá derecho a solicitar su indulto o la conmutación de la pena. La amnistía, el indulto o la conmutación de la pena capital podrán ser concedidos en todos los casos</ANSWER>
+<ANSWER ISCORRECT="false">En los países que no hayan abolido la pena capital podrá imponerse la pena de muerte por cualquier tipo de delito</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Carta de los Derechos Fundamentales de la Unión Europea. Consciente de su patrimonio espiritual y moral, la Unión está fundamentada sobre los valores indivisibles y universales de:">
+<ANSWER ISCORRECT="false">La libertad, la justicia y la seguridad</ANSWER>
+<ANSWER ISCORRECT="false">La democracia y el Estado de Derecho</ANSWER>
+<ANSWER ISCORRECT="false">La libertad, la justicia, la igualdad y la solidaridad</ANSWER>
+<ANSWER ISCORRECT="true">La dignidad humana, la libertad, la igualdad y la solidaridad</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Estatuto de Roma de la Corte Penal Internacional. A los efectos del Estatuto se entenderá por ?Crímenes de lesa humanidad?:">
+<ANSWER ISCORRECT="true">La encarcelación u otra privación grave de la libertad física en violación de normas fundamentales de derecho internacional cuando se cometa como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento de dicho ataque</ANSWER>
+<ANSWER ISCORRECT="false">La matanza de miembros de un grupo nacional, étnico, racial o religioso, perpetrada con la intención de destruir total o parcialmente a ese grupo como tal</ANSWER>
+<ANSWER ISCORRECT="false">El hecho de causar deliberadamente grandes sufrimientos contra las personas que se hayan protegidas por las disposiciones del Convenio de Ginebra pertinente</ANSWER>
+<ANSWER ISCORRECT="false">La lesión grave a la integridad física o mental de los miembros de un grupo étnico, racial o religioso perpetrada con la intención de destruir parcialmente a ese grupo como tal</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Derechos Humanos. Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales (Convenio de Roma). Tribunal Europeo de Derechos Humanos. El Tribunal, reunido en pleno, señale la proposición INCORRECTA:">
+<ANSWER ISCORRECT="false">Constituirá Salas por un período determinado</ANSWER>
+<ANSWER ISCORRECT="true">Elegirá, por un período de cinco años, a su Presidente y a uno o dos Vicepresidentes, que serán reelegibles</ANSWER>
+<ANSWER ISCORRECT="false">Elegirá a los Presidentes de las Salas del Tribunal, que serán reelegibles</ANSWER>
+<ANSWER ISCORRECT="false">Elegirá al Secretario, y a uno o varios secretarios adjuntos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Carta Social Europea Revisada. Para garantizar el derecho efectivo del derecho a una remuneración equitativa, ¿a qué se comprometen las Partes Contratantes?:">
+<ANSWER ISCORRECT="false">A conceder vacaciones anuales pagadas de tres semanas como mínimo</ANSWER>
+<ANSWER ISCORRECT="false">A asegurar o favorecer un sistema de aprendizaje y otros sistemas de formación de los jóvenes de ambos sexos en sus diversos empleos</ANSWER>
+<ANSWER ISCORRECT="true">A reconocer el derecho de los trabajadores de ambos sexos a una remuneración igual por un trabajo de igual valor</ANSWER>
+<ANSWER ISCORRECT="false">A esforzarse por elevar progresivamente el nivel del régimen de seguridad social</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Derechos Humanos. Cooperación con la CPI. ¿En qué plazo, concluida la vista, el Juzgado Central de Instrucción resolverá sobre la petición de entrega por medio de auto?: ">
+<ANSWER ISCORRECT="false">En el plazo de 2 días</ANSWER>
+<ANSWER ISCORRECT="true">En el plazo de 3 días</ANSWER>
+<ANSWER ISCORRECT="false">En el plazo de 10 días</ANSWER>
+<ANSWER ISCORRECT="false">En el plazo de 15 días	</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Por qué período serán designados los vocales del Consejo Asesor?: ">
+<ANSWER ISCORRECT="false">Por un período de 2 años</ANSWER>
+<ANSWER ISCORRECT="false">Por un período de 3 años</ANSWER>
+<ANSWER ISCORRECT="true">Por un período de 4 años</ANSWER>
+<ANSWER ISCORRECT="false">Por un período de 5 años</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica para la igualdad efectiva de mujeres y hombres. La discriminación que se produce cuando el trato desigual emana directamente de las leyes, normas o prácticas se denomina:">
+<ANSWER ISCORRECT="false">Discriminación indirecta</ANSWER>
+<ANSWER ISCORRECT="false">Discriminación real</ANSWER>
+<ANSWER ISCORRECT="false">Discriminación efectiva</ANSWER>
+<ANSWER ISCORRECT="false">Ley Orgánica para la igualdad efectiva de mujeres y hombres. La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y ..................... en la interpretación y aplicación de las normas jurídicas:</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="
+Artículo 4 Integración del principio de igualdad en la interpretación y aplicación de las normas
+La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas.
+">
+<ANSWER ISCORRECT="false">Se integrará.</ANSWER>
+<ANSWER ISCORRECT="false">Se observará.</ANSWER>
+<ANSWER ISCORRECT="false">Las respuestas a) y b) son correctas.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Prevención de Riesgos Laborales. Ley 31/1995. ¿Cuál de los siguientes derechos no forma parte del derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo?: ">
+<ANSWER ISCORRECT="false">Paralización de la actividad en caso de riesgo grave e inminente</ANSWER>
+<ANSWER ISCORRECT="false">Consulta y participación</ANSWER>
+<ANSWER ISCORRECT="true">Solidaridad laboral</ANSWER>
+<ANSWER ISCORRECT="false">Formación en materia preventiva</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Prevención de Riesgos Laborales. Ley 31/1995. ¿Sobre quién recaerá el coste de las medidas relativas a la seguridad y la salud?: ">
+<ANSWER ISCORRECT="false">Recaerá sobre la Administración General del Estado, en todo caso </ANSWER>
+<ANSWER ISCORRECT="false">Recaerá sobre el empresario u organismo y el trabajador a partes iguales</ANSWER>
+<ANSWER ISCORRECT="false">Recaerá sobre el trabajador, en todo caso</ANSWER>
+<ANSWER ISCORRECT="true">No deberá recaer sobre los trabajadores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Constitución.  El estado de sitio será declarado:">
+<ANSWER ISCORRECT="false">Por el Gobierno mediante Decreto.</ANSWER>
+<ANSWER ISCORRECT="false">Por la mayoría absoluta de las Cortes Generales, a propuesta exclusiva del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="true">Por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno.</ANSWER>
+<ANSWER ISCORRECT="false">Por la mayoría absoluta del Congreso de los Diputados, a propuesta de 50 diputados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Constitución. _____________________determinará la constitución, funcionamiento y gobierno de los Juzgados y Tribunales, así como el estatuto jurídico de los Jueces y Magistrados de carrera, que formarán un Cuerpo único, y del personal al servicio de la Administración de Justicia:">
+<ANSWER ISCORRECT="false">La ley de planta judicial.</ANSWER>
+<ANSWER ISCORRECT="false">Una ley orgánica.</ANSWER>
+<ANSWER ISCORRECT="true">La ley orgánica del poder judicial.</ANSWER>
+<ANSWER ISCORRECT="false">Un Reglamento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Constitución. Extinguidas todas las líneas llamadas en Derecho, ________________ a la sucesión en la Corona en la forma que más convenga a los intereses de España (señale la opción CORRECTA):">
+<ANSWER ISCORRECT="false">La Casa Real proveerá.</ANSWER>
+<ANSWER ISCORRECT="true">Las Cortes Generales proveerán.</ANSWER>
+<ANSWER ISCORRECT="false">El Congreso proveerá.</ANSWER>
+<ANSWER ISCORRECT="false">El Gobierno proveerá.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Defensor del Pueblo. Señala la opción CORRECTA:">
+<ANSWER ISCORRECT="false">El Defensor del Pueblo estará auxiliado por tres Adjuntos.</ANSWER>
+<ANSWER ISCORRECT="true">El Defensor del Pueblo nombrará y separará a sus Adjuntos previa conformidad de las Cámaras en la forma que determinen sus Reglamentos.</ANSWER>
+<ANSWER ISCORRECT="false">El nombramiento de los Adjuntos será publicado en el «Boletín Oficial del Defensor del Pueblo».</ANSWER>
+<ANSWER ISCORRECT="false">Todas las opciones son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Defensor del Pueblo. Señala la opción CORRECTA en relación con el procedimiento ante el Defensor del Pueblo:">
+<ANSWER ISCORRECT="true">Toda queja se presentará firmada por el interesado, con indicación de su nombre, apellidos y domicilio.</ANSWER>
+<ANSWER ISCORRECT="false">Toda queja se presentará en el plazo máximo de tres años, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma.</ANSWER>
+<ANSWER ISCORRECT="false">Será preceptiva la asistencia de Letrado y de Procurador.</ANSWER>
+<ANSWER ISCORRECT="false">Las actuaciones del Defensor del Pueblo no son gratuitas para el interesado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Defensor del Pueblo. Si el Defensor del Pueblo ha sido condenado, mediante sentencia firme, por delito imprudente, la vacante en el cargo la declarará: ">
+<ANSWER ISCORRECT="false">El Presidente del Congreso.</ANSWER>
+<ANSWER ISCORRECT="false">El Presidente del Senado.</ANSWER>
+<ANSWER ISCORRECT="false">Las tres quintas partes de los componentes de cada Cámara.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna respuesta es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Constitución. Título Preliminar. La Constitución Española se fundamenta:">
+<ANSWER ISCORRECT="false">En un Estado social y democrático de Derecho.</ANSWER>
+<ANSWER ISCORRECT="true">En la indisoluble unidad de la Nación española.</ANSWER>
+<ANSWER ISCORRECT="false">En la soberanía nacional.</ANSWER>
+<ANSWER ISCORRECT="false">En el pueblo español.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Constitución. De acuerdo con el artículo 55, ¿cuál de los siguientes derechos se puede suspender en caso de estado de sitio?: ">
+<ANSWER ISCORRECT="true">La libertad de información.</ANSWER>
+<ANSWER ISCORRECT="false">El derecho a la negociación colectiva.</ANSWER>
+<ANSWER ISCORRECT="false">El derecho de a la sindicación.</ANSWER>
+<ANSWER ISCORRECT="false">Se pueden suspender los tres derechos anteriores. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Constitución. Las Fuerzas Armadas: (señale la opción INCORRECTA):">
+<ANSWER ISCORRECT="false">Están constituidas, entre otros por el Ejército de Tierra.</ANSWER>
+<ANSWER ISCORRECT="false">Una ley orgánica regulará las bases de la organización militar.</ANSWER>
+<ANSWER ISCORRECT="true">Tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.</ANSWER>
+<ANSWER ISCORRECT="false">Están constituidas, entre otros, por el ejército del Aire.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Constitución. Son fundamento del orden político y de la paz social:">
+<ANSWER ISCORRECT="false">La dignidad de la persona.</ANSWER>
+<ANSWER ISCORRECT="false">El libre desarrollo de la personalidad.</ANSWER>
+<ANSWER ISCORRECT="false">El respeto a la ley y a los derechos de los demás.</ANSWER>
+<ANSWER ISCORRECT="true">Las tres anteriores son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Tratado de Funcionamiento de la Unión Europea. El Presidente del Tribunal de Justicia es elegido de entre los propios jueces del Tribunal por:">
+<ANSWER ISCORRECT="false">El Parlamento Europeo</ANSWER>
+<ANSWER ISCORRECT="false">Los Gobiernos de los Estados miembros</ANSWER>
+<ANSWER ISCORRECT="true">Los propios jueces del Tribunal</ANSWER>
+<ANSWER ISCORRECT="false">La Comisión</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Tratado de Funcionamiento de la UE. No es un derecho de los ciudadanos de la Unión:">
+<ANSWER ISCORRECT="false">Derecho de circular y residir libremente en el territorio de los Estados miembros</ANSWER>
+<ANSWER ISCORRECT="true">Derecho de sufragio activo y pasivo en las elecciones al Parlamento Europeo y en las elecciones de los Estado miembro</ANSWER>
+<ANSWER ISCORRECT="false">Acogerse, en el territorio de un tercer país en el que no esté representado el Estado miembro del que sean nacionales, a la protección de las autoridades diplomáticas y consulares de cualquier Estado miembro en las mismas condiciones que los nacionales de dicho Estado</ANSWER>
+<ANSWER ISCORRECT="false">Formular peticiones al Parlamento Europeo, de recurrir al Defensor del Pueblo Europeo, así como de dirigirse a las instituciones y a los órganos consultivos de la Unión en una de las lenguas de los Tratados y de recibir una contestación en esa misma lengua</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Tratado de Funcionamiento de la UE. Es una competencia exclusiva de la Unión (señale la INCORRECTA):">
+<ANSWER ISCORRECT="true">La política monetaria de los Estados miembros de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">La unión aduanera</ANSWER>
+<ANSWER ISCORRECT="false">La conservación de los recursos biológicos marinos dentro de la política pesquera común</ANSWER>
+<ANSWER ISCORRECT="false">El establecimiento de las normas sobre competencia necesarias para el funcionamiento del mercado interior</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Tratado de la Unión Europea. ¿Qué mayoría se requiere para el nombramiento del Alto Representante?:">
+<ANSWER ISCORRECT="false">Mayoría absoluta</ANSWER>
+<ANSWER ISCORRECT="false">Mayoría reforzada</ANSWER>
+<ANSWER ISCORRECT="true">Mayoría cualificada</ANSWER>
+<ANSWER ISCORRECT="false">Mayoría de los presentes</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Tratado de la Unión Europea. Los actos legislativos de la Unión sólo podrán adoptarse a propuesta de la Comisión:">
+<ANSWER ISCORRECT="false">Siempre y en todo caso</ANSWER>
+<ANSWER ISCORRECT="false">Cuando así lo determine el Tratado de Funcionamiento de la UE</ANSWER>
+<ANSWER ISCORRECT="true">Siempre que en los Tratados no se disponga otra cosa</ANSWER>
+<ANSWER ISCORRECT="false">Cuando así lo determine el Tratado de la UE</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Instituciones Internacionales. OTAN. ¿Cuál de los siguientes países no forma parte de la OTAN?:">
+<ANSWER ISCORRECT="false">Finlandia</ANSWER>
+<ANSWER ISCORRECT="false">Noruega</ANSWER>
+<ANSWER ISCORRECT="false">Reino Unido</ANSWER>
+<ANSWER ISCORRECT="true">Liechtenstein</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Instituciones Internacionales. Organización de las Naciones Unidas. ¿En qué año empezó oficialmente a existir? ¿Dónde se encuentra su sede principal?:">
+<ANSWER ISCORRECT="false">1955 / Londres</ANSWER>
+<ANSWER ISCORRECT="false">1945 / París</ANSWER>
+<ANSWER ISCORRECT="false">1955 / Roma</ANSWER>
+<ANSWER ISCORRECT="true">1945 / Nueva York</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="32. Instituciones Internacionales. El trabajo de la Asamblea General de la ONU se lleva a cabo en pleno o a través de comisiones. Existen seis Comisiones Principales, señale la CORRECTA:">
+<ANSWER ISCORRECT="true">La Primera es la de Desarme y Seguridad Internacional</ANSWER>
+<ANSWER ISCORRECT="false">La Primera es la de Política Especial y Descolonización</ANSWER>
+<ANSWER ISCORRECT="false">La Primera es la de Asuntos Administrativos y Presupuestarios</ANSWER>
+<ANSWER ISCORRECT="false">La Primera es la de Asuntos Sociales, Humanitarios y Culturales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Instituciones Internacionales. Unión Europea. ¿Cuántos diputados componen el Parlamento Europeo actualmente?:">
+<ANSWER ISCORRECT="false">750 diputados</ANSWER>
+<ANSWER ISCORRECT="false">306 diputados</ANSWER>
+<ANSWER ISCORRECT="false">326 diputados</ANSWER>
+<ANSWER ISCORRECT="true">705 diputados</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Instituciones Internacionales. EUROPOL. Existe una red de intercambio de información, cuyo objetivo es facilitar el intercambio de información entre los Estados miembros, Europol, otros organismos de la Unión, países terceros y organizaciones internacionales: ">
+<ANSWER ISCORRECT="false">Red SIRENE</ANSWER>
+<ANSWER ISCORRECT="true">Red (SIENA)</ANSWER>
+<ANSWER ISCORRECT="false">Panorama de EUROPOL</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las anteriores es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="35. Código Civil. Bastará el tiempo de residencia de un año para adquirir la nacionalidad española:">
+<ANSWER ISCORRECT="false">Los nacionales de origen de países iberoamericanos</ANSWER>
+<ANSWER ISCORRECT="true">El viudo o viuda de española o español, si a la muerte del cónyuge no existiera separación legal o de hecho</ANSWER>
+<ANSWER ISCORRECT="false">Los nacidos en España de padres extranjeros, si ambos carecieren de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una nacionalidad</ANSWER>
+<ANSWER ISCORRECT="false">Los refugiados</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Código Civil. Señala la CORRECTA:">
+<ANSWER ISCORRECT="false">Las fuentes del ordenamiento jurídico español son la ley, la costumbre y la jurisprudencia</ANSWER>
+<ANSWER ISCORRECT="false">La ley solo se aplicará en defecto de costumbre, siempre que no sea contraria a La moral o al orden público, y que resulte probada</ANSWER>
+<ANSWER ISCORRECT="true">Los principios generales del derecho se aplicarán en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico</ANSWER>
+<ANSWER ISCORRECT="false">Los Jueces y Tribunales podrán dejar de resolver en los asuntos de que conozcan, ateniéndose al sistema de fuentes establecido</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Código Civil. Procede también la declaración de fallecimiento de los que perteneciendo a un contingente armado o unidos a él en calidad de funcionarios auxiliares voluntarios, o en funciones informativas, hayan tomado parte en operaciones de campaña y desaparecido en ellas luego que hayan transcurrido ________________, contados desde la fecha del tratado de paz, y en caso de no haberse concertado, desde la declaración oficial de fin de la guerra:">
+<ANSWER ISCORRECT="false">Un año</ANSWER>
+<ANSWER ISCORRECT="true">Dos años</ANSWER>
+<ANSWER ISCORRECT="false">Seis meses</ANSWER>
+<ANSWER ISCORRECT="false">Cinco años</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Código Civil. La autoridad judicial no podrá nombrar tutor a las personas siguientes:">
+<ANSWER ISCORRECT="false">Al administrador que no hubiese sido sustituido en sus facultades de administración durante la tramitación del procedimiento concursal</ANSWER>
+<ANSWER ISCORRECT="false">A quien haya sido condenado en sentencia firme por cualquier delito doloso de carácter grave</ANSWER>
+<ANSWER ISCORRECT="true">A quien le sea imputable la declaración como culpable de un concurso, salvo que la tutela lo sea solo de la persona</ANSWER>
+<ANSWER ISCORRECT="false">A quien haya sido excluido por los descendientes del tutelado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. Son reos del delito de rebelión:">
+<ANSWER ISCORRECT="false">Los que se alcen pública y tumultuariamente para impedir, por la fuerza o fuera de las vías legales, la aplicación de las Leyes.</ANSWER>
+<ANSWER ISCORRECT="false">Los que se alcen pública y tumultuariamente para impedir, por la fuerza o fuera de las vías legales a cualquier autoridad, corporación oficial o funcionario público, el legítimo ejercicio de sus funciones o el cumplimiento de sus acuerdos.</ANSWER>
+<ANSWER ISCORRECT="false">Los que se alzaren violenta y públicamente para impedir la libre celebración de elecciones sindicales.</ANSWER>
+<ANSWER ISCORRECT="true">Los que se alzaren violenta y públicamente para sustraer cualquier clase de fuerza armada a la obediencia del Gobierno.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. Las medidas de seguridad que se pueden imponer con arreglo al Código Penal se clasifican en: ">
+<ANSWER ISCORRECT="false">Multa.</ANSWER>
+<ANSWER ISCORRECT="true">No privativas de libertad.</ANSWER>
+<ANSWER ISCORRECT="false">Privativas de derechos.</ANSWER>
+<ANSWER ISCORRECT="false">Las opciones a) y b) son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. Los hechos susceptibles de ser calificados con arreglo a dos o más preceptos de este Código, y no comprendidos en los artículos 73 a 77, se castigarán observando las siguientes reglas (señale la opción CORRECTA):">
+<ANSWER ISCORRECT="false">El precepto especial en defecto del general.</ANSWER>
+<ANSWER ISCORRECT="false">El precepto subsidiario se aplicará con preferencia al principal.</ANSWER>
+<ANSWER ISCORRECT="true">El precepto penal más amplio o complejo absorberá a los que castiguen las infracciones consumidas en aquél</ANSWER>
+<ANSWER ISCORRECT="false">En defecto de los criterios anteriores, el precepto penal más leve excluirá los que castiguen el hecho con pena mayor.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. Señale la opción INCORRECTA: ">
+<ANSWER ISCORRECT="false">La conspiración existe cuando dos o más personas se conciertan para la ejecución de un delito y no resuelven ejecutarlo.</ANSWER>
+<ANSWER ISCORRECT="false">La provocación existe cuando se expone ante una concurrencia de personas o por cualquier medio de difusión, de ideas o doctrinas que ensalcen el crimen o enaltezcan a su autor.</ANSWER>
+<ANSWER ISCORRECT="true">La proposición existe cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él.</ANSWER>
+<ANSWER ISCORRECT="false">La conspiración sólo será delictiva como forma de provocación y si por su naturaleza y circunstancias constituye una incitación directa a cometer un delito.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. Conforme al artículo 21 es atenuante, haber procedido el culpable, ___________________________________, a confesar la infracción a las autoridades:">
+<ANSWER ISCORRECT="false">Antes del juicio oral.</ANSWER>
+<ANSWER ISCORRECT="true">Antes de conocer que el procedimiento judicial se dirige contra él.</ANSWER>
+<ANSWER ISCORRECT="false">Antes del trámite de audiencia.</ANSWER>
+<ANSWER ISCORRECT="false">Antes del inicio de la investigación policial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. El asesinato será castigado con pena de prisión permanente revisable cuando concurra alguna de las siguientes circunstancias (señale la opción INCORRECTA):">
+<ANSWER ISCORRECT="false">Que la víctima sea una persona especialmente vulnerable por razón de su edad, enfermedad o discapacidad.</ANSWER>
+<ANSWER ISCORRECT="false">Que el hecho fuera subsiguiente a un delito contra la libertad sexual que el autor hubiera cometido sobre la víctima.</ANSWER>
+<ANSWER ISCORRECT="false">Que el delito se hubiera cometido por quien perteneciere a un grupo u organización criminal.</ANSWER>
+<ANSWER ISCORRECT="true">Que hubiera sido condenado por la muerte de más de una persona.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. El que causare o cooperare activamente a la muerte de otra persona cumpliendo lo establecido en la ley orgánica reguladora de la eutanasia:">
+<ANSWER ISCORRECT="false">Será castigado con la pena inferior en grado a la prevista para la cooperación al suicidio.</ANSWER>
+<ANSWER ISCORRECT="false">Será castigado con la pena inferior en grado a la prevista para la inducción al suicidio.</ANSWER>
+<ANSWER ISCORRECT="true">No incurrirá en responsabilidad penal.</ANSWER>
+<ANSWER ISCORRECT="false">Será castigado con la pena inferior en uno o dos grados a la prevista para la cooperación al suicidio.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. La reparación del daño podrá consistir en obligaciones de_____________________ que el Juez o Tribunal establecerá atendiendo a la naturaleza de aquél y a las condiciones personales y patrimoniales del culpable, determinando si han de ser cumplidas por él mismo o pueden ser ejecutadas a su costa:">
+<ANSWER ISCORRECT="true">Dar, de hacer o de no hacer.</ANSWER>
+<ANSWER ISCORRECT="false">Hacer, pero no de dar.</ANSWER>
+<ANSWER ISCORRECT="false">De hacer o de no hacer, únicamente.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las opciones anteriores es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. Se considera pornografía infantil (señale la opción INCORRECTA):">
+<ANSWER ISCORRECT="false">Todo material que represente de manera visual a un menor participando en una conducta sexualmente explícita, real o simulada.</ANSWER>
+<ANSWER ISCORRECT="true">Toda representación de los órganos sexuales de un menor con fines principalmente sexuales o educativos.</ANSWER>
+<ANSWER ISCORRECT="false">Imágenes realistas de un menor participando en una conducta sexualmente explícita.</ANSWER>
+<ANSWER ISCORRECT="false">Todo material que represente de forma visual a una persona que parezca ser un menor participando en una conducta sexualmente explícita, real o simulada.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Código Penal. La responsabilidad criminal se extingue:">
+<ANSWER ISCORRECT="false">Por la transformación de la persona jurídica condenada.</ANSWER>
+<ANSWER ISCORRECT="false">Por la fusión de la persona jurídica condenada.</ANSWER>
+<ANSWER ISCORRECT="false">Por la absorción o escisión de la persona jurídica condenada.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna de las opciones anteriores es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley de Enjuiciamiento Criminal. De la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares, serán competentes:">
+<ANSWER ISCORRECT="false">El Juez de Guardia</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Instrucción de Guardia del lugar de comisión del delito</ANSWER>
+<ANSWER ISCORRECT="true">Los Juzgados de Violencia sobre la Mujer</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley de Enjuiciamiento Criminal. El que hubiera sido condenado dos veces por sentencia firme como reo del delito de denuncia o querella calumniosa:">
+<ANSWER ISCORRECT="false">Podrá ejercitar la acción penal en todo caso.</ANSWER>
+<ANSWER ISCORRECT="false">Podrá ejercitar la acción penal por delito o falta cometidos contra sus personas o bienes o contra las personas o bienes de sus cónyuges, ascendientes, descendientes, hermanos consanguíneos o uterinos y afines.</ANSWER>
+<ANSWER ISCORRECT="false">Podrá ejercitar la acción penal por el delito o falta cometidos contra las personas o bienes de los que estuviesen bajo su guarda legal.</ANSWER>
+<ANSWER ISCORRECT="true">Las opciones b) y c) son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley de Enjuiciamiento Criminal. Según el art. 106, la acción penal por delito o falta que dé lugar al procedimiento de oficio:">
+<ANSWER ISCORRECT="false">Se extingue por la renuncia de la persona ofendida.</ANSWER>
+<ANSWER ISCORRECT="false">Se extingue por el desistimiento de la persona ofendida.</ANSWER>
+<ANSWER ISCORRECT="true">No se extingue por la renuncia de la persona ofendida.</ANSWER>
+<ANSWER ISCORRECT="false">No se extingue por la renuncia o el desistimiento de la persona ofendida.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley de Enjuiciamiento Criminal. Todos los ciudadanos españoles, hayan sido o no ofendidos por el delito, pueden ejercer la acción popular a través de:">
+<ANSWER ISCORRECT="false">Denuncia.</ANSWER>
+<ANSWER ISCORRECT="true">Querella.</ANSWER>
+<ANSWER ISCORRECT="false">Demanda.</ANSWER>
+<ANSWER ISCORRECT="false">Las opciones a) y b) son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley de Enjuiciamiento Criminal. Según el art. 283, NO constituirán la Policía Judicial, NI serán auxiliares de los Jueces y Tribunales competentes en materia penal y del Ministerio fiscal:">
+<ANSWER ISCORRECT="false">Cualquier fuerza destinada a la persecución de malhechores.</ANSWER>
+<ANSWER ISCORRECT="false">Los serenos.</ANSWER>
+<ANSWER ISCORRECT="true">Los concejales.</ANSWER>
+<ANSWER ISCORRECT="false">Los guardas de sembrados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica Reguladora del Procedimiento de Habeas Corpus. Practicadas las actuaciones que recoge la ley, el Juez, mediante auto motivado, podrá adoptar las siguientes resoluciones (señale la opción INCORRECTA):">
+<ANSWER ISCORRECT="true">Si estima que no se da ninguna de las circunstancias a que se refiere el artículo primero de esta ley (supuestos de detención ilegal), acordará la puesta en libertad del privado de ésta.</ANSWER>
+<ANSWER ISCORRECT="false">Si estima que concurren alguna de las circunstancias del artículo primero, acordará que continúe la situación de privación de libertad de acuerdo con las disposiciones legales aplicables al caso.</ANSWER>
+<ANSWER ISCORRECT="false">Que la persona privada de libertad sea puesta inmediatamente a disposición judicial, si ya hubiese transcurrido el plazo legalmente establecido para su detención.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las opciones es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Poder Judicial. ¿Qué órgano/s jurisdiccional/es conocerá/n del enjuiciamiento de los delitos por tráfico de drogas o estupefacientes?:">
+<ANSWER ISCORRECT="false">La Sala de lo Penal de la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="false">Juzgados Centrales de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">Juzgados Centrales de Instrucción.</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna de las anteriores es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica del Poder Judicial. ¿Cuál es el ámbito territorial en el que extienden su jurisdicción los Juzgados de Violencia sobre la Mujer?:">
+<ANSWER ISCORRECT="false">Municipal.</ANSWER>
+<ANSWER ISCORRECT="true">Partido Judicial.</ANSWER>
+<ANSWER ISCORRECT="false">Capital del partido judicial.</ANSWER>
+<ANSWER ISCORRECT="false">Provincial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Real Decreto de Policía Judicial. ¿Qué habrá de hacer el funcionario policial que haya iniciado la investigación al comparecer para hacerse cargo de ella la Autoridad Judicial o el Fiscal encargado de las actuaciones, directamente o a través de la correspondiente Unidad Orgánica de Policía Judicial?:">
+<ANSWER ISCORRECT="false">Cesar en la misma.</ANSWER>
+<ANSWER ISCORRECT="false">Entregar las diligencias practicadas y los efectos intervenidos.</ANSWER>
+<ANSWER ISCORRECT="false">Hacer entrega de las personas cuya detención se hubiese acordado.</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley del Estatuto de la Víctima del Delito. ¿Quién tiene competencia para valorar las necesidades de la víctima y la determinación de las medidas de protección en la fase de enjuiciamiento?:">
+<ANSWER ISCORRECT="false">El juez de lo Penal.</ANSWER>
+<ANSWER ISCORRECT="false">La Audiencia Provincial.</ANSWER>
+<ANSWER ISCORRECT="false">El Juez de Instrucción</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Según el art. 21.2, ¿cuál es el plazo máximo en el que la Administración debe notificar resolución expresa?:">
+<ANSWER ISCORRECT="false">3 meses</ANSWER>
+<ANSWER ISCORRECT="false">6 meses</ANSWER>
+<ANSWER ISCORRECT="true">El fijado por la norma reguladora del correspondiente procedimiento.</ANSWER>
+<ANSWER ISCORRECT="false">10 días</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Según el art. 100.1 la ejecución forzosa por las Administraciones Públicas se efectuará respetando siempre el principio de proporcionalidad?, ¿por cuál de los siguientes medios?:">
+<ANSWER ISCORRECT="false">Apremio coercitivo.</ANSWER>
+<ANSWER ISCORRECT="true">Ejecución subsidiaria.</ANSWER>
+<ANSWER ISCORRECT="false">Compulsión proporcional.</ANSWER>
+<ANSWER ISCORRECT="false">Multa patrimonial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Según el art. 124, ¿cuál de los siguientes enunciados es correcto respecto al recurso potestativo de reposición?:">
+<ANSWER ISCORRECT="false">El plazo para la interposición del recurso de reposición será de dos meses, si el acto fuera expreso.</ANSWER>
+<ANSWER ISCORRECT="false">El plazo máximo para dictar y notificar la resolución del recurso será de tres meses.</ANSWER>
+<ANSWER ISCORRECT="false">Contra la resolución de un recurso de reposición podrá interponerse recurso de alzada ante el órgano superior jerárquico que dictó el acto.</ANSWER>
+<ANSWER ISCORRECT="true">Si el acto no fuera expreso, se podrá interponer recurso de reposición en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="62. Ley del Régimen Jurídico del Sector Público. En relación a los Delegados del Gobierno, señale la afirmación INCORRECTA:">
+<ANSWER ISCORRECT="false">Dirigirán y supervisarán la Administración General del Estado en el territorio de las respectivas Comunidades Autónomas.</ANSWER>
+<ANSWER ISCORRECT="true">Deberán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del Presidente de la Comunidad Autónoma respectiva.</ANSWER>
+<ANSWER ISCORRECT="false">En caso de ausencia, vacante o enfermedad del titular de la Delegación del Gobierno, será suplido por el Subdelegado del Gobierno que el Delegado designe.</ANSWER>
+<ANSWER ISCORRECT="false">Representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley del Régimen Jurídico del Sector Público. Las delegaciones de competencias y su revocación deberán publicarse, según la Administración a que pertenezca el órgano delegante, en:">
+<ANSWER ISCORRECT="false">Boletín oficial de la Provincia.</ANSWER>
+<ANSWER ISCORRECT="false">BOE.</ANSWER>
+<ANSWER ISCORRECT="false">Boletín oficial de la Comunidad Autónoma.</ANSWER>
+<ANSWER ISCORRECT="true">Todas las anteriores son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley del Régimen Jurídico del Sector Público. ¿A quién corresponde velar por la legalidad formal y material de las actuaciones de los órganos colegiados?:">
+<ANSWER ISCORRECT="false">Al Presidente.</ANSWER>
+<ANSWER ISCORRECT="false">A la persona designada por el Estatuto de creación del órgano colegiado correspondiente.</ANSWER>
+<ANSWER ISCORRECT="true">Al secretario.</ANSWER>
+<ANSWER ISCORRECT="false">Al miembro que se designe por el órgano colegiado correspondiente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica de Protección de Datos y garantía de los derechos digitales. Corresponde la titularidad y el ejercicio de las funciones relacionadas con la acción exterior del Estado en materia de protección de datos:">
+<ANSWER ISCORRECT="false">Al Ministerio de Asuntos Exteriores y Cooperación</ANSWER>
+<ANSWER ISCORRECT="false">Al Comité Europeo de Protección de Datos</ANSWER>
+<ANSWER ISCORRECT="true">A la Agencia Española de Protección de Datos</ANSWER>
+<ANSWER ISCORRECT="false">A la Agencia Española de Protección de Datos o autoridades autonómicas de protección de datos, en su caso</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica de Protección de Datos y garantía de los derechos digitales. La Agencia Española de Protección de Datos podrá inadmitir una reclamación cuando el responsable o encargado del tratamiento, previa advertencia formulada por la Agencia Española de Protección de Datos, hubiera adoptado las medidas correctivas encaminadas a poner fin al posible incumplimiento de la legislación de protección de datos y concurra alguna de las siguientes circunstancias:">
+<ANSWER ISCORRECT="false">Que no se haya causado perjuicio al afectado en el caso de las infracciones previstas en el artículo 74 de esta ley orgánica</ANSWER>
+<ANSWER ISCORRECT="false">Que el derecho del afectado quede plenamente garantizado mediante la aplicación de las medidas</ANSWER>
+<ANSWER ISCORRECT="true">A y B son correctas</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Autorización de residencia y trabajo (señale la opción CORRECTA):">
+<ANSWER ISCORRECT="false">Los extranjeros mayores de catorce años precisarán, para ejercer cualquier actividad lucrativa, laboral o profesional, de la correspondiente autorización administrativa previa para residir y trabajar.</ANSWER>
+<ANSWER ISCORRECT="true">La carencia de la autorización de residencia y trabajo, sin perjuicio de las responsabilidades del empresario a que dé lugar, incluidas las de Seguridad Social, no invalidará el contrato de trabajo respecto a los derechos del trabajador extranjero.</ANSWER>
+<ANSWER ISCORRECT="false">El trabajador que carezca de autorización de residencia y trabajo podrá obtener prestaciones por desempleo.</ANSWER>
+<ANSWER ISCORRECT="false">La eficacia de la autorización de residencia y trabajo inicial se condicionará al alta del trabajador en el Registro Mercantil.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Se exige la existencia de motivos imperiosos de seguridad pública para expulsar a:">
+<ANSWER ISCORRECT="false">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo.</ANSWER>
+<ANSWER ISCORRECT="true">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que hubiera residido en España durante los diez años anteriores.</ANSWER>
+<ANSWER ISCORRECT="false">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que tenga una residencia permanente.</ANSWER>
+<ANSWER ISCORRECT="false">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que tenga una residencia temporal.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Seguridad Ciudadana. Ley Orgánica 4/2015. ¿Quién realizará el registro corporal, como norma general?:">
+<ANSWER ISCORRECT="false">Dos agentes del mismo sexo</ANSWER>
+<ANSWER ISCORRECT="false">Dos agentes, con independencia de su sexo</ANSWER>
+<ANSWER ISCORRECT="true">Un agente del mismo sexo</ANSWER>
+<ANSWER ISCORRECT="false">Un agente, con independencia de su sexo </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Seguridad Privada. Ley 5/2014. ¿Cada cuánto tiempo deberán presentar las empresas de Seguridad Privada un informe sobre sus actividades y el resumen de las cuentas?:">
+<ANSWER ISCORRECT="false">Cada trimestre</ANSWER>
+<ANSWER ISCORRECT="false">Cada dos años</ANSWER>
+<ANSWER ISCORRECT="false">Cada seis meses</ANSWER>
+<ANSWER ISCORRECT="true">Cada año</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Seguridad Privada. Ley 5/2014. Personal que integra la Seguridad Privada. Señala la INCORRECTA: ">
+<ANSWER ISCORRECT="true">Los guardas armados</ANSWER>
+<ANSWER ISCORRECT="false">Los vigilantes de explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Los jefes de seguridad</ANSWER>
+<ANSWER ISCORRECT="false">Los guardas rurales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Interior. ¿A quién le corresponde elaborar las informaciones estadísticas no clasificadas relacionadas con estas materias, en especial la estadística oficial sobre drogas, crimen organizado, trata y explotación de seres humanos?: ">
+<ANSWER ISCORRECT="false">Director General de Coordinación y Estudios </ANSWER>
+<ANSWER ISCORRECT="false">Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO)</ANSWER>
+<ANSWER ISCORRECT="false">Elabora la a, en coordinación con la b </ANSWER>
+<ANSWER ISCORRECT="true">Elabora la B, en coordinación con la A</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Interior. ¿Quién asume la presidencia de la Comisión Calificadora de Documentos Administrativos del Departamento?: ">
+<ANSWER ISCORRECT="true">La Secretaría General Técnica de la Subsecretaría de Interior</ANSWER>
+<ANSWER ISCORRECT="false">La Secretaría General Técnica de la Secretaría de Estado de Seguridad</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Política Interior</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Relaciones Internacionales y Extranjería</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ministerio de Defensa. ¿Cuál de los siguientes no es un Cuerpo Común a las Fuerzas Armadas?:">
+<ANSWER ISCORRECT="false">Cuerpo Militar de Sanidad</ANSWER>
+<ANSWER ISCORRECT="true">Cuerpo de Defensa Militar</ANSWER>
+<ANSWER ISCORRECT="false">Cuerpo de Músicas Militares</ANSWER>
+<ANSWER ISCORRECT="false">Cuerpo Militar de Intervención</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="FFCCS. Ley Orgánica 2/1986. Completa la siguiente premisa del principio de tratamiento de detenidos: velarán por la vida e integridad física de las personas a quienes detuvieren o que se encuentren bajo su custodia:">
+<ANSWER ISCORRECT="false">Auxiliándoles en todo aquello que necesiten </ANSWER>
+<ANSWER ISCORRECT="false">Leyéndoles los derechos y deberes del detenido</ANSWER>
+<ANSWER ISCORRECT="true">Y respetarán el honor y la dignidad de las personas</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="FFCCS. Ley Orgánica 2/1986. Según el Principio de Responsabilidad: son responsables personal y directamente por los actos que en su actuación profesional llevaren a cabo, infringiendo o vulnerando las normas legales: ">
+<ANSWER ISCORRECT="false">No así las reglamentarias que rijan su profesión y los principios básicos enunciados en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, sin perjuicio de la responsabilidad patrimonial que pueda corresponder a las Administraciones Públicas por las mismas</ANSWER>
+<ANSWER ISCORRECT="true">Así como las reglamentarias que rijan su profesión y los principios básicos enunciados en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, sin perjuicio de la responsabilidad patrimonial que pueda corresponder a las Administraciones Públicas por las mismas</ANSWER>
+<ANSWER ISCORRECT="false">No así las reglamentarias que rijan su profesión y los principios básicos enunciados en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, con perjuicio de la responsabilidad patrimonial que pueda corresponder de sus actuaciones tanto a las Administraciones públicas como a él mismo</ANSWER>
+<ANSWER ISCORRECT="false">Así como las reglamentarias que rijan su profesión y los principios básicos enunciados en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, con perjuicio de la responsabilidad patrimonial que pueda corresponder de sus actuaciones tanto a las Administraciones públicas como a él mismo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="DGGC. Estructura Orgánica. ¿En qué Mando se encuadra la Jefatura de Enseñanza?: ">
+<ANSWER ISCORRECT="false">Mando de Enseñanza</ANSWER>
+<ANSWER ISCORRECT="true">Mando de Personal</ANSWER>
+<ANSWER ISCORRECT="false">Mando de Operaciones</ANSWER>
+<ANSWER ISCORRECT="false">Mando de Apoyo</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Historia de la GC. En qué documento que, con alguna modificación compone el actual reglamento para el servicio de la Guardia Civil, se puede leer: ?el honor es la principal divisa del guardia civil; debe, por consiguiente, conservarlo sin mancha, una vez perdido, no se recobra jamás?, señale la CORRECTA:">
+<ANSWER ISCORRECT="true">En la Cartilla del Guardia Civil</ANSWER>
+<ANSWER ISCORRECT="false">En la LO 2/86 de FFCCS </ANSWER>
+<ANSWER ISCORRECT="false">En la Real Orden de San Hermenegildo</ANSWER>
+<ANSWER ISCORRECT="false">En las Real Orden de San Fernando</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Protección Civil. ¿Cuál es el objeto de la ley de Protección Civil?: ">
+<ANSWER ISCORRECT="true">Establecer el Sistema de Protección Civil</ANSWER>
+<ANSWER ISCORRECT="false">Establecer los derechos inherentes a los miembros de la Protección Civil</ANSWER>
+<ANSWER ISCORRECT="false">Amparar a los afectados por catástrofes y emergencias nacionales de Protección Civil</ANSWER>
+<ANSWER ISCORRECT="false">Todas las anteriores son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Eficiencia Energética. ¿En base a qué criterios los Estados designan a las partes obligadas entre los distribuidores de energía, las empresas minoristas de venta de energía y los distribuidores o minoristas de combustible para transporte que operen en su territorio?: ">
+<ANSWER ISCORRECT="false">Criterios de cooperación leal y reciprocidad</ANSWER>
+<ANSWER ISCORRECT="false">Criterios altruistas y desinteresados</ANSWER>
+<ANSWER ISCORRECT="false">Criterios comunes para las partes, basados en el principio de igualdad</ANSWER>
+<ANSWER ISCORRECT="true">Criterios objetivos y no discriminatorios </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Desarrollo Sostenible. Definiciones. Señale la opción que corresponde con: ?son áreas naturales que poseen valores cuya conservación merece atención preferente?:">
+<ANSWER ISCORRECT="true">Parques</ANSWER>
+<ANSWER ISCORRECT="false">Reserva Natural</ANSWER>
+<ANSWER ISCORRECT="false">Área Marítima Protegida</ANSWER>
+<ANSWER ISCORRECT="false">Monumentos naturales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="TIC?s. Ley General de Telecomunicaciones. ¿Qué servicios tienen la consideración de servicio público? Señala la INCORRECTA: ">
+<ANSWER ISCORRECT="false">Defensa Nacional. </ANSWER>
+<ANSWER ISCORRECT="false">Seguridad Pública. </ANSWER>
+<ANSWER ISCORRECT="false">Seguridad Vial. </ANSWER>
+<ANSWER ISCORRECT="true">Seguridad Social.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="TIC?s. Ciberseguridad CCNCERT. ¿Qué significa cifrar los datos? ">
+<ANSWER ISCORRECT="false">Convertir una imagen en texto legible: </ANSWER>
+<ANSWER ISCORRECT="false">Convertir un texto llano en un texto legible. </ANSWER>
+<ANSWER ISCORRECT="true">Convertir un texto plano en un texto ilegible. </ANSWER>
+<ANSWER ISCORRECT="false">Convertir un texto llano en un texto ilegible.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Topografía. Las líneas de intersección con la superficie terrestre de todo plano perpendicular al eje terrestre se denominan: ">
+<ANSWER ISCORRECT="false">Meridianos </ANSWER>
+<ANSWER ISCORRECT="false">Medianas, si la pregunta pone líneas, no podemos poner en la respuesta ECUADOR</ANSWER>
+<ANSWER ISCORRECT="true">Paralelos</ANSWER>
+<ANSWER ISCORRECT="false">Hemisferios</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Topografía. Hallar la diferencia de nivel entre dos puntos a los que les separa en un plano de escala 1/1000 una distancia reducida de 0,02 metros y en el terreno una distancia geométrica de 40 metros:">
+<ANSWER ISCORRECT="false">20 metros</ANSWER>
+<ANSWER ISCORRECT="true">34,64 metros</ANSWER>
+<ANSWER ISCORRECT="false">30,26 metros</ANSWER>
+<ANSWER ISCORRECT="false">25 metros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="RD 176/2002. Código de conducta del personal de la Guardia Civil. Cuál de las siguientes se considera, la verdadera seña de identidad de los hombres y mujeres de la Guardia Civil:">
+<ANSWER ISCORRECT="false">La disciplina</ANSWER>
+<ANSWER ISCORRECT="false">La dignidad</ANSWER>
+<ANSWER ISCORRECT="true">El honor</ANSWER>
+<ANSWER ISCORRECT="false">La integridad</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Deontología Profesional. Empleo de la fuerza y de armas de fuego por los funcionarios encargados de hacer cumplir la Ley. Adoptados por el _____ de _____ sobre Prevención del Delito y Tratamiento del Delincuente: ">
+<ANSWER ISCORRECT="true">8º Congreso / las Naciones Unidas</ANSWER>
+<ANSWER ISCORRECT="false">12º Congreso / la Asamblea General</ANSWER>
+<ANSWER ISCORRECT="false">16º Congreso / la Organización del Tratado del Atlántico Norte</ANSWER>
+<ANSWER ISCORRECT="false">18º Congreso / el Consejo de Europa</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="88. Deontología Profesional. Empleo de la fuerza y de armas de fuego por los funcionarios encargados de hacer cumplir la Ley. ¿Se podrán invocar circunstancias excepcionales tales como la inestabilidad política interna o cualquier otra situación pública de emergencia para justificar el quebrantamiento de estos principios básicos?:">
+<ANSWER ISCORRECT="false">Sí, en cualquier caso </ANSWER>
+<ANSWER ISCORRECT="false">Sí, siempre y cuando esté justificado</ANSWER>
+<ANSWER ISCORRECT="false">No, excepto es situaciones de estado de excepción o de sitio</ANSWER>
+<ANSWER ISCORRECT="true">No</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica Reguladora de la Responsabilidad Penal de los Menores. Régimen general de aplicación y duración de las medidas. No obstante lo establecido en los apartados 3 y 4 del artículo 7, la aplicación de las medidas se atendrá a las siguientes reglas. Señale la opción CORRECTA:">
+<ANSWER ISCORRECT="false">RETRP</ANSWER>
+<ANSWER ISCORRECT="false">Artículo 9. Régimen general de aplicación y duración de las medidas.</ANSWER>
+<ANSWER ISCORRECT="false">No obstante lo establecido en los apartados 3 y 4 del artículo 7, la aplicación de las medidas se atendrá a las siguientes reglas:</ANSWER>
+<ANSWER ISCORRECT="false">1. Cuando los hechos cometidos sean calificados de falta, sólo se podrán imponer las medidas de libertad vigilada hasta un máximo de seis meses, amonestación, permanencia de fin de semana hasta un máximo de cuatro fines de semana, prestaciones en beneficio de la comunidad hasta cincuenta horas, privación del permiso de conducir o de otras licencias administrativas hasta un año, la prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez hasta seis meses, y la realización de tareas socio-educativas hasta seis meses.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="2. La medida de internamiento en régimen cerrado sólo podrá ser aplicable cuando:">
+<ANSWER ISCORRECT="false">a) Los hechos estén tipificados como delito grave por el Código Penal o las leyes penales especiales.</ANSWER>
+<ANSWER ISCORRECT="false">b) Tratándose de hechos tipificados como delito menos grave, en su ejecución se haya empleado violencia o intimidación en las personas o se haya generado grave riesgo para la vida o la integridad física de las mismas.</ANSWER>
+<ANSWER ISCORRECT="false">c) Los hechos tipificados como delito se cometan en grupo o el menor perteneciere o actuare al servicio de una banda, organización o asociación, incluso de carácter transitorio, que se dedicare a la realización de tales actividades.</ANSWER>
+<ANSWER ISCORRECT="false">3. La duración de las medidas no podrá exceder de dos años, computándose, en su caso, a estos efectos el tiempo ya cumplido por el menor en medida cautelar, conforme a lo dispuesto en el artículo 28.5 de la presente Ley. La medida de prestaciones en beneficio de la comunidad no podrá superar las cien horas. La medida de permanencia de fin de semana no podrá superar los ocho fines de semana.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="4. Las acciones u omisiones imprudentes no podrán ser sancionadas con medidas de internamiento en régimen cerrado.">
+<ANSWER ISCORRECT="false">5. Cuando en la postulación del Ministerio Fiscal o en la resolución dictada en el procedimiento se aprecien algunas de las circunstancias a las que se refiere el artículo 5.2 de esta Ley, sólo podrán aplicarse las medidas terapéuticas descritas en el artículo 7.1, letras d) y e) de la misma.</ANSWER>
+<ANSWER ISCORRECT="false">En b) NO se aplican las medidas de internamiento en régimen cerrado.</ANSWER>
+<ANSWER ISCORRECT="false">En c) Han de ser tipificados dichos delitos como menos graves. Porque si fuesen leves, no podría aplicarse la medida de internamiento en régimen cerrado.</ANSWER>
+<ANSWER ISCORRECT="false">En d) Es motivo de aplicación de régimen cerrado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="FINRETRO">
+<ANSWER ISCORRECT="true">Cuando los hechos cometidos sean calificados de falta (delito leve), sólo se podrán imponer las medidas de libertad vigilada hasta un máximo de seis meses, amonestación, permanencia de fin de semana hasta un máximo de cuatro fines de semana, prestaciones en beneficio de la comunidad hasta cincuenta horas, privación del permiso de conducir o de otras licencias administrativas hasta un año.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando los hechos constituyan acciones u omisiones imprudentes se aplicarán medidas de internamiento en régimen cerrado.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando en la ejecución de los hechos se haya empleado violencia o intimidación en las personas o se haya actuado con grave riesgo para su vida o integridad física sólo podrá aplicarse una medida de internamiento en régimen cerrado.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando los hechos se cometan en grupo o el menor perteneciere o actuare al servicio de una banda, organización o asociación que se dedicare a la realización de tales actividades se aplicará una medida de internamiento que no podrá ser de régimen cerrado.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica Reguladora de la Responsabilidad Penal de los Menores. ¿Quién/es asumirá/n la competencia de ejecución de las medidas adoptadas por los Jueces de Menores en sus sentencias firmes?:">
+<ANSWER ISCORRECT="false">a) El propio Juez de Menores.</ANSWER>
+<ANSWER ISCORRECT="false">b) El Ministerio Fiscal.</ANSWER>
+<ANSWER ISCORRECT="true">c) Las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.</ANSWER>
+<ANSWER ISCORRECT="false">d) El equipo técnico.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica Reguladora de la Responsabilidad Penal de los Menores. ¿Qué sentencias pueden ser recurribles en casación, ante la Sala Segunda del Tribunal Supremo?:">
+<ANSWER ISCORRECT="false">Las sentencias dictadas en apelación por la Audiencia Nacional.</ANSWER>
+<ANSWER ISCORRECT="false">Las sentencias dictadas en apelación por las Audiencias Provinciales.</ANSWER>
+<ANSWER ISCORRECT="false">Las sentencias dictadas por los Juzgados de Menores.</ANSWER>
+<ANSWER ISCORRECT="true">A y B son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género. ¿Qué NO comprende el derecho a la atención integral que tienen las víctimas de violencia de género?:">
+<ANSWER ISCORRECT="false">Atención psicológica.</ANSWER>
+<ANSWER ISCORRECT="true">Seguimiento de las reclamaciones económicas solicitadas por la víctima.</ANSWER>
+<ANSWER ISCORRECT="false">Información a las víctimas.</ANSWER>
+<ANSWER ISCORRECT="false">Apoyo a la formación e inserción laboral.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género. La violencia de género a que se refiere la Ley comprende:">
+<ANSWER ISCORRECT="false">La violencia que con el objetivo de causar perjuicio o daño a los hombres se ejerza sobre sus familiares o allegados menores de edad por parte de quienes sean o haya sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.</ANSWER>
+<ANSWER ISCORRECT="false">La violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus acompañantes menores de edad por parte de quienes sean o haya sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.</ANSWER>
+<ANSWER ISCORRECT="true">La violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de quienes sean o haya sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.</ANSWER>
+<ANSWER ISCORRECT="false">La violencia que con el objetivo de causar perjuicio o daño a las personas, indiferentemente de su sexo, se ejerza sobre sus familiares o allegados menores de edad por parte de quienes sean o haya sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género. Según lo dispuesto en la Ley, la Educación Primaria contribuirá a desarrollar en el alumnado su capacidad para adquirir habilidades en la resolución pacífica de conflictos y para:">
+<ANSWER ISCORRECT="false">Conciliar y respetar la igualdad entre sexos.</ANSWER>
+<ANSWER ISCORRECT="false">Comprender y respetar la diversidad de sexos.</ANSWER>
+<ANSWER ISCORRECT="true">Comprender y respetar la igualdad entre sexos.</ANSWER>
+<ANSWER ISCORRECT="false">Comprender y responder la igualdad entre sexos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Real Decreto 137/1993, de 29 de enero, por el que se aprueba el Reglamento de Armas. Queda prohibida la publicidad, compraventa, tenencia y uso, salvo por funcionarios especialmente habilitados, y de acuerdo con lo que dispongan las respectivas normas reglamentarias de, indique la INCORRECTA: ">
+<ANSWER ISCORRECT="false">Las armas de fuego largas semiautomáticas de percusión central cuya capacidad de carga sea superior a once cartuchos, incluido el alojado en la recámara</ANSWER>
+<ANSWER ISCORRECT="false">Las armas de fuego largas que puedan reducirse a una longitud de menos de 60 cm sin perder funcionalidad por medio de una culata plegable, telescópica o eliminable</ANSWER>
+<ANSWER ISCORRECT="false">Los 'sprays' de defensa personal y todas aquellas armas que despidan gases o aerosoles, así como cualquier dispositivo que comprenda mecanismos capaces de proyectar sustancias estupefacientes, tóxicas o corrosivas</ANSWER>
+<ANSWER ISCORRECT="true">Todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Real Decreto 137/1993, de 29 de enero, por el que se aprueba el Reglamento de Armas.  Autorizaciones especiales de uso de armas para menores comprendidos entre 14 y 18 años, siendo autorizados para las armas:">
+<ANSWER ISCORRECT="false">2.1 y 3.2</ANSWER>
+<ANSWER ISCORRECT="true">3.2 y 3.3</ANSWER>
+<ANSWER ISCORRECT="false">2.2 y 3.2</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Real Decreto 130/2017, de 24 de febrero, por el que se aprueba el Reglamento de Explosivos. Los agentes económicos se regirán por un sistema uniforme de identificación única y trazabilidad de los explosivos, teniendo en cuenta su:">
+<ANSWER ISCORRECT="false">Tamaño</ANSWER>
+<ANSWER ISCORRECT="false">Peligrosidad</ANSWER>
+<ANSWER ISCORRECT="false">Forma  </ANSWER>
+<ANSWER ISCORRECT="true">La a y c son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Derecho Fiscal. Ley Orgánica de Represión del Contrabando. Dentro de los supuestos especiales la citada Ley de represión del contrabando considera casos en los que cabe hablar de contrabando con independencia del valor de los bienes, mercancía o efectos. ¿Cuál de los siguientes NO estaría incluido?:">
+<ANSWER ISCORRECT="false">Drogas tóxicas</ANSWER>
+<ANSWER ISCORRECT="true">Vehículos de alta gama</ANSWER>
+<ANSWER ISCORRECT="false">Armas</ANSWER>
+<ANSWER ISCORRECT="false">Todos ellos se citan expresamente en la redacción del art. 2.3</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="99. Derecho fiscal. Real Decreto por el que se desarrolla el Título II de la Ley orgánica de represión del contrabando, relativo a las infracciones administrativas de contrabando. RELLENE EL ESPACION EN BLANCO. Transcurridos __________ días desde el vencimiento del plazo sin que la resolución haya sido dictada se entenderá caducado el procedimiento y se procederá al archivo de las actuaciones, de oficio o a instancia del interesado, sin perjuicio de la posibilidad de iniciar de nuevo el procedimiento, en tanto no haya prescrito la acción de la Administración para imponer la correspondiente sanción:">
+<ANSWER ISCORRECT="false">Diez días</ANSWER>
+<ANSWER ISCORRECT="false">Quince días</ANSWER>
+<ANSWER ISCORRECT="true">Treinta días</ANSWER>
+<ANSWER ISCORRECT="false">Seis meses</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Derecho Fiscal. Código Aduanero de la Unión. ¿A cuál de las siguientes mercancías, NO se aplicará la sujeción a declaración de reexportación establecida en el art. 270?1?:">
+<ANSWER ISCORRECT="true">Mercancías incluidas en el régimen de tránsito interno</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías incluidas en el régimen de perfeccionamiento pasivo</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías entregadas, exentas del IVA o de impuestos especiales, para el avituallamiento de aeronaves o embarcaciones, independientemente del destino de la aeronave o de la embarcación, para las que se exigirá una prueba de tal entrega</ANSWER>
+<ANSWER ISCORRECT="false">Mercancías transbordadas dentro de una zona franca o directamente reexportadas desde una zona franca</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Código Civil. El curador responderá de los daños que hubiese causado por su culpa o negligencia a la persona a la que preste apoyo. La acción para reclamar esta responsabilidad prescribe a los _____________contados desde la rendición final de cuentas:">
+<ANSWER ISCORRECT="false">Seis años</ANSWER>
+<ANSWER ISCORRECT="false">Cinco años</ANSWER>
+<ANSWER ISCORRECT="true">Tres años</ANSWER>
+<ANSWER ISCORRECT="false">Dos años</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Es un infracción muy grave:">
+<ANSWER ISCORRECT="false">El incumplimiento de las medidas impuestas por razón de seguridad pública, de presentación periódica o de alejamiento de fronteras o núcleos de población concretados singularmente, de acuerdo con lo dispuesto en la presente Ley</ANSWER>
+<ANSWER ISCORRECT="false">Encontrarse trabajando en España sin haber obtenido autorización de trabajo o autorización administrativa previa para trabajar, cuando no cuente con autorización de residencia válida</ANSWER>
+<ANSWER ISCORRECT="true">Simular la relación laboral con un extranjero, cuando dicha conducta se realice con ánimo de lucro o con el propósito de obtener indebidamente derechos reconocidos en esta Ley, siempre que tales hechos no constituyan delito</ANSWER>
+<ANSWER ISCORRECT="false">Encontrarse trabajando en España sin haber solicitado autorización administrativa para trabajar por cuenta propia, cuando se cuente con permiso de residencia temporal</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="Ley del Procedimiento Administrativo Común de las Administraciones Públicas.  Las Administraciones Públicas revisarán periódicamente su normativa vigente para:">
+<ANSWER ISCORRECT="false">adaptarla a los principios de buena regulación</ANSWER>
+<ANSWER ISCORRECT="false">comprobar la medida en que las normas en vigor han conseguido los objetivos previstos</ANSWER>
+<ANSWER ISCORRECT="false">comprobar si estaba justificado y correctamente cuantificado el coste y las cargas impuestas en ellas</ANSWER>
+<ANSWER ISCORRECT="true">todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="104. Ley Orgánica de Protección de Datos y garantía de los derechos digitales. Al ejercer el derecho de rectificación reconocido en el artículo 16 del Reglamento (UE) 2016/679:">
+<ANSWER ISCORRECT="true">El afectado deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse</ANSWER>
+<ANSWER ISCORRECT="false">El responsable deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse</ANSWER>
+<ANSWER ISCORRECT="false">El encargado deberá acompañar, cuando sea preciso, la documentación justificativa de la inexactitud o carácter incompleto de los datos objeto de tratamiento</ANSWER>
+<ANSWER ISCORRECT="false">Todas son correctas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="105. Derechos Humanos. Reglamento del Defensor del Pueblo. ¿Cuál de las que se citan NO corresponde con una de las funciones asignadas al Consejo Asesor del Mecanismo Nacional de Prevención?:">
+<ANSWER ISCORRECT="false">Realizar propuestas sobre visitas a lugares donde se hallen personas privadas de libertad</ANSWER>
+<ANSWER ISCORRECT="false">Realizar propuestas para la mejora de protocolos de visitas y para el seguimiento de las mismas</ANSWER>
+<ANSWER ISCORRECT="true">Realizar el seguimiento de los informes que elabore el Defensor del Pueblo y Los Mecanismos Nacionales sobre esta materia</ANSWER>
+<ANSWER ISCORRECT="false">Proponer programas de formación y cursos de especialización en materia de prevención de la tortura y de los tratos o penas crueles, inhumanos o degradantes.</ANSWER>
+</QUESTION>
+</POLL>

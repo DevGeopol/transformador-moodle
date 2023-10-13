@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>01. Instituciones Internacionales. FAO. ¿En qué año se fundó la FAO?: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">01. Instituciones Internacionales. FAO. ¿En qué año se fundó la FAO?: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1945 la FAO se ESTABLECE como Organismo Especializado de la ONU.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1944. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1945 la FAO se ESTABLECE como Organismo Especializado de la ONU.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1945. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1945 la FAO se ESTABLECE como Organismo Especializado de la ONU.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1904. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1945 la FAO se ESTABLECE como Organismo Especializado de la ONU.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1946. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1945 la FAO se ESTABLECE como Organismo Especializado de la ONU.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>02. Instituciones Internacionales. FAO. ¿Cuántas naciones firmaron el compromiso cuando se fundó la FAO? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">02. Instituciones Internacionales. FAO. ¿Cuántas naciones firmaron el compromiso cuando se fundó la FAO? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1943, representantes de 44 Países se REÚNEN en Virginia (EEUU) y se COMPROMETEN a FUNDAR una Organización permanente dedicada a la Alimentación y la Agricultura.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">44. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1943, representantes de 44 Países se REÚNEN en Virginia (EEUU) y se COMPROMETEN a FUNDAR una Organización permanente dedicada a la Alimentación y la Agricultura.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">46. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1943, representantes de 44 Países se REÚNEN en Virginia (EEUU) y se COMPROMETEN a FUNDAR una Organización permanente dedicada a la Alimentación y la Agricultura.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">45. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1943, representantes de 44 Países se REÚNEN en Virginia (EEUU) y se COMPROMETEN a FUNDAR una Organización permanente dedicada a la Alimentación y la Agricultura.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">40.</p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+En 1943, representantes de 44 Países se REÚNEN en Virginia (EEUU) y se COMPROMETEN a FUNDAR una Organización permanente dedicada a la Alimentación y la Agricultura.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>03. Instituciones Internacionales. FAO. ¿Dónde se encuentra situada la sede de la FAO? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">03. Instituciones Internacionales. FAO. ¿Dónde se encuentra situada la sede de la FAO? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Desde 1951 la sede de traslada de Washington a Roma.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En Ginebra. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Desde 1951 la sede de traslada de Washington a Roma.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En Berlín. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Desde 1951 la sede de traslada de Washington a Roma.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En Quebec. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Desde 1951 la sede de traslada de Washington a Roma.
+</p>]]></text></feedback></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">En Roma. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Desde 1951 la sede de traslada de Washington a Roma.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>04. Instituciones Internacionales. FAO. ¿Cuál es el esfuerzo internacional que lidera la FAO?: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">04. Instituciones Internacionales. FAO. ¿Cuál es el esfuerzo internacional que lidera la FAO?: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Controlar la salud pública de los estados miembros. </p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Poner fin al hambre. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fomentar el desarrollo Económico y Social. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Promocionar conocimientos sobre las materias de la alimentación. </p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>05. Instituciones Internacionales. FAO. ¿Cuáles son los órganos principales de la FAO? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">05. Instituciones Internacionales. FAO. ¿Cuáles son los órganos principales de la FAO? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Estructura de la FAO.
+</p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Conferencia, el Consejo y la Dirección General. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Estructura de la FAO.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Conferencia, el Comité y la Dirección General. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Estructura de la FAO.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Asamblea, el Consejo y la Dirección General. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Estructura de la FAO.
+</p>]]></text></feedback></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Consejo y la Dirección General. </p>]]></text><feedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">
+Estructura de la FAO.
+</p>]]></text></feedback></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>06. Instituciones Internacionales. FAO. ¿Cuál es la función principal de la FAO? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">06. Instituciones Internacionales. FAO. ¿Cuál es la función principal de la FAO? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Conducir las actividades internacionales de salud. </p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Conducir las actividades internacionales encaminadas a erradicar el hambre. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Controlar la seguridad alimentaria y la nutrición. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Todas las anteriores son correctas. </p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>07. Instituciones Internacionales. FAO. ¿Cuál es el órgano rector de la FAO? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">07. Instituciones Internacionales. FAO. ¿Cuál es el órgano rector de la FAO? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Dirección General. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Comité. </p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Conferencia. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) y b) son correctas </p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>08. Instituciones Internacionales. FAO. ¿Con cuántos países miembros cuenta la FAO como organización intergubernamental? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">08. Instituciones Internacionales. FAO. ¿Con cuántos países miembros cuenta la FAO como organización intergubernamental? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Como organización intergubernamental, la FAO cuenta con 194 países miembros, dos miembros asociados y una organización miembro, la Unión Europea. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Como organización intergubernamental, la FAO cuenta con 190 países miembros, tres miembros asociados y una organización miembro, la Unión Europea. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Como organización intergubernamental, la FAO cuenta con 195 países miembros y un miembro asociado, </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Ninguna de las anteriores es correcta. </p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>09. Instituciones Internacionales. FAO. ¿Quién elije los miembros del Consejo? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">09. Instituciones Internacionales. FAO. ¿Quién elije los miembros del Consejo? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Comité. </p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Conferencia. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Dirección General. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) y b) son correctas.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>10. Instituciones Internacionales. FAO. ¿Quién elije al Director General? </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10. Instituciones Internacionales. FAO. ¿Quién elije al Director General? </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Comité. </p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Conferencia. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Dirección General. </p>]]></text></answer>
+<answer fraction="-33.33333" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">a) y b) son correctas.</p>]]></text></answer>
+<tags></tags></question></quiz>

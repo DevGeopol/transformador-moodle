@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="1- Real Decreto 240/2007.A quién de los siguientes se aplica el régimen comunitario:">
+<ANSWER ISCORRECT="true">Al hijo congoleño de 19 años de un francés </ANSWER>
+<ANSWER ISCORRECT="false">Al ex marido de una portuguesa</ANSWER>
+<ANSWER ISCORRECT="false">A la pareja de hecho de un bielorruso</ANSWER>
+<ANSWER ISCORRECT="false">Se aplica a todos los anteriores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="2- Real Decreto 240/2007.La solicitud de la tarjeta de residencia de familiar de ciudadano de la Unión deberá presentarse en el plazo __________desde la fecha de entrada en España, ante la Oficina de Extranjeros de la provincia donde el interesado pretenda permanecer o fijar su residencia o, en su defecto, ante la Comisaría de Policía correspondiente">
+<ANSWER ISCORRECT="true">De tres meses</ANSWER>
+<ANSWER ISCORRECT="false">De un mes</ANSWER>
+<ANSWER ISCORRECT="false">De dos meses</ANSWER>
+<ANSWER ISCORRECT="false">De seis meses</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="3- Real Decreto 240/2007.Se perderá el derecho de residencia permanente:">
+<ANSWER ISCORRECT="false">Por ausencia de la Unión Europea durante mas de 12 meses</ANSWER>
+<ANSWER ISCORRECT="true">Por ausencia del territorio español durante más de dos años consecutivos</ANSWER>
+<ANSWER ISCORRECT="false">Por ausencia del territorio español durante más de doce meses consecutivos</ANSWER>
+<ANSWER ISCORRECT="false">Por ausencia de la Unión Europea durante más de dos años consecutivos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="4- Real Decreto 240/2007.La tarjeta de residencia permanente para miembros de la familia que no tengan la nacionalidad de un Estado miembro de la Unión Europea">
+<ANSWER ISCORRECT="true">Será renovable automáticamente cada diez años</ANSWER>
+<ANSWER ISCORRECT="false">Será renovable automáticamente cada cinco años</ANSWER>
+<ANSWER ISCORRECT="false">Será renovable automáticamente cada tres años</ANSWER>
+<ANSWER ISCORRECT="false">No es renovable, tiene carácter indefinido</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="5- Real Decreto 240/2007.Si un comunitario ha residido en España durante los diez años anteriores:">
+<ANSWER ISCORRECT="false">No se le podrá expulsar</ANSWER>
+<ANSWER ISCORRECT="false">No se le podrá expulsar salvo motivos graves de orden público o seguridad pública</ANSWER>
+<ANSWER ISCORRECT="true">No se le podrá expulsar salvo si existen motivos imperiosos de seguridad pública</ANSWER>
+<ANSWER ISCORRECT="false">Se les expulsará por incurrir en las infracciones de la ley 4/2000</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="6- Real Decreto 240/2007. Las resoluciones de expulsión establecerán un plazo para abandonar el territorio español que salvo casos urgentes no podrá ser inferior a ">
+<ANSWER ISCORRECT="false">Quince días a partir de la fecha de notificación</ANSWER>
+<ANSWER ISCORRECT="true">Un mes a partir de la fecha de notificación</ANSWER>
+<ANSWER ISCORRECT="false">Dos meses a partir de la fecha de notificación</ANSWER>
+<ANSWER ISCORRECT="false">Diez días a partir de la fecha de notificación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="7. Real Decreto 240/2007 En el caso de pareja de hecho se entenderá la existencia de vínculo duradero si se acredita un tiempo de convivencia marital de:">
+<ANSWER ISCORRECT="true">Al menos, un año continuado, salvo que tuvieran descendencia en común, en cuyo caso bastará la acreditación de convivencia estable debidamente probada</ANSWER>
+<ANSWER ISCORRECT="false">Al menos dos años continuados</ANSWER>
+<ANSWER ISCORRECT="false">Al menos, seis meses continuados, salvo que tuvieran descendencia en común, en cuyo caso bastará la acreditación de convivencia estable debidamente probada</ANSWER>
+<ANSWER ISCORRECT="false">Al menos seis meses</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="8. Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.En el caso de familiares, en todo caso, se entenderá acreditada la convivencia cuando se demuestre fehacientemente una convivencia continuada de______________  en el país de procedencia:">
+<ANSWER ISCORRECT="false">12 meses</ANSWER>
+<ANSWER ISCORRECT="true">24 meses</ANSWER>
+<ANSWER ISCORRECT="false">6 meses</ANSWER>
+<ANSWER ISCORRECT="false">18 meses</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="9. Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo, o a miembros de su familia, con independencia de su nacionalidad, que hayan adquirido el derecho de residencia permanente en España, si existen motivos _______________________.">
+<ANSWER ISCORRECT="false">De orden público, de seguridad pública o de salud pública</ANSWER>
+<ANSWER ISCORRECT="true">Graves de orden público o seguridad pública</ANSWER>
+<ANSWER ISCORRECT="false">Imperiosos de seguridad pública</ANSWER>
+<ANSWER ISCORRECT="false">De seguridad nacional</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia que no posean la nacionalidad de uno de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo efectuarán su entrada en España:">
+<ANSWER ISCORRECT="false">Con pasaporte valido y en vigor</ANSWER>
+<ANSWER ISCORRECT="true">Con un pasaporte válido y en vigor, necesitando, además, en su caso, el correspondiente visado de entrada</ANSWER>
+<ANSWER ISCORRECT="false">Con visado de entrada</ANSWER>
+<ANSWER ISCORRECT="false">Con un documento de identidad válido y en vigor, necesitando, además, en su caso, el correspondiente visado de entrada</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="11.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia de un ciudadano de un Estado miembro de la Unión Europea o de un Estado parte en el Acuerdo sobre el Espacio Económico Europeo que no ostenten la nacionalidad de uno de dichos Estados, cuando le acompañen o se reúnan con él, tendrán la obligación de solicitar y obtener:">
+<ANSWER ISCORRECT="false">Su inscripción en el Registro Central de Extranjeros</ANSWER>
+<ANSWER ISCORRECT="true">La tarjeta de residencia de familiar de ciudadano de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">La tarjeta como residente de ciudadano de la Unión</ANSWER>
+<ANSWER ISCORRECT="false">Su inscripción en el Registro Civil</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="12.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Dicho Real decreto se aplica también a los descendientes directos de un comunitario cuando sea menor de: ">
+<ANSWER ISCORRECT="false">18 años</ANSWER>
+<ANSWER ISCORRECT="true">21 años</ANSWER>
+<ANSWER ISCORRECT="false">23 años</ANSWER>
+<ANSWER ISCORRECT="false">25 años</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="13.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Las resoluciones de expulsión serán dictadas:">
+<ANSWER ISCORRECT="false">Siempre por el delegado del Gobierno</ANSWER>
+<ANSWER ISCORRECT="false">Por el delegado del gobierno en las comunidades autónomas pluriprovinciales</ANSWER>
+<ANSWER ISCORRECT="true">Los Subdelegados del Gobierno</ANSWER>
+<ANSWER ISCORRECT="false">La Oficina de extranjería del lugar de residencia del interesado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="14.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con carácter general, no se aplicará este Decreto a los nacionales de:">
+<ANSWER ISCORRECT="false">Islandia</ANSWER>
+<ANSWER ISCORRECT="false">Suiza</ANSWER>
+<ANSWER ISCORRECT="false">Portugal</ANSWER>
+<ANSWER ISCORRECT="true">Andorra</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="15.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. La caducidad del documento de identidad o del pasaporte con el que el interesado efectuara su entrada en España, o, en su caso, de la tarjeta de residencia:">
+<ANSWER ISCORRECT="false">Será causa de devolución</ANSWER>
+<ANSWER ISCORRECT="false">Será causa de deportación</ANSWER>
+<ANSWER ISCORRECT="false">Será causa de expulsión</ANSWER>
+<ANSWER ISCORRECT="true">No podrá ser causa de expulsión</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="16.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los miembros de la familia que no posean la nacionalidad de uno de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo efectuarán su entrada en España:">
+<ANSWER ISCORRECT="true">Con un pasaporte válido y en vigor, necesitando, además, el correspondiente visado de entrada cuando así lo disponga el Reglamento (CE) 539/2001, de 15 de marzo</ANSWER>
+<ANSWER ISCORRECT="false">Con el pasaporte o documento de identidad válido y en vigor y en el que conste la nacionalidad del titular</ANSWER>
+<ANSWER ISCORRECT="false">Con pasaporte válido no necesitando visado en ningún caso</ANSWER>
+<ANSWER ISCORRECT="false">Con el pasaporte o documento de identidad válido y en vigor en el que conste la nacionalidad del titular y además el correspondiente visado</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="17.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Se exige la existencia de motivos imperiosos de seguridad pública para expulsar a:">
+<ANSWER ISCORRECT="false">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo</ANSWER>
+<ANSWER ISCORRECT="true">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que hubiera residido en España durante los diez años anteriores</ANSWER>
+<ANSWER ISCORRECT="false">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que tenga una residencia permanente</ANSWER>
+<ANSWER ISCORRECT="false">A un ciudadano de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que tenga una residencia temporal</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="18.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.. Tarjeta de residencia permanente para miembros de la familia de un nacional de un Estado miembro. Las interrupciones de residencia no superiores a_____________, no afectarán a la vigencia de la tarjeta de residencia permanente">
+<ANSWER ISCORRECT="true">Dos años consecutivos</ANSWER>
+<ANSWER ISCORRECT="false">Tres años consecutivos</ANSWER>
+<ANSWER ISCORRECT="false">Seis meses</ANSWER>
+<ANSWER ISCORRECT="false">Cinco años consecutivos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="19.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos de un Estado miembro de la Unión Europea con independencia de su nacionalidad, que hayan adquirido el derecho de residencia permanente en España, si existen motivos graves de: ">
+<ANSWER ISCORRECT="true">Orden público</ANSWER>
+<ANSWER ISCORRECT="false">Seguridad nacional</ANSWER>
+<ANSWER ISCORRECT="false">Salud pública</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna es correcta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="20. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. El presente real decreto se aplica también, cualquiera que sea su nacionalidad al:">
+<ANSWER ISCORRECT="false">Ex cónyuge de un nacional de la UE</ANSWER>
+<ANSWER ISCORRECT="true">A los descendientes del nacional de la UE que sean menores de 21 años</ANSWER>
+<ANSWER ISCORRECT="false">A la pareja con la que mantenga una unión análoga a la conyugal inscrita en un registro público con el nacional de la UE , aunque se haya cancelado dicha inscripción</ANSWER>
+<ANSWER ISCORRECT="false">Se aplica a todos los anteriores</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="21.Para que como regla general se te aplique el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo se requiere ser de que nacionalidad (SEÑALA LA INCORRECTA):">
+<ANSWER ISCORRECT="false">Suiza</ANSWER>
+<ANSWER ISCORRECT="false">Islandia</ANSWER>
+<ANSWER ISCORRECT="true">Moldavia</ANSWER>
+<ANSWER ISCORRECT="false">Francia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="22.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Podrá ser causa de expulsión:">
+<ANSWER ISCORRECT="false">La caducidad del pasaporte con el que el interesado efectuara su entrada en España</ANSWER>
+<ANSWER ISCORRECT="false">La caducidad de la tarjeta de residencia</ANSWER>
+<ANSWER ISCORRECT="false">Cometer una tercera infracción grave</ANSWER>
+<ANSWER ISCORRECT="true">Ninguna de las anteriores es cierta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="23.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo . La tarjeta de familiar de ciudadano de la Unión deberá expedirse:">
+<ANSWER ISCORRECT="true">En el plazo de los tres meses siguientes a la presentación de la solicitud</ANSWER>
+<ANSWER ISCORRECT="false">En el plazo del mes siguiente a la presentación de la solicitud</ANSWER>
+<ANSWER ISCORRECT="false">Inmediatamente desde la solicitud</ANSWER>
+<ANSWER ISCORRECT="false">Nada de lo anterior es cierto</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="24.Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En el caso de familiares se entenderá acreditada la convivencia cuando se demuestre fehacientemente una convivencia continuada">
+<ANSWER ISCORRECT="false">De 12 meses en el país de procedencia</ANSWER>
+<ANSWER ISCORRECT="true">De 24 meses en el país de procedencia</ANSWER>
+<ANSWER ISCORRECT="false">De 6 meses en el país de procedencia</ANSWER>
+<ANSWER ISCORRECT="false">De 18 meses en el país de procedencia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="25. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con carácter general, la resolución de expulsión de alguien a que se aplica el régimen comunitario:">
+<ANSWER ISCORRECT="true">Establecerán un plazo para abandonar el territorio español , que salvo casos urgentes no podrá ser inferior a un mes</ANSWER>
+<ANSWER ISCORRECT="false">No establecerá un plazo de abandono voluntario</ANSWER>
+<ANSWER ISCORRECT="false">Establecerán un plazo para abandonar el territorio español , que salvo casos urgentes no podrá ser inferior a tres meses</ANSWER>
+<ANSWER ISCORRECT="false">Establecerán un plazo para abandonar el territorio español , que salvo casos urgentes no podrá ser inferior a seis meses</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="26. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. NO es una situación prevista en el Real Decreto 240/2007:">
+<ANSWER ISCORRECT="false">La estancia</ANSWER>
+<ANSWER ISCORRECT="false">La residencia de más de tres meses</ANSWER>
+<ANSWER ISCORRECT="true">La residencia de larga duración </ANSWER>
+<ANSWER ISCORRECT="false">La residencia permanente</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="27. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Son titulares del derecho a residir con carácter permanente los ciudadanos de un Estado miembro de la Unión Europea o de un Estado parte en el Acuerdo sobre el Espacio Económico Europeo, y los miembros de la familia que no sean nacionales de uno de dichos Estados, que hayan residido legalmente en España durante un período continuado de">
+<ANSWER ISCORRECT="false">3 años</ANSWER>
+<ANSWER ISCORRECT="true">5 años</ANSWER>
+<ANSWER ISCORRECT="false">10 años</ANSWER>
+<ANSWER ISCORRECT="false">8 años</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="28. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En el caso de pareja de hecho, se entenderá la existencia de vínculo duradero si se acredita un tiempo de convivencia marital de: ">
+<ANSWER ISCORRECT="false">Al menos, un año continuado aunque tengan descendencia común </ANSWER>
+<ANSWER ISCORRECT="true">Basta acreditar la convivencia si tienen descendencia en común</ANSWER>
+<ANSWER ISCORRECT="false">Al menos 24 meses continuados</ANSWER>
+<ANSWER ISCORRECT="false">Al menos 6 meses continuados</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="29. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Las resoluciones de expulsión de los comunitarios serán dictadas por:">
+<ANSWER ISCORRECT="true">Los Subdelegados del Gobierno </ANSWER>
+<ANSWER ISCORRECT="false">Delegados del Gobierno en las comunidades autónomas</ANSWER>
+<ANSWER ISCORRECT="false">Las dos son correctas</ANSWER>
+<ANSWER ISCORRECT="false">El Secretario de Estado de Seguridad</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="30. Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Si se aplicará el régimen comunitario al cónyuge de un belga:">
+<ANSWER ISCORRECT="true">Que estén separados</ANSWER>
+<ANSWER ISCORRECT="false">Que sea declarado nulo el matrimonio</ANSWER>
+<ANSWER ISCORRECT="false">Que estén divorciados </ANSWER>
+<ANSWER ISCORRECT="false">No se aplica el régimen comunitario al cónyuge</ANSWER>
+</QUESTION>
+</POLL>

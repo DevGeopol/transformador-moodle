@@ -1,0 +1,615 @@
+TIPO GC
+
+Pregunta 1: ¿Cuál es el órgano encargado de dirigir la investigación de un delito en el proceso penal español, una vez el procedimiento ha sido judicializado?
+-a) El juez de instrucción.
+b) El fiscal.
+c) El abogado defensor.
+d) El acusado.
+
+Pregunta 2: ¿Qué función principal tiene el Ministerio Fiscal en el proceso penal español?
+a) Juzgara los acusados.
+b) Defendera los acusados.
+-c) Promover la acción de la justicia en defensa de la legalidad
+d) Representara la víctima en el juicio.
+
+Pregunta 3: ¿Cuál es el plazo máximo de detención preventiva?
+a) 12 horas.
+b) 24 horas.
+c) 48 horas.
+-d) 72 horas.
+
+Pregunta 4: ¿Qué tribunal tiene competencia para conocer de los delitos graves en el proceso penal español?
+a) Juzgado de lo Penal.
+-b) Audiencia Provincial.
+c) Juzgado de Instrucción.
+d) Tribunal Supremo.
+
+Pregunta 5: ¿En qué fase del proceso penal español se celebra el juicio oral?
+a) En la fase de instrucción.
+b) En la fase de apelación.
+c) En la fase de ejecución.
+-d) En la fase de enjuiciamiento.
+
+Pregunta 6: ¿Cuál es el principio fundamental en el proceso penal español que establece que nadie puede ser juzgado dos veces por los mismos hechos?
+a) Principio de legalidad.
+b) Principio de presunción de inocencia.
+-c) Principio de non bis in idem.
+d) Principio de igualdad procesal.
+
+Pregunta 7: ¿Qué es la prisión provisional en el proceso penal español?
+a) Una pena de cárcel impuesta por un juez.
+-b) Una medida cautelar que priva de libertad al acusado durante la investigación.
+c) Una condenaa cadena perpetua.
+d) Una pena de arresto domiciliario.
+
+Pregunta 8: ¿Quién tiene la responsabilidad de presentar la acusación en un proceso penal español?
+a) El juez.
+-b) El fiscal.
+c) El abogado defensor.
+d) El testigo principal.
+
+Pregunta 9: ¿Cuál es el plazo general para solicitar la prórroga de una detención en los casos de terrorismo o investigación de bandas armadas desde la detención?
+a) 12 horas.
+-b) 48 horas.
+c) 24 horas.
+d) 72 horas.
+
+Pregunta 10: ¿Qué tribunal es la última instancia en el sistema judicial español?
+a) Juzgado de lo Penal.
+b) Audiencia Provincial.
+c) Juzgado de Instrucción.
+-d) Tribunal Supremo.
+
+Pregunta 11: ¿Qué es el "habeas corpus" en el contexto del proceso penal español?
+a) Un tipo de evidencia en un juicio.
+b) Una orden de arresto.
+-c) Un recurso para proteger la libertad individual contra detenciones ilegales.
+d) Un tipo de pena de cárcel.
+
+Pregunta 12: ¿Cuál es el plazo para presentar un recurso de apelación en un juicio penal?
+-a) 5 días.
+b) 10 días.
+c) 15 días.
+d) 30 días.
+
+Pregunta 13: ¿Qué es la cadena de custodia en el proceso penal español?
+a) Un sistema de video vigilancia en los tribunales.
+-b) El procedimiento para garantizar la integridad de las pruebas en un proceso penal.
+c) El registro de las sentencias judiciales.
+d) Un tipo de pena de cárcel.
+
+Pregunta 14: ¿Cuál es el propósito principal de la fase de instrucción en un proceso penal?
+a) Celebrar el juicio oral.
+-b) Investigar y reunir pruebas.
+c) Dictar sentencias.
+d) Realizar apelaciones.
+
+Pregunta 15: ¿Qué significa el principio de "presunción de inocencia" en el proceso penal español?
+a) Que el acusado es siempre inocente.
+b) Que el acusado debe demostrar su inocencia.
+-c) Que se presume que el acusado es inocente hasta que se demuestre su culpabilidad.
+d) Que el acusado es culpable hasta que se demuestre su inocencia.
+
+Pregunta 16: ¿Cuál es el tribunal competente para conocer de los delitos leves en el proceso penal español con carácter general?
+a) Juzgado de lo Penal.
+b) Audiencia Provincial.
+c) Tribunal Supremo.
+-d) Juzgado de Instrucción.
+
+Pregunta 17: ¿Qué es la "prueba prohibida" en un procedimiento penal?
+a) Pruebas de ADN.
+b) Documentos escritos.
+-c) Prueba obtenida vulnerando derechos fundamentales.
+d) Pruebas periciales.
+
+Pregunta 18: ¿En qué fase del proceso penal español se emite la sentencia?
+a) Fase de instrucción.
+-b) Fase de juicio oral.
+c) Fase de apelación.
+d) Fase de ejecución.
+
+Pregunta 19: ¿A quién debe notificarse la entrada y registro en el Congreso de los Diputados" en el proceso penal español?
+a) Al presidente del Senado
+b) Al rey.
+c) Al presidente del Gobierno.
+-d) Ninguna respuesta es correcta.
+
+Pregunta 20: ¿Cuál es el recurso que se presenta contra una sentencia definitiva en el proceso penal español?
+a) Recurso de apelación.
+-b) Recurso de revisión.
+c) Recurso de casación.
+d) Recurso de amparo.
+
+Pregunta 21: ¿Qué es la "prueba documental" en un juicio penal?
+a) Pruebas de ADN.
+b) Declaraciones de testigos.
+-c) Documentos escritos que se presentan como evidencia.
+d) Pruebas periciales.
+
+Pregunta 22: ¿Cuál es el principio que establece que un acusado no puede ser juzgado dos veces por el mismo delito?
+a) Principio de legalidad.
+-b) Principio de doble incriminación.
+c) Principio de no autoincriminación.
+d) Principio de igualdad procesal.
+
+Pregunta 23: ¿Qué es un "homicidio doloso" en el contexto del proceso penal español?
+a) Un homicidio accidental.
+-b) Un homicidio con intención de causar la muerte.
+c) Un homicidio justificado.
+d) Un homicidio culposo.
+
+Pregunta 24: ¿Cuál es el plazo de la detención de un menor de edad en el proceso penal español?
+-a) El tiempo imprescindible para la práctica de las diligencias necesarias para la averiguación del delito..
+b) 24 horas.
+c) 72 horas.
+d) Ninguna es correcta
+
+Pregunta 25: ¿Cuál es el propósito de la "defensa técnica" en un proceso penal?
+a) Definir las leyes.
+b) Representara la víctima.
+-c) Proteger los derechos del acusado y proporcionar asesoramiento legal.
+d) Tomar decisiones sobre la culpabilidad del acusado.
+
+Pregunta 26: ¿Qué es un "testigo experto" en un juicio penal?
+a) Un testigo que tiene experiencia en dar testimonio.
+-b) Un testigo que es un experto en el tema relacionado con el caso.
+c) Un testigo que ha sido acusado de un delito.
+d) Un testigo que ha sido coaccionado para dar falso testimonio.
+
+Pregunta 27: ¿Qué es el "derecho de defensa" en el proceso penal español?
+a) El derecho de los testigosa ser defendidos por un abogado.
+b) El derecho de los juecesa tomar decisiones.
+-c) El derecho de los acusadosa presentar pruebas ya ejercer las acciones oportunas para defenderse de una acusación.
+d) El derecho de los fiscalesa presentar cargos.
+
+Pregunta 28: ¿Qué es la "prueba pericial" en un juicio penal?
+a) Pruebas de ADN.
+b) Documentos escritos.
+c) Declaraciones de testigos.
+-d) Pruebas presentadas por expertos en un campo específico.
+
+Pregunta 29: ¿Qué es un "delito culposo" en el contexto del proceso penal español?
+a) Un delito cometido con intención de causar daño.
+-b) Un delito cometido por accidente o negligencia.
+c) Un delito cometido en defensa propia.
+d) Un delito justificado.
+
+Pregunta 30: ¿Cuál es la máxima instancia en el sistema judicial español que tiene la autoridad para revisar sentencias de tribunales inferiores?
+a) Juzgado de lo Penal.
+b) Audiencia Provincial.
+-c) Tribunal Supremo.
+d) Tribunal Constitucional.
+
+
+Pregunta 31: ¿Cuál es el órgano judicial competente para instruir un delito cometido en el ámbito de la violencia de género?
+a) Juzgado de instrucción del lugar de los hechos investigados..
+b) Fiscal.
+c) Juzgado de Violencia sobre la mujer del domicilio de la víctima
+-d) Juzgado de Violencia sobre la mujer del lugar donde hayan ocurrido los hechos investigados.
+
+Pregunta 32: ¿En qué artículo del la lecrim se recogen los derechos del investigado en un proceso penal
+-a) 520
+b) 521
+c) 519.
+d) 420.
+
+Pregunta 33: ¿Qué es la "prueba de cargo" en un juicio penal?
+a) Pruebas presentadas por la defensa.
+-b) Pruebas que incriminan al acusado.
+c) Pruebas de carácter personal.
+d) Pruebas documentales.
+
+Pregunta 34: ¿Cuál es el plazo para presentar un recurso de casación ante el Tribunal Supremo
+a) 3 días.
+b) 5 días.
+c) 10 días.
+-d) 20 días.
+
+Pregunta 35: ¿Quién tiene la responsabilidad de probar la culpabilidad del acusado en un juicio penal?
+a) El juez.
+-b) El fiscal.
+c) La defensa.
+d) La víctima.
+
+Pregunta 36: ¿Qué es el "derecho de contradicción" en el proceso penal español?
+a) El derecho de la defensaa presentar pruebas.
+b) El derecho del fiscala interrogara los testigos.
+c) El derecho de la víctimaa declarar en el juicio.
+-d) El derecho de la defensaa impugnar las pruebas presentadas.
+
+Pregunta 37: ¿Cuál es el plazo para presentar un recurso de revisión ante el Tribunal Supremo en el proceso penal español?
+a) 5 días.
+b) 10 días.
+-c) 15 días.
+d) 30 días.
+
+Pregunta 38: ¿Qué es el "jurado popular" en el proceso penal español?
+a) Un grupo de abogados defensores.
+b) Un grupo de jueces.
+-c) Un grupo de ciudadanos seleccionados para emitir un veredicto en un juicio.
+d) Un grupo de expertos en derecho penal.
+
+Pregunta 39: ¿Cuál es el plazo para presentar una querella en el proceso penal español?
+a) 3 meses.
+-b) 6 meses.
+c) 1 año.
+d) 2 años.
+
+Pregunta 40: ¿En qué consiste una denuncia en el procedimiento penal?
+a) Declaración de voluntad.
+b) Declaración de conocimiento.
+c) Declaración de acciones.
+-d) Ninguna es correcta
+
+Pregunta 41: ¿Cuál es el propósito principal del Real Decreto 769/1987 de Policía Judicial?
+a) Establecer las sanciones para los delitos.
+-b) Regular las competencias y funciones de la Policía Judicial en la investigación de los delitos.
+c) Definir los derechos de los detenidos.
+d) Establecer los procedimientos de juicio oral.
+
+Pregunta 42: ¿Quién tiene la responsabilidad de dirigir las investigaciones de la Policía Judicial de forma general?
+a) El Ministro de Justicia.
+b) El Director General de la Policía.
+-c) El Juez de Instrucción.
+d) El Fiscal.
+
+Pregunta 43: ¿Cuál de las siguientes unidades policiales constituye Policía Judicial específica  en el ámbito nacional en España?
+-a) La Guardia Civil.
+b) La Policía Local.
+c) La Policía Autonómica.
+d) La Policía Municipal.
+
+Pregunta 44: ¿Cuál es de las siguientes es  función de la Policía Judicial en la investigación de un delito?
+a) Defender al acusado.
+b) Emitir veredictos.
+-c) Recoger pruebas y evidencias.
+d) Juzgar al acusado.
+
+Pregunta 45: ¿Qué autoridad judicial emite las órdenes de registro en el marco de un procedimiento judicial penal ?
+-a) El Juez de Instrucción.
+b) El Director General de la Policía.
+c) El Ministro de Justicia.
+d) El Fiscal.
+
+Pregunta 46: ¿Cuál es el plazo máximo para comunicar unos hechos delictivos al juez?
+a) 12 horas.
+-b) 24 horas.
+c) 48 horas.
+d) 72 horas.
+
+Pregunta 47: ¿Quién tiene la responsabilidad de coordinar las actuaciones de la Policía Judicial en casos de delincuencia organizada?
+a) El Ministro de Justicia.
+b) El Director General de la Policía.
+-c) El CITCO
+d) El Fiscal General del Estado.
+
+Pregunta 48: ¿Qué tipo de autorización se requiere para la intervención de comunicaciones telefónicas en el marco de una investigación penal?
+a) Autorización del Ministro de Justicia.
+b) Autorización del Director General de la Policía.
+-c) Autorización del Juez de Instrucción.
+d) Autorización del Fiscal.
+
+Pregunta 49: Los delitos contra la libertad sexual tienen la consideración de 
+a) delitos públicos.
+-b) delitos semipúblicos
+c) delitos privados
+d) delitos semiprivados
+
+Pregunta 50: Según lo dispuesto en la lecrim, NO se consideran primeras diligencias
+a) recoger y poner en custodia cuanto conduzcaa la identificación del delincuente.
+b) protegera los ofendidos o perjudicados por el delito,a sus familiares oa otras personas.
+-c) consignar todas las pruebas del delito.
+d) todas son correctas.
+
+Pregunta 51. ¿Qué ley regula el Habeas Corpus en España?
+a) Ley Orgánica 1/2000
+-b) Ley Orgánica 6/1984
+c) Ley Orgánica 2/2005
+d) Ley Orgánica 5/1999
+
+Pregunta 52. ¿Cuál es el propósito principal de la Ley Orgánica Reguladora del Habeas Corpus?
+a) Regular la inmigración ilegal
+-b) Proteger los derechos fundamentales de las personas detenidas
+c) Establecer las normas de tráfico
+d) Definir la responsabilidad penal de los menores
+ 
+Pregunta 53. ¿Qué autoridad judicial puede conceder el Habeas Corpus?
+a) El juez de paz
+b) El tribunal administrativo
+-c) El juez de instrucción o el tribunal correspondiente
+d) El fiscal general del Estado
+ 
+Pregunta 54. ¿En qué situación se puede solicitar el Habeas Corpus según la Ley Orgánica 6/1984?
+a) Exceso de plazo de la detención
+b) Ausencia de imputación delictiva al detenido
+c) Vulneración derechos fundamentales al detenido.
+-d) Todas son correctas
+  
+Pregunta 55.¿Cuál es el plazo máximo para resolver una solicitud de Habeas Corpus de acuerdo con la Ley Orgánica?
+-a) 48 horas
+b) 1 semana
+c) 30 días
+d) No hay plazo definido
+
+Pregunta 56.   ¿Quién puede presentar una solicitud de Habeas Corpus?
+a) Solo abogados
+-b) Cualquier persona que tenga interés legítimo o el Ministerio Fiscal
+c) Solo familiares de la persona detenida
+d) Solo jueces y fiscales
+
+Pregunta 57.   ¿Qué tipo de recursos pueden utilizarse para presentar una solicitud de Habeas Corpus?
+a) Fax y correo electrónico
+b) Telegram y WhatsApp
+-c) Fax y correo postal
+d) Llamadas telefónicas y redes sociales
+ 
+Pregunta 58.¿Cuál es la consecuencia de conceder el Habeas Corpus?
+-a) La persona detenida será liberada de inmediato
+b) La persona detenida será condenadaa prisión
+c) La solicitud será archivada
+d) La persona detenida será trasladadaa otro lugar de detención
+
+Pregunta 59.  ¿Puede negarse la concesión del Habeas Corpus?
+a) No, es un derecho absoluto
+-b) Sí, en casos excepcionales y debidamente justificados
+c) Solo si la persona detenida tiene antecedentes penales
+d) Solo si la solicitud se presenta fuera de plazo
+
+
+Pregunta 60.     ¿Cuál es la jurisdicción competente para conocer de las solicitudes de Habeas Corpus?
+a) Jurisdicción civil
+b) Jurisdicción militar
+c) Jurisdicción contencioso-administrativa
+-d) Jurisdicción penal
+
+Pregunta 61.        ¿Cuál es el plazo máximo que puede durar una detención preventiva antes de que se presente ante un juez?
+a) 24 horas
+b) 48 horas
+c) 72 horas
+-d) 120 horas
+
+Pregunta 62.  ¿En qué casos se permite la detención preventiva prorrogada?
+a) Por cualquier motivo
+-b) Solo en casos de delitos graves y terrorismo
+c) Solo en casos de delitos menores
+d) Solo en casos de delitos políticos
+
+Pregunta 63. ¿Qué se entiende por "flagrante delito" en relación con la detención?
+a) Un delito muy grave
+b) Un delito cometido en la calle
+-c) Un delito que se comete en el momento o inmediatamente después de ser descubierto
+d) Un delito sin víctimas
+
+Pregunta 64.      ¿Cuál es el plazo máximo para que la policía presente un menor detenido ante el Ministerio Fiscal, siempre que se agote?
+-a) 24 horas
+b) 48 horas
+c) 7 días
+d) 30 días
+
+Pregunta 65.      ¿Qué es la detención preventiva?
+a) La detención de una persona antes de cometer un delito
+b) La detención de una persona como castigo por un delito
+-c) La detención de una persona antes de que se celebre un juicio, como medida cautelar de carácter personal
+d) La detención de una persona por motivos de salud mental
+
+Pregunta 66.        ¿Qué es la detención ilegal?
+-a) La detención de una persona por más tiempo del permitido por la ley
+b) La detención de una persona que ha cometido un delito
+c) La detención de una persona en su propio hogar
+d) La detención de una persona sin pruebas suficientes
+
+Pregunta 67.      ¿En qué casos se puede realizar una detención en ausencia de una orden judicial?
+a) Si la persona es sospechosa de cualquier delito
+b) Solo si la persona ha sido condenada previamente
+-c) En situaciones de emergencia o flagrante delito
+d) Solo si la persona es menor de edad
+
+Pregunta 68.  ¿Qué es el "habeas corpus"?
+a) Un tipo de detención preventiva
+b) Un tipo de juicio sumario
+-c) Un recurso legal para impugnar la legalidad de una detención
+d) Un tribunal de apelación
+
+Pregunta 69. ¿Cuál es la diferencia entre la detención preventiva y la prisión preventiva?
+a) No hay diferencia, son términos intercambiables
+-b) La detención preventiva es antes del juicio, mientras que la prisión preventiva es después del juicio
+c) La detención preventiva es para delitos menores y la prisión preventiva es para delitos graves
+d) La detención preventiva es para menores de edad y la prisión preventiva es para adultos
+
+Pregunta 70. ¿Qué derecho fundamental está protegido por la norma "presunción de inocencia" en relación con la detención?
+a) El derechoa permanecer en silencio
+b) El derechoa un abogado
+-c) El derechoa ser considerado inocente hasta que se demuestre lo contrario
+d) El derechoa un juicio rápido y público
+
+Pregunta 71.  Según el artículo 282 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para mantenera una persona detenida antes de presentarla ante el juez de instrucción en un so e detención incomunicada?
+a) 12 horas
+b) 24 horas
+c) 48 horas
+-d) 72 horas
+
+Pregunta 72 De acuerdo con el artículo 545 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se puede ordenar la intervención de las comunicaciones de un abogado con su cliente?
+a) En ningún caso
+b) Solo si el abogado es sospechoso de participar en el delito
+-c) Cuando existan indicios razonables de que el abogado está implicado en la comisión del delito y se obtenga autorización judicial previa
+d) Siempre que el cliente lo solicite.
+
+Pregunta 73. Según el artículo 579 de la Ley de Enjuiciamiento Criminal, ¿en qué momento debe notificarsea la persona objeto de una intervención de comunicaciones que estas han tenido lugar?
+a) Antes de iniciar la intervención
+b) Al concluir la intervención
+-c) Cuando se levante el secreto de sumario.
+d) No es necesario notificarlo.
+
+Pregunta 74.  De acuerdo con el artículo 545 bis de la Ley de Enjuiciamiento Criminal, ¿quién es la autoridad competente para autorizar la intervención de las comunicaciones en casos de rrorismo?
+a) El juez de instrucción
+b) El Ministerio de Justicia
+c) El Director General de la Policía
+-d) El juez central de instrucción de la Audiencia Nacional
+
+Pregunta 75.  Según el artículo 553 de la Ley de Enjuiciamiento Criminal, ¿cuándo puede llevarsea cabo una entrada y registro en un domicilio sin consentimiento del titular?
+a) Solo si el delito es grave y flagrante
+b) Siempre que haya sospechas fundadas de que se cometió un delito
+-c) Cuando existan indicios razonables de que se ocultan pruebas y se obtenga autorización judicial previa
+d) Nunca se permite la entrada y registro sin consentimiento.
+
+Pregunta 76.   Según el artículo 520 de la Ley de Enjuiciamiento Criminal, ¿cuáles son las garantías que deben respetarse durante la detención de una persona?
+a) Derechoa permanecer en silencio ya no declarar contra sí mismo
+b) Derechoa una llamada telefónica ya un abogado
+c) Derechoa un juicio rápido y público
+-d) Todas las anteriores
+
+Pregunta 77.    De acuerdo con el artículo 509 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo máximo para que el juez de instrucción dicte auto de prisión provisional o de libertad  casos de detención en flagrante delito?
+a) 12 horas
+b) 24 horas
+-c) 48 horas
+d) 72 horas
+
+Pregunta 78.     De acuerdo con el artículo 545 quáter de la Ley de Enjuiciamiento Criminal, ¿quién es el responsable de la custodia y control de las grabaciones de las conversaciones tervenidas?
+a) El abogado defensor
+b) El Fiscal General del Estado
+c) El Juez de Instrucción
+-d) El letrado de la administración de justicia
+
+Pregunta 79.   Según el artículo 544 de la Ley de Enjuiciamiento Criminal, ¿qué debe constar en la resolución que autoriza la intervención de comunicaciones? Señala la incorrecta
+a) El nombre de todas las personas que serán interceptadas
+b) Los motivos de la interceptación y el plazo de duración
+c) La hora exacta en que comenzará la interceptación
+-d) La firma del testigo más cercano al lugar de la intervención
+
+Pregunta 80.   De acuerdo con el artículo 554 de la Ley de Enjuiciamiento Criminal, ¿qué se requiere para realizar un registro en un domicilio sin previo aviso? Señala la incorrecta
+a) Orden de un juez o autorización del propietario
+b) Orden de un juez o  delito flagrante.
+-c) Solamente orden de un juez.
+d) Orden de un juez o autorización del Ministro del interior.
+
+Pregunta 81.    Según el artículo 520 bis de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la incomunicación de un detenido?
+a) Siempre que el detenido lo solicite
+-b) Solo en casos de terrorismo o delincuencia organizada, con autorización judicial y por un plazo máximo de 5 días
+c) Nunca se permite la incomunicación de un detenido
+d) Cuando el detenido sea menor de edad
+
+Pregunta 82.     ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figura del agente provocador?
+a) Artículo 520 ter
+b) Artículo 282
+c) Artículo 282 bis
+-d) La Ley no contempla el agente provocador
+
+Pregunta 83.    De acuerdo con el artículo 520 quater de la Ley de Enjuiciamiento Criminal, ¿cuál es la duración máxima de la detención incomunicada en casos de terrorismo?
+a) 24 horas
+b) 48 horas
+-c) 120 horas.
+d) 96 horas
+
+Pregunta 84.    Según el artículo 572 de la Ley de Enjuiciamiento Criminal, ¿en qué casos se permite la detención por orden de autoridad gubernativa?
+a) En casos de delitos menos graves
+b) En casos de delitos graves
+c) En casos de delitos cometidos durante una manifestación ilegal
+-d) Nunca se permite la detención por orden de autoridad gubernativa
+
+Pregunta 85.    ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece las reglas para la ejecución de órdenes de entrada y registro?
+a) Artículo 545
+b) Artículo 545 bis
+c) Artículo 545 ter
+-d) No existe un artículo específico para ello
+
+Pregunta 86.   Según el artículo 579 ter de la Ley de Enjuiciamiento Criminal,¿ ante quién puede solicitar la prórroga de la intervención de comunicaciones?
+a) Cualquier funcionario de policía
+b) El Ministerio de Justicia
+-c) El Juez de Instrucción
+d) El Ministerio Fiscal
+
+Pregunta 87.   ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la figurante de los agentes encubiertos?
+a) Artículo 282 ter
+b) Artículo 282 quater
+c) Artículo 282 quinquies
+-d) Artículo 282 bis
+
+Pregunta 88.      Según el artículo 509 bis de la Ley de Enjuiciamiento Criminal, ¿qué plazo debe respetarse para la presentación del detenido ante el juez en casos de detención incomunicada r errorismo?
+a) 24 horas
+b) 48 horas
+c) 72 horas
+-d) 5 días.
+
+Pregunta 89  ¿Cuál es la diferencia principal entre una denuncia y una querella en el sistema penal español?
+a) Una denuncia es presentada por la víctima o cualquier persona, mientras que una querella es presentada por el Ministerio Fiscal.
+b) Una denuncia se presenta ante la policía, mientras que una querella se presenta ante el juez de instrucción.
+-c) Una denuncia es obligatoria para ciertos delitos, mientras que una querella es voluntaria en la mayoría de los casos.
+d) No hay diferencia, ambos términos son intercambiables.
+
+Pregunta 89   ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la denuncia es obligatoria para ciertos delitos?
+a) Artículo 261
+-b) Artículo 262
+c) Artículo 271
+d) Artículo 263
+
+Pregunta 90. Según el artículo 270 de la Ley de Enjuiciamiento Criminal, ¿quién puede presentar una querella por un delito?
+a) Solo la víctima del delito
+-b) Cualquier español
+c) Solo el Ministerio Fiscal
+d) Solo un abogado
+
+Pregunta 91 ¿Qué artículo de la Ley de Enjuiciamiento Criminal establece que la querella es necesaria para ciertos delitos como la calumnia o la injuria?
+a) Artículo 245
+b) Artículo 270 bis
+c) Artículo 262 ter
+-d) Artículo 279
+
+
+Pregunta 92  ¿Cuál es la principal diferencia entre la denuncia y la querella en?
+a) No hay diferencia, ambos tienen el mismo plazo de presentación.
+b) La denuncia tiene un plazo más corto de presentación que la querella.
+-c) La querella se presente sólo se presenta ante el juzgado.
+d) La diferencia de plazos depende del tipo de delito.
+
+Pregunta 93      ¿Qué artículo de la Ley de Enjuiciamiento Criminal regula la posibilidad de presentar una denuncia anónima?
+a) Artículo 270
+b) Artículo 275
+c) Artículo 277
+-d) La Ley no permite denuncias anónimas
+
+
+Pregunta 94    ¿Qué delito es considerado un delito conexo al delito principal en la legislación española?
+a) Cualquier delito que se cometa en la misma fecha que el delito principal
+-b) Un delito que esté relacionado causalmente con el delito principal y sea cometido con posterioridada este
+c) Un delito que esté relacionado causalmente con el delito principal y sea cometido con anterioridada este
+d) No existe el concepto de delito conexo en la legislación española.
+
+
+Pregunta 95      Según el artículo 15 de la Ley de Enjuiciamiento Criminal, ¿cómo se determina la competencia para conocer de delitos conexos?
+a) Por sorteo entre los jueces de instrucción de la provincia
+b) Por la elección de la víctima
+-c) Por el orden en que se hayan cometido los delitos y la jurisdicción que correspondea cada uno
+d) Por la gravedad de los delitos y la pena prevista.
+
+Pregunta 96      Según el artículo 17 de la Ley de Enjuiciamiento Criminal, ¿qué requisito debe cumplir un delito conexo para ser considerado como tal?
+a) Debe ser de la misma naturaleza que el delito principal.
+b) Debe haber sido cometido por la misma persona que el delito principal.
+-c) Ser cometido para procurar la impunidad de otro delito.
+d) Debe haber sido cometido en un lugar cercano al delito principal.
+
+
+Pregunta 97         ¿Qué implicaciones tiene la consideración de un delito como conexo al delito principal según la Ley de Enjuiciamiento Criminal?
+a) El delito conexo se juzga por separado en un proceso independiente.
+-b) El delito conexo se acumula al proceso del delito principal y se juzga en conjunto.
+c) El delito conexo se archiva automáticamente.
+d) El delito conexo se remitea otro tribunal.
+
+
+Pregunta 98        ¿Cuál es el propósito principal de considerar los delitos como conexos en un mismo proceso según la Ley de Enjuiciamiento Criminal?
+a) Facilitar la impunidad de los delincuentes.
+-b) Agilizar la administración de justicia al evitar juicios separados por delitos relacionados.
+c) Aumentar las penas para los acusados.
+d) Complicar la investigación de los delitos.
+
+
+Pregunta 99         Según la Ley de Enjuiciamiento Criminal, ¿quién decide si un delito debe considerarse como conexo al delito principal?
+a) El Ministerio Fiscal
+b) El juez de instrucción
+c) La víctima del delito
+-d) El tribunal competente, generalmente el juez de instrucción o el tribunal de enjuiciamiento.
+
+Pregunta 100       ¿Cuál es el criterio principal para determinar la conexidad de dos delitos según la Ley de Enjuiciamiento Criminal?
+a) La gravedad de los delitos involucrados.
+b) La ubicación geográfica en la que se cometieron los delitos.
+-c) La relación causal entre los delitos y el momento en que fueron cometidos.
+d) La antigüedad de 

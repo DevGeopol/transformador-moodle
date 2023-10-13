@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><question type="multichoice">
+    <name><text>1. ¿Con qué otro nombre se conoce también el concepto globalización?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">1. ¿Con qué otro nombre se conoce también el concepto globalización?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mundialización</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Internacionalización</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Democratización</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>2. TENDENCIA DE LOS MERCADOS Y DE LAS EMPRESAS A EXTENDERSE, ALCANZANDO UNA DIMENSIÓN MUNDIAL QUE SOBREPASA LAS FRONTERAS NACIONALES, FUE LA DEFINICIÓN DADA POR:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">2. TENDENCIA DE LOS MERCADOS Y DE LAS EMPRESAS A EXTENDERSE, ALCANZANDO UNA DIMENSIÓN MUNDIAL QUE SOBREPASA LAS FRONTERAS NACIONALES, FUE LA DEFINICIÓN DADA POR:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">RAE</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">UNESCO</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">OMS</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>3. ¿Quién acuñó el término globalización para referirse al proceso de mundialización de los mercados?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">3. ¿Quién acuñó el término globalización para referirse al proceso de mundialización de los mercados?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">T. Levitt</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">M. Taylor</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Jürgen Haberlas</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>4. ¿Qué persigue la globalización?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">4. ¿Qué persigue la globalización?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Dominar los mercados</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Invadir los pueblos</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Que la circulación de capital no circule libremente</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>5. ¿Quién opina que con la generalización el mundo se convertirá en una “Aldea Global”?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">5. ¿Quién opina que con la generalización el mundo se convertirá en una “Aldea Global”?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">McLuhan</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">T. Levitt</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Reisman</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>6. Benjamin Barber expuso el concepto:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">6. Benjamin Barber expuso el concepto:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Macwalk</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mcworld</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Mcwolf</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>7. Roland ROBERTSON acuñó el concepto:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">7. Roland ROBERTSON acuñó el concepto:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">GLOBALIZACIÓN</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">ALDEA GLOBAL</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">GLOCALIZACIÓN</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>8. A la situación en la que a medida que los flujos financieros producen mayores beneficios, las bolsas de pobreza en el mundo van aumentado, se denomina:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">8. A la situación en la que a medida que los flujos financieros producen mayores beneficios, las bolsas de pobreza en el mundo van aumentado, se denomina:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">ASIMETRÍA</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">DISPLASIA</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">CONTROVERSIA</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>9. Cuando hablamos de una tendencia a la secularización, con el consiguiente abandono de valores religiosos, nos estamos refiriendo a una consecuencia de la globalización:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">9. Cuando hablamos de una tendencia a la secularización, con el consiguiente abandono de valores religiosos, nos estamos refiriendo a una consecuencia de la globalización:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Social</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Cultural</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Económica</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>10. La doctrina dominante en el sistema político-económico mundial y que se ha ido imponiendo en todos los países, según la cual, la iniciativa de desarrollo parte del individuo, es de carácter privada y está libre del intervencionismo estatal es: </text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">10. La doctrina dominante en el sistema político-económico mundial y que se ha ido imponiendo en todos los países, según la cual, la iniciativa de desarrollo parte del individuo, es de carácter privada y está libre del intervencionismo estatal es: </p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Intervencionismo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Socialismo democrático</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Neoliberalismo</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>11. El FORO DE DAVOS, que se reúne anualmente en Suiza, tiene un contenido fundamentalmente:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">11. El FORO DE DAVOS, que se reúne anualmente en Suiza, tiene un contenido fundamentalmente:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">ECONÓMICO</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">SOCIAL</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">CULTURAL</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>12. LA GLOBALIZACIÓN COMERCIAL es:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">12. LA GLOBALIZACIÓN COMERCIAL es:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La globalización de servicios y fronteras</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La globalización de capitales y bienes</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La globalización de bienes y de servicios.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>13. Son factores que benefician el desarrollo de la globalización:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">13. Son factores que benefician el desarrollo de la globalización:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La intervención del Estado en la economía.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Y son correctas</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La apertura de mercados como la UE.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>14. La velocidad y libertad alcanzada por los capitales para entrar y salir de países y empresas, propias del movimiento globalizador, están asociadas a una serie de crisis económicas financieras locales de impacto global, tales como:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">14. La velocidad y libertad alcanzada por los capitales para entrar y salir de países y empresas, propias del movimiento globalizador, están asociadas a una serie de crisis económicas financieras locales de impacto global, tales como:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La caída del Muro de Berlín</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El efecto Tango, Samba y Dragón, etc…</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El impacto de las TIC´s</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>15. ¿Cuál de los siguientes grupos ha trabajado insistentemente para la condonación de la deuda externa de los países pobres?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">15. ¿Cuál de los siguientes grupos ha trabajado insistentemente para la condonación de la deuda externa de los países pobres?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los grupos antiglobalización.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los grupos representantes de la globalización.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los grupos políticos nacionales.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>16. La presentación de la antiglobalización como MRG fue en:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">16. La presentación de la antiglobalización como MRG fue en:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El levantamiento del EZLN el 1 de enero de 1994</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La convención de Kioto en 1997</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La Cumbre de Seattle (noviembre 1999) de la OMC</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>17. Cómo se llama la agrupación esporádica de grupos anarquistas o anticapitalistas que consideran el empleo de la violencia contra las cosas como legítimo para acabar con el neoliberalismo?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">17. Cómo se llama la agrupación esporádica de grupos anarquistas o anticapitalistas que consideran el empleo de la violencia contra las cosas como legítimo para acabar con el neoliberalismo?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">BLOQUE ROJO</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">FORO NEGRO</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">BLOQUE NEGRO</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>18. El prejuicio consistente en sobrevalorar el propio grupo étnico se denomina:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">18. El prejuicio consistente en sobrevalorar el propio grupo étnico se denomina:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Etnocentrismo.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Racismo</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Relativismo Cultural.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>19. Cuando decimos, las costumbres, los valores, las normas, hay que entenderlos y aceptarlos desde la perspectiva social de procedencia estamos ante un posicionamiento cercano a:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">19. Cuando decimos, las costumbres, los valores, las normas, hay que entenderlos y aceptarlos desde la perspectiva social de procedencia estamos ante un posicionamiento cercano a:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">La xenofobia.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Relativismo Cultural.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Etnocentrismo.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>20. Entre los defensores del movimiento antiglobalización se encuentra:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">20. Entre los defensores del movimiento antiglobalización se encuentra:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Adam Smith.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Fukuyama.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">José Bové.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>21. El MRG lucha contra:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">21. El MRG lucha contra:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Proteger el medio ambiente</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Reparto más equitativo de la riqueza</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Los grandes organismos internacionales</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>22. ¿Cuáles son los cuatro tipos de estrategias realizadas por la antiglobalización?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">22. ¿Cuáles son los cuatro tipos de estrategias realizadas por la antiglobalización?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Azul, amarilla, rosa y grupos de afinidad</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Azul, roja y negra</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Azul, amarilla, verde y grupos de afinidad.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>23. ¿Qué es la TASA TOBIN?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">23. ¿Qué es la TASA TOBIN?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Un impuesto que se impondría a las multinacionales</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Un ingreso pagado por el Estado a cada ciudadano</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Un impuesto a las transacciones financieras</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>24. El slogan “Otro mundo es posible”, pertenece:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">24. El slogan “Otro mundo es posible”, pertenece:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Fondo Monetario Internacional</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Foro Social Mundial.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Al Foro Económico de Davos</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>25. ¿Qué personaje de los siguientes tiene que ver con los movimientos antiglobalización conocido como el “Gurú de Seattle”?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">25. ¿Qué personaje de los siguientes tiene que ver con los movimientos antiglobalización conocido como el “Gurú de Seattle”?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Michel Camdessus</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">John Zerzan</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Agustin Carsten</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>26. ¿Qué significan las siglas ATTAC?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">26. ¿Qué significan las siglas ATTAC?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Asociación por la Tasación de las Transacciones financieras y por la acción ciudadana</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Es la Agrupación tecnológica americana de control financiero</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Acuerdo por la Tasación de las Transacciones financieras y por la acción ciudadana</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>27. ¿De qué trata el GATT?:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">27. ¿De qué trata el GATT?:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Trata de un conjunto de acuerdos entre varias comunidades autónomas españolas para liberalizar el comercio.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Trata de un acuerdo de varios países para abordar temas de comercio internacional, relaciones entre países en vía de desarrollo y política macroeconómica.</p>]]></text></answer>
+<answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Trata de un Acuerdo General de Aranceles y Comercio, organización internacional que actúa a favor de la liberación de los intercambios internacionales y de la eliminación de las restricciones al libre comercio.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>28. Las tácticas de censura, propaganda o desinformación que los medios de comunicación de masas prodigan, según los movimientos antiglobalización, para proteger los fundamentos de la globalización, se conocen para Brzezinski como:</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">28. Las tácticas de censura, propaganda o desinformación que los medios de comunicación de masas prodigan, según los movimientos antiglobalización, para proteger los fundamentos de la globalización, se conocen para Brzezinski como:</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Entetamiento o 'entertaiment'</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Presión global</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Táctica amarilla</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>29. ¿Qué es NAFTA?</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">29. ¿Qué es NAFTA?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Tratado de Libre Comercio de América del Norte</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">El Grupo de países más ricos e influyentes</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Una derivación de la Organización Mundial del Comercio.</p>]]></text></answer>
+<tags></tags></question><question type="multichoice">
+    <name><text>30. Señale el nombre del indicador del desarrollo humano por país, elaborado por el Programa de las Naciones Unidas para el Desarrollo.</text></name>
+    <questiontext format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">30. Señale el nombre del indicador del desarrollo humano por país, elaborado por el Programa de las Naciones Unidas para el Desarrollo.</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;"></p>]]></text></generalfeedback>
+    <generalfeedback format="html"></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction><answer fraction="100" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Índice de desarrollo humano.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Índice de translación humana.</p>]]></text></answer>
+<answer fraction="-50" format="html"><text><![CDATA[<p dir="ltr" style="text-align: left;">Índice de cohesión humana.</p>]]></text></answer>
+<tags></tags></question></quiz>

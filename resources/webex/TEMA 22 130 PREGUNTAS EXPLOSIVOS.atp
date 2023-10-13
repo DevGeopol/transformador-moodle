@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POLL TYPE="anonymous" SHOWTIMER="yes" ALARM="15:0" NOANSWER="" SHOWRESPONSE="yes" >
+<QUESTION TYPE="mcone" TITLE="1. ¿Cuál es el objetivo principal del Reglamento de Explosivos (Real Decreto 130/2017?">
+<ANSWER ISCORRECT="false">Establecer regulaciones para la fabricación de explosivos militares.</ANSWER>
+<ANSWER ISCORRECT="false">Regular la seguridad industrial en las actividades reglamentadas.</ANSWER>
+<ANSWER ISCORRECT="false">Definir los aspectos de protección medioambiental en la fabricación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Regular aspectos relacionados con la seguridad ciudadana en el uso de explosivos civiles.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="2. ¿Qué se excluye de la regulación de este reglamento según regulación normativa específica?">
+<ANSWER ISCORRECT="false">Los cuerpos de policía de las Comunidades Autónomas.</ANSWER>
+<ANSWER ISCORRECT="false">Los explosivos para uso no comercial de las Fuerzas Armadas.</ANSWER>
+<ANSWER ISCORRECT="true">Los precursores de explosivos que sean por sí mismos explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Todas las opciones anteriores quedan excluidas del Reglamento de explosivos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="3. ¿Qué se requiere para que los Cuerpos de Policía de las Comunidades Autónomas adquieran material explosivo?">
+<ANSWER ISCORRECT="false">Autorización del Ministerio del Interior.</ANSWER>
+<ANSWER ISCORRECT="true">Acuerdo anual de la Junta de Seguridad respectiva.</ANSWER>
+<ANSWER ISCORRECT="false">Permiso del órgano competente de la Unión Europea.</ANSWER>
+<ANSWER ISCORRECT="false">Certificado de seguridad expedido por la Guardia Civil.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="4. ¿Qué entidad debe otorgar el acuerdo anual para que los Cuerpos de Policía adquieran material explosivo?">
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="true">Junta de Seguridad respectiva.</ANSWER>
+<ANSWER ISCORRECT="false">Guardia Civil.</ANSWER>
+<ANSWER ISCORRECT="false">Ayuntamiento correspondiente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="5. ¿Qué se entiende por 'Materias primas intermedias para la fabricación de explosivos'?">
+<ANSWER ISCORRECT="false">Explosivos para uso comercial.</ANSWER>
+<ANSWER ISCORRECT="false">Explosivos de uso no comercial.</ANSWER>
+<ANSWER ISCORRECT="true">Nitrato amónico y sus derivados.</ANSWER>
+<ANSWER ISCORRECT="false">Artículos pirotécnicos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="6. ¿Qué se excluye en relación con los cuerpos de Fuerzas Armadas y de Seguridad del Estado?">
+<ANSWER ISCORRECT="false">Fabricación y exportación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Uso comercial de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Uso no comercial de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Transporte de explosivos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="7. ¿Qué se requiere para la adquisición de material explosivo por los Cuerpos de Policía de las Comunidades Autónomas?">
+<ANSWER ISCORRECT="false">Permiso de la Dirección General de la Guardia Civil.</ANSWER>
+<ANSWER ISCORRECT="true">Acuerdo de la Junta de Seguridad respectiva y comunicación a la Dirección General de la Guardia Civil.</ANSWER>
+<ANSWER ISCORRECT="false">Aprobación del Ministerio de Industria.</ANSWER>
+<ANSWER ISCORRECT="false">Autorización del Ministerio de Medio Ambiente.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="8. ¿Cuál es la función principal de la Dirección General de la Guardia Civil en relación a los explosivos?">
+<ANSWER ISCORRECT="false">Autorizar importaciones de explosivos</ANSWER>
+<ANSWER ISCORRECT="true">Inspeccionar instalaciones de fábricas y depósitos de explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Controlar la salud laboral en la industria de explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Regular la protección de la salud humana</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="9. ¿Cuál es la función de las Administraciones Autonómicas y Locales en este reglamento?">
+<ANSWER ISCORRECT="false">Autorizar la fabricación de explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Inspeccionar instalaciones de fábricas de explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Regular el transporte de explosivos</ANSWER>
+<ANSWER ISCORRECT="true">Intervenir en actividades de su competencia</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="10. ¿Cuál es el ministerio responsable de autorizar las instalaciones de las fábricas y depósitos de explosivos en función de la defensa nacional?">
+<ANSWER ISCORRECT="false">Ministerio de Energía, Turismo y Agenda Digital</ANSWER>
+<ANSWER ISCORRECT="true">Ministerio de Defensa</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio de Interior</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio de Asuntos Exteriores y de Cooperación</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="11. ¿Qué organismo tiene competencias en la inspección en materia de seguridad industrial y en seguridad y salud en el trabajo según la Ley de Prevención de Riesgos Laborales?">
+<ANSWER ISCORRECT="false">Dirección General de Relaciones Económicas Internacionales</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de Política Energética y Minas</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Protección Civil y Emergencias</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Armamento y Material</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="12. ¿Cuál  es  el organismo  responsable  de  salvaguardar la  defensa  nacional en  relación  a  las instalaciones de fábricas y depósitos de explosivos?">
+<ANSWER ISCORRECT="false">Dirección General de Protección Civil y Emergencias</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Relaciones Económicas Internacionales</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de Armamento y Material</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="13. ¿Cuál es el organismo responsable de controlar los riesgos inherentes a los accidentes graves con sustancias peligrosas?">
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de la Guardia Civil</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de Protección Civil y Emergencias</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Relaciones Económicas Internacionales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="14. ¿Qué organismo se encarga de las inspecciones en los aspectos laborales y de seguridad y salud en el trabajo no afectados por el reglamento de explosivos?">
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas</ANSWER>
+<ANSWER ISCORRECT="true">Inspección de Trabajo y Seguridad Social</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de la Guardia Civil</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Protección Civil y Emergencias</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="15. ¿Cuál es la función principal de las Delegaciones del Gobierno en relación a los accidentes graves o mortales en actividades reguladas por el Reglamento de explosivos?">
+<ANSWER ISCORRECT="false">Intervenir en la autorización de importaciones de explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Realizar inspecciones en fábricas y depósitos de explosivos</ANSWER>
+<ANSWER ISCORRECT="true">Comunicar accidentes graves o mortales a la Dirección General de Política Energética y Minas</ANSWER>
+<ANSWER ISCORRECT="false">Regular el transporte de explosivos</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="16. ¿Cuál es el organismo encargado de la autorización de importaciones, transferencias y tránsitos de explosivos de origen comunitario?">
+<ANSWER ISCORRECT="false">Dirección General de Protección Civil y Emergencias</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Armamento y Material</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de Relaciones Económicas Internacionales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="17. ¿Cuál es el organismo encargado de la inspección y ordenación de los transportes según este reglamento?">
+<ANSWER ISCORRECT="false">Dirección General de Protección Civil y Emergencias</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de la Guardia Civil</ANSWER>
+<ANSWER ISCORRECT="true">Ministerio de Fomento</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="18. ¿Cuál de las siguientes actividades NO es considerada dentro del sector de explosivos?">
+<ANSWER ISCORRECT="false">Fabricación</ANSWER>
+<ANSWER ISCORRECT="false">Transferencia</ANSWER>
+<ANSWER ISCORRECT="true">Difusión</ANSWER>
+<ANSWER ISCORRECT="false">Almacenamiento</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="19. ¿Quiénes pueden desempeñar actividades reglamentadas relacionadas con explosivos?">
+<ANSWER ISCORRECT="false">Cualquier individuo</ANSWER>
+<ANSWER ISCORRECT="false">Solo personas con nacionalidad española</ANSWER>
+<ANSWER ISCORRECT="true">Personas con capacidad técnica y solvencia financiera necesarias</ANSWER>
+<ANSWER ISCORRECT="false">Personas con antecedentes penales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="20. ¿Quiénes pueden ser titulares de autorizaciones para actividades reguladas por este reglamento?">
+<ANSWER ISCORRECT="false">Cualquier persona</ANSWER>
+<ANSWER ISCORRECT="false">Solo personas con nacionalidad española</ANSWER>
+<ANSWER ISCORRECT="true">Personas con nacionalidad española o de países del Espacio Económico Europeo</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier persona con antecedentes criminales</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="21. ¿Qué determina la cantidad de seguro necesario para la manipulación de explosivos?">
+<ANSWER ISCORRECT="false">El color de los explosivos</ANSWER>
+<ANSWER ISCORRECT="true">La clase y cantidad de explosivo y el riesgo que pueda generar</ANSWER>
+<ANSWER ISCORRECT="false">El tamaño del almacenamiento</ANSWER>
+<ANSWER ISCORRECT="false">La antigüedad de la empresa</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="22. ¿Qué necesitan los titulares de autorizaciones para las actividades reguladas de explosivos?:">
+<ANSWER ISCORRECT="false">Un título universitario</ANSWER>
+<ANSWER ISCORRECT="false">Nacionalidad española</ANSWER>
+<ANSWER ISCORRECT="true">Capacidad técnica y solvencia financiera necesarias</ANSWER>
+<ANSWER ISCORRECT="false">Todas las anteriores son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="23. ¿Qué debe permitir el sistema de seguimiento de tenencia de explosivos?:">
+<ANSWER ISCORRECT="false">Identificar a los ciudadanos</ANSWER>
+<ANSWER ISCORRECT="false">Identificar a los extranjeros</ANSWER>
+<ANSWER ISCORRECT="true">Identificar a los tenedores de explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Identificar la ubicación geográfica exacta</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="24. ¿Quiénes son considerados 'agentes económicos' en relación con los explosivos?:">
+<ANSWER ISCORRECT="false">Los compradores de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Los organismos de acreditación.</ANSWER>
+<ANSWER ISCORRECT="true">Los distribuidores y otros involucrados en la cadena de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Los investigadores de explosivos y fabricantes de productos industriales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="25. ¿Qué es una 'autorización de transferencia' en relación con los explosivos?">
+<ANSWER ISCORRECT="false">Un permiso para vender explosivos fuera de la UE.</ANSWER>
+<ANSWER ISCORRECT="false">Una decisión de importación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Una decisión sobre la transferencia de explosivos dentro de la UE.</ANSWER>
+<ANSWER ISCORRECT="false">Un proceso de acreditación de explosivos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="26. ¿Quién es un 'distribuidor' de explosivos?:">
+<ANSWER ISCORRECT="false">Un fabricante de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Un importador de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Una entidad involucrada en la cadena de distribución de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Todas las anteriores opciones son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="27. ¿Qué implica la 'evaluación de la conformidad' de un explosivo?">
+<ANSWER ISCORRECT="false">Evaluar la seguridad industrial de un explosivo.</ANSWER>
+<ANSWER ISCORRECT="true">Verificar si un explosivo cumple los requisitos esenciales de seguridad.</ANSWER>
+<ANSWER ISCORRECT="false">Evaluar la mayor o menor presencia de explosivos en el mercado.</ANSWER>
+<ANSWER ISCORRECT="false">Calibrar determinados explosivos para su comercialización.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="28. ¿Quién es un 'exportador' de explosivos?">
+<ANSWER ISCORRECT="false">Un fabricante de explosivos con residencia en la UE.</ANSWER>
+<ANSWER ISCORRECT="false">Una persona que importa explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Una persona que introduce explosivos en la UE.</ANSWER>
+<ANSWER ISCORRECT="true">Una persona que envía explosivos a un tercer país desde la UE.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="29. ¿Quién es un 'fabricante' de explosivos?">
+<ANSWER ISCORRECT="false">Un usuario final de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Una entidad que diseña explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Una persona que almacena y transporta explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Un importador/exportador de explosivos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="30. ¿Cuándo ocurre la 'introducción en el mercado' de un explosivo?">
+<ANSWER ISCORRECT="false">Cuando se fabrica un explosivo.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando se importa un explosivo.</ANSWER>
+<ANSWER ISCORRECT="true">Cuando se comercializa un explosivo por primera vez en la UE.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando se almacenan explosivos en un lugar seguro.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="31. ¿Qué es una 'norma armonizada' según el Reglamento (UE) núm. 1025/2012?">
+<ANSWER ISCORRECT="false">Una regulación de importación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Una guía de seguridad industrial.</ANSWER>
+<ANSWER ISCORRECT="false">Un proceso de acreditación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Una regulación que establece condiciones de comercialización.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="32. ¿Qué es un 'organismo nacional de acreditación'?:">
+<ANSWER ISCORRECT="false">Un organismo que diseña explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Un organismo que acredita la seguridad industrial.</ANSWER>
+<ANSWER ISCORRECT="true">Un organismo que evalúa la conformidad de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Un organismo que supervisa la distribución de explosivos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="33. ¿Qué significa la 'retirada' de un explosivo?:">
+<ANSWER ISCORRECT="false">La eliminación segura de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">La exportación de explosivos caducados a terceros países.</ANSWER>
+<ANSWER ISCORRECT="true">El establecimiento de medidas que impidan la comercialización de explosivos en la cadena de suministro.</ANSWER>
+<ANSWER ISCORRECT="false">La acción de almacenar explosivos en un lugar seguro.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="34. ¿Quién es un 'Representante autorizado'?:">
+<ANSWER ISCORRECT="false">Cualquier persona física en la Unión Europea para comercializar con explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier fabricante de explosivos establecido en la Unión Europea.</ANSWER>
+<ANSWER ISCORRECT="false">Una persona autorizada para comprar explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Persona con mandato para actuar en nombre de un fabricante en tareas específicas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="35. ¿Qué abarca la 'Seguridad ciudadana'?:">
+<ANSWER ISCORRECT="false">Medidas para proteger y garantizar la actividad industrial.</ANSWER>
+<ANSWER ISCORRECT="true">Medidas para garantizar el libre ejercicio de los derechos y libertades.</ANSWER>
+<ANSWER ISCORRECT="false">Medidas para prevenir la transferencia regulada de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Medidas para promover la libre competencia entre fabricantes.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="36. ¿Qué engloba la 'Seguridad y salud en el trabajo'?">
+<ANSWER ISCORRECT="false">La Protección contra ilícitos penales en el lugar de trabajo.</ANSWER>
+<ANSWER ISCORRECT="false">Medidas para prevenir accidentes de tráfico.</ANSWER>
+<ANSWER ISCORRECT="false">Medidas para eliminar enfermedades profesionales.</ANSWER>
+<ANSWER ISCORRECT="true">Medidas para prevenir accidentes laborales y enfermedades profesionales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="37. ¿Dónde se encuentran las definiciones necesarias para entender el Reglamento de Explosivos publicado mediante Real Decreto 130/2017, de 24 de febrero)?">
+<ANSWER ISCORRECT="false">Manual de Recomendaciones de la Unión Europea.</ANSWER>
+<ANSWER ISCORRECT="false">Normas UNE-EN/UNE/EN exclusivamente.</ANSWER>
+<ANSWER ISCORRECT="true">Reglamento tipo de las Naciones Unidas.</ANSWER>
+<ANSWER ISCORRECT="false">Manual de Recomendaciones de las Naciones Unidas o normas UNE-EN/UNE/EN.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="38. ¿Qué busca lograr la 'Seguridad ciudadana'?">
+<ANSWER ISCORRECT="false">Proteger el ambiente natural.</ANSWER>
+<ANSWER ISCORRECT="false">Garantizar la libre circulación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Proteger los derechos y libertades, y prevenir delitos.</ANSWER>
+<ANSWER ISCORRECT="false">Promover el uso limitado y controlado de productos industriales.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="39. ¿Qué tipo de documentación técnica deben elaborar los fabricantes según la ITC número 3?">
+<ANSWER ISCORRECT="false">Documentos de marketing.</ANSWER>
+<ANSWER ISCORRECT="false">Documentos de traslados.</ANSWER>
+<ANSWER ISCORRECT="false">Documentos financieros.</ANSWER>
+<ANSWER ISCORRECT="true">Documentos técnicos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="40. ¿Qué deben hacer los fabricantes si consideran que un explosivo no cumple con el reglamento?">
+<ANSWER ISCORRECT="false">Ignorar el problema.</ANSWER>
+<ANSWER ISCORRECT="false">Informar a los consumidores.</ANSWER>
+<ANSWER ISCORRECT="true">Tomar medidas correctoras necesarias.</ANSWER>
+<ANSWER ISCORRECT="false">Esperar a que lo solucione el distribuidor.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="41. ¿Cuál es una de las tareas que debe realizar un representante autorizado según el mandato?">
+<ANSWER ISCORRECT="false">Fabricar los explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Realizar investigaciones de mercado.</ANSWER>
+<ANSWER ISCORRECT="true">Mantener la declaración UE de conformidad y la documentación técnica a disposición de las autoridades.</ANSWER>
+<ANSWER ISCORRECT="false">Realizar inspecciones de seguridad en el lugar de uso.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="42. ¿Cuál es uno de los requisitos que debe cumplir el mandato del representante autorizado?">
+<ANSWER ISCORRECT="false">Facilitar la fabricación de explosivos en otro país.</ANSWER>
+<ANSWER ISCORRECT="false">Permitir la exportación de explosivos sin restricciones.</ANSWER>
+<ANSWER ISCORRECT="false">Mantener la declaración UE de conformidad por 5 años.</ANSWER>
+<ANSWER ISCORRECT="true">Permitir al representante autorizado cooperar con cualquier entidad sin restricciones.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="43. ¿Cuánto  tiempo  deben  mantener  los  importadores  una  copia  de  la  declaración  UE  de conformidad después de introducir el explosivo en el mercado?">
+<ANSWER ISCORRECT="false">1 año.</ANSWER>
+<ANSWER ISCORRECT="false">5 años.</ANSWER>
+<ANSWER ISCORRECT="true">10 años.</ANSWER>
+<ANSWER ISCORRECT="false">15 años.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="44. ¿Cuándo deben cooperar los importadores con la Dirección General de Política Energética y Minas en acciones para evitar riesgos relacionados con los explosivos?">
+<ANSWER ISCORRECT="false">Solo si reciben una orden judicial.</ANSWER>
+<ANSWER ISCORRECT="false">Mensualmente o si lo consideran conveniente por motivos excepcionales.</ANSWER>
+<ANSWER ISCORRECT="false">Si son contactados por la Intervención Central de Armas y Explosivos de la Guardia Civil.</ANSWER>
+<ANSWER ISCORRECT="true">A petición de la Dirección General, en cualquier acción destinada a evitar riesgos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="45. ¿Qué deben verificar los distribuidores antes de comercializar un explosivo?:">
+<ANSWER ISCORRECT="false">La disponibilidad de explosivos similares en el mercado.</ANSWER>
+<ANSWER ISCORRECT="true">Que el explosivo tenga el marcado CE y esté acompañado de documentos y de instrucciones de seguridad.</ANSWER>
+<ANSWER ISCORRECT="false">Si el explosivo es el más eficiente en su categoría.</ANSWER>
+<ANSWER ISCORRECT="false">La popularidad del fabricante.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="46. ¿Qué deben hacer los distribuidores si consideran que un explosivo que han comercializado no cumple con el reglamento?">
+<ANSWER ISCORRECT="false">Ignorar el problema y dar traslado del mismo al fabricante.</ANSWER>
+<ANSWER ISCORRECT="false">Informar al público sobre la no conformidad del producto.</ANSWER>
+<ANSWER ISCORRECT="true">Tomar  medidas correctoras para lograr  la conformidad o  retirar/recuperar  el explosivo  si es necesario.</ANSWER>
+<ANSWER ISCORRECT="false">Distorsionar la información y esperar a que el fabricante tome medidas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="47. ¿Qué deben hacer los distribuidores si reciben una solicitud motivada de la Dirección General de Política Energética y Minas en relación con la conformidad del explosivo?">
+<ANSWER ISCORRECT="false">Informar de la solicitud al fabricante.</ANSWER>
+<ANSWER ISCORRECT="false">Proporcionar información solo en la medida necesaria que exija la ley.</ANSWER>
+<ANSWER ISCORRECT="false">Facilitar la información solo en formato electrónico.</ANSWER>
+<ANSWER ISCORRECT="true">Facilitar la información y documentación necesarias, cooperando en acciones para evitar riesgos. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="48. ¿Qué es una Entidad Colaboradora de la Administración (ECA)?:">
+<ANSWER ISCORRECT="false">Una organización internacional de inspección de material explosivo.</ANSWER>
+<ANSWER ISCORRECT="false">Cualquier entidad que realice actividades comerciales relacionadas con explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Una entidad que colabora con la autoridad competente proporcionando asistencia técnica y apoyo en auditorías e inspecciones de seguridad industrial.</ANSWER>
+<ANSWER ISCORRECT="false">Una organización sin fines de lucro dedicada a la seguridad industrial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="49. ¿Quién autoriza a las Entidades Colaboradoras de la Administración (ECA) para actuar en el ámbito de este reglamento?:">
+<ANSWER ISCORRECT="false">La Entidad Nacional de Acreditación (ENAC).</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio del interior.</ANSWER>
+<ANSWER ISCORRECT="false">La Dirección General de la Guardia Civil.</ANSWER>
+<ANSWER ISCORRECT="true">La Dirección General de Política Energética y Minas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="50. ¿Qué debe remitir anualmente una Entidad Colaboradora de la Administración (ECA) a la Dirección General de Política Energética y Minas?">
+<ANSWER ISCORRECT="false">Informes de auditorías realizadas por la ECA.</ANSWER>
+<ANSWER ISCORRECT="false">Documentación relacionada con actividades comerciales.</ANSWER>
+<ANSWER ISCORRECT="true">Memoria detallada de actuaciones realizadas y copia de informe de seguimiento de la entidad de acreditación, si procede.</ANSWER>
+<ANSWER ISCORRECT="false">Listado de explosivos comercializados por la ECA.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="51. ¿Qué se requiere para que un explosivo esté exento de llevar una identificación única según el reglamento?">
+<ANSWER ISCORRECT="false">Debe ser transportado en embalajes especiales.</ANSWER>
+<ANSWER ISCORRECT="false">Debe ser de gran tamaño.</ANSWER>
+<ANSWER ISCORRECT="true">Debe tener un bajo nivel de riesgo y cumplir con ciertas características y usos.</ANSWER>
+<ANSWER ISCORRECT="false">Debe ser fabricado in situ.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="52. ¿Por cuánto tiempo se almacenarán los datos de identificación y trazabilidad de los explosivos?">
+<ANSWER ISCORRECT="false">5 años a partir del momento de la operación.</ANSWER>
+<ANSWER ISCORRECT="false">15 años a partir del momento de la operación.</ANSWER>
+<ANSWER ISCORRECT="true">10 años a partir del momento de la operación.</ANSWER>
+<ANSWER ISCORRECT="false">Ninguna de las anteriores opciones es correcta.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="53. ¿Qué función tiene el sistema informático de trazabilidad de explosivos según el texto?">
+<ANSWER ISCORRECT="false">Conectar con empresas de seguridad privadas.</ANSWER>
+<ANSWER ISCORRECT="true">Permitir la presentación telemática segura de documentación requerida para la trazabilidad de los explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Gestionar el transporte de explosivos por carretera.</ANSWER>
+<ANSWER ISCORRECT="false">Registrar únicamente los datos de los explosivos de alto riesgo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="54. ¿Cómo se adscriben los explosivos a las divisiones de riesgo según el reglamento de explosivos?">
+<ANSWER ISCORRECT="false">Por su tamaño exclusivamente.</ANSWER>
+<ANSWER ISCORRECT="false">Por su contenido radioactivo.</ANSWER>
+<ANSWER ISCORRECT="true">Según su riesgo de explosión y sus efectos.</ANSWER>
+<ANSWER ISCORRECT="false">Por su capacidad de proyección de fragmentos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="55. ¿En qué división se encuentran las materias y objetos que presentan un riesgo de proyección sin riesgo de explosión en masa?">
+<ANSWER ISCORRECT="false">División 1.1</ANSWER>
+<ANSWER ISCORRECT="true">División 1.2</ANSWER>
+<ANSWER ISCORRECT="false">División 1.3</ANSWER>
+<ANSWER ISCORRECT="false">División 1.4</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="56. ¿En qué división se encuentran las materias y objetos que solo presentan un pequeño riesgo de explosión en caso de ignición durante el transporte?">
+<ANSWER ISCORRECT="false">División 1.3</ANSWER>
+<ANSWER ISCORRECT="true">División 1.4</ANSWER>
+<ANSWER ISCORRECT="false">División 1.5</ANSWER>
+<ANSWER ISCORRECT="false">División 1.6</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="57. ¿En qué división se encuentran los objetos extremadamente poco sensibles que no suponen riesgo de explosión en masa?">
+<ANSWER ISCORRECT="false">División 1.4</ANSWER>
+<ANSWER ISCORRECT="false">División 1.5</ANSWER>
+<ANSWER ISCORRECT="true">División 1.6</ANSWER>
+<ANSWER ISCORRECT="false">División 1.1</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="58. ¿Cuál es el riesgo vinculado a los objetos de la división 1.6?">
+<ANSWER ISCORRECT="false">Explosión en masa.</ANSWER>
+<ANSWER ISCORRECT="false">Proyección de fragmentos.</ANSWER>
+<ANSWER ISCORRECT="false">Ignición accidental.</ANSWER>
+<ANSWER ISCORRECT="true">Explosión de un objeto único.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="59. ¿Cuál de las siguientes opciones es un subtipo de explosivos rompedores?:">
+<ANSWER ISCORRECT="true">Explosivos tipo A (dinamitas).</ANSWER>
+<ANSWER ISCORRECT="false">Explosivos propulsores.</ANSWER>
+<ANSWER ISCORRECT="false">Explosivos iniciadores.</ANSWER>
+<ANSWER ISCORRECT="false">Cordones detonantes.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="60. ¿Quién es responsable de decidir la clasificación de los explosivos?:">
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="false">Comisión de Seguridad Minera.</ANSWER>
+<ANSWER ISCORRECT="true">Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">Agencia de Seguridad Industrial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="61. ¿Cuál de las siguientes afirmaciones es cierta según el texto?:">
+<ANSWER ISCORRECT="false">Las armas de guerra están incluidas en la clasificación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Los detonadores eléctricos no se clasifican como objetos explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministerio de Defensa es el único responsable de la clasificación de explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">La clasificación de explosivos excluye a las armas de guerra y a los explosivos no comercializados ni transportados.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="62. ¿Cuál es el objetivo de la clasificación de explosivos según el texto?:">
+<ANSWER ISCORRECT="false">Determinar su tamaño.</ANSWER>
+<ANSWER ISCORRECT="false">Evaluar su nivel de ruido.</ANSWER>
+<ANSWER ISCORRECT="false">Establecer su capacidad de destrucción.</ANSWER>
+<ANSWER ISCORRECT="true">Identificar su nivel de riesgo y aplicación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="63. ¿Qué  órgano  depende  del  Ministerio  de  Energía,  Turismo  y  Agenda  Digital  para  emitir informes?">
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="true">Comisión de Seguridad Minera.</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio de Salud.</ANSWER>
+<ANSWER ISCORRECT="false">Agencia de Seguridad Industrial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="64. ¿Cuál de las siguientes opciones NO es un subtipo de detonadores?">
+<ANSWER ISCORRECT="false">Detonadores de mecha.</ANSWER>
+<ANSWER ISCORRECT="false">Detonadores eléctricos.</ANSWER>
+<ANSWER ISCORRECT="false">Detonadores no eléctricos.</ANSWER>
+<ANSWER ISCORRECT="true">Explosivos tipo C.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="65. ¿Cuál de los siguientes NO es un procedimiento mencionado en la ITC número 3 para la evaluación de la conformidad de los explosivos?">
+<ANSWER ISCORRECT="false">Control interno de la producción más control supervisado de los productos a intervalos aleatorios.</ANSWER>
+<ANSWER ISCORRECT="false">Aseguramiento de la calidad del proceso de producción.</ANSWER>
+<ANSWER ISCORRECT="true">Evaluación externa de seguridad.</ANSWER>
+<ANSWER ISCORRECT="false">Aseguramiento de la calidad del producto.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="66. ¿Qué elementos debe contener la declaración UE de conformidad según el texto?:">
+<ANSWER ISCORRECT="false">Declaración del precio del explosivo.</ANSWER>
+<ANSWER ISCORRECT="false">Número de identificación del fabricante.</ANSWER>
+<ANSWER ISCORRECT="true">Elementos específicos de los módulos de evaluación de la conformidad.</ANSWER>
+<ANSWER ISCORRECT="false">Certificación de exportación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="67. ¿Qué responsabilidad asume el fabricante al elaborar una declaración UE de conformidad?:">
+<ANSWER ISCORRECT="false">Responsabilidad de asegurar la rentabilidad del explosivo.</ANSWER>
+<ANSWER ISCORRECT="false">Responsabilidad de garantizar la seguridad del transporte del explosivo.</ANSWER>
+<ANSWER ISCORRECT="true">Responsabilidad de demostrar la conformidad del explosivo con los requisitos del reglamento.</ANSWER>
+<ANSWER ISCORRECT="false">Responsabilidad de supervisar la distribución del explosivo.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="68. ¿En qué idioma se debe traducir al menos la declaración UE de conformidad?:">
+<ANSWER ISCORRECT="false">Inglés.</ANSWER>
+<ANSWER ISCORRECT="false">Francés.</ANSWER>
+<ANSWER ISCORRECT="true">Castellano.</ANSWER>
+<ANSWER ISCORRECT="false">Todos los anteriores por ser de la UE. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="69. ¿Quién asume la responsabilidad de la conformidad del explosivo con los requisitos establecidos en el reglamento?:">
+<ANSWER ISCORRECT="false">Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">El importador del explosivo.</ANSWER>
+<ANSWER ISCORRECT="true">El fabricante del explosivo.</ANSWER>
+<ANSWER ISCORRECT="false">La Comisión de Seguridad Minera.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="70. ¿Qué se presume en relación a los explosivos conformes con normas armonizadas según el texto?">
+<ANSWER ISCORRECT="false">Que no necesitan ser evaluados al menos en los 2 años siguientes a su primera evaluación.</ANSWER>
+<ANSWER ISCORRECT="false">Que cumplen con normas y protocolos internacionales de la ONU.</ANSWER>
+<ANSWER ISCORRECT="false">Que son seguros para su uso y distribución.</ANSWER>
+<ANSWER ISCORRECT="true">Que cumplen con los requisitos esenciales de seguridad contemplados en la ITC número 2.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="71. ¿En qué formato se adoptará el libro-registro de explosivos?:">
+<ANSWER ISCORRECT="false">Papel impreso.</ANSWER>
+<ANSWER ISCORRECT="true">Base de datos con soporte informático.</ANSWER>
+<ANSWER ISCORRECT="false">Archivos URL.</ANSWER>
+<ANSWER ISCORRECT="false">Todas las anteriores son correctas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="72. ¿Qué organismo recibirá una relación detallada de los explosivos catalogados?:">
+<ANSWER ISCORRECT="false">Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="true">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio del Interior.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="73. ¿A dónde deben dirigirse las solicitudes de catalogación de explosivos?:">
+<ANSWER ISCORRECT="true">Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">Intervención Central de Armas y Explosivos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="74. ¿Qué organismo recibirá una relación detallada de los explosivos catalogados?:">
+<ANSWER ISCORRECT="false">Ministerio del Interior.</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="true">Intervención Central de Armas y Explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Agencia de Control de Sustancias Peligrosas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="75. ¿Cuándo  deben  estar  catalogados  los  explosivos  antes  de  su  importación,  transferencia, almacenamiento, distribución, comercialización o utilización?">
+<ANSWER ISCORRECT="false">Después de su importación.</ANSWER>
+<ANSWER ISCORRECT="false">Después de su transferencia.</ANSWER>
+<ANSWER ISCORRECT="true">Antes de su comercialización.</ANSWER>
+<ANSWER ISCORRECT="false">Antes de su fabricación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="76. ¿Qué resultado produce la sustitución de un componente no explosivo por otro de función similar que no altere las características certificadas o catalogadas?">
+<ANSWER ISCORRECT="false">Requiere una nueva catalogación.</ANSWER>
+<ANSWER ISCORRECT="false">No afecta en nada al producto.</ANSWER>
+<ANSWER ISCORRECT="false">Facilita la importación.</ANSWER>
+<ANSWER ISCORRECT="true">No requiere nueva catalogación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="77. ¿Cuál es la entidad responsable de la clasificación de explosivos?:">
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="false">Intervención Central de Armas y Explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="false">Agencia de Control de Sustancias Peligrosas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="78. ¿Qué procedimiento se debe seguir para la catalogación de explosivos?:">
+<ANSWER ISCORRECT="false">Procedimiento CATNAC.</ANSWER>
+<ANSWER ISCORRECT="false">Procedimiento CADEX.</ANSWER>
+<ANSWER ISCORRECT="true">Procedimiento CATEX.</ANSWER>
+<ANSWER ISCORRECT="false">Procedimiento CALEXP.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="79. ¿Qué se adopta como formato de base de datos con soporte informático para el libro-registro de explosivos?:">
+<ANSWER ISCORRECT="false">Formato Linux.</ANSWER>
+<ANSWER ISCORRECT="false">Formato en papel.</ANSWER>
+<ANSWER ISCORRECT="false">Formato electrónico URL.</ANSWER>
+<ANSWER ISCORRECT="true">Formato de base de datos con soporte informático.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="80. ¿Dónde se configura el registro administrativo para la catalogación de explosivos?">
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="false">Intervención Central de Armas y Explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="true">Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="81. ¿Dónde se publicará el catálogo de explosivos y los procedimientos relacionados?:">
+<ANSWER ISCORRECT="false">Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="false">Intervención Central de Armas y Explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Sede electrónica del Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="82. ¿Qué requisito deben cumplir los explosivos previamente a su importación, almacenamiento, distribución, comercialización o utilización?:">
+<ANSWER ISCORRECT="false">Deben estar registrados en la base de datos informática.</ANSWER>
+<ANSWER ISCORRECT="false">Deben ser homologados por un organismo internacional.</ANSWER>
+<ANSWER ISCORRECT="true">Deben estar catalogados conforme a lo dispuesto en el capítulo y en la ITC número 4.</ANSWER>
+<ANSWER ISCORRECT="false">Deben ser fabricados en el país.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="83. ¿Bajo qué circunstancia los explosivos no requerirán catalogación?:">
+<ANSWER ISCORRECT="true">Cuando se fabriquen e incorporen a un producto final.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando no vayan a ser exportados.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando sean de bajo riesgo.</ANSWER>
+<ANSWER ISCORRECT="false">Cuando sean marcados con CE.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="84. ¿Cómo deben presentarse las solicitudes de catalogación de explosivos según la Ley 39/2015?:">
+<ANSWER ISCORRECT="false">En papel impreso.</ANSWER>
+<ANSWER ISCORRECT="false">En formato PDF.</ANSWER>
+<ANSWER ISCORRECT="true">Por vía electrónica con certificado electrónico.</ANSWER>
+<ANSWER ISCORRECT="false">En la sede del Ministerio de Defensa.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="85. ¿Qué sustitución de componentes no requiere una nueva catalogación?:">
+<ANSWER ISCORRECT="false">Cambio de marca.</ANSWER>
+<ANSWER ISCORRECT="false">Cambio de color.</ANSWER>
+<ANSWER ISCORRECT="true">Sustitución de un componente no explosivo por otro de función similar sin alteración significativa.</ANSWER>
+<ANSWER ISCORRECT="false">Sustitución de componentes explosivos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="86. ¿Cuándo  deben  estar  catalogados  los  explosivos  antes  de  su  importación,  transferencia, almacenamiento, distribución, comercialización o utilización?">
+<ANSWER ISCORRECT="false">Después de su importación.</ANSWER>
+<ANSWER ISCORRECT="false">Después de su transferencia.</ANSWER>
+<ANSWER ISCORRECT="true">Antes de su comercialización.</ANSWER>
+<ANSWER ISCORRECT="false">Antes de su fabricación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="87. ¿Qué resultado produce la sustitución de un componente no explosivo por otro de función similar que no altere las características certificadas o catalogadas?">
+<ANSWER ISCORRECT="false">Requiere una nueva catalogación.</ANSWER>
+<ANSWER ISCORRECT="false">No afecta en nada al producto.</ANSWER>
+<ANSWER ISCORRECT="false">Facilita la importación.</ANSWER>
+<ANSWER ISCORRECT="true">No requiere nueva catalogación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="88. ¿Cuál es la entidad responsable de la clasificación de explosivos?:">
+<ANSWER ISCORRECT="false">Ministerio de Defensa.</ANSWER>
+<ANSWER ISCORRECT="false">Intervención Central de Armas y Explosivos.</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="false">Agencia de Control de Sustancias Peligrosas.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="89. ¿Qué procedimiento se debe seguir para la catalogación de explosivos?:">
+<ANSWER ISCORRECT="false">Procedimiento CATNAC.</ANSWER>
+<ANSWER ISCORRECT="false">Procedimiento CADEX.</ANSWER>
+<ANSWER ISCORRECT="true">Procedimiento CATEX.</ANSWER>
+<ANSWER ISCORRECT="false">Procedimiento CALEXP.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="90. ¿Qué se publica en la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital para su almacenamiento, introducción en el mercado y distribución a nivel comunitario?">
+<ANSWER ISCORRECT="false">Catálogo de armas.</ANSWER>
+<ANSWER ISCORRECT="false">Catálogo de sustancias peligrosas.</ANSWER>
+<ANSWER ISCORRECT="true">Catálogo de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Catálogo de productos químicos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="91. ¿Dónde deberá colocarse el marcado CE de manera visible e indeleble?:">
+<ANSWER ISCORRECT="false">En el envase primario</ANSWER>
+<ANSWER ISCORRECT="true">En el embalaje externo</ANSWER>
+<ANSWER ISCORRECT="false">En los documentos de envío</ANSWER>
+<ANSWER ISCORRECT="false">En el interior del producto</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="92. ¿Quién coloca el número de identificación del organismo notificado en el explosivo?:">
+<ANSWER ISCORRECT="true">El propio Fabricante</ANSWER>
+<ANSWER ISCORRECT="false">La Comisión Europea</ANSWER>
+<ANSWER ISCORRECT="false">El Distribuidor del producto</ANSWER>
+<ANSWER ISCORRECT="false">El Organismo regulador establecido al efecto </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="93. ¿Qué puede seguir al marcado CE y al número de identificación del organismo notificado en el explosivo?:">
+<ANSWER ISCORRECT="false">El número de serie</ANSWER>
+<ANSWER ISCORRECT="false">La fecha de caducidad</ANSWER>
+<ANSWER ISCORRECT="true">Otras marcas de riesgo o uso especial</ANSWER>
+<ANSWER ISCORRECT="false">Un código de barras</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="94. ¿Qué se menciona sobre la colocación ilícita del marcado CE en los explosivos?:">
+<ANSWER ISCORRECT="false">Está permitida bajo ciertas condiciones</ANSWER>
+<ANSWER ISCORRECT="false">Puede hacerse en el interior del producto</ANSWER>
+<ANSWER ISCORRECT="true">No se permite en ningún caso</ANSWER>
+<ANSWER ISCORRECT="false">Es opcional según el fabricante</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="95. ¿Qué acción tomará la Dirección General de Política Energética y Minas si un explosivo no conforme lleva el marcado CE?:">
+<ANSWER ISCORRECT="false">Eliminará el marcado CE</ANSWER>
+<ANSWER ISCORRECT="true">Informará a la Comisión Europea</ANSWER>
+<ANSWER ISCORRECT="false">Retirará el explosivo del mercado</ANSWER>
+<ANSWER ISCORRECT="false">Cambiará el número de identificación del organismo notificado </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="96. ¿Qué tipo de explosivos pueden ser autorizados en régimen experimental?:">
+<ANSWER ISCORRECT="false">Explosivos catalogados</ANSWER>
+<ANSWER ISCORRECT="false">Explosivos de uso doméstico</ANSWER>
+<ANSWER ISCORRECT="true">Explosivos sin catalogar</ANSWER>
+<ANSWER ISCORRECT="false">Explosivos de uso militar</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="97. ¿En qué situaciones se pueden autorizar explosivos sin marcado CE?:">
+<ANSWER ISCORRECT="false">Para fines de tránsito</ANSWER>
+<ANSWER ISCORRECT="false">Para exportación</ANSWER>
+<ANSWER ISCORRECT="false">Para uso comercial</ANSWER>
+<ANSWER ISCORRECT="true">Para eliminación o inertización</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="98. ¿Cuál es el procedimiento específico para presentar solicitudes de autorización según el artículo?:">
+<ANSWER ISCORRECT="true">Procedimiento ATREO</ANSWER>
+<ANSWER ISCORRECT="false">Procedimiento ELECTRO</ANSWER>
+<ANSWER ISCORRECT="false">Procedimiento EXPLOSIVO</ANSWER>
+<ANSWER ISCORRECT="false">Procedimiento CATALOGO</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="99. ¿Qué órgano debe ser notificado sobre la resolución de otorgamiento de autorización?:">
+<ANSWER ISCORRECT="false">Ministerio de Energía, Turismo y Agenda Digital</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de la Guardia Civil</ANSWER>
+<ANSWER ISCORRECT="false">Intervención Central de Armas y Explosivos</ANSWER>
+<ANSWER ISCORRECT="false">Ministerio de Defensa</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="100. ¿Qué entidad puede otorgar autorizaciones para explosivos no catalogados en cantidad y lugar concretos?:">
+<ANSWER ISCORRECT="false">El Ministerio de Defensa</ANSWER>
+<ANSWER ISCORRECT="false">La Dirección General de la Guardia Civil</ANSWER>
+<ANSWER ISCORRECT="false">La Intervención Central de Armas y Explosivos</ANSWER>
+<ANSWER ISCORRECT="true">El Ministerio de Energía, Turismo y Agenda Digital</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="101. ¿Qué tipo de división se atribuirá por defecto a los productos almacenados a granel?:">
+<ANSWER ISCORRECT="true">División 1.1</ANSWER>
+<ANSWER ISCORRECT="false">División 2.2</ANSWER>
+<ANSWER ISCORRECT="false">División 3.3</ANSWER>
+<ANSWER ISCORRECT="false">División 4.4</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="102. ¿Qué se entiende por 'envase' según el texto?:">
+<ANSWER ISCORRECT="false">El recinto de retención para la disposición de residuos</ANSWER>
+<ANSWER ISCORRECT="false">La protección externa de un embalaje</ANSWER>
+<ANSWER ISCORRECT="true">El recipiente que almacena explosivos a granel</ANSWER>
+<ANSWER ISCORRECT="false">El producto regulado por el reglamento</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="103. ¿Qué deben indicar las etiquetas en los envases exteriores y embalajes conforme a la ITC número 15?:">
+<ANSWER ISCORRECT="false">Nombre del fabricante</ANSWER>
+<ANSWER ISCORRECT="true">Frases de advertencia</ANSWER>
+<ANSWER ISCORRECT="false">Fecha de fabricación</ANSWER>
+<ANSWER ISCORRECT="false">Código de barras</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="104. ¿Qué debe llevar un envase o embalaje vacío que aún presenta señales de contener residuos peligrosos?:">
+<ANSWER ISCORRECT="false">Etiqueta de reciclaje</ANSWER>
+<ANSWER ISCORRECT="false">Marcas de peligro</ANSWER>
+<ANSWER ISCORRECT="false">Señales de estanqueidad</ANSWER>
+<ANSWER ISCORRECT="true">Etiquetas de peligro y condiciones de estanqueidad</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="105. ¿Qué regulación se debe seguir para la expedición de los explosivos?:">
+<ANSWER ISCORRECT="false">Reglamentación de seguridad en el almacenamiento</ANSWER>
+<ANSWER ISCORRECT="true">Reglamentación para el transporte de mercancías peligrosas</ANSWER>
+<ANSWER ISCORRECT="false">Reglamentación de envases y embalajes</ANSWER>
+<ANSWER ISCORRECT="false">Reglamentación de etiquetado de peligro</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="106. ¿Qué requisito deben cumplir los productos explosivos para su etiquetado?:">
+<ANSWER ISCORRECT="false">Deben estar disponibles en varios idiomas.</ANSWER>
+<ANSWER ISCORRECT="false">Deben estar etiquetados en inglés.</ANSWER>
+<ANSWER ISCORRECT="true">Deben estar etiquetados en castellano.</ANSWER>
+<ANSWER ISCORRECT="false">Deben estar etiquetados en cualquier idioma.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="107. ¿Cómo debe ser el etiquetado de los productos explosivos según el texto?:">
+<ANSWER ISCORRECT="false">Visible solo con luz ultravioleta.</ANSWER>
+<ANSWER ISCORRECT="false">Legible pero encriptado.</ANSWER>
+<ANSWER ISCORRECT="true">Visible, legible e indeleble.</ANSWER>
+<ANSWER ISCORRECT="false">Invisible a simple vista.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="108. ¿Dónde se debe fijar el marcado CE en los explosivos según el artículo?:">
+<ANSWER ISCORRECT="false">Sobre una etiqueta reutilizable.</ANSWER>
+<ANSWER ISCORRECT="false">En el interior de los envases exteriores.</ANSWER>
+<ANSWER ISCORRECT="true">Sobre el envase exterior.</ANSWER>
+<ANSWER ISCORRECT="false">En la ficha de datos de seguridad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="109. ¿Qué  debe  incluir  la  ficha  de  datos  de  seguridad  que  se  proporciona  al  usuario profesional?:">
+<ANSWER ISCORRECT="false">Instrucciones para su adecuada venta y distribución de venta al público.</ANSWER>
+<ANSWER ISCORRECT="false">Información sobre la garantía del producto.</ANSWER>
+<ANSWER ISCORRECT="false">Instrucciones para el almacenamiento en el hogar.</ANSWER>
+<ANSWER ISCORRECT="true">Instrucciones e información relativas a la seguridad de manipulación, almacenamiento, utilización y eliminación.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="110. ¿Cómo puede facilitarse la ficha de datos de seguridad al usuario profesional?:">
+<ANSWER ISCORRECT="false">En formato de audio.</ANSWER>
+<ANSWER ISCORRECT="false">Por medio de un código QR.</ANSWER>
+<ANSWER ISCORRECT="false">A través de una aplicación móvil.</ANSWER>
+<ANSWER ISCORRECT="true">En papel en el interior de los envases exteriores o embalajes, o por medios electrónicos.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="111. ¿A qué entidad corresponde el control de mercado según el Reglamento de Explosivos?:">
+<ANSWER ISCORRECT="false">Ministerio de Defensa</ANSWER>
+<ANSWER ISCORRECT="true">Dirección General de Política Energética y Minas</ANSWER>
+<ANSWER ISCORRECT="false">A la Dirección General de la Guardia Civil</ANSWER>
+<ANSWER ISCORRECT="false">Áreas Funcionales de Industria y Energía</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="112. ¿Qué condición debe cumplir un explosivo para ser puesto en el mercado según el texto?:">
+<ANSWER ISCORRECT="true">Debe ser almacenado de manera adecuada.</ANSWER>
+<ANSWER ISCORRECT="false">Debe ser almacenado en lugares no accesibles.</ANSWER>
+<ANSWER ISCORRECT="false">Debe ser utilizado solo para fines militares.</ANSWER>
+<ANSWER ISCORRECT="false">Debe contar con etiquetas multilingües.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="113. ¿Qué incluye el ámbito de transporte según el texto?:">
+<ANSWER ISCORRECT="false">Solo el porte propiamente dicho.</ANSWER>
+<ANSWER ISCORRECT="false">Porte, carga y descarga, pero no manipulaciones complementarias.</ANSWER>
+<ANSWER ISCORRECT="true">Porte, carga, descarga y manipulaciones complementarias.</ANSWER>
+<ANSWER ISCORRECT="false">Solo las operaciones de carga y descarga.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="114. ¿Cómo debe ajustarse el transporte de explosivos dentro de fábricas y depósitos?:">
+<ANSWER ISCORRECT="false">Según la ITC número 1.</ANSWER>
+<ANSWER ISCORRECT="false">Según la ITC número 15.</ANSWER>
+<ANSWER ISCORRECT="true">Según la ITC número 34.</ANSWER>
+<ANSWER ISCORRECT="false">Según la ITC número 75.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="115. ¿Bajo qué protección deben estar los productos regulados durante su transporte?:">
+<ANSWER ISCORRECT="false">Protección de las FAS.</ANSWER>
+<ANSWER ISCORRECT="false">Protección de la compañía de seguros.</ANSWER>
+<ANSWER ISCORRECT="true">Protección de vigilantes de explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">Protección de la Guardia Civil.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="116. ¿Cuál es la carga máxima a la que pueden ser sometidos los equipos de carga como grúas y palas?:">
+<ANSWER ISCORRECT="false">50% de la carga nominal asignada.</ANSWER>
+<ANSWER ISCORRECT="true">75% de la carga nominal asignada.</ANSWER>
+<ANSWER ISCORRECT="false">100% de la carga nominal asignada.</ANSWER>
+<ANSWER ISCORRECT="false">125% de la carga nominal asignada.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="117. ¿Qué documentación debe amparar el transporte de productos regulados?:">
+<ANSWER ISCORRECT="false">Documentos de identidad de los conductores.</ANSWER>
+<ANSWER ISCORRECT="false">Documentos fiscales de venta.</ANSWER>
+<ANSWER ISCORRECT="false">Documentación del fabricante.</ANSWER>
+<ANSWER ISCORRECT="true">Documentación exigida por los reglamentos aplicables al medio de transporte y por este reglamento. La respuesta correcta es; d) Documentación exigida por los reglamentos aplicables al medio de transporte y por este reglamento.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="118. ¿Qué plazo se establece para la conservación de la documentación de transporte por parte del destinatario?:">
+<ANSWER ISCORRECT="false">50 euros</ANSWER>
+<ANSWER ISCORRECT="true">100 euros</ANSWER>
+<ANSWER ISCORRECT="false">300 euros</ANSWER>
+<ANSWER ISCORRECT="false">600 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="120. ¿Qué sanción se aplica por la omisión del deber de remitir partes y documentos a la Administración?:">
+<ANSWER ISCORRECT="false">Hasta 300,50 ? en todos los casos.</ANSWER>
+<ANSWER ISCORRECT="false">Hasta 600 ? en todos los casos.</ANSWER>
+<ANSWER ISCORRECT="true">Hasta 3.005,06 ? en el ámbito industrial y 600 ? en el ciudadano.</ANSWER>
+<ANSWER ISCORRECT="false">Hasta 6000 ? en el ámbito ciudadano y 30005,06 ? en el industrial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="121. ¿Cuál es la sanción por irregularidades en la cumplimentación de los libros y registros obligatorios?:">
+<ANSWER ISCORRECT="false">Hasta 1000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Hasta 300 euros</ANSWER>
+<ANSWER ISCORRECT="true">Hasta 600 euros</ANSWER>
+<ANSWER ISCORRECT="false">Hasta 1500 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="122. ¿Cuál es la sanción por incumplir los requisitos para las entidades colaboradoras de la Administración y organismos notificados en seguridad industrial?:">
+<ANSWER ISCORRECT="false">Hasta 30000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Hasta 6000 euros</ANSWER>
+<ANSWER ISCORRECT="false">Hasta 10000 euros</ANSWER>
+<ANSWER ISCORRECT="true">Hasta 3.005,06 euros</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="123. ¿Qué carácter tienen los funcionarios públicos del Área Funcional de Industria y Energía que realizan inspecciones?:">
+<ANSWER ISCORRECT="false">Tienen carácter de fiscales.</ANSWER>
+<ANSWER ISCORRECT="true">Tienen carácter de autoridad pública.</ANSWER>
+<ANSWER ISCORRECT="false">Tienen carácter de testigos protegidos.</ANSWER>
+<ANSWER ISCORRECT="false">Tienen carácter de meros intermediarios.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="124. ¿A quiénes corresponde la inspección sobre medidas de seguridad ciudadana?:">
+<ANSWER ISCORRECT="false">A las Áreas Funcionales de Industria y Energía.</ANSWER>
+<ANSWER ISCORRECT="true">A la Intervención de Armas y Explosivos.</ANSWER>
+<ANSWER ISCORRECT="false">A los funcionarios del Ministerio de Trabajo.</ANSWER>
+<ANSWER ISCORRECT="false">A los inspectores de seguridad industrial.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="125. ¿Quién  NO  podría  iniciar  los  expedientes  sancionadores  en  materia  de  seguridad industrial?:">
+<ANSWER ISCORRECT="false">El Ministro de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">La Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="false">Los Delegados del Gobierno en las Comunidades Autónomas.</ANSWER>
+<ANSWER ISCORRECT="true">Los Jefes de Dependencia de Industria y Energía.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="126. ¿Qué autoridad instruye los procedimientos sancionadores por infracciones muy graves en materia de seguridad ciudadana?:">
+<ANSWER ISCORRECT="false">La Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministro del Interior.</ANSWER>
+<ANSWER ISCORRECT="false">Los Delegados del Gobierno en las Comunidades Autónomas.</ANSWER>
+<ANSWER ISCORRECT="true">La Dirección General de la Guardia Civil.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="127. ¿Quién  ejercita  la  competencia  para  dictar  la  resolución  e  imponer  sanciones  en infracciones muy graves en materia de seguridad industrial?:">
+<ANSWER ISCORRECT="true">El Consejo de Ministros.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministro del Interior.</ANSWER>
+<ANSWER ISCORRECT="false">El Ministro de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">El Secretario de Estado de Seguridad.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="128. ¿Qué entidad será responsable de entregar los explosivos incautados, a las Fuerzas Armadas o Cuerpos de la Guardia Civil o Nacional de Policía?:">
+<ANSWER ISCORRECT="false">El Ministerio de Energía, Turismo y Agenda Digital.</ANSWER>
+<ANSWER ISCORRECT="false">La Dirección General de Política Energética y Minas.</ANSWER>
+<ANSWER ISCORRECT="true">El Delegado del Gobierno correspondiente.</ANSWER>
+<ANSWER ISCORRECT="false">La autoridad sancionadora.</ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="129. ¿Dónde se depositarán los explosivos incautados durante la instrucción del expediente sancionador y la ejecución de la sanción?:">
+<ANSWER ISCORRECT="false">En el establecimiento del infractor.</ANSWER>
+<ANSWER ISCORRECT="true">En un establecimiento debidamente habilitado.</ANSWER>
+<ANSWER ISCORRECT="false">En instalaciones de la Fuerzas Armadas.</ANSWER>
+<ANSWER ISCORRECT="false">En la Intervención de armas de la Guardia Civil de mayor proximidad. </ANSWER>
+</QUESTION>
+<QUESTION TYPE="mcone" TITLE="130. ¿Bajo qué circunstancia se podrían entregar los explosivos incautados a las Fuerzas Armadas o Cuerpos de la Guardia Civil o Nacional de Policía?:">
+<ANSWER ISCORRECT="false">Si se considera que los explosivos son valiosos.</ANSWER>
+<ANSWER ISCORRECT="false">Si los explosivos han sido incautados en el extranjero.</ANSWER>
+<ANSWER ISCORRECT="true">Si los explosivos pueden ser de utilidad para el desempeño de sus funciones.</ANSWER>
+<ANSWER ISCORRECT="false">Si el infractor lo solicita voluntariamente.</ANSWER>
+</QUESTION>
+</POLL>
